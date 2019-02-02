@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Checksum: dxOYaMRZ/pEqWhatsHd7EQ
-! Version: 201902010012
+! Checksum: YKpuvzZuuPA4yDEpegu+Og
+! Version: 201902020012
 ! This is a list of malware domains generated from malwaredomains.com data.
 ! Homepage: http://malwaredomains.com/?page_id=2
-! Last modified: 01 Feb 2019 00:12 UTC
+! Last modified: 02 Feb 2019 00:12 UTC
 ! Expires: 1d
 !
 ||amazon.co.uk.security-check.ga^
@@ -17454,7 +17454,6 @@
 ||deviclinic.in^
 ||document.wordsmithindia.in^
 ||ebay.listing.seller.smudge360.motors.program.motaphl.com^
-||elisadalbosco.com^
 ||enhancedesignstudio.com^
 ||espace-free-mobile.freemo8c.beget.tech^
 ||eventosarc.com^
@@ -26884,3 +26883,8 @@
 ||wtwetwerq.tk^
 ||veryield-malyst.com^
 ||newtypeinstallliteflash.icu^
+||uplatnosci.com^
+||uxconnect.org^
+||vilamucuripe.com.br^
+||yppmovement.org^
+||cosmeticawards.space^
