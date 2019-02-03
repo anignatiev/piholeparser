@@ -1416,7 +1416,8 @@ gelbooru.com#@#center > a[href]
 ! https://github.com/uBlockOrigin/uAssets/issues/1081
 ! https://www.reddit.com/r/uBlockOrigin/comments/8sbjjk
 thedoujin.com,xbooru.com##+js(abort-current-inline-script.js, ExoLoader)
-realbooru.com,rule34.xxx,xbooru.com##+js(addEventListener-defuser.js, DOMContentLoaded, newcontent.innerHTML)
+realbooru.com,xbooru.com##+js(addEventListener-defuser.js, DOMContentLoaded, newcontent.innerHTML)
+rule34.xxx##+js(abort-on-property-read.js, newcontent)
 ! https://github.com/uBlockOrigin/uAssets/issues/1080
 xbooru.com##+js(abort-on-property-write.js, ads_priv)
 xbooru.com##a[href^="https://xbooru.com/c.html"]
@@ -3198,12 +3199,12 @@ hclips.com##[class^="pl_"]
 hclips.com##iframe[src="javascript:false"]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/907
-clik.pw##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+clik.pw##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 clik.pw##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+clik.pw##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, preventDefault)
 clik.pw##+js(addEventListener-defuser.js, /^(?:error|load)$/, P5)
-clik.pw##+js(addEventListener-defuser.js, mousedown, preventDefault)
 clik.pw##+js(nowebrtc.js)
-||clik.pw^$csp=child-src 'self' *.solvemedia.com
+*$frame,domain=clik.pw
 
 ! https://github.com/uBlockOrigin/uAssets/issues/909
 adbilty.me##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
@@ -3293,6 +3294,8 @@ hdpornt.com##+js(abort-on-property-write.js, __NA)
 ! https://github.com/uBlockOrigin/uAssets/issues/922
 simply-hentai.com##+js(abort-on-property-read.js, NBLoader.addZone)
 simply-hentai.com##+js(abort-on-property-read.js, BetterJsPop)
+simply-hentai.com##+js(addEventListener-defuser.js, getexoloader)
+simply-hentai.com##.page-leave
 
 ! https://github.com/uBlockOrigin/uAssets/issues/916
 daporn.com##+js(abort-on-property-read.js, BetterJsPop)
@@ -6458,9 +6461,9 @@ revdownload.com##+js(abort-on-property-read.js, __bdExecutedScripts)
 shortify.pw##+js(abort-current-inline-script.js, document.getElementById, adblock)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1804
-@@||freecoursesonline.us^$generichide
-freecoursesonline.us##+js(abort-on-property-write.js, Fingerprint2)
-||freecoursesonline.us/sw.js
+@@||freecoursesonline.*^$generichide
+freecoursesonline.*##+js(abort-on-property-write.js, Fingerprint2)
+||freecoursesonline.*/sw.js
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1805
 @@||asianovel.com^$generichide
@@ -8420,6 +8423,7 @@ yoututosjeff.*,yoututosjeff1.*##+js(addEventListener-defuser.js, load, 2000)
 techmantium.com##+js(set-constant.js, adsbygoogle, true)
 techmantium.com##+js(set-constant.js, adsbygoogle.loaded, true)
 techmantium.com##+js(set-constant.js, ga, true)
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,noopjs,domain=techmantium.com
 
 ! https://forums.lanik.us/viewtopic.php?f=103&t=40888
 @@||andaluciainformacion.es^$generichide
@@ -9129,6 +9133,8 @@ urltips.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2622
 vinaurl.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+@@||vinaurl.net^$generichide
+vinaurl.net##.adsbygoogle:style(max-height: 1px !important;)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2623
 itiad.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
@@ -9685,6 +9691,7 @@ nyafilmerhd.com##+js(abort-current-inline-script.js, decodeURI, atob)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2791
 zigforums.com##+js(abort-on-property-write.js, adsBlocked)
+@@||zigforums.com/js/*$xhr,1p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2793
 damelibros.com##+js(set-constant.js, adBlockDetected, noopFunc)
@@ -11714,6 +11721,10 @@ jdownlader2premiums.*##+js(addEventListener-defuser.js, load, 2000)
 ! https://github.com/uBlockOrigin/uAssets/issues/3498
 shqiptvlive.net,tvshqiphd.com,watchlivesports.live##+js(abort-on-property-write.js, _pop)
 @@||watchlivesports.live/adblock.js$script,first-party
+@@||watchlivesports.live^$generichide
+tvshqiphd.com,watchlivesports.live##+js(nowebrtc.js)
+tvshqiphd.com,watchlivesports.live##.ad
+tvshqiphd.com##+js(bab-defuser.js)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3502
 @@||swissadspaysfaucet.com^$generichide
@@ -14551,9 +14562,12 @@ pastebin.com##+js(fuckadblock.js-3.2.0)
 techboxlab.com##+js(setTimeout-defuser.js, adsbygoogle, 1200)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4330
+! https://www.reddit.com/r/uBlockOrigin/comments/amhrlj/yourtechguider_antiadblock/
 ||yourtechguider.com/sw.js$script,first-party
 yourtechguider.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||yourtechguider.com^$generichide
+yourtechguider.com##+js(set-constant.js, blockAdBlock, true)
+yourtechguider.com##.adsbygoogle
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4329
 cuee.io,cuio.io##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
@@ -15422,7 +15436,7 @@ unlimitedwave.com##[href*="afu.php"]
 ||cdn.provesrc.com/provesrc.js
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4510
-2movierulz.ch##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+2movierulz.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4511
 ! https://github.com/uBlockOrigin/uAssets/issues/4517
@@ -15944,6 +15958,8 @@ fullmoviescenter.com##+js(abort-on-property-write.js, Fingerprint2)
 ||drda5yf9kgz5p.cloudfront.net^
 
 ! https://github.com/NanoMeow/QuickReports/issues/563
+! https://github.com/NanoMeow/QuickReports/issues/584
+@@||paper-io.space/adsbygoogle.js$script,1p
 @@||paperio.club/adsbygoogle.js$script,1p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4640
@@ -16206,6 +16222,8 @@ accounts.games##+js(set-constant.js, trap_active, false)
 zeeplay.online##+js(set-constant.js, RunAds, true)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4713
+acortar.xyz##+js(addEventListener-defuser.js, mousedown, trigger)
+acortar.xyz##+js(set-constant.js, Ok, true)
 @@||quehosting.club^$generichide
 @@||vida-saludable24.com^$generichide
 ||acortar.xyz^$popunder
@@ -16450,3 +16468,12 @@ remodelista.com##[data-advert]
 ! meteocloud . it anti adb
 @@||meteocloud.it^$generichide
 meteocloud.it##.adsbygoogle
+
+! https://forums.lanik.us/viewtopic.php?p=145348#p145348
+vip7stream.pw##+js(window.open-defuser.js)
+
+! https://forums.lanik.us/viewtopic.php?p=145347#p145347
+sblive.online##+js(window.open-defuser.js)
+
+! https://forums.lanik.us/viewtopic.php?p=145346#p145346
+stream365.pro##+js(window.open-defuser.js)

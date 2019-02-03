@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201902011848
+! Version: 201902021945
 ! Title: EasyPrivacy
-! Last modified: 01 Feb 2019 18:48 UTC
+! Last modified: 02 Feb 2019 19:45 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1073,6 +1073,7 @@
 /ClickTracks_
 /ClickTracksCookies.
 /clicktrends/*
+/clickx-tracker.
 /clicky.js
 /client-event-logger.
 /client-event.axd?
@@ -1348,12 +1349,14 @@
 /dstctsevent.js
 /dstracking.
 /dtagent630_
+/dtagent6312_
 /dtagent_
 /dtm-ddo-utilities.js
 /dtm/*/satelliteLib-
 /dtm_cm.js
 /dtmtag.js
 /dtrack.js
+/dtstats.
 /dw/hit?
 /dwanalytics-
 /dwanalytics.
@@ -2768,6 +2771,7 @@
 /pr.php?
 /presslabs.js$script,~third-party
 /prime-email-metrics/*$image
+/printpixel.js
 /printtracker.js
 /prn.google.analytics.
 /prnx_track.
@@ -2781,6 +2785,7 @@
 /promos/pixels?
 /propagate_cookie.
 /prum.
+/pspixel/*
 /pstats.
 /pt.gif?type=
 /ptmd?t=
@@ -3516,6 +3521,7 @@
 /track?event=
 /track?name=
 /track?referer=
+/Track?trackAction=
 /track?ts=*&domain=
 /track?wm_
 /track_click?
@@ -3801,6 +3807,7 @@
 /trkr.js
 /trkr/php?
 /trovit-analytics.js
+/trpic.asp?
 /truehits.php?
 /trx?id=
 /tse/tracking.
@@ -4991,6 +4998,7 @@ _mongo_stats/
 ||clicktrack1.com^$third-party
 ||clicktracks.com^$third-party
 ||clicktrkservices.com^$third-party
+||clickx.io^$third-party
 ||clickzs.com^$third-party
 ||clickzzs.nl^$third-party
 ||clixcount.com^$third-party
@@ -6607,6 +6615,7 @@ _mongo_stats/
 ||testpixel.net^$third-party
 ||tetoolbox.com^$third-party
 ||tgdaudience.com^$third-party
+||tglyr.co^$third-party
 ||theadex.com^$third-party
 ||theagency.com^$third-party
 ||thebestlinks.com^$third-party
@@ -11250,6 +11259,7 @@ _mongo_stats/
 ||tracker.iltrovatore.it^
 ||tracking.conversion-lab.it^
 ||tracking.conversionlab.it^
+||tracking.trovaprezzi.it^
 ||tracks.arubamediamarketing.it^
 ||tracy.sadv.dadapro.com^
 ||triboomedia.it^*/Bootstrap.js
@@ -14804,6 +14814,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||altervista.org/stats/
 ||altervista.org^*/tb_hits_
 ||analytics.tio.ch^
+||analytics.traderlink.com^
 ||automobile.it/fb/
 ||bachecaannunci.it/statins3.php?
 ||c-date.it/tracking?
