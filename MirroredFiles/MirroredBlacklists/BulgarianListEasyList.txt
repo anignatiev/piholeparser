@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201902021945
+! Version: 201902031918
 ! Title: EasyPrivacy
-! Last modified: 02 Feb 2019 19:45 UTC
+! Last modified: 03 Feb 2019 19:18 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4670,6 +4670,7 @@ _mongo_stats/
 ||africal.info^$third-party
 ||afsanalytics.com^$third-party
 ||agencytradingdesk.net^$third-party
+||agentanalytics.com^$third-party
 ||agentinteractive.com^$third-party
 ||agilecrm.com^$third-party
 ||agilone.com^$third-party
@@ -5558,6 +5559,7 @@ _mongo_stats/
 ||ics0.com^$third-party
 ||icstats.nl^$third-party
 ||id-visitors.com^$third-party
+||id5-sync.com^$third-party
 ||ideoclick.com^$third-party
 ||idio.co^$third-party
 ||idtargeting.com^$third-party
@@ -9738,6 +9740,7 @@ _mongo_stats/
 ||letv.com/cloud_pl/
 ||letv.com/env/
 ||licensing.bitmovin.com^
+||lift.acquia.com^
 ||ligatus.com/push/url.gif?
 ||ligatus.com/rms/rend?
 ||ligatus.com/script/viewtracker-
@@ -12271,6 +12274,7 @@ _mongo_stats/
 ||frontdoor.com/_track?
 ||frstatic.net^*/tracking.js
 ||ft.com/conker/service/pageview?
+||ft.com/ingest?
 ||ft.com^*/ft-tracking.js
 ||fujifilm.com/js/shared/analyzer.js
 ||funbrain.com/a2.gif
@@ -15532,6 +15536,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||imrworldwide.com^*/swfobject.js
 @@||imwx.com/jsRollup?$script,domain=weather.com
 @@||inazuma.co/campaign/js/heatmap.js$domain=monopoly.mcdonalds.co.uk
+@@||infowars.com/videojs-event-tracking/dist/videojs-event-tracking.js
 @@||innovelsolutions.com^*/tracking/$~third-party
 @@||inpref.com/frosmo.xdm.html?$subdocument
 @@||inpref.com/messageApi?$xmlhttprequest

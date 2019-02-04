@@ -1,11 +1,11 @@
 [Adblock Plus 2.8]
-! Version F10 
 ! Expires: 8 hours (update frequency)
+! Title: Blockzilla
+! Homepage: https://blockzilla.jimdo.com/
+!
+! Version F17
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
-!
-! Title: Blockzilla
-! Homepage: https://blockzilla.jimdo.com/ 
 !
 ! Blockzilla by zpacman >>>>>
 !
@@ -1124,8 +1124,7 @@ youtube.com##DIV[class*="-ads-"]
 @@-adverts.$script,domain=dailymail.co.uk
 @@.com/ad_img/$domain=twitter.com
 @@.com/ads/$subdocument,domain=kissmanga.com
-@@.com/ads/growth/aymt/multi_async_click/$domain=facebook.com
-@@.com/ads/growth/aymt/xout_survey/$domain=facebook.com
+@@.com/ads/$xmlhttprequest,domain=facebook.com
 @@.com/metrics/$script,domain=apple.com
 @@.demdex.net/$script,domain=foxnews.com|globaltv.com
 @@.net/ad/$object-subrequest,domain=foxsports.com
@@ -1171,6 +1170,7 @@ youtube.com##DIV[class*="-ads-"]
 @@||imrworldwide.com^$domain=threenow.co.nz
 @@||krxd.net^$script,domain=foxnews.com
 @@||list-manage.com/track/
+@@||livechatinc.com/tracking.js
 @@||logentries.com^$domain=player.hearstdigitalstudios.com
 @@||mc.yandex.ru/metrika/tag.js$domain=kaspersky.ru
 @@||mixpanel.com^$domain=floorplanner.com
@@ -1185,6 +1185,7 @@ youtube.com##DIV[class*="-ads-"]
 @@||stats.$domain=csnchicago.com|stats.com|wetter.info
 @@||ticketm.net/*/tm_internal_tracker.js
 @@||use.typekit.net^$script,font
+@@||vidtech.cbsinteractive.com/*/tracking/$script
 @@||yandex.ru^$xmlhttprequest,domain=yastatic.net
 bikeexchange.com.au,bikeexchange.co.nz,bikeexchange.com,bikeexchange.de,bikeexchange.be,bikeexchange.nl,bikeexchange.co.uk,bikeexchange.ie,bikeexchange.com.co,facebook.com,oakley.com#@#.advert
 cardgames.io,check24.de#@#DIV[id*="-ads"]
