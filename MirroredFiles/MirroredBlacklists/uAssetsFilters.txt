@@ -8433,7 +8433,7 @@ yoututosjeff.*,yoututosjeff1.*##+js(addEventListener-defuser.js, load, 2000)
 techmantium.com##+js(set-constant.js, adsbygoogle, true)
 techmantium.com##+js(set-constant.js, adsbygoogle.loaded, true)
 techmantium.com##+js(set-constant.js, ga, true)
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,noopjs,domain=techmantium.com
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=techmantium.com
 
 ! https://forums.lanik.us/viewtopic.php?f=103&t=40888
 @@||andaluciainformacion.es^$generichide
@@ -14465,13 +14465,13 @@ streamingworld.ga##+js(abort-current-inline-script.js, atob, decodeURI)
 streamingworld.ga##+js(abort-on-property-read.js, AaDetector)
 streamingworld.ga##+js(abort-on-property-write.js, Fingerprint2)
 ||123movies123.*/sw.js$script,first-party
-c123movies.com,123freemovies.live,123movie.*,123movies123.xyz,123moviesu.com###option-0, a[href="#option-0"]
+c123movies.com,123freemovies.*,123movieslife.*,123movie.*,123movies123.*,123moviesu.com###option-0, a[href="#option-0"]
+123freemovies.*,123movies123.*,123movieslife.*,123movies4u.club,v123movies.com##.pframe:has([href^="javascript: void(0);"])
 123moviesfree.live##.pframe:has([src^="https://123moviesfree.live/"])
 123moviesok.com##.pframe:has([src^="https://123moviesok.com/"])
 ||c123movies.com/sw.js$script,first-party
 ||123freemovies.live/sw.js$script,first-party
 123moviesunblocked.net##+js(abort-on-property-write.js, Fingerprint2)
-123movies123.xyz,123movies4u.club,v123movies.com##.pframe:has([href^="javascript: void(0);"])
 ||v123movies.com/sw.js$script,first-party
 123movieswatch.fun##+js(abort-on-property-read.js, Date.prototype.toUTCString)
 123movieswatch.fun##.btn3d:has-text(/stream/i)
@@ -14486,8 +14486,10 @@ vidwatch.me##+js(abort-on-property-read.js, AaDetector)
 123movies.*##a[href="https://www.123movies.club/stream-now/"]
 123movies.*,123movieslife.*##.btn-watch-area
 123movies.*##li > .options:has-text(Watch Online)
-123movies123.*##.pframe
 123movies.*##.selected.options
+||123movieslife.*/sw.js$script,1p
+##[href^="https://mymediarecommendations.com/"]
+##[href^="https://ahf8n.com/"]
 ||g27zkdvsxl.com^$3p
 ||xu5ctufltn.com^$3p
 ||phastoag.com^
@@ -15722,6 +15724,8 @@ weefy.me##+js(nano-setInterval-booster.js)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4570
 vidotodo.com##+js(abort-on-property-write.js, Fingerprint2)
+vidtodoo.com##+js(window.open-defuser.js)
+*$frame,domain=vidtodoo.com,3p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4573
 linkup.pro##+js(popads-dummy.js)
@@ -16546,3 +16550,13 @@ compucalitv.com##.onp-sl-content:style(display: block !important;)
 compucalitv.com##.onp-sl-social-locker
 compupaste.com##+js(window.open-defuser.js)
 compul.in##+js(nano-setTimeout-booster.js)
+
+! https://github.com/uBlockOrigin/uAssets/issues/4800
+katmovie.de##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+||glumtitu.net^
+
+! https://github.com/uBlockOrigin/uAssets/issues/4783
+2conv.com##.banner:style(visibility: hidden !important; display: block !important; height: 0 !important;)
+
+! https://github.com/uBlockOrigin/uAssets/issues/4803
+@@||temp-phone-number.com/files/js/ads.js$script,1p
