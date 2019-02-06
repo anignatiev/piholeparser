@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ajWZHUG0JuO4ly23Y3Js/g
-! Version: 201902050012
+! Checksum: zD11ogsKGyeahtrGDeoG4g
+! Version: 201902060012
 ! Title: Fanboy's Annoyance List
-! Last modified: 05 Feb 2019 00:12 UTC
+! Last modified: 06 Feb 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6525,8 +6525,8 @@ _site_cookie_
 ! cartoonnetwork.es/cartoonnetwork.fr
 ##.front-page > #sliding-popup
 ! ---------- RSS Buttons ----------
+###.social-white__rss
 ###RssIcon
-###blog-rss
 ###btnRss
 ###ctl00_ctl64_ctl00_LnkRSS
 ###dmrrss
@@ -6746,6 +6746,7 @@ _site_cookie_
 ##a[title="Subscribe by RSS"]
 ##a[title="Subscribe to our RSS Feed"]
 ##a[title="Subscribe with RSS"]
+##blog-rss
 ##img[alt="Feed RSS"]
 ##img[alt="Grab our RSS feed"]
 ##img[alt="Icono RSS"]
@@ -13038,6 +13039,7 @@ _site_cookie_
 ##.header-interna-share
 ##.header-item-social
 ##.header-main-socs
+##.header-menu__social
 ##.header-nav-social
 ##.header-nav-social-facebook
 ##.header-nav-social-instagram
@@ -14885,6 +14887,7 @@ _site_cookie_
 ##.pionusnews-social-widget
 ##.pionusnews_social_counter
 ##.pipdig_widget_social_icons
+##.pk-social
 ##.pk-social-links-items
 ##.pk-social-links-wrap
 ##.pl-nav-group--social
@@ -17176,6 +17179,9 @@ _site_cookie_
 ##.social-vertical
 ##.social-vk
 ##.social-warfare-container
+##.social-white__fb
+##.social-white__ln
+##.social-white__tw
 ##.social-wide
 ##.social-widget
 ##.social-widget-li
@@ -23877,6 +23883,7 @@ _site_cookie_
 ###js-pullout-cookies
 ###js-site-cookie
 ###js-stormcc-banner
+###js-tar_cookiesBar
 ###js-user-cookie-jar
 ###jsCookieConsent
 ###jsCookiesPanel
@@ -38050,6 +38057,7 @@ corrierediragusa.it###rss
 monclick.it###scroll-top-container
 vloungebeach.tv###scroll_up
 chiesi.com###scrolltab
+tuttoandroid.net###sh_local
 virgilio.it###shr_box
 qualescegliere.it###slideUpForm
 romaest.cc###slide_top
@@ -38853,6 +38861,7 @@ corriere.it##.follow-content
 r101.it##.followR101
 ravennanotizie.it##.footer-link
 jeanlouisdavid.it##.footerIconsUl
+html.it##.footer__tools
 nazarenogabrielli.it##.footer_el
 fanpage.it##.fp-sponsor
 fanpage.it##.ft-icon
@@ -38889,7 +38898,7 @@ ilsole24ore.com##.share-elements
 mediaset.it,meteo.it##.shr
 finanzaonline.com,teleborsa.it##.soc
 quickparking.it##.soc-icon-container
-affaritaliani.it,altadefinizione01.cloud,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,auto.it,avivaitalia.it,bioisotherm.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,grandhotel-et-des-palmes.com,hdmotori.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lafeltrinelli.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,mader.bz.it,magnoliatv.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,vg247.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
+affaritaliani.it,altadefinizione01.cloud,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,auto.it,avivaitalia.it,bioisotherm.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,grandhotel-et-des-palmes.com,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lafeltrinelli.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,mader.bz.it,magnoliatv.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,vg247.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
 investireoggi.it##.social_menu
 kontrokultura.it##.ss-ic
 cinemalibero.news##.telegram
