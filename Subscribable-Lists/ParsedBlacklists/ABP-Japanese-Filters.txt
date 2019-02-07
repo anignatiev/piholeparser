@@ -78,6 +78,7 @@ access.utamap.com
 accompagnement-pret.com
 acdcadz.com
 ack.mynv.jp
+acloudimages.com
 acs86.com
 act.ameba.jp
 actinside.com
@@ -434,6 +435,7 @@ baynote.net
 bb-static.com
 bc.nhk.jp
 bcegovo.ru
+bcloudhost.com
 bcooljs.info
 beanscattering.jp
 beforescence.com
@@ -1149,6 +1151,7 @@ idylfriends.com
 idyllove.com
 idylnetwork.com
 idylsenior.com
+ie8eamus.com
 iesnare.com
 ifortino.ru
 ign-omy.com
@@ -1924,6 +1927,7 @@ reklamadomen.ru
 relart.fresheye.com
 relax.ru
 relexion-credit.com
+remarketingpixel.com
 removeadblock.com
 rencontre-en-direct.com
 rencontre-maintenant.com
@@ -2322,6 +2326,7 @@ trackalyzer.com
 tracking.fathomseo.com
 tracking.to
 tracking101.com
+trackingpro.pro
 tracknson.com
 tracksitetraffic1.com
 trackstatsnow.com
@@ -2389,6 +2394,7 @@ unthem.com
 untily.com
 update-apps.com
 uploadedtab.com
+urldelivery.com
 urlgalleries.net
 usadserver.com
 use-way-ad.com
@@ -2424,6 +2430,7 @@ videos-x-gratuit.com
 videosclubx.com
 videosfr.s3.amazonaws.com
 videostrip.com
+vidsdelivery.com
 vidustal.com
 vietalle.com
 viewablemedia.net

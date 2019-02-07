@@ -2694,7 +2694,6 @@ moherland.pl
 mojadietanamase.pl
 mojchat.pl
 moje-iq.pl
-mojpieknyogrod.pl
 mokrecipki.za.pl
 moms.pl
 mon.pebx.pl
@@ -4630,6 +4629,7 @@ vodhd.pl
 vodlive.pl
 vomito.pl
 votum-sa.pl
+vpdr.pl
 vrympoqs5ra34nfo.torhelper.pl
 vtc.coinmine.pl
 w65.pl

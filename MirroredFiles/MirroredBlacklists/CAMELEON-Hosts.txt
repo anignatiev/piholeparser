@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Checksum: YKpuvzZuuPA4yDEpegu+Og
-! Version: 201902020012
+! Checksum: QZYuuf69+rY4iiasGnRnBw
+! Version: 201902070012
 ! This is a list of malware domains generated from malwaredomains.com data.
 ! Homepage: http://malwaredomains.com/?page_id=2
-! Last modified: 02 Feb 2019 00:12 UTC
+! Last modified: 07 Feb 2019 00:12 UTC
 ! Expires: 1d
 !
 ||amazon.co.uk.security-check.ga^
@@ -15676,7 +15676,6 @@
 ||lavender-lounge.com^
 ||laxmicarpentry.com^
 ||lh41.isolutions.ae^
-||lionfencing.com^
 ||login-in.monster-hackers.com^
 ||login.microsofteonline.cf^
 ||loginslf.beget.tech^
@@ -18801,7 +18800,6 @@
 ||fulenbacherstrasse40.ch^
 ||gansbaaiboardinglodge.co.za^
 ||gazariaaloron24.com^
-||gear.gp^
 ||getsmallbusinessloan.net^
 ||globalmediatama.co.id^
 ||gov.uk-revenue-customs.sytcbdata.com^
@@ -19193,7 +19191,6 @@
 ||notificetionwem.fr.nf^
 ||oeyiyqylgcfivavw.click^
 ||okazaki.cc^
-||oliveirafoto.com^
 ||onbkportal.com^
 ||ourversionfragrances.com^
 ||pacefultract.com^
@@ -19431,7 +19428,6 @@
 ||jackthescribbler.com^
 ||juechter-juist.de^
 ||sasamototen.jp^
-||teamtusk.com^
 ||cevahirreklam.com^
 ||helleny.com^
 ||florencegusmini.com^
@@ -23136,7 +23132,6 @@
 ||kolykhaloff.ru^
 ||laureus.com^
 ||libtechresource.com^
-||mojpieknyogrod.pl^
 ||mw-advocates.com^
 ||mycotoxinresearch.org^
 ||myhealthbaba.com^
@@ -26849,7 +26844,6 @@
 ||binaryonlinetrade.com^
 ||yellowsquareuae.com^
 ||yourcareerhelper.com^
-||obmenfast.ru^
 ||pturesults.in^
 ||riverhotserv.com^
 ||tgrghrtgrtgrt.ga^
@@ -26888,3 +26882,9 @@
 ||vilamucuripe.com.br^
 ||yppmovement.org^
 ||cosmeticawards.space^
+||tbufussball.bplaced.net^
+||toniaszkurhan.com^
+||wtwetwerq.ml^
+||unipics.ir^
+||ut.imm-ltt.gq^
+||wallets-trezor.org^
