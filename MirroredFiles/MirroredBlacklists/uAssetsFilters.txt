@@ -1317,34 +1317,16 @@ howtogeek.com##.thecontent > div:has(a[href^="http://www.jdoqocy.com/click-"])
 ! https://github.com/uBlockOrigin/uAssets/issues/2262
 ! https://github.com/uBlockOrigin/uAssets/issues/2404
 ! https://github.com/uBlockOrigin/uAssets/issues/3640
-quora.com##.upper_content:has(.promoted_link)
-quora.com##.upper_content:has(.promoted_url)
-quora.com##.upper_content:has(.promoted_href)
-quora.com##.upper_content:has(.promoted_hlink)
-quora.com##.upper_content:has(.promoted_hyperlink)
-quora.com##.upper_content:has-text(Promoted)
-quora.com##.upper_content:has(.advertiser_url)
-quora.com##.content_container:has(.featured_text_wrapper)
-quora.com##.content_rectangle:has-text(ad by)
-quora.com##.content_rectangle:has(.advertiser_endpoint)
-quora.com##.content_polygon:has(.advertiser_endpoint)
 quora.com##.pagedlist_item:has([href*="utm_campaign"])
 quora.com##.PromptsList
 quora.com##.AdBundle
 quora.com##.AdStory
-quora.com##[id*="content_wrapper"]:has-text(ad by)
-quora.com##[id*="content_wrapper"]:has-text(promo)
-quora.com##[rel="nofollow noopener"]
-quora.com##div:has-text(/^ad by/)
-quora.com##div:has-text(/^ad/)
 !#if env_mobile
 quora.com##.top_slot
 !#endif
 quora.com##div[id$="_content_box"]
 quora.com##.lower_slot
 quora.com##[disable_auto_login*="True"]
-quora.com##.pagedlist_item + div:not(.pagedlist_item):has(a > div:has-text(promoted))
-! https://github.com/uBlockOrigin/uAssets/commits/master
 quora.com##:xpath(//div[not(@class="ui_qtext_para") and contains(text(), 'ad by')]/parent::div/parent::div/parent::div[@id])
 quora.com##:xpath(//div[not(@class="ui_qtext_para") and contains(text(), 'promoted') and contains(text(), 'by')]/parent::a/parent::div/parent::div/parent::div[@id])
 quora.com##:xpath(//div[not(@class="ui_qtext_para") and contains(text(), 'Quora') and contains(text(), 'by') and contains(text(), 'Business')]/parent::a/parent::div/parent::div/parent::div[@id])
@@ -1354,6 +1336,7 @@ quora.com##.Toggle.SimpleToggle.ToggleAnswerFooterWrapper > div:has-text(/Promot
 quora.com##.UnifiedAnswerPagedList > .paged_list_wrapper > div[id]:if(a[href][target="_blank"][rel="noopener nofollow"]:not(.external_link))
 quora.com##:xpath(//p[contains(text(),"sponsored ")]/../../../..)
 quora.com##:xpath(//span[contains(text(), 'by')]/ancestor::*[contains(concat(' ', @class, ' '), ' external_link ')]/../../..)
+quora.com##:xpath(//span[(text()='d')]/../../../../..)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/291
 ! https://github.com/uBlockOrigin/uAssets/issues/831
@@ -2083,6 +2066,10 @@ streamplay.*##+js(abort-on-property-write.js, Fingerprint2)
 streamplay.*##+js(window.open-defuser.js)
 @@||streamplay.to/js/pop$script,first-party
 @@||mydarewatch.com^$generichide
+streamp1ay.me##+js(abort-on-property-write.js, Fingerprint2)
+||exercially.mobi^
+||terdiparcalpe.info^
+||eontent.streamplay.to^
 
 ! https://github.com/uBlockOrigin/uAssets/issues/553
 *$csp=script-src 'self' * 'unsafe-inline' data:,domain=acidcow.com|www.bolde.com|breaking911.com|convertcase.net|convertfiles.com|financemagnates.com|gostica.com|heraldweekly.com|neonnettle.com|powerpyx.com|schoolholidayseurope.eu|tamilo.com|tfln.co|thecomeback.com|truthfeed.com
@@ -4734,6 +4721,8 @@ linkrex.net##+js(abort-on-property-write.js, __htapop)
 ! https://github.com/uBlockOrigin/uAssets/issues/1274
 shrtfly.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 shrtfly.*##+js(abort-on-property-read.js, open)
+@@||shrtfly.*^$generichide
+shrtfly.*##.adsbygoogle
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1273
 oke.io##+js(abort-on-property-read.js, open)
@@ -6226,7 +6215,7 @@ sourceforge.net##+js(nano-setTimeout-booster.js)
 ! https://github.com/uBlockOrigin/uAssets/issues/4687
 ! https://github.com/uBlockOrigin/uAssets/issues/4711
 twitter.com##[data-testid="tweet"]:has-text(/Promoted|Gesponsert|Реклама/)
-twitter.com##[data-focusable="true"]:has-text(/Promoted|Gesponsert|Реклама/)
+!twitter.com##[data-focusable="true"]:has-text(/Promoted|Gesponsert|Реклама/)
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=40228#p133884
 ||popularmechanics.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.hearstapps.com *.hearst.io *.hdmtools.com
@@ -15120,12 +15109,13 @@ filikula.co##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 playtv.to##+js(abort-on-property-read.js, decodeURIComponent)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4428
-hxload.io##+js(nowebrtc.js)
-hxload.io##+js(abort-current-inline-script.js, atob, decodeURIComponent)
-hxload.io##+js(abort-on-property-read.js, Date.prototype.toUTCString)
-hxload.io##+js(set-constant.js, iExist, true)
-||hxload.io/*.gif$image
-hxload.io###fixedban
+! https://github.com/uBlockOrigin/uAssets/issues/4816
+hxload.*##+js(nowebrtc.js)
+hxload.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+hxload.*##+js(abort-on-property-read.js, Date.prototype.toUTCString)
+hxload.*##+js(set-constant.js, iExist, true)
+||hxload.*/*.gif$image
+hxload.*###fixedban
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4429
 kmhd.info##+js(abort-on-property-read.js, Date.prototype.toUTCString)
@@ -16598,3 +16588,52 @@ jagoanssh.com##+js(addEventListener-defuser.js, load, onload)
 
 ! nemfaucet, xrpfaucet anti adb
 nemfaucet.info,xrpfaucet.info##+js(set-constant.js, adsBlocked, noopFunc)
+
+! drivebox.club anti adb
+drivebox.club##+js(addEventListener-defuser.js, load, onload)
+
+! https://github.com/NanoMeow/QuickReports/issues/649
+theme-download.club##+js(set-constant.js, canRunAds, true)
+theme-download.club##+js(set-constant.js, canRunAds2, true)
+
+! https://github.com/NanoMeow/QuickReports/issues/650
+3zfile.net##+js(abort-current-inline-script.js, document.getElementById, adblock)
+3zfile.net##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+
+! https://github.com/uBlockOrigin/uAssets/issues/4817
+allkindonline.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+||givirsou.net^
+||feewoajy.net^
+
+! https://github.com/uBlockOrigin/uAssets/issues/4818
+hdfriday.org##+js(abort-on-property-read.js, open)
+hdfriday.org##.btn_d:has-text(/high/i)
+||septembership.com^
+||katurars.com^
+
+! https://github.com/uBlockOrigin/uAssets/issues/4819
+filmymeet.club##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+||ceptavou.net^
+
+! https://github.com/uBlockOrigin/uAssets/issues/4820
+1921681254.tech##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+1921681254.tech##+js(set-constant.js, blockAdBlock, true)
+||1921681254.tech/sw.js$1p,script
+
+! https://github.com/uBlockOrigin/uAssets/issues/4821
+gomoviess.net##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+
+! https://github.com/uBlockOrigin/uAssets/issues/4822
+them4ufree.info##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+
+! https://github.com/uBlockOrigin/uAssets/issues/4814
+nohchipress.info##^script:has-text(_slicedToArray)
+nohchipress.info##+js(remove-attr.js, href, [href*="go.php"])
+!#if env_chromium
+||nohchipress.info^$csp=script-src 'self' *
+!#endif
+
+! https://www.reddit.com/r/uBlockOrigin/comments/ao8y5n/journalnowcom_blocking_ublock/
+journalnow.com##+js(abort-on-property-read.js, stop)
+||mn0e.com^$script,domain=journalnow.com
+journalnow.com##[href^="http://www.journaldealsnow.com/deal/"]

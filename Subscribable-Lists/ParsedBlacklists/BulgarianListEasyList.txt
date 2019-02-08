@@ -875,6 +875,7 @@ events.privy.com
 events.realgravity.com
 events.reddit.com
 events.redditmedia.com
+events.secureserver.net
 events.snacktv.de
 events.turbosquid.com
 events.whisk.com
@@ -1129,6 +1130,7 @@ k.streamrail.com
 kalstats.kaltura.com
 kdmkauchahynhrs.ru
 keyword.daumdn.com
+kg.aws.mashable.com
 kiks.auto.ru
 kinesisproxy.hearstlabs.com
 kropka.onet.pl
@@ -1388,6 +1390,7 @@ nvc.n1bus-exp.com
 nws.naltis.com
 o.addthis.com
 observer.ip-label.net
+odin.mic.com
 oei1.gq
 offermatica.intuit.com
 oimg.m.cnbc.com
@@ -2165,6 +2168,7 @@ target.ukr.net
 targeting.wpdigital.net
 tbe.tom.ru
 tc.airfrance.com
+tcheck.outbrainimg.com
 tck.bangbros.com
 tdf.ringier.ch
 te.supportfreecontent.com

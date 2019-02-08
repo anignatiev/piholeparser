@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: MVzlnypIRC4PdQDP5o3XcA
-! Version: 201902050011
+! Checksum: EptLaecm3Cl9xR13FL3pQQ
+! Version: 201902080011
 ! Title: EasyList Italy
-! Last modified: 05 Feb 2019 00:11 UTC
+! Last modified: 08 Feb 2019 00:11 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html
@@ -2997,7 +2997,7 @@ violachannel.tv##.footer_home
 liberatv.ch##.front_orrizzontale
 quattroruote.it##.fullBanner
 obiettivonews.it##.fullwidthbanner-container
-dailyonline.it,gazzettadasti.it,ilcorriere.net,rietinvetrina.it,stradeeautostrade.it,teleclubitalia.it,ticinonotizie.it##.g
+dailyonline.it,gazzettadasti.it,ilcorriere.net,ilmartino.it,rietinvetrina.it,stradeeautostrade.it,teleclubitalia.it,ticinonotizie.it##.g
 spaziogames.it##.g_adv
 netflixlovers.it##.gadget
 agendadigitale.eu##.gallery-container-home

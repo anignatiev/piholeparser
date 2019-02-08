@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201902061714
+! Version: 201902072007
 ! Title: EasyPrivacy
-! Last modified: 06 Feb 2019 17:14 UTC
+! Last modified: 07 Feb 2019 20:07 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13,6 +13,7 @@
 ! -----------------General tracking systems-----------------!
 ! *** easylist:easyprivacy/easyprivacy_general.txt ***
 &action=js_stats&
+&action=js_stats_
 &callback=hitStats_
 &ctxId=*&pubId=*&clientDT=
 &ctxId=*&pubId=*&objId=
@@ -482,6 +483,7 @@
 /aicon_track.
 /aimp.php?
 /ajax-hits-counter/*
+/ajax-track-page-view/*
 /ajax/analytics/*
 /ajax/heatmap-
 /ajax/log?
@@ -2326,6 +2328,7 @@
 /metricsISCS.
 /metrika/*?ident=
 /metrika/watch_
+/metriks/watch.
 /metrimatics/*
 /metriweb.js
 /metriweb/spring.js
@@ -5359,6 +5362,7 @@ _mongo_stats/
 ||flx1.com^$third-party
 ||flxpxl.com^$third-party
 ||flyingpt.com^$third-party
+||fn-pz.com^$third-party
 ||followercounter.com^$third-party
 ||fonderredd.info^$third-party
 ||footprintdns.com^$third-party
@@ -7996,6 +8000,7 @@ _mongo_stats/
 ||tophits4u.de^$third-party
 ||toplist100.org^$third-party
 ||topstat.com^$third-party
+||tracdelight.com^$third-party
 ||trackfreundlich.de^$third-party
 ||trafficmaxx.de^$third-party
 ||trbo.com^$third-party
@@ -10424,6 +10429,7 @@ _mongo_stats/
 ||target.mixi.media^
 ||targeting.wpdigital.net^
 ||tc.airfrance.com^
+||tcheck.outbrainimg.com^
 ||te.supportfreecontent.com^
 ||technorati.com/technoratimedia-pixel.js
 ||techweb.com/beacon/
@@ -11557,7 +11563,6 @@ _mongo_stats/
 ||198.105.253.2/lvl3/$image,domain=searchguide.level3.com
 ||1e400.net/tracking.js
 ||213.8.193.45/themarker/$domain=haaretz.com
-||24caratleeds.co.uk/tr/laredoute/carat_laredoute_
 ||24hourfitness.com/includes/script/siteTracking.js
 ||37signals.com/ga.js
 ||3dcartstores.com/3droi/monstertrack.asp
@@ -11597,7 +11602,6 @@ _mongo_stats/
 ||acronymfinder.com/~/st/af.js
 ||activity.frequency.com^
 ||activity.homescape.com^
-||acura.ca/_Global/js/includes/tracker.js
 ||ad2links.com/lpajax.php?
 ||adapd.com/addon/upixel/
 ||adc.9news.com.au^
@@ -12191,6 +12195,7 @@ _mongo_stats/
 ||events.privy.com^
 ||events.reddit.com^
 ||events.redditmedia.com^
+||events.secureserver.net^
 ||events.turbosquid.com^
 ||eventtracker.elitedaily.com^
 ||everythinggirl.com/assets/tracker/
@@ -12593,6 +12598,7 @@ _mongo_stats/
 ||kelkoo.co.uk/kk_track?
 ||kelkoo.co.uk^*/tracker/
 ||kelkoo.com/kk_track?
+||kg.aws.mashable.com^
 ||kickass.cd/analytics.js
 ||kiks.yandex.
 ||killerstartups.com^*/adsensev
@@ -12748,6 +12754,7 @@ _mongo_stats/
 ||metro.co.uk/js/ga-
 ||metro.us/api/trackPage/
 ||metroweekly.com/tools/blog_add_visitor/
+||mic.com/pageview-
 ||microsoft.com/_log?
 ||microsoft.com/blankpixel.gif
 ||microsoft.com/click/
@@ -12913,6 +12920,7 @@ _mongo_stats/
 ||nzs.com/sliscripts_
 ||oasisactive.com/pixels.cfm
 ||ocregister.com/za?
+||odin.mic.com^
 ||offers.keynote.com/wt/
 ||officedepot.com/at/rules_*.js$script
 ||officelivecontent.com^*/Survey/
@@ -13107,6 +13115,7 @@ _mongo_stats/
 ||real.com^*/pixel?
 ||real.com^*/track.htm?
 ||realitytvworld.com/images/pixel.gif
+||reallifecam.com/track/
 ||reco.hardsextube.com^
 ||recomendedsite.com/addon/upixel/
 ||recommendation.24.com^
