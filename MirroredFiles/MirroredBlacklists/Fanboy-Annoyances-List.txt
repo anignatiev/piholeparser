@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kTf8JyygIH9g9FFe3OYiow
-! Version: 201902080012
+! Checksum: E7clnk48G1mq31qjnp/SAg
+! Version: 201902090012
 ! Title: Fanboy's Annoyance List
-! Last modified: 08 Feb 2019 00:12 UTC
+! Last modified: 09 Feb 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6420,6 +6420,7 @@ _site_cookie_
 ###SubscribePush
 ###SubscribePushNotificationPanel
 ###Znotify_Prompt
+###\5f __tdspushdiv
 ###___ndtvpushdiv
 ###bigpicture-webpush-widget
 ###desktop-notification-ask-dialog
@@ -34438,7 +34439,7 @@ chicagoreporter.com,washingtonmonthly.com###signup
 clarionproject.org###signup-0603
 247wallst.com###signupbar
 endocrineweb.com###simplemodal-container
-endocrineweb.com###simplemodal-overlay
+breakingenergy.com,endocrineweb.com###simplemodal-overlay
 nationalobserver.com###site-broadcast
 sitepoint.com###sitepoint-niche-newsletters
 amd.com,legalsportsreport.com###slidebox
@@ -35158,7 +35159,6 @@ diplo.de##.c-top-link--default
 alarabiya.net,aurecongroup.com,caltex.co.za,drivesouth.co.nz,gasoline-station.com,millenniumpost.in,pastebin.com,sammobile.com,shine.cn,suninternational.com,wifi.id##.cd-top
 tricri.org##.chevron
 gogoanime.se##.croll
-tusfiles.net##.fa-long-arrow-up
 easeus.com##.float_totop
 sportinglife.com##.footer-links-top
 eco-business.com##.footer__header__item-action
@@ -38936,7 +38936,7 @@ eluniversal.com.mx##.in-img
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.liCompartir
 cadenaser.com##.modulo_compartir
 de10.com.mx##.pane-rate-widgetk
-crea-mexico.com,futbol.com.uy,montevideo.com.uy,mvsnoticias.com,pantallazo.com.uy,telesurtv.net##.redes
+crea-mexico.com,futbol.com.uy,marca.com,montevideo.com.uy,mvsnoticias.com,pantallazo.com.uy,telesurtv.net##.redes
 cadenaser.com##.rrss
 autoline-market.cl,autoline.bo,autoline.com.py,autoline.es,autoline.pe,clarin.com,elperiodico.cat,elperiodico.com,gettyimages.es,hispantv.com,lagranepoca.com,landrover.es,viveusa.mx##.share
 tn.com.ar##.shares
