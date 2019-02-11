@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 1srhkCTenB9BTBnBrg1EaQ
-! Version: 201902090011
+! Checksum: dXi2cGJShecXog+RM/cUBA
+! Version: 201902110011
 ! Title: EasyList Italy
-! Last modified: 09 Feb 2019 00:11 UTC
+! Last modified: 11 Feb 2019 00:11 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html
@@ -2701,6 +2701,7 @@ famigliacristiana.it##.adv-box
 motori.it##.adv-items
 coratolive.it##.adv-news
 rbe.it##.adv-section
+quattroruote.it##.adv-wrap
 oktennis.it##.adv1
 delleconomia.it##.adv200
 virgilio.it##.advTuning
@@ -2971,6 +2972,7 @@ quotidiano.net##.discount-block
 lavoratorio.it##.divBoxbanner300x250
 donnamoderna.com##.donnam-sidebar-adv
 ilmeteo.net##.eHotel
+quattroruote.it##.ebay-catalog-box
 gossipetv.com##.ebuzzing_box
 digisesso.com,gorillaporno.com,iltrombatore.com,koalaporno.com,pandasesso.com,ranaporno.com,sessosadomaso.com##.embed1
 digisesso.com,gorillaporno.com,iltrombatore.com,koalaporno.com,pandasesso.com,ranaporno.com,sessosadomaso.com##.embed2
