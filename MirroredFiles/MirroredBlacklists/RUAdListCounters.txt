@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: njUK/pS3sn+B1Gh0O9Wt0A
-! Version: 201902090020
+! Checksum: CHT9QIZ2UTDNI3vmVB5MWw
+! Version: 201902130020
 ! Title: RU AdList: Counters
-! Last modified: 09 Feb 2019 00:20 UTC
+! Last modified: 13 Feb 2019 00:20 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -305,6 +305,7 @@ _pagespeed_beacon?
 ||d3qxef4rp70elm.cloudfront.net^
 ||d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com^
 ||data.giraff.io/track/$third-party
+||dc.services.visualstudio.com^*/track
 ||demandbase.com^$third-party
 ||diginetica.net^$third-party
 ||disqus.com/api/ping$third-party
@@ -462,6 +463,7 @@ _pagespeed_beacon?
 ||mokuz.ru/vipcounter/
 ||monitorus.ru^$third-party
 ||mozilla.net^*/webtrends/
+||msecnd.net/scripts/a/ai.0.js
 ||mtp.spaces.ru^
 ||musiccounter.ru/hit.pl?id=
 ||mxpnl.com^$third-party
@@ -586,6 +588,7 @@ _pagespeed_beacon?
 ||static-trackers.adtarget.me^
 ||static.analytics-site.com^$third-party
 ||static.criteo.net^$third-party,domain=~novayagazeta.ru
+||static.hotjar.com^$third-party
 ||statistics.wibiya.com^$third-party
 ||statok.net/image/
 ||statpipe.ru^$third-party
@@ -723,7 +726,7 @@ _pagespeed_beacon?
 ||mail.ru/share_count?
 ||ok.mail.ru^
 ||radar.imgsmail.ru^
-||rs.mail.ru^$image,domain=~account.mail.ru
+||rs.mail.ru^$image,domain=~account.mail.ru|~my.mail.ru
 !
 ! Rambler
 ||rambler.ru/*/js/counters.$domain=~mail.rambler.ru
