@@ -8,6 +8,7 @@
 2fbanners.ero-advertising.com
 2fflatfee.ero-advertising.com
 2fspeedclicks.ero-advertising.com
+2no.co
 30-day-change.com
 3ds.ero-advertising.com
 4436230.fls.doubleclick.net
@@ -297,6 +298,7 @@ blog.alphonso.tv
 blog.ero-advertising.com
 blog.intext.ero-advertising.com
 blog.roboinside.me
+bmwforum.co
 breaksurvey.com
 browser.pipe.aria.microsoft.com
 btds.artplay.info
@@ -384,6 +386,8 @@ device-api.urbanairship.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 dimaria.alphonso.tv
+discörd.com
+disçordapp.com
 dobre-programy.pl
 dobre-programy.xyz
 dobreprogramy.pro
@@ -429,6 +433,8 @@ flatfea.ero-advertising.com
 flatfee.ero-advertising.com
 flw.ero-advertising.com
 fnatfee.ero-advertising.com
+fortnight.space
+fortnitechat.site
 forum.adspaces.ero-advertising.com
 forum.ero-advertising.com
 forums.adspaces.ero-advertising.com
@@ -437,6 +443,7 @@ forums.ero-advertising.com
 fp-analytics.hotstar.com
 fpa.ero-advertising.com
 freeadult.games
+freegiftcards.co
 gamblerush.com
 gata.ero-advertising.com
 geofence.sys.miui.com
@@ -448,6 +455,7 @@ globalapi.ad.xiaomi.com
 go.ad1data.com
 goodblock.gladly.io
 goooooooooogle.com
+grabify.link
 grandonmedia.com
 graph.accountkit.com
 greatmacsoft.tech
@@ -487,8 +495,12 @@ insights.alphonso.tv
 instory-log.ucnews.ucweb.com
 intext.ero-advertising.com
 ioads.ero-advertising.com
+iplogger.com
+iplogger.org
+iplogger.ru
 jackbootedroom.com
 jira.face2trade.com
+joinmy.site
 js-agent.newrelic.com
 js.ads.ero-advertising.com
 js34dc10.gamooga.com
@@ -502,6 +514,7 @@ l2.visiblemeasures.com
 largeloot.com
 layers.ero-advertising.com
 lead.soperson.com
+leancoding.co
 lecap-services.fr
 letitbefaster.website
 log.apk.v-mate.mobi
@@ -530,6 +543,7 @@ mediaparade.net
 metrics.adage.com
 metrics.brightcove.com
 miami.ero-advertising.com
+minecräft.com
 mktg.tvpage.com
 mobile.pipe.aria.microsoft.com
 mobileads.ero-advertising.com
@@ -615,6 +629,7 @@ pushedwebnews.com
 pussysaga.com
 quark.plaimedia.com
 quickcash-system.com
+quickmessage.us
 rata.ero-advertising.com
 rdi.eu.criteo.com
 realestate2.deshmedia.com
@@ -688,6 +703,7 @@ speedlicks.ero-advertising.com
 speeuclicks.ero-advertising.com
 spiegel-de.spiegel.de
 sportsinteraction.com
+spottyfly.com
 sqm.telemetry.microsoft.com
 srv.pixel.parsely.com
 ssl.widgets.webengage.com
@@ -709,11 +725,14 @@ stats.wp.com
 stealthedeal.com
 steenbergen.web.ero-advertising.com
 sterling.alphonso.tv
+stopify.co
 storeconfig.mistat.intl.xiaomi.com
 superlogout.github.io
 supload.com
 support.apple.com-notice.info
 syndication-evo.exoclick.com
+särahah.eu
+särahah.pl
 t.appsflyer.com
 t.newlimitedoffer.com
 taboola-d.openx.net
@@ -784,6 +803,7 @@ villa.alphonso.tv
 virtual.thewhig.com
 vortex-win.data.microsoft.com
 vrl.m.conviva.com
+watches-my.stream
 watson.telemetry.microsoft.com
 wc-tracking.lavasoft.com
 wdata.ero-advertising.com
@@ -896,9 +916,13 @@ www.www.cpm20.com
 www.wzrkt.com
 www.zekiatagur.com
 wzrkt.com
+xda-developers.us
 xml.plaimedia.com
 xn--adspace-kvg.ero-advertising.com
 yashin.alphonso.tv
+yip.su
+youshouldclick.us
+yoütu.be
 yun-static.soperson.com
 zamora.axiatraders.com
 zarget.com
