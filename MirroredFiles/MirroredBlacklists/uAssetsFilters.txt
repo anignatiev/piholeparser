@@ -1407,7 +1407,6 @@ thedoujin.com,xbooru.com##+js(abort-current-inline-script.js, ExoLoader)
 realbooru.com,xbooru.com##+js(addEventListener-defuser.js, DOMContentLoaded, newcontent.innerHTML)
 rule34.xxx##+js(abort-on-property-read.js, newcontent)
 rule34.xxx##a[href*=".html"]
-||rule34.xxx/*.gif$image
 ! https://github.com/uBlockOrigin/uAssets/issues/1080
 xbooru.com##+js(abort-on-property-write.js, ads_priv)
 xbooru.com##a[href^="https://xbooru.com/c.html"]
@@ -2007,6 +2006,8 @@ primewire.*##.actual_tab > table:if(td:first-of-type + td + td:has-text(/Promo H
 @@||adserver-eu.adtech.advertising.com/?advideo/$xmlhttprequest,domain=tn.nova.cz
 @@||static.cz.prg.cmestatic.com/static/shared/app/videojs/plugins/*$script,domain=nova.cz
 @@||pro.hit.gemius.pl/gplayer.js$script,domain=nova.cz
+! https://github.com/NanoMeow/QuickReports/issues/672
+@@||novaplus.nova.cz^$generichide
 
 ! https://github.com/uBlockOrigin/uAssets/issues/526
 ||data.*.com^$domain=blacklistednews.com
@@ -2018,7 +2019,12 @@ primewire.*##.actual_tab > table:if(td:first-of-type + td + td:has-text(/Promo H
 ||playbill.com^$csp=script-src 'self' * 'unsafe-inline' data:
 
 ! https://github.com/uBlockOrigin/uAssets/issues/531
-championat.com,gazeta.ru,lenta.ru,rambler.ru##+js(palacesquare.rambler.ru-defuser.js)
+! https://github.com/uBlockOrigin/uAssets/issues/4904
+championat.com,gazeta.ru,lenta.ru##+js(palacesquare.rambler.ru-defuser.js)
+rambler.ru##^script:has-text((Number,)
+!#if env_chromium
+rambler.ru##+js(set-constant.js, Math.random, trueFunc)
+!#endif
 
 ! https://github.com/uBlockOrigin/uAssets/issues/535
 periscopel.com##+js(bab-defuser.js)
@@ -2544,6 +2550,7 @@ syriancivilwarmap.com##+js(abort-on-property-write.js, lockMap)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/709
 ! https://github.com/uBlockOrigin/uAssets/issues/4651
+! https://github.com/uBlockOrigin/uAssets/issues/4908
 ||cloudfront.net/ads/*$script,redirect=noopjs,domain=cbs.com
 ||cloudfront.net/ads/img/*$image,redirect=1x1-transparent.gif,domain=cbs.com
 ||fastly.net^$image,important,redirect=2x2-transparent.png,domain=cbs.com
@@ -2554,6 +2561,7 @@ cbs.com##+js(set-constant.js, cbsplayer.hasAdBlocker, false)
 @@||vidtech.cbsinteractive.com^$script,domain=cbs.com
 @@||cbsi.com^$script,domain=cbs.com
 @@||cbsstatic.com^$script,domain=cbs.com
+@@||recurly.com/*/recurly.js$script,domain=cbs.com
 
 ! https://github.com/uBlockOrigin/uAssets/issues/716
 @@||imagebam.com^*ad$first-party,script
@@ -2691,10 +2699,14 @@ putlockers.*##+js(nowebrtc.js)
 putlockers.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 entervideo.net##+js(window.open-defuser.js)
 ! https://forums.lanik.us/viewtopic.php?f=62&t=40397
+! https://www.reddit.com/r/uBlockOrigin/comments/aqcoi3/annoying_ads_on_putlockertv/
+putlockertv.*##+js(abort-current-inline-script.js, atob, zfgloadedpush)
 putlockertv.*##+js(abort-current-inline-script.js, parseInt, tabunder)
+putlockertv.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 putlocker.ninja##+js(abort-on-property-read.js, decodeURIComponent)
 ! https://www.reddit.com/r/uBlockOrigin/comments/9vmhj2
 putlockerr.is##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+||putlockers.*/sw.js$script,1p
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=38536
 10fastfingers.com##+js(abort-current-inline-script.js, document.createElement, decodeURIComponent)
@@ -3663,9 +3675,15 @@ descargas2020.com##+js(addEventListener-defuser.js, mousedown, (b){u()})
 descargas2020.com##+js(noeval.js)
 descargas2020.com##+js(nowebrtc.js)
 descargas2020.com##+js(window.open-defuser.js)
+descargas2020.com##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 descargas2020.com###idx-1
 ||65mjvw6i1z.com^$3p
 ||iskkrmwivxfmdjwxme.bid^$3p
+||carbian.info^
+||thterras.com^
+||beratent.info^
+||4b6994dfa47cee4.com^
+||sitemnk.com^
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1004
 redditgirls.com##+js(abort-on-property-read.js, canRunAds)
@@ -8126,6 +8144,9 @@ shorterlink.trade##+js(abort-on-property-read.js, app_vars.force_disable_adblock
 
 ! popups http://assia.tv/live/betsport/?lang=rs
 assia.tv##+js(set-constant.js, ClickUnder, noopFunc)
+||assia.tv/css/$frame,1p
+assia.tv##[class*="ban"]
+assia.tv##+js(window.open-defuser.js)
 
 ! http://cricfree.sc/update/skysportsmix.php (using webtv.ws server) popups
 webtv.ws##+js(window.open-defuser.js)
@@ -15307,7 +15328,7 @@ oneload.site##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 hiidude2.in##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4472
-watchfree.pw,watchfreez.net##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+watchfree.*,watchfreez.net##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 ||static.freedlsoftware.com/min.js$script,domain=watchfree.pw
 ||momomesh.tv/sw.js$script,first-party
 momomesh.tv##+js(abort-on-property-write.js, Fingerprint2)
@@ -15601,10 +15622,11 @@ gomovies-123.com,gomovies123.today##+js(abort-current-inline-script.js, decodeUR
 gomovieshd.cc##.btn-successful.btn-block.btn
 gomovieshd.cc##.fake_player
 gomovieshd.cc##.idTabs > li:has-text(Premium)
-gomovies.*,gomoviesm.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
-gostream.nu,gomovies.ec##+js(set-constant.js, check_adblock, true)
+gomovies.*,gomoviesc.*,gomoviesm.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+gostream.nu,gomovies.*##+js(set-constant.js, check_adblock, true)
 gomovieshub.io##+js(abort-current-inline-script.js, parseInt, TABUNDER)
 gomovieshub.io##[href="https://gogoanimehub.com/"]
+||haupsoti.net^
 
 ! https://github.com/NanoAdblocker/NanoFilters/issues/253
 getfreesmsnumber.com##+js(abort-current-inline-script.js, document.getElementById, undefined)
@@ -16948,3 +16970,42 @@ pctnew.com##+js(abort-on-property-read.js, gtp)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4903
 audiofanzine.com##+js(set-constant.js, Math.pow, noopFunc)
+
+! https://github.com/NanoMeow/QuickReports/issues/670
+@@||yowi.tv/js/adframe.js$script,1p
+yowi.tv##.banner
+
+! https://github.com/NanoMeow/QuickReports/issues/674
+@@||apnetv.co^$generichide
+
+! https://github.com/uBlockOrigin/uAssets/issues/4905
+@@||ooodesi.com^$generichide
+ooodesi.com##div[id^="ads300_250-widget"]
+
+! https://github.com/uBlockOrigin/uAssets/issues/4907
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=ghanatvon.com
+
+! https://github.com/NanoMeow/QuickReports/issues/673
+chron.com##^script:has-text(/i10C/i)
+
+! https://github.com/uBlockOrigin/uAssets/issues/4910
+putlockernet.net##+js(abort-on-property-write.js, Fingerprint2)
+||hantinlethemsed.info^
+||d2va1d0hpla18n.cloudfront.net^
+||jungloconding.info^
+||rephartertonelin.info^
+
+! https://github.com/uBlockOrigin/uAssets/issues/4911
+putlockers-hd.stream##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+||eegookiz.com^
+putlockers-hd.stream##a[href^="/go.html"]
+
+! https://github.com/uBlockOrigin/uAssets/issues/4912
+zedstream.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+zedstream.com##+js(abort-current-inline-script.js, parseInt, tabunder)
+
+! https://github.com/jspenguin2017/uBlockProtector/issues/1039
+sardeath.com##+js(set-constant.js, $tieE3, true)
+
+! https://github.com/uBlockOrigin/uAssets/issues/4913
+123stream.*##+js(set-constant.js, check_adblock, true)
