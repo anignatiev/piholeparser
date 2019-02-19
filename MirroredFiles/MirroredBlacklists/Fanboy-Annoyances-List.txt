@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Prl6CRIEiVEM7OXZe2Ttkw
-! Version: 201902180012
+! Checksum: X7c9PCW+/9qitKP2m5cLUA
+! Version: 201902190012
 ! Title: Fanboy's Annoyance List
-! Last modified: 18 Feb 2019 00:12 UTC
+! Last modified: 19 Feb 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -254,6 +254,7 @@ _my_yahoo.$image
 /pushes/notification.
 /pushly-sdk.
 /pushnews.min.
+/pushnotification.
 /pushNotifications.js
 /pushnotifications/*
 /pushpushgo/*
@@ -4786,6 +4787,7 @@ _site_cookie_
 ! Mobile Apps
 ###mn-app-banner
 ###smartbanner-desktop
+##.branch-banner
 ##.js-openAppBox
 ##.smartbanner-android
 ##.smartbanner-container
@@ -19525,6 +19527,7 @@ _site_cookie_
 ##a[title^="follow us on facebook"]
 ##a[title^="share on Facebook"]
 ##a[title^="share on Twitter"]
+##amp-social-share
 ##button[aria-label="Toggle social share buttons"]
 ##button[data-title="Share on Facebook"]
 ##button[data-title="Share"]
@@ -34956,7 +34959,7 @@ politico.com##.sign-up
 viralnova.com##.sign-up-box
 dailysurge.com##.sign-up-form
 jpost.com##.sign-up-wrap
-americamagazine.org##.signUp
+americamagazine.org,cnet.com##.signUp
 icepop.com##.signUp_mailchimp
 dzone.com##.signin-prompt
 newscientist.com##.signpost
@@ -35217,6 +35220,7 @@ samsung.com##.gb-footer__btn-top
 ciiradio.com,reverso.net,smutr.com,yesweekly.com##.go-up
 dailypioneer.com,mmm100.com,moneycontrol.com,rti.org.tw,voiceofbahrain.org##.gotop
 vnexpress.net##.gottop
+letmejerk.com##.goup
 cardekho.com##.gsst_scroll-btn
 bdnews24.com##.handleScrollTop
 netflorist.co.za##.homePageElevator

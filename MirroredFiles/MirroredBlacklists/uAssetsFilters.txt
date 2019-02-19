@@ -2649,7 +2649,8 @@ kissmanga.com##+js(setInterval-defuser.js, (), 500)
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/73l2sz/adblock_blocker_issue/
 ! https://www.reddit.com/r/uBlockOrigin/comments/7awigu/steamideu_antiadblock_popup/
-smps.us,steamid.eu##+js(bab-defuser.js)
+! https://github.com/NanoAdblocker/NanoFilters/issues/273
+smps.us,steamid.*##+js(bab-defuser.js)
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/73kz4a/cloudfront_adverts_display/
 ||d25ezbwokoefx6.cloudfront.net^$script,redirect=noopjs,domain=trueachievements.com
@@ -5505,7 +5506,9 @@ themeslide.com##+js(nano-setInterval-booster.js, countdown, 1500)
 @@||globalcryptopress.com^$generichide
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1494
+! https://github.com/NanoAdblocker/NanoFilters/issues/272
 @@||aternos.org^$generichide
+aternos.org##+js(abort-current-inline-script.js, $, ads)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1027
 ! https://www.reddit.com/r/uBlockOrigin/comments/aldkxv/request_blacklist_ad_provider_pt_2/
@@ -17156,3 +17159,20 @@ trick4earn.com##+js(abort-on-property-read.js, open)
 ! https://github.com/uBlockOrigin/uAssets/issues/4939
 vetolink.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 vetolink.com##+js(abort-on-property-read.js, open)
+
+! https://github.com/uBlockOrigin/uAssets/issues/4942
+forumvt.com##+js(bab-defuser.js)
+
+! https://github.com/NanoMeow/QuickReports/issues/692
+digitaltrends.com##+js(abort-current-inline-script.js, setTimeout, googlefcPresent)
+
+! https://github.com/uBlockOrigin/uAssets/issues/4943
+megafile.io##+js(setInterval-defuser.js, (), 5000)
+
+! https://github.com/NanoMeow/QuickReports/issues/695
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=boas.io
+@@||boas.io^$generichide
+@@||boas.io/$script,1p
+
+! https://forums.lanik.us/viewtopic.php?p=145741#p145741
+iframe-secured.com##+js(window.open-defuser.js)
