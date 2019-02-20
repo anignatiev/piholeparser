@@ -519,6 +519,7 @@ cxmolk.com
 cyhtr.com
 cykahax.net
 d.igra-prestoloff.cx
+d1af165twk0zgn.cloudfront.net
 d1f5rbi95y1icu.cloudfront.net
 d1p7elpjrt6qav.cloudfront.net
 d1uvhm532ipx9t.cloudfront.net
@@ -527,7 +528,9 @@ d24rtvkqjwgutp.cloudfront.net
 d27jk9dqha8met.cloudfront.net
 d2d8qsxiai9qwj.cloudfront.net
 d2ghscazvn398x.cloudfront.net
+d2i5pngfrazn5t.cloudfront.net
 d2wl3qmk54t3ha.cloudfront.net
+d30gt5larl1k8h.cloudfront.net
 d30s0lx1onfwyh.cloudfront.net
 d36sxvmjoflc2i.cloudfront.net
 d38dub.ru
@@ -774,6 +777,7 @@ getbonus.info
 getbrowser.org
 getbrowser.ru
 getbrowserlite.net
+getdriverpack.ru
 getlitebrowser.com
 getlitebrowser.net
 getlitebrowser.org
@@ -1138,14 +1142,12 @@ ljteas.com
 lmbicg.ru
 lmcuba.us
 loadbookvo.ru
-loadero.ru
 loadmovie.ru
 loadmult.ru
 loadpartners.com
 loadserial.ru
 locandito.com
 locoday.com
-loderok.ru
 logger.ivi.ru
 lol.mta-resource.ru
 loneday.com
@@ -1674,7 +1676,6 @@ rus-news.biz
 rus-news.club
 rusnews.biz
 rusnewsclub.ru
-rusplt.ru
 rustiz.ru
 rustizer.com
 rustoria-topnews.ru
