@@ -14,11 +14,11 @@ ____________________________________
 ### Checking For Old TLD File.
 * Old TLD List Not Present.
 ### Merging Individual TLD Lists.
-14319 After Merging Individual TLD Lists.
+14320 After Merging Individual TLD Lists.
 ### Removing Old TEMP TLD If Present.
 Old TLD Comparison Not Present.
 ### Formatting TLD List.
-3111 After Formatting TLD List.
+3107 After Formatting TLD List.
 ### Removing Duplicatates From TLD List.
 1588 After Removing Duplicatates From TLD List.
 ____________________________________

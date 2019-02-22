@@ -1085,6 +1085,7 @@ privcoin.io
 prod-adidas.instana.io
 prod.bidr.io
 prod.branch.io
+production.airswap.io
 promo.hashflare.io
 proxone.ipbc.io
 proxthree.ipbc.io

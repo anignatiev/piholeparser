@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201902200007
+! Version: 201902212308
 ! Title: EasyPrivacy
-! Last modified: 20 Feb 2019 00:07 UTC
+! Last modified: 21 Feb 2019 23:08 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -622,6 +622,7 @@
 /analytics/sockjs.
 /analytics/tagx-
 /analytics/tealium-
+/analytics/timeme.
 /analytics/tms_
 /analytics/tools_
 /analytics/track-
@@ -8207,7 +8208,6 @@ _mongo_stats/
 ||xclaimwords.net^$third-party
 ! Czech
 ||analights.com^$third-party
-||ibillboard.com^$third-party
 ||itop.cz^$third-party
 ||lookit.cz^$third-party
 ||monkeytracker.cz^$third-party
@@ -13095,6 +13095,7 @@ _mongo_stats/
 ||prnewswire.com/rit.gif?
 ||prnewswire.com/rt.gif?
 ||proac.nationwide.com^
+||production.airswap.io^
 ||projop.dnsalias.com/intranet-crm-tracking/
 ||prontohome.com/permuto.do
 ||propertyfinder.ae/js/ga.js
@@ -13142,6 +13143,7 @@ _mongo_stats/
 ||recomendedsite.com/addon/upixel/
 ||recommendation.24.com^
 ||redding.com/metrics/
+||reddit.com/timings/
 ||reddit.com^*.gif?$third-party
 ||redditmedia.com/gtm/jail?
 ||redeye.williamhill.com^
