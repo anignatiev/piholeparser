@@ -2036,3 +2036,37 @@ tasteofhome.com#@#.ad-wrapper
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4973
 ||fox5dc.com/html/js/endplay/analytics/ga.js$script,redirect=noopjs,domain=fox5dc.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/4977
+stopmensonges.com#@#.td-ad-background-link
+
+! https://forums.lanik.us/viewtopic.php?p=145834#p145834
+dday.it#@#.sponsored
+
+! page broken coed.com
+coed.com#@#[style*="background-image:"]
+
+! daclips . in page broken
+|https://$third-party,image,domain=daclips.in,badfilter
+|http://$third-party,image,domain=daclips.in,badfilter
+|http*://$third-party,image,domain=daclips.in|dropapk.com|gorillavid.in|movpod.in|mp3clan.one|powvideo.net|speedvid.net|stream2watch.org|streamplay.to|vidto.me|vidtudu.com|vodlock.co,badfilter
+|https://$third-party,stylesheet,domain=daclips.in,badfilter
+
+! page broken movpod .in
+|https://$third-party,image,domain=movpod.in,badfilter
+
+! playbill. com page broken / missing videos / broken play video
+playbill.com#@#[src*="blob:"]
+playbill.com#@#[style] > iframe
+playbill.com#@#div > iframe:first-child
+
+! toptenz. net broken => missing images
+toptenz.net#@#[src*="base64"]
+toptenz.net#@#[src*="data:"]
+
+! veteranstoday. com missing images
+veteranstoday.com#@#[src*="base64"]
+veteranstoday.com#@#[src*="data:"]
+
+! https://twitter.com/RyuTechGaming/status/1098525246687248384
+@@||europarl.europa.eu/website/webanalytics/*$script,1p

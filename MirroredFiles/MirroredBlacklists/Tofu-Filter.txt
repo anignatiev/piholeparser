@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 20:46 2019/02/21
+! 最終更新 10:56 2019/02/22
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -1071,6 +1071,7 @@ drtuber.com,nuvid.com,proporn.com,viptube.com###puFloatDiv
 ||extreme-dm.com^$third-party
 ||ezworks.jp^$third-party
 ||fastonlineusers.com^$third-party
+||fivecdm.com^$third-party
 ||flagcounter.com^$third-party
 ||fpop.net^$third-party
 ||gemius.pl^$third-party
@@ -1831,14 +1832,14 @@ msn.com##.morefromproviderrr
 @@||images.outbrain.com^$domain=msn.com
 
 !------------2ch pink------------!
-|http://$script,third-party,domain=2ch.net
-||2ch.net/js/thread.
+||i2ad.jp^$domain=5ch.net
 
 ||thench.net^$domain=bbspink.com
 bbspink.com##[class$="_banner"]
 bbspink.com##[class^="banner_"]
 pinktower.com##div
-jump.2ch.net##div
+
+@@||itest.5ch.net/rect/special_ads.json
 
 !------------ニコニコ動画------------!
 !アンケート
