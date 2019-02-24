@@ -600,6 +600,12 @@ redtube.com###video_right_col
 ||3gporn.biz^$third-party
 xtube.com##.col-xs-24.col-xl-8 > div:first-child
 
+!----porntrex network
+||fd7qz88ckd.com^
+@@||porntrex.com^$generichide
+@@||gounlimited.to/js/pop.js
+
+
 !-----TXXX Network
 ||com^*?z=*&sub=$~third-party
 ||zog.link^$third-party

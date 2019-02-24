@@ -14,30 +14,3 @@ ____________________________________
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
-## Determining Download Attempt
-## Attempting To Download List
-## Checking File Size
-## Attempting Creation Of Mirror File
-## Parsing List
-### Removing Comments
-14804 Lines After Removing Comments
-### Removing Content Filtering
-14804 Lines After Removing Content Filtering
-### Trimming HOSTS Format IP Addresses
-14804 Lines After Trimming HOSTS Format IP Addresses
-### Removing Empty Space
-14800 Lines After Removing Empty Space
-### Removing Invalid FQDN Characters
-2726 Lines After Removing Invalid FQDN Characters
-### Converting All Text To Lower Case
-2726 Lines After Converting All Text To Lower Case
-### Checking For Fully Qualified Domain Name Requirements
-2696 Lines After Checking For Fully Qualified Domain Name Requirements
-### Reverse Searching For Invalid Top Level Domains
-2685 Lines After Reverse Searching For Invalid Top Level Domains
-### Removing Duplicate Lines
-2684 Lines After Removing Duplicate Lines
-## Checking Parsed File Size
-## Attempting Creation Of Parsed List
-## Calculating Parse Time
-## Clearing Temp Vars
