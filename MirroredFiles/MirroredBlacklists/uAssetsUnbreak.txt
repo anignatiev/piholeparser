@@ -1691,9 +1691,10 @@ wildsnow.com#@##ad-container
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4021
 |https://$third-party,script,domain=damimage.com|dimtus.com|imagedecode.com|imageteam.org|imgadult.com|imgclick.net|imgdew.com|imgdew.pw|imgdrive.net|imgkings.com|imgmaid.net|imgmaze.com|imgmaze.pw|imgnemo.com|imgoutlet.com|imgrock.info|imgrock.net|imgstudio.org|imgtaxi.com|imgtown.net|imgtown.pw|imgtrex.com|imgview.net|imgview.pw|imgwallet.com|ironimg.net,badfilter
-|https://$third-party,script,domain=damimage.com|dimtus.com|imagedecode.com|imageteam.org|imgadult.com|imgclick.net|imgdew.com|imgdew.pw|imgdrive.net|imgkings.com|imgmaid.net|imgmaze.com|imgmaze.pw|imgnemo.com|imgoutlet.com|imgrock.info|imgrock.net|imgstudio.org|imgtaxi.com|imgtrex.com|imgview.net|imgwallet.com|ironimg.net
 |https://$third-party,image,domain=damimage.com|dimtus.com|imagedecode.com|imageteam.org|imgadult.com|imgclick.net|imgdew.com|imgdew.pw|imgdrive.net|imgkings.com|imgmaid.net|imgmaze.com|imgmaze.pw|imgnemo.com|imgoutlet.com|imgrock.info|imgrock.net|imgstudio.org|imgtaxi.com|imgtown.net|imgtown.pw|imgtrex.com|imgview.net|imgview.pw|imgwallet.com|ironimg.net,badfilter
-|https://$third-party,image,domain=damimage.com|dimtus.com|imagedecode.com|imageteam.org|imgadult.com|imgclick.net|imgdew.com|imgdew.pw|imgdrive.net|imgkings.com|imgmaid.net|imgmaze.com|imgmaze.pw|imgnemo.com|imgoutlet.com|imgrock.info|imgrock.net|imgstudio.org|imgtaxi.com|imgtrex.com|imgview.net|imgwallet.com|ironimg.net
+|https://$third-party,image,domain=damimage.com|dimtus.com|imagedecode.com|imageteam.org|imgadult.com|imgclick.net|imgdew.com|imgdew.pw|imgdrive.net|imgkings.com|imgmaid.net|imgmaze.com|imgmaze.pw|imgnemo.com|imgoutlet.com|imgrock.co|imgrock.info|imgrock.net|imgstudio.org|imgtaxi.com|imgtown.net|imgtown.pw|imgtrex.com|imgview.net|imgview.pw|imgwallet.com|ironimg.net,badfilter
+! https://github.com/uBlockOrigin/uAssets/issues/4993
+@@||imgdew.com/js/*$script,domain=imgdew.pw
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4036
 pasteboard.co##+js(set-constant.js, nads, trueFunc)
@@ -2070,3 +2071,13 @@ veteranstoday.com#@#[src*="data:"]
 
 ! https://twitter.com/RyuTechGaming/status/1098525246687248384
 @@||europarl.europa.eu/website/webanalytics/*$script,1p
+
+! https://forums.lanik.us/viewtopic.php?f=64&t=42660
+/transparent-pixel.$badfilter
+
+! https://github.com/NanoMeow/QuickReports/issues/714
+@@||code.adsales.snidigital.com/conf/ads-config.js$script,domain=travelchannel.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/5000
+@@||googletagmanager.com/gtm.js$script,domain=superesportes.com.br
+||tailtarget.com/profiles.js$script,redirect=noopjs,domain=superesportes.com.br
