@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Uq+ilPTqtGjPLD8PI2/+ag
-! Version: 201902240012
+! Checksum: W/hF+Q79UuVQZfP+iir5mQ
+! Version: 201902260012
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 Feb 2019 00:12 UTC
+! Last modified: 26 Feb 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2941,6 +2941,8 @@ _xmlrss.
 /socialshareprivacy/*$~script,~stylesheet
 /socialshares.
 /SocialShareSprite.
+/socialsharing.
+/socialsharing/*
 /socialsheet.
 /socialsIcons/*
 /socialsite/*
@@ -4220,7 +4222,6 @@ _youtube_social_
 /wa_iframeCmp.
 /wa_lib.js
 /warnCookies.
-/wbconsent-
 /we_use_cookies?
 /webtrekk_gdpr.
 /widget_privacy/*
@@ -41958,6 +41959,7 @@ timeout.com#@#div[data-module="cookie_banner"]
 @@||visuals.feedly.com^*/resize?url=$image
 @@||vk.com/js/al/sharebox.js
 @@||vk.me/js/al/sharebox.js
+@@||vpobede.ru/assets/images/footer-social/$~third-party,xmlhttprequest
 @@||vpornoonlain.tv^*/share/$image,~third-party
 @@||wappalyzer.com/sites/default/files/icons/$image
 @@||wat.*/assets/images/common/fbsubscribe.jpg
