@@ -1366,19 +1366,12 @@ fullmatchesandshows.com,gowatchfreemovies.to,mediafire.com,newser.com,pornhub.co
 ! https://github.com/uBlockOrigin/uAssets/issues/3826
 gelbooru.com##+js(abort-current-inline-script.js, ExoDetector)
 ||exosrv.com^$script,redirect=noopjs,domain=gelbooru.com
-|https://$script,domain=gelbooru.com,badfilter
 @@||gelbooru.com^$first-party,script
 gelbooru.com##+js(popads-dummy.js)
 gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 gelbooru.com##a[href*="://media.r18.com/"]
 gelbooru.com##a[href*="://media.R18.com/"]
 gelbooru.com##a[href*="/track/"][target="_blank"]
-gelbooru.com#@#[style*="height:"][width]
-gelbooru.com#@#[style*="width:"][height]
-gelbooru.com#@#iframe[width]
-gelbooru.com#@#span[class]:last-child > a img[src]
-gelbooru.com#@##paginator
-gelbooru.com#@#center > a[href]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1081
 ! https://www.reddit.com/r/uBlockOrigin/comments/8sbjjk
@@ -2310,6 +2303,7 @@ fmovies.cab##+js(abort-on-property-read.js, _0x1477)
 ||soujoobafoo.com^
 ||9anime.*^$script,1p
 @@||9anime.*/assets/$script,1p
+@@||static.animecdn.xyz/js/ads.js$script,domain=9animes.ru
 
 ! https://github.com/uBlockOrigin/uAssets/pull/643
 serienstream.to##+js(abort-current-inline-script.js, document.readyState, /(?:\\x[0-9a-f]{2}){20}/)
@@ -14091,6 +14085,7 @@ uiz.io##+js(bab-defuser.js)
 ! https://forums.lanik.us/viewtopic.php?f=64&t=42257
 financialpost.com##+js(abort-on-property-read.js, stop)
 ||emn0.com^$script,domain=financialpost.com
+@@||financialpost.com^$generichide
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4223
 ||acortar.co^
@@ -17090,7 +17085,9 @@ fabsdeals.com,geki.tech##+js(addEventListener-defuser.js, /^(?:click|mouseup)$/,
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=battlecats-db.com
 
 ! https://github.com/NanoMeow/QuickReports/issues/681
+! https://github.com/NanoMeow/QuickReports/issues/720
 lewdzone.com##+js(abort-current-inline-script.js, fuckAdBlock, importFAB)
+lewdzone.com##+js(set-constant.js, adBlockDetected, noopFunc)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4924
 @@||linkgen.xyz^$generichide
@@ -17399,3 +17396,16 @@ newupdatesonline.com,skip.az##+js(abort-on-property-read.js, app_vars.force_disa
 skip.az##+js(abort-current-inline-script.js, fuckAdBlock, importFAB)
 @@||newupdatesonline.com^$generichide
 newupdatesonline.com##.adsbygoogle
+
+! https://github.com/uBlockOrigin/uAssets/issues/4689
+acfun.to##+js(alert-buster.js)
+acfun.to##+js(nano-setTimeout-booster.js)
+
+! https://github.com/NanoMeow/QuickReports/issues/718
+closeronline.co.uk##+js(abort-on-property-read.js, _sp_._networkListenerData)
+
+! https://github.com/NanoMeow/QuickReports/issues/721
+calculate.plus##+js(setTimeout-defuser.js, checkStopBlock)
+
+! https://github.com/uBlockOrigin/uAssets/issues/4291
+iqiyi.com##+js(nano-setInterval-booster.js)
