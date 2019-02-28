@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201902262230
+! Version: 201902272350
 ! Title: EasyPrivacy
-! Last modified: 26 Feb 2019 22:30 UTC
+! Last modified: 27 Feb 2019 23:50 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4236,6 +4236,7 @@
 ;sz=1x1;ord=
 =&cs_Referer=
 =ATAtracker&
+=event&*_ads%
 =get_preroll_cookie&
 =getSideStats&
 =googleanalytics_
@@ -5848,7 +5849,6 @@ _mongo_stats/
 ||marketo.net^$third-party
 ||marketshot.com^$third-party
 ||marketshot.fr^$third-party
-||markitondemand.com^$third-party
 ||maropost.com^$third-party
 ||martianstats.com^$third-party
 ||maryneallynndyl.com^$third-party
@@ -5890,6 +5890,7 @@ _mongo_stats/
 ||metricsdirect.com^$third-party
 ||meyersdalebixby.com^$third-party
 ||mezzobit.com^$third-party
+||mfadsrvr.com^$third-party
 ||mialbj6.com^$third-party
 ||micpn.com^$third-party
 ||midas-i.com^$third-party
@@ -8644,7 +8645,9 @@ _mongo_stats/
 ||bonnieradnetwork.se^$third-party
 ||brandmetrics.com^$third-party
 ||citypaketet.se^$third-party
+||cssrvsync.com^$third-party
 ||dep-x.com^$third-party
+||lwadm.com^$third-party
 ||myvisitors.se^$third-party
 ||prospecteye.com^$third-party
 ||publish-int.se^$third-party
@@ -8655,6 +8658,7 @@ _mongo_stats/
 ||tns-sifo.se^$third-party
 ||vastpaketet.se^$third-party
 ||webserviceaward.com^$third-party
+||yieldbird.com^$third-party
 ! Thai
 ||d-stats.com^$third-party
 ||tracker.stats.in.th^$third-party
@@ -9335,6 +9339,7 @@ _mongo_stats/
 ||d23p9gffjvre9v.cloudfront.net^
 ||d23pi6hvdpcc5i.cloudfront.net^
 ||d24cze5sab2jwg.cloudfront.net^
+||d24rtvkqjwgutp.cloudfront.net^
 ||d25ezbwokoefx6.cloudfront.net^
 ||d27s92d8z1yatv.cloudfront.net/js/jquery.jw.analitycs.js
 ||d28g9g3vb08y70.cloudfront.net^
@@ -10004,6 +10009,7 @@ _mongo_stats/
 ||observer.ip-label.net^
 ||ocp.cnettv.com^*/Request.jsp?
 ||octopart-analytics.com^$third-party
+||oda.markitondemand.com^
 ||oddcast.com/event.php?$object-subrequest
 ||odnaknopka.ru/stat.js
 ||offermatica.intuit.com^

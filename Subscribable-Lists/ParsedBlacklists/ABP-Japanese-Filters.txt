@@ -177,6 +177,7 @@ adobe-sdk.com
 adobedtm.com
 adobetag.com
 adocean.pl
+adotmob.com
 adp.joins.com
 adpdx.com
 adperformance.netdna-cdn.com
@@ -816,6 +817,7 @@ dizzyac.com
 djtkh1hova1ix.cloudfront.net
 dmpcounter.com
 dmtry.com
+dmxleo.com
 dn888.com
 dnn506yrbagrg.cloudfront.net
 domdex.com
@@ -1140,6 +1142,7 @@ icidating.com
 icm.r.worldssl.net
 icontent.us
 ictowaz.ru
+id5-sync.com
 idee-malins-du-net.com
 idees-du-net.com
 idees-malin.com
@@ -2056,7 +2059,6 @@ semater.com
 sendapplicationget.com
 senkevich-sl.net
 senkevich-vk.net
-sense.dailymotion.com
 seoparts.com
 sergentx.com
 seriousads.net

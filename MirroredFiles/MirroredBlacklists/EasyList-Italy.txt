@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 5YKBjj8b6UMYuvbx/AcgWg
-! Version: 201902270011
+! Checksum: Hb9lUFKJllgtHuoF9Tv1Yg
+! Version: 201902280011
 ! Title: EasyList Italy
-! Last modified: 27 Feb 2019 00:11 UTC
+! Last modified: 28 Feb 2019 00:11 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html
@@ -878,6 +878,7 @@ brocardi.it#@#.with-background-ads
 ||cinemadelsilenzio.it/images/sponsor/
 ||cinemagratis.info/img/bottone
 ||cinemahd.space/img/bottone
+||cinemaitaliano.info^*/banner/
 ||cinquequotidiano.it^*/skin_
 ||ciociaria24.net/ciociaria24-
 ||ciociariaoggi.info/public/img/banner-
@@ -2653,8 +2654,12 @@ lifegate.it##.-sponsor
 gnoccaforum.com,tiscali.it##.ADV
 ludomedia.it##.AmazonBox
 hostingtalk.it##.Banner
+cinemaitaliano.info##.Banner01
+cinemaitaliano.info##.Banner430x45
+cinemaitaliano.info##.Banner970x250
 lavoratorio.it##.BannerAltoHP
 primopianomolise.it##.BannerDinamico
+cinemaitaliano.info##.BannerDx
 metropolisweb.it##.BannerMezzoNotizia
 primopianomolise.it##.Banner_Modulabile
 nqnews.it##.Banner_box
@@ -2899,6 +2904,7 @@ corrieredilatina.it,corriereromagna.it,ilmattinodifoggia.it,lanuovaprimapagina.i
 libero.it##.big
 gazzettinodelchianti.it##.big_link
 youreporter.it##.bigrectangle600
+foodnetwork.it##.billboard
 ladige.it##.block--dfp
 lafedelta.it,vitatrentina.it##.block-banners
 ilgiornale.it##.block-ilg-adsense
