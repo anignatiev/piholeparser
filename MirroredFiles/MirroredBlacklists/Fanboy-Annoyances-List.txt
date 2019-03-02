@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: o6cf9Cy5U3Z/E0J7TZvkPw
-! Version: 201903010012
+! Checksum: 0oUJmK3jJO7E6a8xGejIRw
+! Version: 201903020012
 ! Title: Fanboy's Annoyance List
-! Last modified: 01 Mar 2019 00:12 UTC
+! Last modified: 02 Mar 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4983,6 +4983,7 @@ _site_cookie_
 ###footer-subscription-modal
 ###footerEmailSignup
 ###footerNewsletter
+###footerSubscribe
 ###footer__newsletter-signup
 ###footer_block_newsletter
 ###footer_email_bar
@@ -19257,6 +19258,7 @@ _site_cookie_
 ##[href^="http://reddit.com/submit"]
 ##[id^="gigya_inline_share_"]
 ##[id^="sl_share_fb"]
+##[js-target="share-flyout"]
 ##[name="Click to follow us on twitter"]
 ##[name="fb_share"]
 ##[onclick^="window.open('http://twitter.com/share?"]
@@ -33736,6 +33738,7 @@ tineye.com##.posterous
 jack-wolfskin.com##.pp_overlay
 jack-wolfskin.com##.pp_pic_holder
 gaytimes.co.uk##.pre-header
+ddnews.gov.in##.pre_next
 pornhub.com##.premiumPromoBannerWrapper
 bmwblog.com,globes.co.il,grubstreet.com,gwinnettdailypost.com,porn5.com##.prev
 fixya.com##.prev-arrow
