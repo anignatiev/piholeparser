@@ -4299,10 +4299,6 @@ vier.be##+js(abort-on-property-write.js, _sp_)
 ! https://github.com/uBlockOrigin/uAssets/issues/1168
 jkmk.net##+js(abort-on-property-read.js, anOptions)
 
-! https://github.com/uBlockOrigin/uAssets/issues/1169
-||verliga.net/canales/adblock.js$script,redirect=fuckadblock.js-3.2.0,first-party
-||verliga.net^*pub$subdocument
-
 ! https://github.com/uBlockOrigin/uAssets/issues/1170
 downace.com##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 downace.com##+js(nowebrtc.js)
@@ -4632,9 +4628,12 @@ denverpost.com##+js(set-constant.js, CnnXt.Utils.detectAdBlock, noopFunc)
 ! https://github.com/uBlockOrigin/uAssets/issues/1242
 ! https://github.com/uBlockOrigin/uAssets/issues/1486
 ! https://www.reddit.com/r/uBlockOrigin/comments/8247ib/adblock_detected_vercanalestvcom/
+! https://github.com/uBlockOrigin/uAssets/issues/3269
+! https://github.com/uBlockOrigin/uAssets/issues/1169
 ||vergol.com/*adblock.js$script,redirect=fuckadblock.js-3.2.0
 @@||vergol.com/*/ads.js$script,first-party
-@@||vergol.com/player/ads.js$script,domain=verliga.net
+@@||vergol.com/player/ads.js$script,domain=vercanalestv1.com|verliga.net|verliga1.net|vertelevision.tv|vertelevisor.com
+||vergol.com/pop/
 ||vercanalestv1.com/publimia.html$subdocument
 ! https://github.com/uBlockOrigin/uAssets/issues/3081#issuecomment-409314084
 glorinlost.rocks,vercanalestv1.com,vertelevision.tv##+js(abort-on-property-write.js, Fingerprint2)
@@ -4643,6 +4642,10 @@ telerium.tv,vercanalestv1.com,vergol.com,verliga-net,verliga1.net##+js(nowebrtc.
 vergol.com##+js(setInterval-defuser.js, (), 500)
 @@||googletagmanager.com/gtag/js?$script,domain=telerium.tv
 ||static.tellerium.com^$frame,domain=telerium.tv
+limpi.tv##+js(nowebrtc.js)
+||verliga1.net/reproad300.html$subdocument
+||verliga.net/canales/adblock.js$script,redirect=fuckadblock.js-3.2.0,first-party
+||verliga.net^*pub$subdocument
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1243
 ||superligatv.com/adblocks.js$script,redirect=fuckadblock.js-3.2.0
@@ -6211,7 +6214,6 @@ img.yt##+js(abort-on-property-read.js, ExoLoader)
 ! https://github.com/jspenguin2017/uBlockProtector/issues/940
 ! https://github.com/jspenguin2017/uBlockProtector/issues/959
 ! https://github.com/NanoMeow/QuickReports/issues/524
-dl.ccbluex.net##+js(addEventListener-defuser.js, load, _0x)
 @@||ccbluex.net^$generichide
 */adsid/integrator.js$script,redirect=noopjs,domain=dl.ccbluex.net
 ||pagead2.googlesyndication.com^$script,redirect=noopjs,domain=dl.ccbluex.net
@@ -6987,6 +6989,7 @@ megawarez.org##+js(abort-on-property-write.js, smrtSB)
 megawarez.org##[class^="ads"]
 ! https://github.com/uBlockOrigin/uAssets/issues/1932#issuecomment-465748184
 ||acortar.net^$3p
+||acortar.net^$popunder
 ||acortar.net^$third-party,popup,badfilter
 ! https://github.com/uBlockOrigin/uAssets/issues/1932#issuecomment-457093955
 megawarez.org##.onp-sl-content:style(display: block !important;)
@@ -7442,6 +7445,7 @@ vipbox.live##+js(setInterval-defuser.js, (), 500)
 ||lvgvax82bp.com^$3p,important
 ||magdove.xyz^$3p
 ||olswr.27684.club^$3p
+||presbanise.pw^$3p
 ||valshara.com^$3p
 *$popup,domain=vipbox.live,3p
 @@|about:blank|$popup,domain=vipbox.live
@@ -11120,10 +11124,6 @@ yify-movies.net##+js(abort-current-inline-script.js, JSON, isFinite)
 ! https://github.com/uBlockOrigin/uAssets/issues/3268
 linkedin.com##.feed-shared-update:has-text(Promoted)
 
-! https://github.com/uBlockOrigin/uAssets/issues/3269
-limpi.tv##+js(nowebrtc.js)
-||verliga1.net/reproad300.html$subdocument
-
 ! https://github.com/uBlockOrigin/uAssets/issues/3270
 pornrox.com##+js(abort-on-property-read.js, ExoLoader.addZone)
 
@@ -11709,6 +11709,8 @@ keeplinks.co##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 ! https://github.com/NanoMeow/QuickReports/issues/326
 @@||htnovo.net^$generichide
 htnovo.net##+js(setInterval-defuser.js, visibility, 1000)
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=htnovo.net
+htnovo.net##.adsbygoogle
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3468
 sosiali.com##+js(setTimeout-defuser.js, Adblock, 2000)
@@ -13464,6 +13466,7 @@ wikifeet.com##+js(abort-on-property-read.js, NativeAd)
 ! https://github.com/uBlockOrigin/uAssets/issues/4844
 uploadrar.com##+js(abort-current-inline-script.js, document.getElementById, bannerad)
 uploadrar.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+uploadrar.com##+js(bab-defuser.js)
 ||suhunsoo.uk^
 
 ! https://github.com/NanoMeow/QuickReports/issues/295
@@ -17044,6 +17047,7 @@ putlockernet.net##+js(abort-on-property-write.js, Fingerprint2)
 putlockers-hd.stream##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 ||eegookiz.com^
 putlockers-hd.stream##a[href^="/go.html"]
+putlockers-hd.stream###playeradds
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4912
 zedstream.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
@@ -17518,3 +17522,33 @@ sdmy168.com,901209.com##+js(set-constant.js, judge, noopFunc)
 ||lessonis.com^
 ||refatxhcuu.com^
 ||qtgarolvaigptk.com^
+
+! https://github.com/NanoMeow/QuickReports/issues/738
+themanual.com##+js(abort-current-inline-script.js, setTimeout, googlefcPresent)
+themanual.com##.dtads-slot
+
+! https://www.reddit.com/r/uBlockOrigin/comments/awe7hp/tamilmovierockersorg_doesnt_work_with_ublock_pls/
+tamilmovierockers.org##+js(addEventListener-defuser.js, load, 2000)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5042
+watch32com.net##+js(abort-on-property-write.js, Fingerprint2)
+||tofretonlepa.info^
+||d63a3au5lqmtu.cloudfront.net^
+
+! https://github.com/uBlockOrigin/uAssets/issues/5043
+hdflix.net##+js(abort-on-property-read.js, Date.prototype.toUTCString)
+@@||hdflix.net^$generichide
+
+! https://github.com/uBlockOrigin/uAssets/issues/5044
+bmovie.cc##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+||bmovie.cc/sw.js$script,1p
+||gobeerta.net^
+
+! https://github.com/NanoMeow/QuickReports/issues/170
+@@||finobe.com^$generichide
+
+! https://github.com/NanoMeow/QuickReports/issues/740
+@@||flacmusicfinder.com/*ad$script,1p
+
+! https://github.com/NanoMeow/QuickReports/issues/723
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=play.nova.bg
