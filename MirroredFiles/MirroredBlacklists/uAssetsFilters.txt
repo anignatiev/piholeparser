@@ -150,7 +150,7 @@ kicker.de,kino.de,meinestadt.de,spieletipps.de##+js(set-constant.js, String.from
 clever-tanken.de,giga.de##+js(set-constant.js, Math.floor, noopFunc)
 lablue.*##+js(setTimeout-defuser.js, r(), 500)
 !#endif
-giga.de,kicker.de,kino.de,meinestadt.de,spieletipps.de##^script:has-text((window);)
+express.de,giga.de,kicker.de,kino.de,meinestadt.de,spieletipps.de##^script:has-text((window);)
 airliners.de,auszeit.bio,autorevue.at,bafoeg-aktuell.de,berliner-kurier.de,berliner-zeitung.de,bikerszene.de,boersennews.de,bonedo.de,chefkoch.de,clever-tanken.de,computerbild.de,deine-tierwelt.de,desired.de,dhd24.com,digitalfernsehen.de,donnerwetter.de,e-hausaufgaben.de,express.de,fanfiktion.de,finya.de,formel1.de,frag-mutti.de,freenet.de,fremdwort.de,frustfrei-lernen.de,fussballdaten.de,gartendialog.de,gartenlexikon.de,gewinnspiele.tv,giga.de,gut-erklaert.de,hifi-forum.de,haus-garten-test.de,iban-rechner.de,inside-handy.de,juraforum.de,kicker.de,kindergeld.org,kino.de,ksta.de,lablue.*,liga3-online.de,lz.de,meinestadt.de,messen.de,moviejones.de,mt.de,musiker-board.de,mz-web.de,naumburger-tageblatt.de,news.de,newsbreak24.de,nickles.de,nw.de,oeffentlicher-dienst.info,onlinemarketing.de,pff.de,play3.de,prad.de,psychic.de,quoka.de,quotenmeter.de,rheinische-anzeigenblaetter.de,rimondo.com,rundschau-online.de,spielen.de,spieletipps.de,spielfilm.de,t-online.de,tichyseinblick.de,torgranate.de,transfermarkt.*,truckscout24.*,tvinfo.de,unicum.de,wallstreet-online.de,weltfussball.at,weristdeinfreund.de,weser-kurier.de,wetter.com,wetteronline.at,wetteronline.ch,wieistmeineip.*,wize.life,ze.tt##^script:has-text(.doesContentMatch)
 airliners.de,auszeit.bio,autorevue.at,bafoeg-aktuell.de,berliner-kurier.de,berliner-zeitung.de,bikerszene.de,boersennews.de,bonedo.de,chefkoch.de,clever-tanken.de,deine-tierwelt.de,desired.de,dhd24.com,digitalfernsehen.de,donnerwetter.de,e-hausaufgaben.de,express.de,fanfiktion.de,finya.de,formel1.de,frag-mutti.de,freenet.de,fremdwort.de,frustfrei-lernen.de,fussballdaten.de,gartendialog.de,gartenlexikon.de,gewinnspiele.tv,giga.de,gut-erklaert.de,hifi-forum.de,haus-garten-test.de,iban-rechner.de,inside-handy.de,juraforum.de,kicker.de,kindergeld.org,kino.de,ksta.de,lablue.*,liga3-online.de,lz.de,meinestadt.de,messen.de,moviejones.de,mt.de,musiker-board.de,mz-web.de,naumburger-tageblatt.de,news.de,newsbreak24.de,nickles.de,nw.de,oeffentlicher-dienst.info,onlinemarketing.de,pff.de,play3.de,prad.de,psychic.de,quoka.de,quotenmeter.de,rheinische-anzeigenblaetter.de,rimondo.com,rundschau-online.de,spielen.de,spieletipps.de,spielfilm.de,tichyseinblick.de,torgranate.de,transfermarkt.*,truckscout24.*,tvinfo.de,unicum.de,wallstreet-online.de,weltfussball.at,weristdeinfreund.de,weser-kurier.de,wetter.com,wetteronline.at,wetteronline.ch,wieistmeineip.*,wize.life,ze.tt##^script:has-text(overrideZoneFloor:)
 4-liga.com,4fansites.de,4players.de,9monate.de,abendblatt.de,abendzeitung-muenchen.de,abseits-ka.de,ajaxshowtime.com,allgemeine-zeitung.de,allaboutphones.nl,antenne.de,arcor.de,areadvd.de,areamobile.de,ariva.de,astronews.com,aussenwirtschaftslupe.de,auto-motor-und-sport.de,auto-service.de,autobild.de,autoextrem.de,autopixx.de,baby-vornamen.de,bento.de,bigfm.de,bildderfrau.de,blackd.de,boerse-online.de,boerse.de,boersen.manager-magazin.de,braunschweiger-zeitung.de,brieffreunde.de,buerstaedter-zeitung.de,buffed.de,caravaning.de,cavallo.de,cinema.de,computerbild.de,computerhilfen.de,computerworld.nl,comunio.*,comunio-cl.com,connect.de,dbna.de,derwesten.de,dieblaue24.com,dnn.de,eatsmarter.de,echo-online.de,einfachschoen.me,elektrobike-online.com,e-mountainbike.com,epochtimes.de,extratipp.com,f1maximaal.nl,fettspielen.de,fid-gesundheitswissen.de,finanztreff.de,fitforfun.de,focus.de,football365.fr,fr.de,futurezone.de,gala.de,gamersglobal.de,gamesaktuell.de,gamestar.de,gameswelt.at,gameswelt.de,gamezone.de,geissblog.koeln,gelnhaeuser-tageblatt.de,general-anzeiger-bonn.de,genialetricks.de,geniale-tricks.com,gesundheit.de,gevestor.de,giessener-anzeiger.de,gifhorner-rundschau.de,gipfelbuch.ch,gmuender-tagespost.de,golem.de,gusto.at,gutfuerdich.co,hamburg.de,hardwareluxx.de,hartziv.org,harzkurier.de,hausgarten.net,haz.de,heftig.*,helmstedter-nachrichten.de,heilpraxisnet.de,heise.de,hftg.co,hochheimer-zeitung.de,hofheimer-zeitung.de,hoerzu.de,ikz-online.de,immobilienscout24.de,ingame.de,investor-verlag.de,jpgames.de,kabeleins.de,kamelle.de,kindergeld.info,klettern.de,klettern-magazin.de,kochbar.de,kreis-anzeiger.de,lachainemeteo.com,lampertheimer-zeitung.de,landwirt.com,laut.de,lauterbacher-anzeiger.de,leckerschmecker.me,lesfoodies.com,levif.be,lifeline.de,likemag.com,ln-online.de,lustaufsleben.at,lustich.de,lvz.de,main-spitze.de,mathepower.com,maz-online.de,medisite.fr,mehr-tanken.de,mein-kummerkasten.de,mein-mmo.de,mein-wahres-ich.de,menshealth.de,mercato365.com,metal-hammer.de,metalflirt.de,minecraft-serverlist.net,mittelbayerische.de,modhoster.de,mopo.de,morgenpost.de,motor-talk.de,motorbasar.de,motorradonline.de,motorsport-total.com,motortests.de,mountainbike-magazin.de,moviepilot.de,mtb-news.de,musikexpress.de,musikradar.de,netzwelt.de,neuepresse.de,neueroeffnung.info,news.at,news38.de,nicknight.de,nnn.de,notebookchat.com,notebookcheck.*,notebookcheck-tr.com,noz.de,noz-cdn.de,nrz.de,nwzonline.de,oberhessische-zeitung.de,onlinekosten.de,onvista.de,op-marburg.de,outdoor-magazin.com,outdoorchannel.de,paradisi.de,pc-magazin.de,pcgames.de,pcgameshardware.de,pcwelt.de,pcworld.pl,peiner-nachrichten.de,pferde.de,pietsmiet.de,pixelio.de,pkw-forum.de,planetsnow.de,playboy.de,playfront.de,pnn.de,pons.com,prignitzer.de,profil.at,promipool.de,promobil.de,prosiebenmaxx.de,ran.de,readmore.de,rechtslupe.de,reuters.com,rhein-main-presse.de,roadbike.de,roemische-zahlen.net,rollingstone.de,rot-blau.com,rp-online.de,rtl.de,rtv.de,rugby365.fr,runnersworld.de,safelist.eu,salzgitter-zeitung.de,sat1.de,sat1gold.de,schwaebische-post.de,serienjunkies.de,shz.de,sixx.de,skodacommunity.de,smart-wohnen.net,sn.at,spiegel.de,spielfilm.de,sport.de,sportal.de,sport365.fr,spox.com,svz.de,szene1.at,szene38.de,tagesspiegel.de,taschenhirn.de,techstage.de,testedich.*,the-voice-of-germany.de,thueringen24.de,tierfreund.co,tiervermittlung.de,trend.at,tv-media.at,tvdigital.de,tvspielfilm.de,tvtoday.de,unterhalt.net,usinger-anzeiger.de,usp-forum.de,videogameszone.de,vienna.at,vip.de,virtualnights.com,vox.de,wallstreet-online.de,waz.de,webfail.com,webwereld.nl,welt.de,weristdeinfreund.de,werkzeug-news.de,wetter.*,wetteronline.*,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wintotal.de,winboard.org,windows-7-forum.net,wn.de,wohngeld.org,wolfenbuetteler-zeitung.de,wolfsburger-nachrichten.de,woman.at,womenshealth.de,wormser-zeitung.de,woxikon.de,wp.de,wr.de,yachtrevue.at##+js(setInterval-defuser.js, text/css, 10)
@@ -1138,7 +1138,7 @@ hackintoshzone.com##+js(setTimeout-defuser.js, _0x)
 hackintoshzone.com##.onp-sl-outer-wrap
 hackintoshzone.com##.onp-sl-timer-label
 hackintoshzone.com##.onp-sl-flat-theme
-hackintoshzone.com##[id^="loader-wrapper"]
+hackintoshzone.com##:xpath(//div[contains(text(),"Disable")]/..)
 
 ! As of 2016-12-04, spotted use on http://www.vox.com/
 ! `0emn.com` belongs to Google Inc., created in October.
@@ -1411,20 +1411,11 @@ movie-blog.*##+js(popads-dummy.js)
 ! https://forums.lanik.us/viewtopic.php?p=124411#p124411
 ! https://www.reddit.com/r/uBlockOrigin/comments/70eyk1/help_ads_on_website/
 ! https://github.com/uBlockOrigin/uAssets/issues/4086
-! https://forums.lanik.us/viewtopic.php?p=144608#p144608
-watchcartoononline.*##+js(abort-current-inline-script.js, String.fromCharCode, /\/\*[0-9a-f]{40}\*\//)
-watchcartoononline.*##+js(abort-on-property-read.js, BB_ind)
 watchcartoononline.io##+js(fuckadblock.js-3.2.0)
 watchcartoononline.*##+js(noeval.js)
-watchcartoononline.io##a[href$=".png"]
-watchcartoononline.io##a[href][target="_blank"][rel="noindex nofollow"]
-watchcartoononline.*##a[href*="scripts"]
 watchcartoononline.*,watchcartoonsonline.*##+js(abort-current-inline-script.js, document.createElement, jsc.mgid.com)
-watchcartoononline.com##+js(setTimeout-defuser.js, o(), 1)
-watchcartoononline.com##+js(setTimeout-defuser.js, Pu.call, 1)
-watchcartoononline.com##^script:has-text(3f87b0eaddd)
-watchcartoononline.com##a[href*="/1.0/go"]
-watchcartoonsonline.*##a[href*="scripts"]
+thewatchcartoononline.tv,watchcartoononline.*,watchcartoonsonline.*##+js(set-constant.js, String.prototype.charCodeAt, trueFunc)
+
 there.to##+js(disable-newtab-links.js)
 there.to##+js(abort-on-property-read.js, AaDetector)
 ||keqi7dh3df.com^
@@ -2453,9 +2444,10 @@ kimcartoon.*##+js(set-constant.js, check_adblock, true)
 kimcartoon.*##+js(setInterval-defuser.js, (), 500)
 kimcartoon.*##^script:has-text(this[atob)
 ||fghtem.com^$xmlhttprequest,redirect=nooptext,domain=kimcartoon.me
-@@||kimcartoon.me/ads/fb.aspx$subdocument,first-party
+@@||kimcartoon.*/ads/fb.aspx$subdocument,first-party
 kimcartoon.*##.kcAds1
-kimcartoon.*##a[href*=".jpg"]
+kimcartoon.*##[class*="banner"]
+kimcartoon.*##.top_page_alert
 
 ! https://forums.lanik.us/viewtopic.php?p=124271#p124271
 dailyuploads.*##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
@@ -3031,6 +3023,7 @@ majesy.*##+js(setInterval-defuser.js, visibility, 1000)
 magesy.*,majesy.*##+js(addEventListener-defuser.js, load, onload)
 magesy.*,majesy.*##+js(setTimeout-defuser.js, nextFunction, 250)
 magesy.*,majesy.*##+js(addEventListener-defuser.js, load, nextFunction)
+magesy.*,majesy.*##+js(abort-on-property-read.js, adblockEnabled)
 @@||magesypro.com^$generichide
 @@||majesy.com^$generichide
 ||magesy.*/cdn-cgi/apps/head/*$script,first-party
@@ -4767,10 +4760,7 @@ oke.io##+js(abort-on-property-write.js, Fingerprint2)
 gogoanime.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 gogoanime.*,gogoanimes.*##+js(set-constant.js, String.prototype.charAt, noopFunc)
 gogoanime.*##+js(setTimeout-defuser.js, o(), 1)
-gogoanime.*##a[href$=".jpg"]
-gogoanime.*##[href$=".png"]
 gogoanime.*##.banner_center
-||gogoanime.*/scripts/$script
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1276
 ourl.io##+js(abort-on-property-write.js, _pop)
@@ -5587,8 +5577,6 @@ readcomiconline.to##+js(setTimeout-defuser.js, callExo)
 ||readcomiconline.to/widgets/exo$subdocument,first-party
 ||readcomiconline.to/Scripts/*.html$subdocument,first-party
 readcomiconline.to##.divCloseBut
-readcomiconline.to##a[href*=".jpg"]
-
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1526
 arbwarez.com##+js(set-constant.js, $tieE3, true)
@@ -5964,13 +5952,13 @@ mp3guild.*,mp3clan.*##+js(abort-on-property-write.js, Fingerprint2)
 ! https://github.com/NanoMeow/QuickReports/issues/212
 ! https://github.com/NanoMeow/QuickReports/issues/219
 ! https://github.com/NanoMeow/QuickReports/issues/363
-fflares.com##+js(abort-on-property-read.js, popjs.init)
+fileflares.com,fflares.com##+js(abort-on-property-read.js, popjs.init)
 fflares.com,fileflares.com##+js(window.open-defuser.js, , hicpm10)
 fflares.com,fileflares.com##+js(window.open-defuser.js, , oclasrv)
 @@||fileflares.com^$generichide
 @@||fflares.com^$generichide
 ||adservice.google.com^$script,redirect=noopjs,domain=fileflares.com|fflares.com
-@@||google.com/js/*$domain=fflares.com
+@@||google.com/js/*$domain=fileflares.com|fflares.com
 @@||pagead2.googlesyndication.com^$script,domain=fileflares.com|fflares.com
 @@||fileflares.com^$xhr,script,1p
 @@||fflares.com^$xhr,script,1p
@@ -7056,14 +7044,10 @@ lolhentai.net##+js(window.open-defuser.js)
 mangafreak.net##+js(abort-current-inline-script.js, String.fromCharCode, /\/\*[0-9a-f]{40}\*\//)
 mangaku.info##+js(abort-on-property-write.js, __cmp)
 animenova.org,animeplus.tv,animetoon.org,animewow.org,goodanime.co,kiss-anime.*,mangaku.info,mangareader.net,toonget.net,toonova.net##+js(set-constant.js, String.fromCharCode, trueFunc)
-animeland.*,animenova.org,animeplus.tv,animetoon.org,animewow.org,goodanime.co,mangareader.net,toonget.net,toonova.net##a[href$=".jpg"]
-animeland.*,animenova.org,animeplus.tv,animetoon.org,animewow.org,goodanime.co,kiss-anime.*,mangaku.info,mangareader.net,toonget.net,toonova.net##a[href$=".png"]
-animenova.org,animeplus.tv,animetoon.org,animewow.org,goodanime.co,mangafreak.net,mangaku.info,thewatchcartoononline.tv,toonget.net,toonova.net##a[href*="scripts"]
 memecenter.com##a[href$=".png"]
 mangareader.net##iframe[sandbox*="allow-popups-to-escape-sandbox"]
 ||kiss-anime.tv^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.fbcdn.net *.gstatic.com *.google.com *.facebook.com *.disquscdn.com *.twitter.com https://disqus.com *.addthis.com *.facebook.net *.disqus.com *.kiss-anime.tv
 kiss-anime.tv##tbody
-||animeland.*/scripts/$script
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1949
 ||pagead2.googlesyndication.com^$script,redirect=noopjs,domain=offidocs.com
@@ -8864,8 +8848,8 @@ itsourtree.com##+js(abort-current-inline-script.js, document.getElementById, blo
 @@||reshet.tv^$generichide
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2545
-gamestorrent.co##+js(nowebrtc.js)
-gamestorrent.co##a[href$=".jpg"]
+gamestorrent.co,pcgamestorrents.com##+js(nowebrtc.js)
+||pcgamestorrents.com/sw.js$script,1p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2544
 oldsluthardcore.com##+js(abort-on-property-write.js, ExoLoader)
@@ -10703,6 +10687,11 @@ ahoypirate.in,ahoypiratebaai.eu,airproxyproxy.pw,airproxytpb.red,bayception.pw,b
 ||49oa3o49b6.com^
 ||b8y4ddrvap.com^
 ##[href^="http://yarn.ideaeggs.press/"]
+hyperbaytpb.top##+js(abort-on-property-read.js, AaDetector)
+||udrivemyr54.com^
+||nfkd2ug8d9.com^
+##.dbanner
+##[src="/static/img/download-top.png"]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3139
 tomadivx.tv##+js(nowebrtc.js)
@@ -12308,7 +12297,11 @@ itascan.info##+js(set-constant.js, adBlockDetected, noopFunc)
 linsoo.co.kr##+js(setTimeout-defuser.js, (), 500)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3651
-tamilmv.biz##+js(nowebrtc.js)
+! https://github.com/uBlockOrigin/uAssets/issues/5046
+tamilmv.*##+js(nowebrtc.js)
+tamilmv.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+||tamilmv.*/sw.js$script,xhr,1p
+||cotchaug.com^
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=41843
 @@||textmechanic.com^$generichide
@@ -13924,6 +13917,7 @@ couponscorpion.com##.ezoic-ad
 a-o.ninja,anime-odcinki.pl##+js(set-constant.js, showAds, true)
 ! https://github.com/uBlockOrigin/uAssets/issues/4338
 anime-odcinki.pl##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+@@||anime-odcinki.pl^$generichide
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4185
 videodistribution.com##+js(set-constant.js, canRunAds, true)
@@ -14480,8 +14474,8 @@ zenganet.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 zermusicz.com##+js(setTimeout-defuser.js, nextFunction, 250)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4297
-egyptiangy.net##+js(setTimeout-defuser.js, nextFunction, 250)
-egyptiangy.net##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+egyptiangy.net,egyptiangy-link1.xyz##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+egyptiangy.net,egyptiangy-link1.xyz##+js(setTimeout-defuser.js, nextFunction, 250)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4298
 short-adz.org##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
@@ -15960,8 +15954,8 @@ ibcomputing.com##+js(setTimeout-defuser.js, Adblocker, 10000)
 nostalgie.fr##.pave
 
 ! https://github.com/NanoMeow/QuickReports/issues/554
-@@||stadionowioprawcy.pl^$generichide
-stadionowioprawcy.net##.adsbygoogle
+@@||stadionowioprawcy.*^$generichide
+stadionowioprawcy.*##.adsbygoogle
 
 ! https://github.com/NanoMeow/QuickReports/issues/559
 solarmovies.pl##+js(set-constant.js, check_adblock, true)
@@ -17545,6 +17539,7 @@ bmovie.cc##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 ||gobeerta.net^
 
 ! https://github.com/NanoMeow/QuickReports/issues/170
+finobe.com##+js(abort-current-inline-script.js, ga, adsbygoogle)
 @@||finobe.com^$generichide
 
 ! https://github.com/NanoMeow/QuickReports/issues/740
@@ -17552,3 +17547,31 @@ bmovie.cc##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 
 ! https://github.com/NanoMeow/QuickReports/issues/723
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=play.nova.bg
+
+! https://github.com/NanoMeow/QuickReports/issues/742
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=teknomatch.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/5047
+@@||convallariaslibrary.com^$generichide
+
+! https://github.com/uBlockOrigin/uAssets/issues/5050
+akalaty4day.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+akalaty4day.com##+js(bab-defuser.js)
+
+! popups filmesonlinex. co
+filmesonlinex.co##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+
+! https://github.com/uBlockOrigin/uAssets/issues/744#issuecomment-469062646
+@@||ksta.de^$generichide
+ksta.de##.dm_ad-container
+
+! https://github.com/uBlockOrigin/uAssets/issues/5053
+@@||itshokunin.cc^$generichide
+itshokunin.cc##.adsbygoogle
+
+! https://github.com/uBlockOrigin/uAssets/issues/5052
+@@||frag-mutti.de^$generichide
+frag-mutti.de##.superbanner
+
+! https://github.com/NanoMeow/QuickReports/issues/744
+alphaantileak.net##+js(abort-on-property-read.js, adsbygoogle)
