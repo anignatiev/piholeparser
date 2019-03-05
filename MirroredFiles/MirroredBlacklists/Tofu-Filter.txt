@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 10:56 2019/02/22
+! 最終更新 17:59 2019/03/04
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -2519,8 +2519,11 @@ thisav.com#@#[id$="_ad"]:not(html):not(body)
 
 clipconverter.cc##script:contains(window)
 ero-video.net##script:contains(showPopUpBanner)
-kissanime.ru##script:contains(window.open)
-kissanime.ru##script:contains(adsIfrme)
+kissanime.ru##+js(setTimeout-defuser.js, /YANMKABFYWRW|YANABWEKA/)
+kissanime.*##+js(kissanime-defuser.js)
+kissanime.ac,kissanime.co##+js(set-constant.js, check_adblock, true)
+kissanime.ru##+js(abort-current-inline-script.js, $, AdBlock)
+kissanime.ru##+js(abort-current-inline-script.js, parseInt, incrementClicks)
 rapidvideo.com##script:contains(window)
 redtube.com##script:contains(var rAb=)
 redtube.com##script:contains(tj_ads)

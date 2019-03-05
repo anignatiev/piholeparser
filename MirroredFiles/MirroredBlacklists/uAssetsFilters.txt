@@ -4322,11 +4322,12 @@ flashx.*##+js(window.open-defuser.js)
 flashx.*##a[href^="https://adsrvmedia.adk2x.com/"]
 @@||ajax.googleapis.com/ajax/libs/jquery/*$script,domain=flashx.tv
 @@||fastcontentdelivery.com/js/showad*.js$script,domain=flashx.to
-@@||flashx.*/counter.cgi$script,first-party
+@@||flashx.*/counter.cgi$script
 @@||flashx1.tv/js/*ad*.js$script,domain=flashx.to
 @@||flashx1.tv/js/showad*.js$script,domain=flashx.tv
 flashx.*##A[href$=".html"][rel="nofollow norefferer noopener"]
 flashx.*###download_div2
+||flashx.*/*.php$frame,1p
 
 ! https://github.com/jspenguin2017/uBlockProtector/issues/786
 gadzetomania.pl##+js(abort-on-property-write.js, __serviceAbModal)
@@ -8440,8 +8441,8 @@ inkapelis.com##+js(abort-on-property-write.js, Fingerprint2)
 ||7hu8e1u001.com^$third-party
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2416
+cuevana3.co##+js(abort-on-property-read.js, S9tt)
 cuevana3.*##+js(abort-on-property-write.js, popUpUrl)
-||cuevana3.*/*.php$subdocument
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2417
 cinemitas.com##+js(nowebrtc.js)
@@ -14743,8 +14744,6 @@ blogginggyanbox.com##+js(set-constant.js, blockAdBlock, true)
 @@||alt-torrent.com^$generichide
 @@||alt-torrent.com/lib/js/ads.js$script,first-party
 alt-torrent.com##+js(abort-on-property-read.js, popjs.init)
-||rpnhxhzcejyiym.com^
-||yxfkdvkh.com^
 
 ! https://github.com/NanoAdblocker/NanoFilters/issues/230
 ! https://github.com/NanoMeow/QuickReports/issues/570
@@ -15043,9 +15042,11 @@ mangovideo.pw##+js(abort-on-property-read.js, popjs.init)
 ||mangovideo.pw###_iframe_content
 ||mangovideo.pw/player/html.php?aid
 ||streamplay.to^$third-party,badfilter
+||clickopop1000.com^$3p
 ||ig0nr8hhhb.com^$3p
 ||stoomeddert.info^$3p
 ||syndicpop.com^$3p
+##[href="https://alter.pandanetwork.tk"]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4397
 pradjadj.com##+js(set-constant.js, google_jobrunner, true)
@@ -16540,7 +16541,7 @@ counsellingresult2016.in##+js(set-constant.js, blockAdBlock, true)
 ||counsellingresult2016.in/sw.js$script,1p
 
 ! delfi . lt ads
-delfi.lt##+js(setTimeout-defuser.js, href, 1000)
+delfi.lt##+js(abort-on-property-read.js, _dlf.ab)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4771
 dramavery.com##+js(set-constant.js, allow_ads, true)
@@ -17514,8 +17515,6 @@ sdmy168.com,901209.com##+js(set-constant.js, judge, noopFunc)
 300mbmovies4u.club##+js(abort-on-property-read.js, popjs.init)
 300mbmovies4u.club##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 ||lessonis.com^
-||refatxhcuu.com^
-||qtgarolvaigptk.com^
 
 ! https://github.com/NanoMeow/QuickReports/issues/738
 themanual.com##+js(abort-current-inline-script.js, setTimeout, googlefcPresent)
@@ -17563,6 +17562,7 @@ filmesonlinex.co##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/744#issuecomment-469062646
 @@||ksta.de^$generichide
+ksta.de##.dm_ad
 ksta.de##.dm_ad-container
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5053
@@ -17575,3 +17575,14 @@ frag-mutti.de##.superbanner
 
 ! https://github.com/NanoMeow/QuickReports/issues/744
 alphaantileak.net##+js(abort-on-property-read.js, adsbygoogle)
+
+! https://www.reddit.com/r/uBlockOrigin/comments/ax3wtv/ads_in_videos_porn_site/
+porn-tube-club.com##+js(window.open-defuser.js)
+||clmcom.com/vast/*$xhr,domain=porn-tube-club.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/5057
+*$frame,domain=pelis24tv.co,3p
+||djfiln.com^$3p
+
+! txcmp3. com popups
+txcmp3.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
