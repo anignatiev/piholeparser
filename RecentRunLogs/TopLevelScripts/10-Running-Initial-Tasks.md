@@ -2,31 +2,31 @@
 [Return To Main](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
-## Recreating TempVar File Tue Mar 5 00:20:17 UTC 2019
+## Recreating TempVar File Wed Mar 6 00:20:17 UTC 2019
 Process Took 0 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/08-Recreating-TempVar-File.md)
 
-## Removing Temp Files Tue Mar 5 00:20:17 UTC 2019
-Process Took 0 Seconds.
+## Removing Temp Files Wed Mar 6 00:20:17 UTC 2019
+Process Took 1 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/10-Removing-Temp-Files.md)
 
-## Setting Start Time Variable Tue Mar 5 00:20:17 UTC 2019
-Process Took 1 Seconds.
+## Setting Start Time Variable Wed Mar 6 00:20:18 UTC 2019
+Process Took 0 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/15-Setting-Start-Time-Variable.md)
 
-## Identifying Lists Without https Tue Mar 5 00:20:18 UTC 2019
+## Identifying Lists Without https Wed Mar 6 00:20:18 UTC 2019
 Process Took 1 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/20-Identifying-Lists-Without-https.md)
 
-## Counting Lists To Process Tue Mar 5 00:20:19 UTC 2019
+## Counting Lists To Process Wed Mar 6 00:20:19 UTC 2019
 Process Took 0 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/25-Counting-Lists-To-Process.md)
 
-## Checking For Lists With Multiple Sources Tue Mar 5 00:20:19 UTC 2019
-Process Took 1 Seconds.
+## Checking For Lists With Multiple Sources Wed Mar 6 00:20:19 UTC 2019
+Process Took 3 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/30-Checking-For-Lists-With-Multiple-Sources.md)
 
-## Checking To See If Parsing Method Has Changed Tue Mar 5 00:20:20 UTC 2019
-Process Took 1 Seconds.
+## Checking To See If Parsing Method Has Changed Wed Mar 6 00:20:22 UTC 2019
+Process Took 0 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/70-Checking-To-See-If-Parsing-Method-Has-Changed.md)
 

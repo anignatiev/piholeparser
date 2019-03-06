@@ -14,3 +14,7 @@ ____________________________________
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
+## Determining Download Attempt
+## Attempting To Download List
+## Checking File Size
+* BLOGRAM-Analysis-Block-Filter-List-for-Japan List Was An Empty File After Download. Wed Mar 6 00:24:50 UTC 2019
