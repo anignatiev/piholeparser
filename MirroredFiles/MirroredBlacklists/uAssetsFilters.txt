@@ -512,6 +512,7 @@ al.ly,ally.sh##[id^="aswift"]
 ! https://www.reddit.com/r/dataisbeautiful/comments/4t4d16/chart_shows_why_pharma_companies_are_fighting/d5ejqc0
 ! https://github.com/uBlockOrigin/uAssets/issues/2317
 washingtonpost.com##+js(abort-current-inline-script.js, InstallTrigger, _0x)
+washingtonpost.com##+js(addEventListener-defuser.js, pb-adblocked)
 washingtonpost.com##.adblocker-root
 ! https://bugzilla.mozilla.org/show_bug.cgi?id=1466730
 washingtonpost.com##html:style(overflow: auto !important;)
@@ -3184,6 +3185,7 @@ clik.pw##+js(setTimeout-defuser.js, _0x)
 clik.pw##^script:has-text(ADBLOCK)
 *$frame,domain=clik.pw
 @@||api-secure.solvemedia.com^$frame
+##a[href^="https://syndication.exdynsrv.com/splash.php"]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/909
 adbilty.me##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
@@ -3933,9 +3935,6 @@ shrinklink.co##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 ! https://github.com/uBlockOrigin/uAssets/issues/1070
 songs.pk##+js(popads-dummy.js)
 ||evenexcite.com^
-
-! https://github.com/uBlockOrigin/uAssets/issues/1072
-megaseriestorrent.*##+js(abort-on-property-read.js, adBlockDetected)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/292
 ! https://github.com/uBlockOrigin/uAssets/issues/1074
@@ -6875,9 +6874,6 @@ animeidhentai.com###myDIV4
 ! https://github.com/uBlockOrigin/uAssets/issues/1913
 @@||apkmos.com^$generichide
 
-! https://github.com/uBlockOrigin/uAssets/issues/1912
-@@||torrentsgamez.com^$generichide
-
 ! https://github.com/uBlockOrigin/uAssets/issues/1914
 @@||farmeramania.de^$generichide
 
@@ -6973,6 +6969,7 @@ zonarutoppuden.com##^script:has-text(3f87b0eaddd)
 megawarez.org##+js(abort-on-property-write.js, smrtSB)
 megawarez.org##[class^="ads"]
 ! https://github.com/uBlockOrigin/uAssets/issues/1932#issuecomment-465748184
+acortar.net##+js(abort-on-property-write.js, time_discount)
 ||acortar.net^$3p
 ||acortar.net^$popunder
 ||acortar.net^$third-party,popup,badfilter
@@ -9023,9 +9020,6 @@ szs.pw##+js(setTimeout-defuser.js, '0x)
 szs.pw##[id^="_pnI_"]
 ##a[href^="http://mob1ledev1ces.com/"]
 
-! https://torrentking.pro/movies popups
-torrentking.pro##+js(nowebrtc.js)
-
 ! https://github.com/uBlockOrigin/uAssets/issues/2584
 yummysextubes.com##+js(abort-on-property-read.js, Aloader.serve)
 yummysextubes.com##+js(abort-current-inline-script.js, $, anyclick)
@@ -9951,8 +9945,6 @@ filesrom.com##+js(abort-on-property-read.js, anOptions)
 simpsonsua.com.ua##+js(abort-current-inline-script.js, atob, void)
 simpsonsua.com.ua##+js(set-constant.js, canRunAds, true)
 ||megastock.ru/doc/*/azure_rus.gif$image,redirect=32x32-transparent.png,domain=simpsonsua.com.ua
-*$script,domain=krutor.org|simpsonsua.com.ua|torrent-doza.me,badfilter
-*$script,domain=krutor.org|torrent-doza.me
 */preroll/*mp4$media,domain=td7vccbywda3.ru
 @@||simpsonsua.com.ua^$csp,first-party
 @@||simpsonsua.com.ua/adv$image,first-party
@@ -16648,7 +16640,8 @@ ishort.org##+js(set-constant.js, v, true)
 ishort.org^$popunder
 ref-dir.com^$popunder
 ! https://github.com/uBlockOrigin/uAssets/issues/4798#issuecomment-464387517
-hackstore.net,megajuegosfree.com,megapeliculasrip.net,pocosmegashdd.org,pelismegahd.pe,latinomegahd.net,peliculasgoogledrive.info,pelislatino3gp.biz##+js(abort-current-inline-script.js, $, = [)
+pelismegahd.pe##+js(abort-current-inline-script.js, $, = [)
+hackstore.net,latinomegahd.net,megajuegosfree.com,megapeliculasrip.net,peliculasgoogledrive.info,pelislatino3gp.biz,pocosmegashdd.org##+js(addEventListener-defuser.js, DOMContentLoaded, console)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4799
 compucalitv.com##.onp-sl-content:style(display: block !important;)
@@ -17632,3 +17625,28 @@ nibelungen-kurier.de##+js(set-constant.js, __blockAds, true)
 
 ! coolsoft anti adb
 coolsoft.altervista.org##+js(bab-defuser.js)
+
+! https://github.com/NanoMeow/QuickReports/issues/760
+gembelcit.net##+js(abort-on-property-read.js, AaDetector)
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=gembelcit.net
+||3r1kwxcd.top^$3p
+
+! https://github.com/uBlockOrigin/uAssets/issues/5065
+photopea.com##+js(set-constant.js, ppCanRunAds, true)
+
+! https://github.com/NanoMeow/QuickReports/issues/755
+@@||hanimesubth.com/assets/js/ads.core.js$script,first-party
+hanimesubth.com##+js(addEventListener-defuser.js, load, nextFunction)
+*.gif$domain=hanimesubth.com,image
+
+! https://forums.lanik.us/viewtopic.php?p=146184#p146184
+neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5067
+bagas31.info##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+||bagas31.info/sw.js$script,1p
+||binotwither.com^
+bagas31.info##[href="javascript:void(0);"]
+
+! https://github.com/uBlockOrigin/uAssets/issues/5069
+noz.de##+js(set-constant.js, nozNoAdBlock, true)

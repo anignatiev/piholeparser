@@ -13,8 +13,5 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
+* BLOGRAM-Analysis-Block-Filter-List-for-Japan List Unavailable To Download. Thu Mar 7 00:20:31 UTC 2019
 ## Checking If List Updated Online
-## Determining Download Attempt
-## Attempting To Download List
-## Checking File Size
-* BLOGRAM-Analysis-Block-Filter-List-for-Japan List Was An Empty File After Download. Wed Mar 6 00:24:50 UTC 2019
