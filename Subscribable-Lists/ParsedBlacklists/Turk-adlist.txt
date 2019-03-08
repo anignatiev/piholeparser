@@ -47,7 +47,9 @@ adasist.com
 adbers.com
 adbetclickin.pink
 adbetnet.advertserve.com
+adbetnet.com
 adbreak.cdn.ubeei.com
+adbreak.cubecdn.net
 adbreak.net
 adbreak.ubeei.com
 adbuzz.com.tr
@@ -69,6 +71,7 @@ adimage.media
 adimg.rekmob.com
 adjust.io
 adkernel.com
+adl.mynetreklam.com
 adlure.net
 admatic.com.tr
 admax.com.tr
@@ -76,6 +79,7 @@ admdspc.com
 admeld.com
 admitlead.ru
 admost.com
+adnatro.com
 adnet.com.tr
 adnetworkperformance.com
 adnexio.com
@@ -247,13 +251,17 @@ banners.tempobet.com
 bashirian.biz
 bbelements.com
 bcvc.mobi
+bcvcrdr.xyz
 beacon.securestudies.com
 beelert.com
 betburdaaffiliates.com
 betendads.com
+betkanyon100.com
 betwinnerpromo.com
 betzeplinreklam.com
 bilgibahis.com
+bilink.xyz
+binaryad.com
 bizographics.com
 bkrtx.com
 block.s2block.com
@@ -335,7 +343,6 @@ criteo.net
 crowdynews.com
 crwdcntrl.net
 csi.gstatic.com
-cstkk.720pizle.com
 cxense.com
 d.applovin.com
 d.haberler.com
@@ -353,6 +360,7 @@ device-metrics-us-2.amazon.com
 dimml.io
 directrev.com
 dmtracking2.alibaba.com
+dogus-ads-cdn.dygdigital.com
 doubleclick.net
 downads.com
 ds.serving-sys.com
@@ -392,6 +400,7 @@ geolocation.performgroup.com
 getshar.es
 gez.io
 gigya.com
+git.emarketing724.com
 global.msads.net
 go-mpulse.net
 go.spaceshipads.com
@@ -528,6 +537,7 @@ msads.net
 mtburn.com
 mynativeads.com
 myswitchads.com
+nativespot.com
 netaffiliation.com
 netbookmedia.com
 netmng.com
@@ -591,6 +601,7 @@ pebed.dm.gg
 perabetads.com
 perf.mmstat.com
 perfectaudience.com
+performancenative.com
 permato.com
 permutive.com
 perr.h-cdn.com
@@ -709,6 +720,8 @@ smetrics.capitalone.com
 smopy.com
 smrtbnr.club
 smrtbnr.com
+smrtbnr.org
+smrtbnr.top
 smrtbnr.xyz
 smrtcdn.club
 sociomantic.com
@@ -756,6 +769,7 @@ top-fwz1.mail.ru
 top10.yazete.com
 toroadvertisingmedia.com
 tpc.googlesyndication.com
+tr.bannersdf.com
 tr.hit.gemius.pl
 track.adform.net
 track.vitringez.com
@@ -777,6 +791,7 @@ triggit.com
 truvacdn.com
 turkeyrank.com
 turn.com
+turngrind.com
 tynt.com
 ua.supersonicads.com
 udm.scorecardresearch.com
