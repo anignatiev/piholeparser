@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YFucS1twUWrUpDMppxPlRw
-! Version: 201903040012
+! Checksum: /pCcLepHQU6OHSs7xQDHwA
+! Version: 201903100012
 ! Title: Fanboy's Annoyance List
-! Last modified: 04 Mar 2019 00:12 UTC
+! Last modified: 10 Mar 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -30924,6 +30924,7 @@ _site_cookie_
 ||netdna-ssl.com^*-mailchimp-$domain=sassymanila.com
 ||newsletter.bdnews24.com^
 ||nscreenmedia.com^*-newsletter.
+||oghits.com^*/modules/modal/assets/js/modal.min.js
 ||oilprice.com/iframes/sidebar_signupform/
 ||politics.co.uk^*/newsletter.
 ||premierchristianradio.com^*/Stay-informed-
@@ -34423,6 +34424,7 @@ theweek.co.uk###block-theweek_contexts-newsletter-signup
 bossip.com###bossip-newsletter-widget
 menafn.com###bottom3
 motherjones.com###bottom_adhesion
+broadwayworld.com###bounceModal
 business-standard.com###box
 maxim.com###boxes-box-maxim_newsletter
 thebaffler.com###boxzilla-overlay
