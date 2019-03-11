@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8cZNEdCXYBkxrC+OQMj10A
-! Version: 201903100011
+! Checksum: OY0pQUTOp6csV1eOwkbwEw
+! Version: 201903110011
 ! Title: RU AdList: Counters
-! Last modified: 10 Mar 2019 00:11 UTC
+! Last modified: 11 Mar 2019 00:11 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -67,6 +67,7 @@
 !
 ! = Частные фильтры ===========================================================
 fastpic.ru###picContainer > img
+happy-hack.ru#?##side_right > .block_r:-abp-has(noindex > center)
 pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net#?##tor-reged ~ *:-abp-has(a)
 pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net#?##tor-reged ~ *:-abp-has(img)
 $third-party,other,xmlhttprequest,domain=mastarti.com

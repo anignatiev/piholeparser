@@ -549,6 +549,20 @@ timesofindia.indiatimes.com##.hm_adlist
 timesofindia.indiatimes.com##.esi_container:has([onclick] P:matches-css-before(content:/Ad/))
 timesofindia.indiatimes.com##[onclick] .btxt:matches-css-before(content:/Ad/):xpath(../../..)
 indiatimes.com##[onclick] .btxt:has-text(/Ad/):xpath(../../..)
+indiatimes.com#@#a[onclick*="/click.htm?"]
+indiatimes.com##[onclick] p:has-text(/Ad/):xpath(../../..)
+m.economictimes.com##H2:has-text(/Promoted/) + DIV
+m.economictimes.com##h2:has-text(/Promoted/)
+||m.economictimes.com/mpetat/commons/images/rbc-red.png$image
+economictimes.indiatimes.com##div h2:has(span:matches-css-before(content: /Sponsored/))
+economictimes.indiatimes.com##div h2:has(span:matches-css-before(content: /Sponsored/)) + div
+indiatimes.com##h2:has-text(/Promoted/) + div
+indiatimes.com##h2:has-text(/Promoted/)
+||media.indiatimes.in/idthat/commons/images/rbc-gray.png$image
+indiatimes.com##[onclick] h5:has-text(/Ad/):xpath(../../..)
+m.timesofindia.com##.brand_ctn:has-text(/Ad:/):xpath(../..)
+m.timesofindia.com##span:has-text(/Ad:/):xpath(../..)
+m.timesofindia.com##p:has-text(/Ad:/):xpath(../../..)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4056
 economictimes.indiatimes.com###aroundweb
@@ -778,6 +792,7 @@ m.timesofindia.com,m.photos.timesofindia.com##.ad1
 @@||m.photos.timesofindia.com^$generichide
 m.timesofindia.com##.adsinview
 timesofindia.com##+js(abort-on-property-read.js, detector)
+indiatimes.com##+js(setTimeout-defuser.js, adBlockDetectionStart)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/104
 m.aajtak.in##body > #adbocker_alt.adblocker-page
@@ -1900,6 +1915,8 @@ skidrowgamesreloaded.com##+js(popads.net.js)
 sport365.live##+js(setTimeout-defuser.js, /location\.replace|setRefreshAdFloat|setRotateAdSlice/)
 @@||medianetworkinternational.com/js/fingerprint2.js$script,domain=realstream.pw
 @@||medianetworkinternational.com/js/advertisement.js$script,domain=realstream.pw
+@@||tags2.adshell.net^$script,domain=realstream.pw
+realstream.pw##+js(window.open-defuser.js)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/256#issuecomment-318899683
 qz.com##.ad-engage
@@ -2447,12 +2464,14 @@ kimcartoon.*##.top_page_alert
 ! https://forums.lanik.us/viewtopic.php?p=124271#p124271
 dailyuploads.*##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
 dailyuploads.*##+js(abort-current-inline-script.js, parseInt, tabunder)
+dailyuploads.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 dailyuploads.*##+js(window.open-defuser.js)
 ||dailyuploads.net/images/gbinsta.jpg$image,1p
 ||dailyuploads.net/images/redbuttonx.png$image,1p
 ||dailyuploads.net/sw.js$script
 dailyuploads.net##[href^="https://href.li/"]
 dailyuploads.net##a[href^="http://hh-btr.com/"]
+||chouftak.net^
 
 ! https://github.com/uBlockOrigin/uAssets/issues/265
 ! https://github.com/uBlockOrigin/uAssets/issues/692
@@ -5972,6 +5991,7 @@ fflares.com,fileflares.com##+js(window.open-defuser.js, , oclasrv)
 @@||fileflares.com^$xhr,script,1p
 @@||fflares.com^$xhr,script,1p
 fflares.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com *.google-analytics.com *.solvemedia.com *.googletagmanager.com
+@@||fileflares.com/$csp,first-party
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1632
 vidoza.net##+js(noeval.js)
@@ -14648,7 +14668,7 @@ yourtechguider.com##+js(set-constant.js, blockAdBlock, true)
 yourtechguider.com##.adsbygoogle
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4329
-cuee.io,cuio.io##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+cu2.io,cuee.io,cuio.io##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 
 ! https://github.com/NanoMeow/QuickReports/issues/151
 ! https://github.com/NanoMeow/QuickReports/issues/228
@@ -14791,11 +14811,8 @@ gifsis.com##+js(set-constant.js, blockAdBlock, true)
 gifsis.com##.adsbygoogle
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4359
-shink.link##+js(abort-on-property-write.js, Fingerprint2)
-shink.link##+js(nowebrtc.js)
-shink.link##+js(set-constant.js, RunAds, true)
-shink.link##+js(abort-current-inline-script.js, parseInt, encodeURIComponent)
-*.gif$domain=shink.link,image
+||shink.link^
+||performanceonclick.com^
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4268#issuecomment-449131154
 7aytna.com,abshort.co,addslinkearn.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
@@ -17708,6 +17725,7 @@ unity-vault.com##+js(abort-on-property-write.js, AaDetector)
 
 ! https://adblockplus.org/forum/viewtopic.php?p=186120#p186120
 @@||torcidatricolor.tv^$generichide
+||torcidatricolor.tv/*.gif$image
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5085
 @@||url.hulblog.com^$generichide
@@ -17729,3 +17747,44 @@ hongfire.com##+js(noeval.js)
 
 ! https://github.com/NanoMeow/QuickReports/issues/735
 gamekult.com##+js(abort-on-property-read.js, SmartWallSDK)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5090
+@@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$script,domain=apkonline.net
+
+! https://github.com/uBlockOrigin/uAssets/issues/5094
+healthhindigyan.in##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+@@||healthhindigyan.in^$generichide
+healthhindigyan.in##.adsbygoogle
+
+! https://github.com/uBlockOrigin/uAssets/issues/5091
+@@||catchsms.com^$generichide
+
+! https://github.com/uBlockOrigin/uAssets/issues/5092
+@@||smstibo.com^$generichide
+
+! https://github.com/uBlockOrigin/uAssets/issues/5093
+gsmturkey.net##+js(abort-current-inline-script.js, fuckAdBlock, importFAB)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5095
+linksof.life##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+linksof.life##+js(addEventListener-defuser.js, click, trigger)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5097
+shorted.id##+js(nowebrtc.js)
+shorted.id##+js(abort-on-property-read.js, Date.prototype.toUTCString)
+shorted.id##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+||naetoris.pw^
+||usairguw.com^
+
+! https://github.com/uBlockOrigin/uAssets/issues/5096
+shrinkbuck.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+
+! jokerplayer .net popups (sport player)
+jokerplayer.net##+js(abort-on-property-read.js, AaDetector)
+||3221dkf7m2.com^
+
+! https://github.com/uBlockOrigin/uAssets/issues/5099
+cl250.club##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5098
+sh11.xyz##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
