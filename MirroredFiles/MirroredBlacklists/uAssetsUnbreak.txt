@@ -1837,6 +1837,10 @@ windowscentral.com#@#a[href^="/e?link="]
 ||unblocked.app^$csp=script-src 'self' * 'unsafe-inline',badfilter
 ||seedpeer.me^$csp=script-src 'self' 'unsafe-inline',badfilter
 seedpeer.me,seedpeer.unblocked.app##.section.page-content > .container > div > div:has-text(/recommended/i)
+||unblocked.pet^$csp=script-src 'self' * 'unsafe-inline',badfilter
+seedpeer.unblocked.pet##.title:has-text(/recommended/i):xpath(..)
+||seedpeer.unblocked.*^$frame,1p
+||seedpeer.me^$frame,1p
 
 ! https://github.com/easylist/easylist/issues/2285
 @@||fastwhitecat.com/wp-content/plugins/*-google-tag-manager/$script,1p
@@ -2036,14 +2040,10 @@ nypost.com,pagesix.com#@#.recirc
 ! https://forums.lanik.us/viewtopic.php?f=64&t=42677
 @@||s2.coinmarketcap.com^$image
 
-! https://github.com/uBlockOrigin/uAssets/issues/1234#issuecomment-467910110
-! https://github.com/uBlockOrigin/uAssets/commit/b9f59ab1dd43045327bf9e66c46248671bebaac7#commitcomment-32551449
 ! https://github.com/uBlockOrigin/uAssets/issues/3304
-|https://$third-party,script,domain=descargasnsn.com|jkanime.net
-|https://$third-party,script,domain=animeflv.net|descargasnsn.com|jkanime.net,badfilter
-|https://$third-party,xmlhttprequest,domain=descargasnsn.com|jkanime.net
-|https://$third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|jkanime.net,badfilter
 @@/https?:\/\/.*[=|&|%|#|+].*/$popup,domain=animeflv.net
+|https://$third-party,script,domain=animeflv.net|descargasnsn.com|jkanime.net,badfilter
+|https://$third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|jkanime.net,badfilter
 
 ! https://forums.lanik.us/viewtopic.php?f=64&t=42683
 thewirecutter.com#@#.callout
@@ -2056,10 +2056,6 @@ thewirecutter.com#@#.deals-love
 
 ! https://github.com/NanoMeow/QuickReports/issues/730
 @@||load.sumome.com^$script,domain=beewits.com
-
-! https://forums.lanik.us/viewtopic.php?f=64&t=42690&p=146040#p146040
-/adboost.$domain=~adboost.io|~adboost.sellerboost.de,badfilter
-/adboost.$domain=~adboost.io|~adboost.sellerboost.de|~adboost.se
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5035
 ||reutersmedia.net/resources/r/?m=$image,badfilter
@@ -2105,3 +2101,25 @@ maniac.de#@#.td-ad-background-link
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5076
 @@||oceano.uy/scripts/libraries/clappr/clappr-vast-ads-master/dist/vast-ads.min.js$script,1p
+
+! https://github.com/easylist/easylist/issues/2935
+@@||src.fedoraproject.org/static/issues_stats.js$script,1p
+
+! https://github.com/easylist/easylist/issues/2942
+@@||pro.ip-api.com/json/*$xhr,domain=aljazeera.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/5087
+@@||geoapi.indiatimes.com/$script,1p
+
+! https://github.com/easylist/easylist/issues/2998
+@@||puch-ersatzteile.at/static/*/Magento_GoogleAnalytics/*$script,1p
+
+! https://github.com/uBlockOrigin/uAssets/issues/5102#issuecomment-471467033
+readmng.com#@#[style] > iframe
+readmng.com#@#div > iframe:first-child
+
+! https://forums.lanik.us/viewtopic.php?p=146309#p146309
+theinventory.com#@#.commerce-inset
+
+! https://github.com/uBlockOrigin/uAssets/issues/5114
+@@||att.com/scripts/adobe/virtual/detm-container-hdr.js$script,1p

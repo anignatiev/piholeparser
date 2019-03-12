@@ -1,11 +1,10 @@
 [Adblock Plus 2.8.2]
-! Checksum: 4S7wB9HSTOOeak114ZaoXw
 ! Homepage: https://github.com/k2jp/abp-japanese-filters/
 ! Title: ABP Japanese Paranoid filters (ONLY FOR Japanese and experienced users: READ Support Policy)
 ! Expires: 6 hours
-! Version: 201804111805
+! Version: 201903120218
 !
-! Last modified: 2018-04-11 18:05 JST(UTC+0900)
+! Last modified: 2019-03-12 02:18 JST(UTC+0900)
 ! Change log: https://github.com/k2jp/abp-japanese-filters/wiki/FilterChangeLog
 ! Code license: GNU GPL v3: http://www.gnu.org/licenses/gpl.html
 ! Content license: Creative Commons BY-NC-SA 4.0 http://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -149,6 +148,18 @@ browser,navigator,messenger,songbird,midbrowser,emusic,webrunner##.abp-recommend
 -banners.$third-party
 -banners^$third-party
 -banners_$third-party
+-click-$script,object-subrequest,subdocument
+-click.$script,object-subrequest,subdocument
+-click^$script,object-subrequest,subdocument
+-click_$script,object-subrequest,subdocument
+-clicker-$script,object-subrequest,subdocument
+-clicker.$script,object-subrequest,subdocument
+-clicker^$script,object-subrequest,subdocument
+-clicker_$script,object-subrequest,subdocument
+-clk-$script,object-subrequest,subdocument
+-clk.$script,object-subrequest,subdocument
+-clk^$script,object-subrequest,subdocument
+-clk_$script,object-subrequest,subdocument
 -count-
 -count.
 -count^
@@ -958,6 +969,18 @@ browser,navigator,messenger,songbird,midbrowser,emusic,webrunner##.abp-recommend
 .banners.$third-party
 .banners^$third-party
 .banners_$third-party
+.click-$script,object-subrequest,subdocument
+.click.$script,object-subrequest,subdocument
+.click^$script,object-subrequest,subdocument
+.click_$script,object-subrequest,subdocument
+.clicker-$script,object-subrequest,subdocument
+.clicker.$script,object-subrequest,subdocument
+.clicker^$script,object-subrequest,subdocument
+.clicker_$script,object-subrequest,subdocument
+.clk-$script,object-subrequest,subdocument
+.clk.$script,object-subrequest,subdocument
+.clk^$script,object-subrequest,subdocument
+.clk_$script,object-subrequest,subdocument
 .count-
 .count.
 .count^
@@ -1761,6 +1784,7 @@ browser,navigator,messenger,songbird,midbrowser,emusic,webrunner##.abp-recommend
 /cnt.
 /flashCookie.$third-party
 /index.js^$third-party
+/invoke.js|$script,third-party
 /javascript.js^$third-party
 |http:*/js.js^$third-party
 |https:*/js.js^$third-party
@@ -2650,6 +2674,18 @@ _banners-$third-party
 _banners.$third-party
 _banners^$third-party
 _banners_$third-party
+_click-$script,object-subrequest,subdocument
+_click.$script,object-subrequest,subdocument
+_click^$script,object-subrequest,subdocument
+_click_$script,object-subrequest,subdocument
+_clicker-$script,object-subrequest,subdocument
+_clicker.$script,object-subrequest,subdocument
+_clicker^$script,object-subrequest,subdocument
+_clicker_$script,object-subrequest,subdocument
+_clk-$script,object-subrequest,subdocument
+_clk.$script,object-subrequest,subdocument
+_clk^$script,object-subrequest,subdocument
+_clk_$script,object-subrequest,subdocument
 _count-
 _count.
 _count^

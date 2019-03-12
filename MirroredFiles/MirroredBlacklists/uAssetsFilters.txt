@@ -1916,7 +1916,7 @@ sport365.live##+js(setTimeout-defuser.js, /location\.replace|setRefreshAdFloat|s
 @@||medianetworkinternational.com/js/fingerprint2.js$script,domain=realstream.pw
 @@||medianetworkinternational.com/js/advertisement.js$script,domain=realstream.pw
 @@||tags2.adshell.net^$script,domain=realstream.pw
-realstream.pw##+js(window.open-defuser.js)
+adshell.net,realstream.pw##+js(window.open-defuser.js)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/256#issuecomment-318899683
 qz.com##.ad-engage
@@ -4507,11 +4507,11 @@ $websocket,domain=vidup.me
 vidup.me^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.facebook.com *.facebook.net
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1205
-dir50.net##+js(bab-defuser.js)
-dir50.net##+js(abort-on-property-read.js, jsPopunder)
-dir50.net##+js(popads-dummy.js)
-dir50.net##+js(nano-setTimeout-booster.js)
-dir50.net##a[href^="https://ad."]
+dir50.*##+js(bab-defuser.js)
+dir50.*##+js(abort-on-property-read.js, jsPopunder)
+dir50.*##+js(popads-dummy.js)
+dir50.*##+js(nano-setTimeout-booster.js)
+dir50.*##a[href^="https://ad."]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1209
 imgcloud.pw##+js(popads-dummy.js)
@@ -5400,7 +5400,10 @@ webnovel.com##+js(set-constant.js, adblockSuspected, false)
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=webnovel.com
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=39864
+! https://github.com/uBlockOrigin/uAssets/issues/5113
 apkmirrorfull.com##+js(popads-dummy.js)
+apkmirrorfull.com##+js(abort-on-property-read.js, AaDetector)
+||cvqgnkeqme.com^
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1443
 ||dfs.ivi.ru/mp4-hi/*/storage*.mp4|$media,redirect=noopmp3-0.1s,domain=ivi.ru
@@ -5992,6 +5995,7 @@ fflares.com,fileflares.com##+js(window.open-defuser.js, , oclasrv)
 @@||fflares.com^$xhr,script,1p
 fflares.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com *.google-analytics.com *.solvemedia.com *.googletagmanager.com
 @@||fileflares.com/$csp,first-party
+||adsco.re^
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1632
 vidoza.net##+js(noeval.js)
@@ -6642,7 +6646,8 @@ reddit.com##.size-compact.Post:has([class*="promoted"])
 reddit.com##.vuIDB
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=40330
-toyoheadquarters.com##+js(abort-current-inline-script.js, AdBlockDetectorWorkaround)
+toyoheadquarters.com##+js(abort-current-inline-script.js, AdBlockDetectorWorkaround2)
+toyoheadquarters.com##+js(abort-current-inline-script.js, $, XenForo)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1831
 *$subdocument,domain=so.gd,third-party
@@ -11942,10 +11947,12 @@ elitegol.me##+js(abort-on-property-write.js, Fingerprint2)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3542
 hdvid.*##+js(abort-current-inline-script.js, atob, tabunder)
-hdvid.*,onvid.*,vidhd.*##+js(abort-on-property-write.js, Fingerprint2)
-hdvid.*,onvid.*,vidhd.*##+js(abort-on-property-write.js, smrtSB)
-hdvid.*,onvid.*,vidhd.*##+js(nowebrtc.js)
+hdvid.*,onvid.*,ovid.*,vidhd.*##+js(abort-on-property-write.js, Fingerprint2)
+hdvid.*,onvid.*,ovid.*,vidhd.*##+js(abort-on-property-write.js, smrtSB)
+hdvid.*,onvid.*,ovid.*,vidhd.*##+js(nowebrtc.js)
 ||hdvid.tv/sw.js$script
+||ovid.*/sw.js$script,1p
+||550b3ikb9j.com^$3p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3544
 3djuegos.com##+js(set-constant.js, isAdBlocked, false)
@@ -12273,11 +12280,14 @@ downloadhub.*##+js(abort-on-property-read.js, decodeURIComponent)
 downloadhub.*##.alignnone
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3646
+mirrorace.com##+js(abort-on-property-read.js, AaDetector)
+mirrorace.com##+js(abort-on-property-write.js, _pop)
 mirrorace.com##+js(addEventListener-defuser.js, click, _0x)
 mirrorace.com##+js(popads-dummy.js)
 mirrorace.com##[href^="https://fastspeedtest.ml/search/"]
 /invoke.js$script,domain=mirrorace.com
 ||ajjhtetv87.com^
+||7hor9gul4s.com^$3p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3647
 ||ewa.ac^$csp=script-src 'self' 'unsafe-inline' *.googleapis.com
@@ -17616,6 +17626,7 @@ maniac.de##[href^="https://www.maniac.de/linkout/"]
 ! https://github.com/uBlockOrigin/uAssets/issues/5058
 ||cambro.tv/contents/other/*$media,first-party,redirect=noopmp4-1s
 ||cambro.tv/player/html.php$frame,1p
+*$popunder,domain=cambro.tv
 ||liveflirt.net^$frame,domain=cambro.tv
 cambro.tv##.crak_cams_ctn
 
@@ -17788,3 +17799,25 @@ cl250.club##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5098
 sh11.xyz##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+
+! https://github.com/easylist/easylist/issues/2929
+@@||cdnjs.cloudflare.com/ajax/libs/*$script,domain=warda.at
+@@||warda.at^$generichide
+
+! https://github.com/uBlockOrigin/uAssets/issues/5101
+dz4up1.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5102
+readmng.com##+js(abort-on-property-read.js, Date.prototype.toUTCString)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5103
+@@||animeflix.site^$generichide
+
+! https://github.com/uBlockOrigin/uAssets/issues/5105
+ciudadgamer.com##+js(abort-current-inline-script.js, atob, encodeURIComponent)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5106
+updatetribun.org##+js(addEventListener-defuser.js, load, onload)
+
+! books4arab .com popups
+books4arab.com##+js(abort-current-inline-script.js, parseInt, decodeURIComponent)
