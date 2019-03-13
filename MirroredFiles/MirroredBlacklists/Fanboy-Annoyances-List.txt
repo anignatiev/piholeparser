@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uOhsPplP4LGOQm2krn9Rww
-! Version: 201903120012
+! Checksum: 1jmHzbS3h+fFZ0b/f/GGqw
+! Version: 201903130012
 ! Title: Fanboy's Annoyance List
-! Last modified: 12 Mar 2019 00:12 UTC
+! Last modified: 13 Mar 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -437,6 +437,7 @@ _push_sw.
 =newsLetterRegistrationBlock&
 _banners/newsletter_
 _cdw/newsletter.
+_down_newsletter_
 _footer_newsletter.
 _newletter_banner2.
 _newsletter_overlay.
@@ -2714,6 +2715,7 @@ _xmlrss.
 /social-twitter-
 /social-twitter.
 /social-url-generator.
+/social-ux/*
 /social-warfare/*
 /social-youtube-
 /social-youtube.
@@ -6219,6 +6221,7 @@ _site_cookie_
 ##.side-subscribe
 ##.sideBoxSubscribe
 ##.side_subscribe
+##.sidebar--newsletter
 ##.sidebar-email
 ##.sidebar-email-signup
 ##.sidebar-email-signup-container
@@ -7177,6 +7180,7 @@ _site_cookie_
 ##.p-pagetop-btn
 ##.pagetop-btn
 ##.penci-go-to-top-floating
+##.pgevoke-backtotop
 ##.pi-scroll-top-arrow
 ##.picto-to-top
 ##.prodToTop
@@ -16383,6 +16387,7 @@ _site_cookie_
 ##.side_social_media
 ##.side_twitter
 ##.side_twitterfollow
+##.sidebar--share-article
 ##.sidebar--social-list
 ##.sidebar--social-list--ul
 ##.sidebar-bluetweets
@@ -16411,6 +16416,7 @@ _site_cookie_
 ##.sidebarSocial
 ##.sidebar__header--twitter
 ##.sidebar__share
+##.sidebar__share-options-list
 ##.sidebar_facebook
 ##.sidebar_social
 ##.sidebar_socialmediabox
@@ -34547,7 +34553,7 @@ martechadvisor.com,worldcrunch.com###myModal
 insideclimatenews.org###news-signup
 epicurious.com###newsLetter
 irishtimes.com###newsdigest-widget
-6wunderkinder.com,7digital.com,aawsat.com,about.com,bloomberg.com,boldsky.com,buzznet.com,celebuzz.com,cjr.org,dailymaverick.co.za,digitaltrends.com,disclose.tv,drivespark.com,etonline.com,filmibeat.com,fyiliving.com,gardeningaustralia.com.au,gizbot.com,healthguru.com,infoworld.com,javaworld.com,langenscheidt.com,lessthan3.com,malwarebytes.org,mayoclinic.com,mcvuk.com,mediaite.com,movies.com,nativeplanet.com,nme.com,ohmyrockness.com,oneindia.com,paleohacks.com,penny-arcade.com,pewforum.org,pewresearch.org,pinknews.co.uk,publicradio.org,quantamagazine.org,runningtimes.com,salemnews.net,si.com,styleite.com,techvert.com,theamericanscholar.org,thecommentator.com,themarysue.com,thetruthaboutcars.com,thewalrus.ca,usatoday.com,vetstreet.com,wdcb.org,wimp.com,youbeauty.com###newsletter
+6wunderkinder.com,7digital.com,aawsat.com,about.com,bloomberg.com,boldsky.com,buzznet.com,celebuzz.com,cjr.org,dailymaverick.co.za,digitaltrends.com,disclose.tv,drivespark.com,etonline.com,filmibeat.com,fyiliving.com,gardeningaustralia.com.au,gizbot.com,healthguru.com,infoworld.com,javaworld.com,langenscheidt.com,lessthan3.com,malwarebytes.org,mayoclinic.com,mcvuk.com,mediaite.com,movies.com,nativeplanet.com,nme.com,ohmyrockness.com,oneindia.com,opendemocracy.net,paleohacks.com,penny-arcade.com,pewforum.org,pewresearch.org,pinknews.co.uk,publicradio.org,quantamagazine.org,runningtimes.com,salemnews.net,si.com,styleite.com,techvert.com,theamericanscholar.org,thecommentator.com,themarysue.com,thetruthaboutcars.com,thewalrus.ca,usatoday.com,vetstreet.com,wdcb.org,wimp.com,youbeauty.com###newsletter
 details.com,gossipcop.com,gq.com,salon.com,self.com,soft112.com###newsletter-form
 wbur.org###newsletter-signup-1
 hardware.info###newsletterForm
@@ -36043,6 +36049,7 @@ indiancountrytodaymedianetwork.com##.follow-home
 talabat.com##.follow-i
 grubstreet.com,nymag.com,vulture.com##.follow-list
 higherperspectives.com##.follow-module
+opendemocracy.net##.follow-od
 glamourmagazine.co.uk##.follow-options-container
 metro.co.uk##.follow-promo
 snopes.com##.follow-snopes-on
@@ -40794,7 +40801,7 @@ facebook.com#@#.fblike
 twitter.com#@#.follow-bar
 mixer.com#@#.follow-block
 twitch.tv,twitter.com#@#.follow-btn
-500px.com,academia.edu,peerlyst.com,stream.me,tumblr.com,twitch.tv,twitter.com,xing.com,zhihu.com#@#.follow-button
+500px.com,academia.edu,peerlyst.com,smashcast.tv,stream.me,tumblr.com,twitch.tv,twitter.com,xing.com,zhihu.com#@#.follow-button
 medium.com#@#.follow-label
 mixcloud.com,twitter.com#@#.follow-text
 linkedin.com#@#.follow-widget
