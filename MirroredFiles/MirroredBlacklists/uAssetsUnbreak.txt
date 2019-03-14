@@ -662,7 +662,9 @@ orange.fr###o_carrepub:style(height: 1px; margin: 0; min-height: auto; visibilit
 @@||analytics.logsss.com^$script,domain=dresslily.com
 
 ! https://github.com/uBlockOrigin/uAssets/issues/791
+@@||dpm.demdex.net/id?*AdobeOrg&$xhr,domain=foxbusiness.com
 @@||global.fncstatic.com/static/*/VisitorAPI.js$script,domain=video.foxbusiness.com
+@@||smetrics.foxbusiness.com/id?*AdobeOrg&$xhr,1p
 
 ! issues /821 / 1703
 @@||ntn24america.com/*ads$script,first-party
@@ -2128,5 +2130,8 @@ theinventory.com#@#.commerce-inset
 /housead.$badfilter
 /housead.$domain=~housead.ru
 
-! https://forums.lanik.us/viewtopic.php?p=146339#p146339
-@@||wp-stat.s3.amazonaws.com^$image
+! https://github.com/abp-filters/abp-filters-anti-cv/issues/102#issuecomment-472241581
+@@||static1.dmcdn.net/playerv5/*$script,domain=laprovence.com
+
+! https://github.com/uBlockOrigin/uAssets/commit/10ab25bfc9583416bffc29af065fbf3c74cab5e6#commitcomment-32733032
+|https://$third-party,script,domain=29443kmq.video|xmoviesforyou.com,badfilter
