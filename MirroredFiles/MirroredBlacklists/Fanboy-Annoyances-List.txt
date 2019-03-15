@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: w915Smt1pLCIBPZhp1NX0A
-! Version: 201903140012
+! Checksum: dBwuhlCrHH1XwzWYBQ+d0g
+! Version: 201903150012
 ! Title: Fanboy's Annoyance List
-! Last modified: 14 Mar 2019 00:12 UTC
+! Last modified: 15 Mar 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -307,6 +307,7 @@ _push_sw.
 /content/newsletter/*
 /email/subscribe.
 /embeds/newsletter/*
+/emma-content-aggregates-prd.
 /esnewsletterad.
 /f_newsletter.
 /footer-newsletter.
@@ -3853,6 +3854,7 @@ _youtube_social_
 /cookie_policy_
 /cookie_solution/*
 /cookie_sticky_
+/cookie_warning.
 /cookie_ws.
 /cookie_ws/*
 /cookieaccept.
@@ -5055,6 +5057,7 @@ _site_cookie_
 ###news-ltr
 ###newsLetter-signup-box
 ###newsLetterAsset
+###newsLetterForm
 ###newsLetterSignUp
 ###newsLetterSignup
 ###newsPopup
@@ -5090,6 +5093,7 @@ _site_cookie_
 ###newsletter-inline-widget
 ###newsletter-instant-register-form
 ###newsletter-interstitial
+###newsletter-invite
 ###newsletter-mapping-center
 ###newsletter-mod
 ###newsletter-module
@@ -5691,6 +5695,7 @@ _site_cookie_
 ##.footer-subscrabe-box
 ##.footer-subscribe
 ##.footerEmail
+##.footer__action-media--newsletter
 ##.footer__desktop__newsletter
 ##.footer__newsletter
 ##.footer__newsletter-form
@@ -5765,6 +5770,7 @@ _site_cookie_
 ##.intextNewsletter
 ##.ione-widget-bp_newsletter_signup
 ##.ione-widget-social_conversion
+##.ipWidget-Newsletter
 ##.iscrizione-newsletter
 ##.item-list-newsletter-box
 ##.item-newsletter
@@ -6475,6 +6481,7 @@ _site_cookie_
 ###___ndtvpushdiv
 ###bigpicture-webpush-widget
 ###desktop-notification-ask-dialog
+###dialog-push-notification
 ###divPnot
 ###frizbit-prompter
 ###ilabspush-optin-container
@@ -7052,6 +7059,7 @@ _site_cookie_
 ##.btn-return-top
 ##.btn-scroll-to-top
 ##.btn-scroll-to-top-container
+##.btn-scroll-top
 ##.btn-scroll-up
 ##.btn-to-top
 ##.btn-tw-backtotop
@@ -10256,6 +10264,7 @@ _site_cookie_
 ##.Sharer_icon
 ##.Sharer_inner
 ##.Sharer_link
+##.Shariff
 ##.SidebarBox--facebook
 ##.SidebarBox--social
 ##.SidebarBox--twitter
@@ -11198,6 +11207,7 @@ _site_cookie_
 ##.btn-social-pinterest
 ##.btn-social-share
 ##.btn-social-twitter
+##.btn-socialnetwork
 ##.btn-tumblr
 ##.btn-tw
 ##.btn-tweet-share
@@ -11260,6 +11270,13 @@ _site_cookie_
 ##.button-share
 ##.button-share-facebook
 ##.button-share-twitter
+##.button-share__bar
+##.button-share__media
+##.button-share__media--facebook
+##.button-share__media--google
+##.button-share__media--mail
+##.button-share__media--pinterest
+##.button-share__media--twitter
 ##.button-social
 ##.button-social-share
 ##.button-toggle-share
@@ -11685,6 +11702,7 @@ _site_cookie_
 ##.digg_button
 ##.digg_icon
 ##.diggthis
+##.disco-SocialNetworkLinks_element
 ##.divFacebookButton
 ##.divFacebookShareButton
 ##.divFooterSocial
@@ -15598,6 +15616,7 @@ _site_cookie_
 ##.share-icons-bottom
 ##.share-icons-box
 ##.share-icons-list
+##.share-icons-meraki
 ##.share-icons-sticky-box
 ##.share-icons-wrapper
 ##.share-iconsGalleryArticle
@@ -15657,6 +15676,7 @@ _site_cookie_
 ##.share-new
 ##.share-newsvine
 ##.share-nl
+##.share-on
 ##.share-on-link
 ##.share-on-title
 ##.share-on-whsp
@@ -17860,6 +17880,7 @@ _site_cookie_
 ##.socialnav
 ##.socialnav-item
 ##.socialnavbar
+##.socialnetworks
 ##.socialno
 ##.socialnonsense-wide-articles
 ##.socialplugin
@@ -19160,6 +19181,7 @@ _site_cookie_
 ##.x-social-twitter
 ##.x-social-youtube
 ##.x-tmblr
+##.xenfocus-social
 ##.xplayer-share-control
 ##.yBuzzShare
 ##.ya-share2
@@ -23678,6 +23700,7 @@ _site_cookie_
 ###gdpr-banner
 ###gdpr-bar
 ###gdpr-block
+###gdpr-bottom
 ###gdpr-bottom-banner
 ###gdpr-box
 ###gdpr-consent
@@ -28404,7 +28427,7 @@ _site_cookie_
 ##.intercept-cookies
 ##.ir_cookiehint
 ##.is-cookie
-##.is-cookie-banner
+##.is-cookie-banner:not(body)
 ##.is-cookie-message
 ##.is-cookies
 ##.is-visible.cookies
@@ -30830,6 +30853,7 @@ _site_cookie_
 ||mycookies.it^$third-party
 ||oil.axelspringer.com^$third-party
 ||onetag.mgr.consensu.org^$third-party
+||onetrust.com^$third-party
 ||privacy-center.org^$third-party
 ||privacy.purch.com^
 ||sharethis.mgr.consensu.org^$third-party
@@ -30926,6 +30950,7 @@ _site_cookie_
 ||ibtimes.co.uk/newsletter?
 ||imsa.com/newsletter/
 ||indiatimes.com/subscriptionhomepage.cms
+||insidesources.com/wp-content/themes/insidesources/js/jquery.fancybox.js
 ||libertyheadlines.com^*/subscribe-
 ||makezine.com/js/unbouncer-
 ||manoramaonline.com/OnmanoramaNewsletter/
@@ -33544,6 +33569,7 @@ fightthesmears.com##.myspace
 worldofgnome.org##.mywell-blue
 ft.com##.n-header__marketing-promo
 washingtontimes.com##.nag
+theatlantic.com##.nav-article
 consumerist.com##.nav-article-item
 pissedconsumer.com##.nav-bottom
 thelongandshort.org##.nav-button-next
@@ -34437,7 +34463,7 @@ motherjones.com###bottom_adhesion
 broadwayworld.com###bounceModal
 business-standard.com###box
 maxim.com###boxes-box-maxim_newsletter
-thebaffler.com###boxzilla-overlay
+iafrica.com,marijuanamoment.net,thebaffler.com###boxzilla-overlay
 telesurenglish.net###bulletin
 geekwire.com###category-heading-subscribe
 ibtimes.com.au,sciencenews.org###cboxOverlay
@@ -34467,6 +34493,7 @@ cbc.ca###em_UpakneeSub
 jewishpress.com###ema_signup_form
 priceonomics.com###email-island
 gearjunkie.com###email-pop
+cityam.com###email-rotator-wrapper
 dictionary.com###email-signup
 sa-news.com,warmvanillasugar.com###email-subscribers-2
 nintendosoup.com###email-subscribers-3
@@ -34724,7 +34751,7 @@ americamagazine.org##.block-mailchimp-signup
 asiaone.com##.block-webform
 allevents.in##.bottom-right-subscribe
 businesstimes.com.sg##.bottom-wrap
-iafrica.com,thebaffler.com##.boxzilla-container
+iafrica.com,marijuanamoment.net,thebaffler.com##.boxzilla-container
 the-line-up.com##.branded
 staradvertiser.com##.breaking-news-signup
 inverse.com##.btn--newsletter
@@ -34809,7 +34836,7 @@ sassyhongkong.com,sassymanila.com##.entry-subscribe
 americanlookout.com##.essbasc-popup
 economist.com##.exit-pop
 jornaldacidadeonline.com.br##.exit-screen
-rt.com##.extension-browser
+online-convert.com,rt.com##.extension-browser
 slator.com##.fancybox-desktop
 christianpost.com##.fancybox-iframe
 slator.com##.fancybox-overlay
@@ -35068,7 +35095,7 @@ food52.com##.sidebar__mailing-list
 pbs.org##.sidebar__subscribe
 thenation.com##.siderail__item
 theaustralian.com.au##.sign-me-up
-politico.com##.sign-up
+politico.com,theatlantic.com##.sign-up
 viralnova.com##.sign-up-box
 dailysurge.com##.sign-up-form
 jpost.com##.sign-up-wrap
@@ -35409,12 +35436,9 @@ wccftech.com##.vdb_player
 newser.com###NewsletterPromo
 computerworld.com.au###art-next_signifier
 ratemyprofessors.com###balaMainContainer
-calciomercato.com###ca_banner
 kitguru.net###check-also-box
-cityam.com###email-rotator-wrapper
 history.com###email-updates
 history.com###email_flyout
-theatlantic.com###footer-newsletter-signup
 livescience.com###inContentEmail
 nme.com###keystone-newsletter-4
 businessinsider.com.au###mc-signup-in-post
@@ -35434,13 +35458,10 @@ arnnet.com.au,reseller.co.nz##.art-connect
 merriam-webster.com##.article-content-subscribe-block
 softonic.com##.article-next-sticky
 theweek.co.uk##.block-dennis-newsletter-popup
-independent.co.uk##.email-signpost
 merriam-webster.com##.footer-subscribe-block
 huffingtonpost.co.uk,huffingtonpost.com##.inline-newsletter
 androidsage.com##.jetpack_subscription_widget
-theatlantic.com##.nav-article
 soccity.net##.newsletter-block
-usatoday.com##.newsletter-embed
 newsy.com##.newsletter-popup
 newsy.com##.newsletter-popup-background
 history.com,nydailynews.com##.newsletter-signup
@@ -35453,10 +35474,7 @@ tlc.com##.newsletter__container
 laptopmag.com##.nlSubscribe
 itechpost.com##.nw_cont
 ijr.com##.opt360-share-button-email-article-end
-news-leader.com##.overlay-content-arrows
 multiup.eu,multiup.org##.scroll-to-top
-upi.com##.scroll-top
-theatlantic.com##.sign-up
 technoshouter.com##.td-more-articles-box
 jewishpress.com##.td-scroll-up
 broadwayworld.com##.widget-subscribe
@@ -37059,6 +37077,7 @@ dobbies.com###dobbies_cookie_widget
 fool.co.uk###dogfish
 aeriagames.com###dp2018dialog
 hetzner.com###dpi-banner
+drupal.org###drupalorg-crosssite-gdpr
 shatter-box.com###elGuestTerms
 live.com,microsoft.com,office.com,skype.com,visualstudio.com,windows.com,xbox.com###epb
 complex.com###eucn
@@ -40601,7 +40620,7 @@ newinhomes.com#@#.rssFeed
 google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws,youtube.com#@#.rss_icon
 scribol.com#@#.scribol
 advids.co,cbdoilreview.org,mortgageguy.com.au,paperless-insurance.com#@#.scroll-to-top
-channelnewsasia.com,kitacon.org,redislabs.com#@#.scroll-top
+channelnewsasia.com,kitacon.org,polskikoszyk.pl,redislabs.com#@#.scroll-top
 indiatimes.com,letyshops.com,msn.com,southernliving.com,tele2.ru#@#.scroll-up
 playtech.co.nz,porozmawiajmyoit.pl,scan.co.uk#@#.scroll_top
 theuptake.org#@#.scrolltop
@@ -40968,7 +40987,7 @@ tvp.info#@#.social-article
 dallascowboys.com,golem.de,patriots.com,top.de#@#.social-bar
 funnyordie.com#@#.social-bar-container
 wat.tv#@#.social-block
-chillitorun.pl,flyertalk.com,onovini.com,rta24.eu,vonguru.fr,wahl-o-mat.de#@#.social-bottom
+chillitorun.pl,flyertalk.com,onovini.com,rta24.eu,stw24.pl,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 chess.com#@#.social-btns
@@ -41352,6 +41371,7 @@ timeout.com#@#div[data-module="cookie_banner"]
 @@||redditarchive.com^
 @@||rentalsystems.com/advert_price_imbed.asp
 @@||sail-horizon.com/scout/*.js?$domain=theblaze.com
+@@||st.mycdn.me/static/*/WebPush.js$script,domain=ok.ru
 @@||static.bbci.co.uk/modules/*/sharetools.js$domain=bbc.co.uk
 @@||static.lci.fr/assets/scripts/modules/outbrain.js?$script,~third-party
 @@||statictapcdn-a.akamaihd.net^$domain=tapiture.com
