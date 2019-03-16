@@ -3,7 +3,7 @@
 ! Title: Blockzilla
 ! Homepage: https://blockzilla.jimdo.com/
 !
-! Version F17
+! Version F18
 ! Report issues, unblocked ads or trackers at:
 ! https://github.com/zpacman
 !
@@ -667,6 +667,7 @@ images/ads/
 ||univide.com^
 ||unrulymedia.com^
 ||usabilla.com^
+||usage.trackjs.com/usage.gif?
 ||userreport.com^
 ||vacwrite.com^
 ||vertamedia.com^

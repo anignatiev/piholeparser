@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +WONGhkwG4o6bL17/P5oPg
-! Version: 201903130011
+! Checksum: 9deue7/wSKi/RHbLM7NmeA
+! Version: 201903160011
 ! Title: RU AdList: Counters
-! Last modified: 13 Mar 2019 00:11 UTC
+! Last modified: 16 Mar 2019 00:11 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -322,7 +322,6 @@ _pagespeed_beacon?
 ||doubleclick.net/pixel?
 ||du4rq1xqh3i1k.cloudfront.net^
 ||dw.com.com^
-||e.mail.ru/api-proxy/rb-mimic/
 ||efatik.me^$third-party
 ||elitestat.ru^$third-party
 ||emoment.net/cnt/
@@ -449,6 +448,7 @@ _pagespeed_beacon?
 ||lptracker.ru^$third-party
 ||lstats.qip.ru^
 ||mail.kz/assets/frontend/img/counter.
+||mail.ru/api-proxy/rb-mimic/
 ||mail.ru/direct.gif?
 ||mail.ru/grstat?
 ||mail.yandex.*/monitoring_*?event=ads-blocked&type=
@@ -625,6 +625,7 @@ _pagespeed_beacon?
 ||tags.tiqcdn.com/utag^*/utag.js$domain=~ikea.com
 ||target.smi2.net^$domain=~smi2.ru
 ||target.ukr.net^
+||tazeros.com^$third-party
 ||tbe.tom.ru^$third-party
 ||thedownloadplanet.com/tools/supplemental.php
 ||thesame.tv/tsn.html

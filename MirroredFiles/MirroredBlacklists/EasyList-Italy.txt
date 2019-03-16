@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Hb9lUFKJllgtHuoF9Tv1Yg
-! Version: 201902280011
+! Checksum: vqPaV2ggWsXGl4cG1PYGcw
+! Version: 201903160012
 ! Title: EasyList Italy
-! Last modified: 28 Feb 2019 00:11 UTC
+! Last modified: 16 Mar 2019 00:12 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html
@@ -242,6 +242,7 @@ _sito/adv/
 ##a[href^="http://www.bet365.it/"][href*="?affiliate="]
 ##a[href^="http://www.linkwelove.it/urls/"]
 ##a[href^="http://www.sostariffe.it/tracker2.php?"]
+##a[href^="https://adserver.html.it/"]
 ##a[href^="https://www.linkwelove.it/urls/"]
 ! *** easylistitaly:easylistitaly/easylistitaly_whitelist_general_hide.txt ***
 comingsoon.it#@##AdvHeader
@@ -3245,6 +3246,7 @@ wired.it##.supported
 mbnews.it##.swiper-container
 livescore.it##.table-odds
 ciao.it##.tableSponsLinks
+ilpost.it##.tag-sponsored
 genova24.it,ivg.it##.takeover
 notizialocale.it##.td-a-rec-id-header
 ilprimatonazionale.it,obiettivonews.it##.td-banner-bg
@@ -3355,7 +3357,7 @@ mmorpgitalia.it##a[href^="http://ad2games.com/slave.php?"]
 multiplayer.it##a[href^="http://adv.multiplayer.it/"]
 altadefinizione.zone##a[href^="http://altadefinizione.zone/videohd/"]
 projectcars.it##a[href^="http://amzn.to/"]
-guardaserie.net,hwupgrade.it##a[href^="http://bit.ly/"]
+fantascientificast.it,guardaserie.net,hwupgrade.it##a[href^="http://bit.ly/"]
 surface-phone.it##a[href^="http://clkde.tradedoubler.com/"]
 dasolo.info##a[href^="http://creative.m2pub.com/"]
 lifegate.it##a[href^="http://goo.gl/"]
