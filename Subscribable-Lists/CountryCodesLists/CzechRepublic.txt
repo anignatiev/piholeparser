@@ -462,10 +462,8 @@ ad.webzdarma.cz
 ad.wz.cz
 ad0.atlas.cz
 ad0.bbmedia.cz
-ad0.billboard.cz
 ad1.atlas.cz
 ad1.bbmedia.cz
-ad1.billboard.cz
 ad1.kde.cz
 ad10.atlas.cz
 ad11.atlas.cz
@@ -479,7 +477,6 @@ ad18.atlas.cz
 ad19.atlas.cz
 ad2.atlas.cz
 ad2.bbmedia.cz
-ad2.billboard.cz
 ad2.iinfo.cz
 ad2.ireklama.cz
 ad2.linxcz.cz
@@ -497,7 +494,6 @@ ad28.atlas.cz
 ad29.atlas.cz
 ad3.atlas.cz
 ad3.bbmedia.cz
-ad3.billboard.cz
 ad3.iinfo.cz
 ad30.atlas.cz
 ad31.atlas.cz
@@ -512,7 +508,6 @@ ad39.atlas.cz
 ad4.abradio.cz
 ad4.atlas.cz
 ad4.bbmedia.cz
-ad4.billboard.cz
 ad40.atlas.cz
 ad41.atlas.cz
 ad42.atlas.cz
@@ -525,20 +520,15 @@ ad48.atlas.cz
 ad49.atlas.cz
 ad5.atlas.cz
 ad5.bbmedia.cz
-ad5.billboard.cz
 ad50.atlas.cz
 ad6.atlas.cz
 ad6.bbmedia.cz
-ad6.billboard.cz
 ad7.atlas.cz
 ad7.bbmedia.cz
-ad7.billboard.cz
 ad8.atlas.cz
 ad8.bbmedia.cz
-ad8.billboard.cz
 ad9.atlas.cz
 ad9.bbmedia.cz
-ad9.billboard.cz
 adam-spank.blogspot.cz
 adam-teens.blogspot.cz
 adam2adam.blogspot.cz

@@ -170,6 +170,7 @@ alog.umeng.com
 alog.umengcloud.com
 alpha.telemetry.microsft.com
 amarktflow.com
+amazonco.uk
 ampmetrics.engadget.com
 ampmetrics.techcrunch.com
 an.batmobi.net
@@ -878,6 +879,7 @@ www.mediaparade.net
 www.ministryofads.com
 www.movieads.ero-advertising.com
 www.myfreecams.com
+www.myishop.co.uk
 www.mywot.com
 www.mywot.net
 www.nikitinskysport.ru
@@ -910,6 +912,7 @@ www.vdtrack.com
 www.www.cpm20.com
 www.wzrkt.com
 www.zekiatagur.com
+www2.myishop.co.uk
 wzrkt.com
 xda-developers.us
 xml.plaimedia.com
