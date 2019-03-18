@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FcVRTG190XGELj+IAjow+g
-! Version: 201903170012
+! Checksum: uf5pFxYqZXrEG3Q7IObhsg
+! Version: 201903180012
 ! Title: Fanboy's Annoyance List
-! Last modified: 17 Mar 2019 00:12 UTC
+! Last modified: 18 Mar 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -3701,6 +3701,7 @@ _youtube_social_
 /amCookieApproval.
 /analytics_cookie.
 /api/gdpr^
+/approvazione-gdpr/*
 /asesor-cookies-$~image
 /assets/gdpr/*
 /avada-privacy.js
@@ -5280,6 +5281,7 @@ _site_cookie_
 ###rightNavNewsletter
 ###rightNewsLetterAsset
 ###sailthru-basic-newsletter-form
+###sailthru-email-form-wrapper
 ###sam-newsletter-form
 ###sam-newsletter-signup
 ###savicom_signup
@@ -5816,6 +5818,7 @@ _site_cookie_
 ##.m-newsletter
 ##.m-newsletter-box
 ##.m-newsletter-signup
+##.m-newsletter-toaster
 ##.m-newsletter_light
 ##.m-rock-newsletter
 ##.m-site-foot--newsletter
@@ -11106,6 +11109,7 @@ _site_cookie_
 ##.bottwitterarticle
 ##.bouton_sociaux
 ##.box-facebook
+##.box-followus
 ##.box-repro-social
 ##.box-share
 ##.box-share-content-group
@@ -12164,6 +12168,7 @@ _site_cookie_
 ##.fb-exit-popup-container
 ##.fb-exit-popup-inner
 ##.fb-fan-page
+##.fb-fanpage
 ##.fb-flyin
 ##.fb-follow-button
 ##.fb-footer
@@ -38491,7 +38496,7 @@ tempi.it##.header_sidebar
 radioitaliaannisessanta.it##.hm_go_top
 ilmetapontino.it##.icon-caret-up
 wittgenstein.it##.ilpost-header
-mondomobileweb.it##.ir-arriba
+libero.it,mondomobileweb.it##.ir-arriba
 bastabugie.it##.iscrizione
 sky.it##.j-navTop
 ytong.it##.link-to-top
@@ -38856,7 +38861,7 @@ playmassive.de,playnation.de##.sn
 heise.de##.soc-pos
 focus.de##.socBm
 focus.de##.socInfo
-az.com.na,businessinsider.de,europages.de,infosat.de,kabeleins.de,klassikradio.de,n24.de,peugeot.de,prosieben.de,ran.de,sat1.de,sixx.de,the-voice-of-germany.de,therese-moelk.at,top.de##.social
+az.com.na,businessinsider.de,europages.de,infosat.de,kabeleins.de,klassikradio.de,n24.de,omdb.org,peugeot.de,prosieben.de,ran.de,sat1.de,sixx.de,the-voice-of-germany.de,therese-moelk.at,top.de##.social
 futurezone.at##.social > li > a > img
 marcopolo.de##.socialWeb
 schwaebische.de##.social_communities
@@ -39247,6 +39252,7 @@ ilbianconero.com##.header-banner-menu
 epochtimes.it,infotelematico.com,regione.abruzzo.it,stroilioro.com,transfermarkt.it##.header-social
 nolostand.it##.home-social
 tuttosport.com##.ico-shared
+mymovies.it##.ico_social_schedine
 infocert.it##.img-facebook
 infocert.it##.img-flipboard
 infocert.it##.img-linkedin
@@ -40846,6 +40852,7 @@ dwdl.de,facebook.com#@#.fb_edge_widget_with_comment
 facebook.com#@#.fb_like_container
 facebook.com#@#.fb_share
 facebook.com#@#.fblike
+virgilio.it#@#.fix-share
 twitter.com#@#.follow-bar
 mixer.com#@#.follow-block
 coub.com,twitch.tv,twitter.com#@#.follow-btn

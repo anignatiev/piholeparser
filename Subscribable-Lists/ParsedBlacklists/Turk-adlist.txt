@@ -223,6 +223,7 @@ analytics.olay.com.tr
 analytics.query.yahoo.com
 analytics.spotify.com
 analytics.yahoo.com
+analytics.yeniakit.com.tr
 androidads23.adcolony.com
 api.adintext.net
 api.opencandy.com
@@ -332,6 +333,7 @@ collector.puhutv.com
 connextra.com
 content.bitsontherun.com
 contextweb.com
+cookiebot.com
 core.insightexpressai.com
 coremetrics.com
 cp.pushwoosh.com
@@ -474,6 +476,7 @@ kos.interseek.si
 krxd.net
 kurulum.xyz
 leetmedia.com
+liadm.com
 liftdna.com
 ligadx.com
 ligatus.com
