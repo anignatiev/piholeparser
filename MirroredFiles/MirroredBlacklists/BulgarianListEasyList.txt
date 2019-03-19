@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201903172341
+! Version: 201903190000
 ! Title: EasyPrivacy
-! Last modified: 17 Mar 2019 23:41 UTC
+! Last modified: 19 Mar 2019 00:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -290,6 +290,7 @@
 .uk/track?
 .uk/traffic/?
 .usertracking_script.js
+.v4.analytics.
 .vn/0.gif?
 .vsTracking.
 .webmetrics.js
@@ -1381,6 +1382,7 @@
 /DynamicAnalytics.
 /dynamictag.
 /dynaTraceMonitor^
+/dynimpression?rkey=
 /e.gif?data=
 /e086ec.aspx?q=l3mkwgak
 /ea-analytics/*
@@ -1952,6 +1954,7 @@
 /impression/widget?
 /impression?*.loadAds&
 /impression?bid
+/impression?rkey=
 /impression_tracker.
 /impression_tracking.
 /impressioncount.
@@ -11642,6 +11645,7 @@ _mongo_stats/
 ||37signals.com/ga.js
 ||3dcartstores.com/3droi/monstertrack.asp
 ||3dmark.com^*/ruxitbeacon
+||3rdeye.spankbang.com^
 ||4hds.com/js/camstats.js
 ||4info.com/alert/listeners/
 ||4tube.com/assets/abExperiments-
@@ -12118,6 +12122,7 @@ _mongo_stats/
 ||courierpress.com/metrics/
 ||coursera.org/wf/open?
 ||coveritlive.com/1/sts/view?
+||cpt.itv.com^
 ||cracked.com/tracking/
 ||crackle.com/tracking/
 ||creativecommons.org/elog/
@@ -12738,6 +12743,7 @@ _mongo_stats/
 ||livesupport.zol.co.zw/image_tracker.php?
 ||lm.pcworld.com/db/*/1.gif
 ||loc.gov/js/ga.js
+||loc.rediff.com^
 ||local.ch/track/
 ||localads-statistics.maps.me^
 ||localmonero.co/static/ga.js
@@ -13204,7 +13210,7 @@ _mongo_stats/
 ||reddit.com^*.gif?$third-party
 ||redditmedia.com/gtm/jail?
 ||redeye.williamhill.com^
-||rediff.com^*/?rkey=
+||rediff.com^*?rkey=
 ||redtube.com/_status/pix.php
 ||redtube.com/_status/pixa.php
 ||redtube.com/blockcount|
@@ -13902,7 +13908,6 @@ _mongo_stats/
 ||usage.zattoo.com/?adblock=
 ||usell.com/bug.gif?
 ||userfly.com^
-||usmetric.rediff.com^
 ||usps.com/survey/
 ||ut.ratepoint.com^
 ||uts-rss.crystalmedianetworks.com/track.php?
