@@ -1645,6 +1645,9 @@ wildsnow.com#@##ad-container
 |https://$third-party,script,domain=damimage.com|dimtus.com|imagedecode.com|imageteam.org|imgadult.com|imgclick.net|imgdew.com|imgdew.pw|imgdrive.net|imgkings.com|imgmaid.net|imgmaze.com|imgmaze.pw|imgnemo.com|imgoutlet.com|imgrock.info|imgrock.net|imgstudio.org|imgtaxi.com|imgtown.net|imgtown.pw|imgtrex.com|imgview.net|imgview.pw|imgwallet.com|ironimg.net,badfilter
 |https://$third-party,image,domain=damimage.com|dimtus.com|imagedecode.com|imageteam.org|imgadult.com|imgclick.net|imgdew.com|imgdew.pw|imgdrive.net|imgkings.com|imgmaid.net|imgmaze.com|imgmaze.pw|imgnemo.com|imgoutlet.com|imgrock.info|imgrock.net|imgstudio.org|imgtaxi.com|imgtown.net|imgtown.pw|imgtrex.com|imgview.net|imgview.pw|imgwallet.com|ironimg.net,badfilter
 |https://$third-party,image,domain=damimage.com|dimtus.com|imagedecode.com|imageteam.org|imgadult.com|imgclick.net|imgdew.com|imgdew.pw|imgdrive.net|imgkings.com|imgmaid.net|imgmaze.com|imgmaze.pw|imgnemo.com|imgoutlet.com|imgrock.co|imgrock.info|imgrock.net|imgstudio.org|imgtaxi.com|imgtown.net|imgtown.pw|imgtrex.com|imgview.net|imgview.pw|imgwallet.com|ironimg.net,badfilter
+|https://$third-party,image,domain=damimage.com|dimtus.com|imagedecode.com|imageteam.org|imgadult.com|imgclick.net|imgdew.com|imgdew.pw|imgdrive.net|imgkings.com|imgmaze.com|imgmaze.pw|imgoutlet.com|imgrock.info|imgrock.net|imgrock.pw|imgstudio.org|imgtaxi.com|imgtown.net|imgtown.pw|imgview.net|imgview.pw|imgwallet.com,badfilter
+|https://$third-party,script,domain=damimage.com|dimtus.com|imagedecode.com|imageteam.org|imgadult.com|imgclick.net|imgdew.com|imgdew.pw|imgdrive.net|imgkings.com|imgmaze.com|imgmaze.pw|imgoutlet.com|imgrock.info|imgrock.net|imgrock.pw|imgstudio.org|imgtaxi.com|imgtown.net|imgtown.pw|imgview.net|imgview.pw|imgwallet.com,badfilter
+@@||imgview.pw^$generichide
 ! https://github.com/uBlockOrigin/uAssets/issues/4993
 @@||imgdew.com/js/*$script,domain=imgdew.pw
 
@@ -1978,9 +1981,6 @@ tasteofhome.com#@#.ad-wrapper
 ! https://github.com/uBlockOrigin/uAssets/issues/4909
 @@||adobedtm.com^*/satellitelib-$script,domain=virginmobile.ca
 
-! https://github.com/uBlockOrigin/uAssets/issues/4957
-@@||squirrelhands.com^$domain=nbcnews.com
-
 ! https://forums.lanik.us/viewtopic.php?f=64&t=42649
 ://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.am|~ads.bigbom.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.elcarado.com|~ads.google.com|~ads.harvard.edu|~ads.lapalingo.com|~ads.lordlucky.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.nc|~ads.nimses.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.sk|~ads.socialtheater.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~seriouswheels.com,badfilter
 ://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.am|~ads.bigbom.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.dev.int.revelian.com|~ads.elcarado.com|~ads.google.com|~ads.harvard.edu|~ads.lapalingo.com|~ads.lordlucky.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.nc|~ads.nimses.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.sk|~ads.socialtheater.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~seriouswheels.com
@@ -2062,6 +2062,7 @@ thewirecutter.com#@#.deals-love
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5035
 ||reutersmedia.net/resources/r/?m=$image,badfilter
+||s2.reutersmedia.net/*&$image,badfilter
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4138#issuecomment-468804688
 ||track.rediff.com^$badfilter
@@ -2111,9 +2112,6 @@ maniac.de#@#.td-ad-background-link
 readmng.com#@#[style] > iframe
 readmng.com#@#div > iframe:first-child
 
-! https://forums.lanik.us/viewtopic.php?p=146309#p146309
-theinventory.com#@#.commerce-inset
-
 ! https://github.com/abp-filters/abp-filters-anti-cv/issues/102#issuecomment-472241581
 @@||static1.dmcdn.net/playerv5/*$script,domain=laprovence.com
 
@@ -2152,3 +2150,12 @@ theinventory.com#@#.commerce-inset
 ! https://github.com/NanoMeow/QuickReports/issues/9#issuecomment-473751320
 |https://$xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 |https://$third-party,xmlhttprequest,domain=destructoid.com|diffen.com|divxatope1.com|dreamfilm.se|dumpaday.com|dwatchseries.to|episodetube.com|episodetube.net|fastpic.ru|fileone.tv|filme-streamz.com|filmlinks4u.is|firstforwomen.com|firstrowau.eu|firstrowus1.eu|flash-x.tv|flashsx.tv|flashx.co|flashx.me|flashx.run|flashx.tv|flashx1.tv|flashxx.tv|fmovies.to|fmovies.world|free-torrent.org|free-torrent.pw|free-torrents.org|free-torrents.pw|freewarefiles.com|gamenguide.com|genfb.com|gofirstrow.eu|gomovies.sc|gorillavid.in|gsmarena.com|hdvid.life|hdvid.tv|hdvid.xyz|health-weekly.net|homerun.re|i4u.com|ifirstrow.eu|ifirstrowit.eu|imagefap.com|instanonymous.com|investopedia.com|itechpost.com|izismile.com|jewsnews.co.il|keepvid.com|kino-streamz.com|kiplinger.com|kshowonline.com|lifehacklane.com|livecricketz.org|livescience.com|lolcounter.com|megaup.net|mobilenapps.com|mobipicker.com|movies123.xyz|movies4stream.com|movpod.in|myfeed4u.me|myfeed4u.net|mylivecricket.org|natureworldnews.com|navbug.com|ncscooper.com|newpct.com|newsarama.com|newseveryday.com|newtvworld.com|nowfeed2all.eu|okceleb.com|oloadcdn.net|olympicstreams.me|omgwhut.com|onvid.club|onvid.fun|onvid.online|onvid.pw|onvid.xyz|onwatchseries.to|openload.co|openload.pw|opensubtitles.org|otakustream.tv|parentherald.com|pcgames-download.net|playbill.com|pocketnow.com|pornhub.com|postimg.org|powvideo.net|pwinsider.com|qaafa.com|rapidvideo.com|reservedoffers.club|rinf.com|roadracerunner.com|salefiles.com|scienceworldreport.com|sgvideos.net|shorte.st|skidrowcrack.com|snoopfeed.com|stream-tv-series.net|stream-tv2.to|stream2watch.cc|streamazone.com|streamgaroo.com|strikeout.co|strikeout.me|strikeout.mobi|teamliquid.net|technobuffalo.com|the123movies.org|the4thofficial.net|thefreethoughtproject.com|thevideo.me|thinkinghumanity.com|todayshealth.buzz|tomsguide.com|tomshardware.co.uk|tomshardware.com|tomsitpro.com|toptenz.net|torrentz2.eu|tribune.com.pk|trifind.com|tune.pk|tv-series.me|uberhavoc.com|universityherald.com|usherald.com|vcpost.com|vidhd.club|vidhd.icu|vidhd.pw|vidmax.com|vidoza.net|vidtodo.com|vidzi.online|vidzi.si|vidzi.tv|viewmixed.com|viid.me|vipbox.bz|vipbox.is|vipbox.sx|vipbox.tv|vipboxeu.co|vipboxoc.co|vipboxtv.me|vipleague.ch|vipleague.co|vipleague.is|vipleague.me|vipleague.mobi|vipleague.se|vipleague.sx|vipleague.tv|vipleague.ws|vipstand.is|viralands.com|vrheads.com|watchepisodes-tv.com|watchseries.li|webfirstrow.eu|wholecloud.net|whydontyoutrythis.com|wrestlinginc.com|wrestlingnews.co|xda-developers.com|xilfy.com|yourtailorednews.com|yourtango.com,badfilter
+
+! https://github.com/NanoAdblocker/NanoFilters/issues/287
+@@||google-analytics.com/analytics.js$script,domain=linetv.tw
+
+! https://github.com/easylist/easylist/issues/3096
+||intercom.io^$badfilter
+
+! https://adblockplus.org/forum/viewtopic.php?f=10&t=64912&p=186950#p186950
+@@||guyhollaway.co.uk^$generichide

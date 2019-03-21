@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hiuQv2ktusEnOLccXS47gQ
-! Version: 201903170011
+! Checksum: NErl0kl1lt+fa4mClGL9ZA
+! Version: 201903210011
 ! Title: RU AdList: Counters
-! Last modified: 17 Mar 2019 00:11 UTC
+! Last modified: 21 Mar 2019 00:11 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -78,6 +78,7 @@ segodnya.ua##.counters
 /^https?://rkn\.gov\.ru\/(?!js\/)+[a-z0-9]{15,25}\.js\?+[0-9]{7,15}/$script,domain=rkn.gov.ru
 /assets/vendor*.xml?$third-party,other,xmlhttprequest,domain=kodik.cc|kodikdb.com
 @@/^https?://[a-z]+\.com/+[^\s]{4,15}/$other,xmlhttprequest,domain=mastarti.com
+@@||www.inoreader.com/adv/$domain=www.inoreader.com
 mail.ru##body > .zeropixel ~ * .i-clearfix.feed-generic__container
 mail.ru#?#body > .zeropixel ~ * .search__container ~ [class] > .tabs + div[class] ~ div div:-abp-has(> div:-abp-contains(/[a-z]/))
 mail.ru##body > .zeropixel ~ * .search__container ~ [class] ~ [class] > :first-child
