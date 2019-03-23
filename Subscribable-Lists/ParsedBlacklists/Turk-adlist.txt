@@ -465,6 +465,7 @@ istatistik.milliyet.com.tr
 istatistik.skorer.tv
 ivr.com.tr
 js-agent.newrelic.com
+js.agkn.com
 js.moatads.com
 juicyads.com
 junbi-tracker.com
