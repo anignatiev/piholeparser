@@ -163,10 +163,6 @@ ovh.strim.io#@##tweets
 ||quantcast.com^$badfilter
 ||quantcast.com^$third-party
 
-! Chrome store feedback: "on gaana.com it blocks the site"
-! To counter `_social_tracking.` in EasyPrivacy
-@@||css5.gaanacdn.com/minify-*/min/?$script,domain=gaana.com
-
 ! https://twitter.com/Urre/status/572742363069714432
 ! To counter `/keen.min.js` in EasyPrivacy
 @@||keen.github.io/*/keen.min.js$~third-party
@@ -570,8 +566,11 @@ pythonjobshq.com##+js(abort-on-property-read.js, Keen)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/646
 @@||players.brightcove.net^$subdocument,domain=usatoday.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/3998
+! https://github.com/uBlockOrigin/uAssets/issues/4831
 ! https://github.com/uBlockOrigin/uAssets/issues/5133
-@@||cdn.ampproject.org/v0/amp-geo-0.1.js$script,domain=amp.tmz.com|amp.usatoday.com
+@@||cdn.ampproject.org/*/amp-geo-$script,domain=richmond.com|amp.tmz.com|amp.usatoday.com|watchdog.org
 
 ! https://github.com/uBlockOrigin/uAssets/issues/648
 @@/blockadblock.$script,domain=blockadblock.com
@@ -765,10 +764,6 @@ publicdomainq.net##ins.adsbygoogle
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1316
 ||googletagservices.com/tag/js/gpt.js$script,redirect=noopjs,domain=playground.ru|radio-canada.ca|tvguide.com
-
-! https://twitter.com/niederhuth/status/954769725371895808
-! To override `/fingerprint.js` from EasyPrivacy
-@@||pnas.org^*/fingerprint.js$script,first-party
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/7rwh1a/ublock_preventing_clicks_to_buttons_on_firefox/
 ||iworkfor.nsw.gov.au/Scripts/ga.js$script,first-party,redirect=noopjs
@@ -1276,6 +1271,8 @@ techadvisor.co.uk#@#.adsbygoogle
 @@||jsonip.com^$xmlhttprequest,domain=djs-jpn.ga
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2890
+! https://github.com/NanoMeow/QuickReports/issues/865
+||src.litix.io/core/*/mux.js$script,redirect=noopjs,domain=kanald.com.tr
 @@||gatr.hit.gemius.pl/gplayer.js$script,domain=kanald.com.tr
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2912
@@ -1956,9 +1953,6 @@ xtube.com#@#[style*="height: 330px;"]
 ! https://forums.lanik.us/viewtopic.php?f=64&t=42581
 @@||cdn.optimizely.com/js/*$script,domain=aetv.com
 
-! https://github.com/uBlockOrigin/uAssets/issues/4831
-@@||cdn.ampproject.org/*/amp-geo-$script,domain=richmond.com
-
 ! monova . to search broken 
 |http*://$script,domain=monova.org|monova.to,badfilter
 
@@ -2159,3 +2153,13 @@ readmng.com#@#div > iframe:first-child
 
 ! https://adblockplus.org/forum/viewtopic.php?f=10&t=64912&p=186950#p186950
 @@||guyhollaway.co.uk^$generichide
+
+! breakage caused by Yavli-filters in EasyList
+@@||youtube.com/yts/jsbin/*$script,domain=breathecast.com|classicalite.com|crossmap.com|hallels.com|newseveryday.com|returnofkings.com
+
+! https://forums.lanik.us/viewtopic.php?p=146547#p146547
+||hdpass.club^$third-party,badfilter
+seriehd.video#@#.player
+
+! broken video https://www.jpost.com/Israel-News/Culture/Fauda-to-tackle-Hamas-tunnels-in-Season-3-583824
+jpost.com#@#[src*="blob:"]

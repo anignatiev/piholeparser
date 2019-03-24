@@ -1574,6 +1574,7 @@ www.bitminer.io
 www.bitnex.io
 www.bitnodes.io
 www.blog.hashflare.io
+www.blowingwind.io
 www.branch.io
 www.btc.mining-pool.io
 www.calq.io

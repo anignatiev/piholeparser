@@ -166,7 +166,9 @@ web.900.la
 web1.51.la
 webcam.c.la
 webmaster.r00t.la
+www.51.la
 www.carambo.la
+www.hitomi.la
 www.youka.la
 x6x.a.la
 xap.ss.la
