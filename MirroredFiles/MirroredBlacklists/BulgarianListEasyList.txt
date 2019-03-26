@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201903250019
+! Version: 201903252229
 ! Title: EasyPrivacy
-! Last modified: 25 Mar 2019 00:19 UTC
+! Last modified: 25 Mar 2019 22:29 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -94,6 +94,7 @@
 -tracking?referrer=
 -trackingScript.
 -universal-analytics/
+-v1/tracking/
 -xtcore.js
 .AdmPixelsCacheController?
 .analysis.pv.
@@ -550,6 +551,7 @@
 /analytics-assets/*
 /analytics-beacon-
 /analytics-cdn.
+/analytics-corp.js
 /analytics-dotcom/*
 /analytics-event-
 /analytics-event.
@@ -2429,9 +2431,11 @@
 /mstats.
 /mstr?phpsessid=
 /mstrack/*
+/mt.gif?
 /mtiFontTrackingCode.
 /mtrack.nl/js/*
 /mtracking.
+/mttag/*
 /mtvi_reporting.js
 /mvTracker.
 /mwTag.js
@@ -3105,6 +3109,7 @@
 /sensor/statistic?
 /sensorsdata-
 /sensorsdata.$domain=~sensorsdata.cn
+/seo-track.
 /seo.googleAnalytics-
 /seo.googleAnalytics.
 /seo.tagCommander-
@@ -4332,6 +4337,7 @@
 ?trackGroup=*&referrer=
 ?trackingCategory=
 ?triggertags=
+?type=pageview&
 ?url=*&id=*&res=*&ref=
 ?utmad=*&utmac=
 ?viewsToCount=
@@ -4941,7 +4947,6 @@ _mongo_stats/
 ||blogscounter.com^$third-party
 ||blogsontop.com^$third-party
 ||blogtoplist.com^$third-party
-||bloomjoy.com^$third-party
 ||bluecava.com^$third-party
 ||blueconic.net^$third-party
 ||bluekai.com^$third-party
@@ -11920,6 +11925,7 @@ _mongo_stats/
 ||bat.adforum.com^
 ||bats.video.yahoo.com^
 ||baxter.com/includes/wtss.js
+||bayer.com^*/analytics.js
 ||bayer.com^*/sp.gif?
 ||bbc.co.uk/analytics?
 ||bbc.co.uk^*/tracker.js
@@ -12188,6 +12194,8 @@ _mongo_stats/
 ||datehookup.com/strk/dateadvertreg?
 ||daum.net^*/dwi.js
 ||db.com^*/stats.js?
+||dc.banggood.com^
+||dccss.banggood.com^
 ||dcs.mattel.com^
 ||dcs.maxthon.com^
 ||dealnews.com/lw/ul.php?
@@ -13523,6 +13531,7 @@ _mongo_stats/
 ||spanids.dictionary.com^
 ||spanids.reference.com^
 ||spanids.thesaurus.com^
+||spankbang.com^*.ping.js
 ||speakertext.com/analytics/
 ||speed.wikia.net^
 ||spinback.com/spinback/event/impression/

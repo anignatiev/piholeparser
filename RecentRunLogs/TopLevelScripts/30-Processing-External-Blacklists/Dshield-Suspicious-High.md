@@ -13,5 +13,4 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
-* Dshield-Suspicious-High List Unavailable To Download. Mon Mar 25 00:20:48 UTC 2019
 ## Checking If List Updated Online

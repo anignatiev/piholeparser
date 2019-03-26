@@ -8067,6 +8067,7 @@ yify-torrent.xyz,ytsyify.com##+js(abort-current-inline-script.js, decodeURI, dec
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2320
 freemcserver.net##+js(bab-defuser.js)
+freemcserver.net##+js(setTimeout-defuser.js, adblock)
 @@||freemcserver.net/js/*$script,1p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2322
@@ -10250,6 +10251,7 @@ empireshort.com##+js(abort-current-inline-script.js, parseInt, decodeURIComponen
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/910tjl
 ! https://github.com/uBlockOrigin/uAssets/issues/4992
+hotpornfile.org##+js(abort-current-inline-script.js, jQuery, perpage)
 hotpornfile.org##+js(abort-on-property-read.js, ExLdr.serve)
 hotpornfile.org##+js(abort-on-property-read.js, ExoLoader)
 hotpornfile.org##+js(abort-on-property-write.js, popns)
@@ -12442,8 +12444,10 @@ gainslink.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||voot.com/js/libs/adframe.js
 
 !  https://www.reddit.com/r/uBlockOrigin/comments/9oxdmp
+! https://www.reddit.com/r/uBlockOrigin/comments/b58i3p/getting_ads_on_fmovies_again/
 ffmovies.ru##+js(abort-current-inline-script.js, parseInt, incrementClicks)
 ffmovies.ru##+js(abort-current-inline-script.js, decodeURIComponent, atob)
+ffmovies.ru##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/9ozksq/
 imagenesmy.com##+js(abort-on-property-read.js, ExoLoader.addZone)
@@ -13057,6 +13061,7 @@ jazztv.co##+js(addEventListener-defuser.js, click, popunder)
 ||cdn.feed4u.info/xpopme.js
 myfeed4u.*##+js(nowebrtc.js)
 freespt.fi##+js(abort-on-property-read.js, AaDetector)
+7streams.pro##+js(window.open-defuser.js)
 ||hitme.pw^
 emb.aplayer1.me###ban1
 emb.aplayer1.me###ads
@@ -17096,6 +17101,7 @@ kbcchannel.tv##+js(set-constant.js, $tieE3, true)
 
 ! https://forums.lanik.us/viewtopic.php?p=145787#p145787
 @@||static.sunmedia.tv/*/AdBlockDetection/adblockDetector.js$script,domain=ivoox.com
+@@||static.sunmedia.tv/integrations/$script,domain=ivoox.com
 @@||ivoox.com^$generichide
 ivoox.com###adLayout
 
@@ -17262,7 +17268,10 @@ abellalist.com,didilist.com,erotichdworld.com,sharkyporn.com##+js(abort-current-
 ! https://github.com/uBlockOrigin/uAssets/issues/5003
 ! https://github.com/uBlockOrigin/uAssets/issues/5203
 convert2mp3.net##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+convert2mp3.net##+js(abort-current-inline-script.js, RegExp, zfgload)
+convert2mp3.net##+js(abort-on-property-read.js, g133.c3)
 convert2mp3.net##+js(abort-on-property-read.js, decodeURIComponent)
+||convert2mp3.net/assets/js/push.js$script,1p
 ||soagitet.net^
 ||cubiboak.com^
 ||ithoahie.com^
@@ -17414,6 +17423,7 @@ bmovie.cc##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 ! https://github.com/NanoMeow/QuickReports/issues/170
 finobe.com##+js(abort-current-inline-script.js, ga, adsbygoogle)
 @@||finobe.com^$generichide
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=finobe.com
 
 ! https://github.com/NanoMeow/QuickReports/issues/740
 @@||flacmusicfinder.com/*ad$script,1p
@@ -18035,3 +18045,20 @@ urlty.in##+js(popads-dummy.js)
 cut1.cf##.banner-inner
 ||urlty.in/ref/sw-ltvads.js$script,1p
 @@||ahramk.com^$generichide
+
+! https://www.reddit.com/r/uBlockOrigin/comments/b4wz1h/seeing_ads_on_gfycat/
+gfycat.com##+js(set-constant.js, setInterval, noopFunc)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5221
+converto.io##+js(abort-current-inline-script.js, RegExp, zfgload)
+||dalseeds.net^
+||ooftoomy.com^
+||wauzoust.com^
+
+! https://github.com/uBlockOrigin/uAssets/issues/5220
+youtubemp4.biz##+js(abort-on-property-read.js, ads)
+youtubemp4.biz##[href="/g-ban.php"]
+youtubemp4.biz##[href="/w.php"]
+
+! https://github.com/uBlockOrigin/uAssets/issues/5222
+keepvid.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
