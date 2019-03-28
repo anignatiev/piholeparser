@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: jl6kST82PpiooiwUIx8zRw
+! Checksum: lX2/XvtdaqktB/taqTT8qg
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
-! Last modified: Tue, 26 Mar 2019, 19:03 UTC+01
-! Version: 2019.3.26.2
+! Last modified: Wed, 27 Mar 2019, 23:00 UTC+01
+! Version: 2019.3.27.3
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -15,7 +15,7 @@
 !   Reddit => https://www.reddit.com/r/PolishFiltersTeam/
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2019 Polish Filters Team
-! Aktualizacja: wto, 26 mar 2019, 19:03 UTC+01
+! Aktualizacja: śro, 27 mar 2019, 23:00 UTC+01
 !
 !
 ! Newslettery (nie popupy)
@@ -421,6 +421,7 @@ kobietydokodu.pl,niezlomni.com,zagranie.com###text-10
 kochanamama.pl##.pmpIMail
 kolczewska.pl##.ulp-tab-right-middle.ulp-tab > .ulp-tab-content
 komp.tech##.stoka_newsletter
+kom-ster.pl,mebline.co.uk,mebline.nl##.moduletable_newsletter
 kontaktowe.pl###nbj
 kormoran-rowy.pl##.site-footer__row--top > .inner-section > .align-right.site-footer__col
 koszulkomat.eu##div.group:nth-of-type(5)
@@ -482,7 +483,6 @@ masterlease.pl##.blue-green.section
 mazovia.pl##.clearfix > .nice-shadow.search-block
 mdk.opole.pl##footer > .my_container > .formularz.sub
 meble.pl###newsletterBlok
-mebline.co.uk,mebline.nl##.moduletable_newsletter
 meblohaus.pl##.moduletable_left
 mecze24.pl#?#.module:-abp-has(h2:-abp-contains(Newsletter))
 meczenazywo.pl###p-right > div:nth-of-type(11)
@@ -844,6 +844,7 @@ smalltronic.pl##.NaglowekNewsletter, .ModulNewsletter
 smyk.com##.border__gradient--right-green-calltoaction-bar.border__gradient--left-green-calltoaction-bar
 sniadaniezkadra.onet.pl##.footerMenuBoxNewsletter
 snowbitch.pl###emailNewsForm
+sofly.club##.newsletter-widget-1
 softekspert.pl##.left-block:nth-of-type(3)
 soniadraga.pl##.nl_bot
 sonos.com##.newsletter.columns.medium-6
@@ -1454,6 +1455,7 @@ podrywaj.org##.modal_wrapper
 policja.pl,policja.gov.pl##[id^="popup-"], #krajowa_mapa_zagrozen
 polomarket.pl###layer_box
 polskicaravaning.pl,wiadomoscihandlowe.pl###newsletter-popup-wrapper
+polskieradio.pl##.showBanner.tempBanner
 polskimarket.nl###rc_window_squeeze, #Overlay
 pol-nor.com###boxpopup, #overlay, #popforfirma
 pomiar24.pl###przyciemnianie, #div_news-popup
@@ -1610,6 +1612,9 @@ zlotemysli.pl##._form_show._form-wrapper
 zszywka.pl###inv-request-popup
 !annalotan.pl,e-forma.pl,homeoapteka.pl,oponyalbert.pl,meblezagrosze.pl###cboxOverlay:not([style="opacity: 0.9; visibility: visible; display: block; cursor: pointer;"])
 !annalotan.pl,e-forma.pl,homeoapteka.pl,oponyalbert.pl,meblezagrosze.pl###cboxOverlay:not([style="opacity: 0.9; visibility: visible; display: block; cursor: pointer;"]) + #colorbox
+!||assets.livecall.io/*/livecall-widget.js
+!||assets.staging.livecall.io/*/livecall-widget-iso-8859-2.js$script,domain=arobron.pl
+##.livecall-widget-container
 /axnewsletter.js
 /common/js/enp/modules/newsletterPopup/newsletterPopup.js$domain=mixmedia.pl|mycenter.pl
 /compress/popupFacebook.js$domain=chamskie.pl|www.motywujemy24.pl
@@ -1641,8 +1646,6 @@ zszywka.pl###inv-request-popup
 ||app.getresponse.com/site2/elearning_news_gromar
 ||app.leadreactor.io/api/widget
 ||app.sendbean.pl/api/widget/init$xmlhttprequest,domain=www.angelsadvertising.pl|baccata.com.pl|www.sendbean.pl
-||assets.livecall.io/*/livecall-widget.js
-||assets.staging.livecall.io/*/livecall-widget-iso-8859-2.js$script,domain=arobron.pl
 ||audio.com.pl/media/jui/js/jquery.cookie.min.js
 ||a-masterlease.youlead.pl/api/query/popup/SettingsForPopups$script,domain=master1.pl
 ||a.mailmunch.co/app/$script,third-party
@@ -1813,6 +1816,7 @@ bankier.pl,claudia.pl,dyskusje24.pl,gazeta.pl,plotek.pl,sport.pl##.miniplayer
 gry.pl,waznygry.pl##.wt-notification-container
 nowa.tv##.floating-video
 polsatnews.pl,polsatsport.pl##.videoPlayer.is--persistent:not(.ended)
+radio.katowice.pl##div[id^="sidebar"].fixed-player
 rp.pl##.linear-tv__wrapper
 telewizjarepublika.pl##.contentsystem-slide-sda, .contentsystem-slide-link, .tvrep-live-box
 tvn24.pl##.videoPlayer.stuck--top
@@ -1945,6 +1949,7 @@ doradcasmaku.pl##.floating_scroll_top
 doran.com.pl,www.meczyki.pl,mtb-xc.pl,websitestyle.pl,animeholik.pl,promocyjni.pl,radiofon.fm,wikirose.pl,wizaz.pl,radiovia.com.pl##.scroll-up
 dotd.pl###arrow_up
 douglas.pl##.rd__back-to-top
+drweb-av.pl###scrollup_button
 drzwi-cal.pl##.js-site-scroll-up.site-scroll-up
 dts24.pl##.nav-btn
 durszlak.pl##.button-icon-goup
@@ -2546,7 +2551,6 @@ masterlease.pl##.contact-form
 masterleasing.pl##.callus
 masterproject.pl##.trigger_popup_fricc
 meczelive.tv###task
-mettosport.eu##.livecall-device-desktop
 militaria.pl###golivechat
 mistama.com##.ggu-bot-snapped-launcher
 mniammniam.com###o-widget-lws
@@ -2576,7 +2580,6 @@ pbkm.pl##.side-bar__item--phone
 pccentre.pl###zak_error
 pcprojekt.pl##.knowledgebase-slide-btn, .whyus-tab
 picodi.com###oneSignalBell, #onesignal-bell-container
-pixers.biz,polskimarket.nl,e-lakiernik.net,dobry-elektryk.info##.livecall-callback-v1-overlay
 pl###chat-application-iframe
 pl###feedbackButton
 pl###feedback-tab
@@ -2591,7 +2594,6 @@ pl###__ceneo-widgets
 pl##.fb-messengermessageus
 pl##.feedback-button
 pl##.ggu-bot-snapped-launcher
-pl##.livecall-callback-v1-overlay
 pl##.mtp-contact-button
 pl##.mtp-contact-message
 pl.000webhost.com##div[style="cursor: pointer;"]
@@ -2685,9 +2687,11 @@ zizako.pl,dbcenter.pl###widget_shop3
 zrzutka.pl##.uv-bottom-right
 zwirex.pl###shoutbox
 !arenadesign.pl##.mtp-contact-button, .mtp-contact-message
+!mettosport.eu##.livecall-device-desktop
 !profitroom.pl,arobron.pl,wyoming.com.pl,przeswietl.pl,sleeptime.pl,liniabrzucha.pl##.livecall-callback-v1-overlay
 !||client.crisp.chat/static/stylesheets/client_default.css$domain=www.fabrykawafelkow.pl
 !||live-support.pl/api/visitor/embedinit$script,domain=www.centrumpapieru.pl
+##.livecall-callback-v1-overlay
 /gnwidget/config/site-iframe.html$domain=orange.pl
 /livezillachat//script.php
 ||account.dzinga.com/callback/script.js
@@ -3201,6 +3205,7 @@ stopklatka.pl##.platforms_adfloor, .tickerPromo
 strajk.eu###bdCheckAlso
 strefawod.pl##.show-hide-contact-bar.contact-button-link
 styl.pl##.mobile-topbar-container
+sukniesabe.pl##.qodef-smooth-transition-loader
 support.microsoft.com##.ng-scope.survey-background[style*="position"][style*="fixed"]
 suwalki24.pl###sideCard
 swiatkwiatow.pl##.punica-shadow-box > #wyskakujaca

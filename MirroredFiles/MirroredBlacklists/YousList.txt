@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20190326
+! Version: 20190327
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -309,6 +309,7 @@
 ##iframe[src^="http://zone5.adpopcon.com/cgi-bin/PelicanC.dll"]
 ##iframe[src^="https://ad.luxnet.ua/dfp/spot.html"]
 ##iframe[src^="https://adbiz3.co.kr/"]
+##iframe[src^="https://ads-partners.coupang.com/widgets.html"]
 ##iframe[src^="https://ads.adjust-net.jp/adserver/ads"]
 ##iframe[src^="https://adserver.exoticads.com/cz"]
 ##iframe[src^="https://bullseye.backbeatmedia.com/bullseye/adserver/"]
@@ -541,6 +542,8 @@
 ||ads-by.yieldselect.com^
 ||ads-optima.com/www/delivery/afr.php^
 ||ads-optima.com/www/delivery/ajs.php^
+||ads-partners.coupang.com/g.js^
+||ads-partners.coupang.com/widgets.html^
 ||ads.acrosspf.com/adinfo.ad^
 ||ads.acrosspf.com/js/acrossadx.js^
 ||ads.acrosspf.com/opf/
@@ -2635,6 +2638,8 @@ gamefocus.co.kr##iframe[src^="bncode2/banner_mainflash.html"]
 gamefocus.co.kr##iframe[src^="bncode2/banner_right.html"]
 gamefocus.co.kr##iframe[src^="bncode2/banner_top.html"]
 gamemeca.com##div.ad-topscroll
+gamemeca.com##div.aside-right-ad
+gamemeca.com##div.aside-right-ad2
 gamemeca.com##div.background-ad
 gamemeca.com##div.content-ti-ad
 gamemeca.com##div.content-top-ad
@@ -4407,8 +4412,12 @@ newsis.com##span.banner1
 newsis.com##span.banner2
 newspim.com##aside.side_wrap>div[style="width:300px; height:128px; background-color:#777; color:#fff; margin-bottom:10px"]
 newspim.com##aside.side_wrap>div[style="width:300px; height:200px; background-color:#777; color:#fff; margin-bottom:10px"]
+newspim.com##div#wrap>div#slideshow
 newspim.com##div#wrap>div[style="margin-bottom: 20px; border: 1px solid white; text-align: center;"]
+newspim.com##div#wrap>div[style="position:absolute; z-index:1;left:50%; top:225px; margin-left:510px"]
+newspim.com##div#wrap>div[style="position:absolute; z-index:1;left:50%; top:850px; margin-left:510px"]
 newspim.com##div.bodynews>div[style="margin-bottom: 20px; border: 1px solid white; text-align: center;"]
+newspim.com##div.container>div[style="position:absolute; top:241px; z-index:1000; margin-left:-630px; left:50%;"]
 newspim.com##div.txtbanner
 newspim.com##div[data-widget_id="QXeveVoe"]
 newspim.com##div[data-widget_id="ko8GEeXE"]
