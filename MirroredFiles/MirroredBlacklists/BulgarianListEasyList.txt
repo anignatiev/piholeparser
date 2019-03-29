@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201903252229
+! Version: 201903282155
 ! Title: EasyPrivacy
-! Last modified: 25 Mar 2019 22:29 UTC
+! Last modified: 28 Mar 2019 21:55 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4734,6 +4734,8 @@ _mongo_stats/
 ||adpaths.com^$third-party
 ||adpies.com^$third-party
 ||adprotraffic.com^$third-party
+||adregain.com^$third-party
+||adregain.ru^$third-party
 ||adrizer.com^$third-party
 ||adrta.com^$third-party
 ||adsensedetective.com^$third-party
@@ -16121,6 +16123,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||zynga.com/current/iframe/track.php?$domain=apps.facebook.com
 ! Mining-related whitelists
 @@||alltube.tv/jsverify.php$~third-party,xmlhttprequest
+@@||api.nyda.pro^$websocket
 @@||broadcastt.xyz/apps/$websocket
 @@||imaster.space^$websocket
 @@||mycdn.me/chat$websocket

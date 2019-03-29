@@ -155,8 +155,13 @@ mil.al
 net.al
 org.al
 
-// am : https://en.wikipedia.org/wiki/.am
+// am : https://www.amnic.net/policy/en/Policy_EN.pdf
 am
+co.am
+com.am
+commune.am
+net.am
+org.am
 
 // ao : https://en.wikipedia.org/wiki/.ao
 // http://www.dns.ao/REGISTR.DOC
@@ -984,17 +989,16 @@ fm
 fo
 
 // fr : http://www.afnic.fr/
-// domaines descriptifs : http://www.afnic.fr/obtenir/chartes/nommage-fr/annexe-descriptifs
+// domaines descriptifs : https://www.afnic.fr/medias/documents/Cadre_legal/Afnic_Naming_Policy_12122016_VEN.pdf
 fr
-com.fr
 asso.fr
+com.fr
+gouv.fr
 nom.fr
 prd.fr
-presse.fr
 tm.fr
-// domaines sectoriels : http://www.afnic.fr/obtenir/chartes/nommage-fr/annexe-sectoriels
+// domaines sectoriels : https://www.afnic.fr/en/products-and-services/the-fr-tld/sector-based-fr-domains-4.html
 aeroport.fr
-assedic.fr
 avocat.fr
 avoues.fr
 cci.fr
@@ -1002,7 +1006,6 @@ chambagri.fr
 chirurgiens-dentistes.fr
 experts-comptables.fr
 geometre-expert.fr
-gouv.fr
 greta.fr
 huissier-justice.fr
 medecin.fr
@@ -7104,9 +7107,6 @@ accountants
 // aco : 2015-01-08 ACO Severin Ahlmann GmbH & Co. KG
 aco
 
-// active : 2014-05-01 Active Network, LLC
-active
-
 // actor : 2013-12-12 United TLD Holdco Ltd.
 actor
 
@@ -10828,6 +10828,7 @@ myasustor.com
 // Automattic Inc. : https://automattic.com/
 // Submitted by Alex Concha <alex.concha@automattic.com>
 go-vip.co
+go-vip.net
 wpcomstaging.com
 
 // AVM : https://avm.de
@@ -10971,6 +10972,10 @@ cloudaccess.net
 // Submitted by Tobias Wilken <tw@cloudcontrol.com>
 cloudcontrolled.com
 cloudcontrolapp.com
+
+// Cloudflare, Inc. : https://www.cloudflare.com/
+// Submitted by Jake Riesterer <publicsuffixlist@cloudflare.com>
+workers.dev
 
 // co.ca : http://registry.co.ca/
 co.ca
@@ -12734,6 +12739,10 @@ now.sh
 // Zine EOOD : https://zine.bg/
 // Submitted by Martin Angelov <martin@zine.bg>
 bss.design
+
+// Zitcom A/S : https://www.zitcom.dk
+// Submitted by Emil Stahl <esp@zitcom.dk>
+site.builder.nu
 
 // Zone.id : https://zone.id/
 // Submitted by Su Hendro <admin@zone.id>

@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 7315
+! Version: 7322
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -56,6 +56,7 @@
 ||adtikimdtfbb.com^
 ||adudzlhdjgof.com^
 ||aduobooydxr.com^
+||advmaiotg.com^
 ||adxpddpc.com^
 ||aeeefzfuk.com^
 ||aeezeynmam.bid^
@@ -2166,6 +2167,7 @@
 ||gllkdkxygckb.com^
 ||glslciwwvtxn.com^
 ||glvjbogft.com^
+||glvzlhrrdjlme.com^
 ||glyicpeke.com^
 ||glykvwol.bid^
 ||glzaaewyvdkae.com^
@@ -3932,6 +3934,7 @@
 ||locjzfoh.com^
 ||lofipgeld.bid^
 ||logkzudhrg.com^
+||lohxvwjpvl.com^
 ||lojqfrcipvoo.bid^
 ||lojuxbnt.com^
 ||loljuduad.bid^
@@ -4331,6 +4334,7 @@
 ||mqjfzzgcrupfh.com^
 ||mqlkcicnrgpntw.bid^
 ||mqmbbiadhb.bid^
+||mqnklgnucy.com^
 ||mqobpsctcxnbi.com^
 ||mqpyllobxdrfiu.com^
 ||mquvqdhzgfyjl.com^
@@ -5038,6 +5042,7 @@
 ||ovrdkhamiljt.com^
 ||ovvddcpjqndfv.com^
 ||ovzmelkxgtgf.com^
+||owcdycko.com^
 ||owcykhrgovbvhh.bid^
 ||owdeuzstq.bid^
 ||owdligzikqqh.bid^
@@ -7218,6 +7223,7 @@
 ||ymzrrizntbhde.com^
 ||ynhetcoypgnl.com^
 ||ynhonjqahrh.com^
+||ynkakgknfljv.com^
 ||ynlvwynnsstalh.com^
 ||ynopkisq.com^
 ||ynuyzeqtswtd.com^
@@ -7269,6 +7275,7 @@
 ||zcfbwlgydxo.com^
 ||zcjxeitlmnuq.com^
 ||zcwjasfrog.com^
+||zdjkzqwpqvwcmc.com^
 ||zfcjtxosje.com^
 ||zfoeiywwiqo.com^
 ||zggnhhadif.com^

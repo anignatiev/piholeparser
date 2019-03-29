@@ -2,11 +2,11 @@
 
 ### Last Run Stats
 
-* Script Started Thu Mar 28 00:20:17 UTC 2019
-* Script Ended Thu Mar 28 00:34:57 UTC 2019
-* [Script Took 14 Minutes To Filter 128 Lists. See Log Here.](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-* The Edited AllParsed File is 61 MB And Contains 2734905 Domains.
-* Average Parsing Of 7656 lines in 5 BlackLists was 18.6 Seconds.
+* Script Started Fri Mar 29 00:20:17 UTC 2019
+* Script Ended Fri Mar 29 00:37:53 UTC 2019
+* [Script Took 17 Minutes To Filter 128 Lists. See Log Here.](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+* The Edited AllParsed File is 61 MB And Contains 2734913 Domains.
+* Average Parsing Of 19763.4 lines in 10 BlackLists was 19.3 Seconds.
 * 1588 Valid Top Level Domains. No New TLD's.
 * [14 Lists That Do NOT Use https](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/20-Identifying-Lists-Without-https.md)
 
