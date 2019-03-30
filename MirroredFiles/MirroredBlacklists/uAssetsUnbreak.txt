@@ -1911,8 +1911,13 @@ xtube.com#@#[style*="height: 330px;"]
 ! https://github.com/NanoMeow/QuickReports/issues/632
 ! https://forums.lanik.us/viewtopic.php?p=145217#p145217
 ! https://forums.lanik.us/viewtopic.php?f=64&t=42673&p=145936#p145933
-@@||marketo.com/js/forms2/js/forms2.min.js$script,domain=gitlab.com|snowflake.com|conjur.org
-@@||marketo.com/index.php/form/$script,domain=gitlab.com|snowflake.com|conjur.org
+! https://github.com/uBlockOrigin/uAssets/issues/5246#issuecomment-478177132
+! https://github.com/uBlockOrigin/uAssets/issues/5246#issuecomment-478181113
+@@||marketo.com/js/forms2/js/forms2.min.js$script,3p
+@@||marketo.com/index.php/form/$script,3p
+@@||marketo.com/js/forms2/*$css,domain=bettercloud.com
+! https://github.com/uBlockOrigin/uAssets/issues/5246
+@@||munchkin.marketo.net/munchkin.js$badfilter
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4784#issuecomment-459778667
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=chicagotribune.com|mcall.com
@@ -2169,3 +2174,19 @@ ebay.com#@#li.s-item:has(.s-item__title-tag)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1720#issuecomment-476358518
 @@||amazon.*/*uedata$image,1p
+
+! https://www.reddit.com/r/uBlockOrigin/comments/b6tqfi/wwwagileanin_is_blocked_by_ublock_origin/
+||agilean.in^$badfilter
+
+! https://forums.lanik.us/viewtopic.php?f=91&t=42820
+||130.211.$third-party,badfilter
+
+! https://github.com/uBlockOrigin/uAssets/issues/4225#issuecomment-477979069
+||1337x.to^$csp=script-src 'self' 'unsafe-inline',badfilter
+||1337x.st^$csp=script-src 'self' 'unsafe-inline',badfilter
+||x1337x.eu^$csp=script-src 'self' 'unsafe-inline',badfilter
+||x1337x.se^$csp=script-src 'self' 'unsafe-inline',badfilter
+||x1337x.ws^$csp=script-src 'self' 'unsafe-inline',badfilter
+
+! https://www.reddit.com/r/uBlockOrigin/comments/b3a03i/pictures_blocked/
+||kaleva.fi*/smart_ads$badfilter

@@ -1321,6 +1321,7 @@ worldfree4u.lol##a[href="/ws.html"]
 ! https://github.com/uBlockOrigin/uAssets/issues/2667
 eurogamer.net,rockpapershotgun.com,vg247.com##+js(abort-on-property-write.js, yafaIt)
 rockpapershotgun.com,vg247.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
+rockpapershotgun.com##.leaderboards
 
 ! https://forums.lanik.us/viewtopic.php?p=101913#p101913
 auto-motor-und-sport.de,caravaning.de,womenshealth.de##+js(abort-on-property-write.js, adblockActive)
@@ -3579,7 +3580,6 @@ tune.pk##+js(set-constant.js, ad_blocker, false)
 ||freewheel-mtgx-tv.akamaized.net/$media,domain=viafree.dk|viafree.no|viafree.se
 ! https://github.com/NanoAdblocker/NanoFilters/issues/86
 ||fwmrm.net/ad/$xmlhttprequest,redirect=nooptext,domain=viafree.dk|viafree.no
-||fwmrm.net^$image,important,domain=viafree.dk|viafree.no
 ||fwmrm.net^*/linktag2.js$script,important,domain=viafree.dk|viafree.no
 ||mtg-api.com^*/comScore*.$script,domain=viafree.dk|viafree.no
 @@||playapi.mtgx.tv/*/adinfo?$xmlhttprequest,domain=viafree.no|viafree.dk|viafree.se
@@ -7396,7 +7396,7 @@ vipbox.live##+js(setInterval-defuser.js, (), 500)
 ||zinrora.pw^$3p
 *$popup,domain=vipbox.live,3p
 @@|about:blank|$popup,domain=vipbox.live
-vipbox.live##.position-absolute:style(opacity: 0.2 !important;)
+vipbox.live##.position-absolute:style(opacity: 0.1 !important;)
 vipbox.live##a[href^="https://s3.amazonaws.com/"]
 vipbox.live##[data-uri^="https://s3.amazonaws.com"]
 vipbox.live##.btn-lg.btn
@@ -8086,9 +8086,6 @@ freemcserver.net##+js(setTimeout-defuser.js, adblock)
 up-4.net##+js(nowebrtc.js)
 up-4.net##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 
-! https://github.com/uBlockOrigin/uAssets/issues/2323
-royurls.bid##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-
 ! https://github.com/uBlockOrigin/uAssets/issues/2324
 shorterlink.trade##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 
@@ -8310,7 +8307,7 @@ ganol.*,ganool123.com##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 ganol.*,ganool.*##+js(nowebrtc.js)
 invictus.ws##+js(abort-on-property-read.js, decodeURIComponent)
 invictus.ws##+js(abort-on-property-read.js, Date.prototype.toUTCString)
-invictus.ws##+js(abort-on-property-write.js, _pop)
+invictus.ws,twoddl.*##+js(abort-on-property-write.js, _pop)
 ||pbttxbna.com^
 ||d0p21g2fep.com^$third-party
 ||s24hc8xzag.com^$third-party
@@ -11576,9 +11573,10 @@ azmovie.*,azmovies.*##+js(setInterval-defuser.js, (), 500)
 ! https://github.com/uBlockOrigin/uAssets/issues/3462
 futbollibre.online##+js(abort-on-property-write.js, smrtSP)
 
-! https://forums.lanik.us/viewtopic.php?f=62&t=41675
+! https://github.com/uBlockOrigin/uAssets/issues/4865
 keeplinks.co##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 keeplinks.co##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+keeplinks.live##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
 ||keeplinks.co/sw.js$script,1p
 ||doshaido.com^
 ||indlzxgptf.com^$third-party
@@ -13604,10 +13602,10 @@ consoletarget.com,gamecopyworld.*##+js(abort-on-property-read.js, loadTool)
 ! https://www.reddit.com/r/uBlockOrigin/comments/a3t758/ublock_did_not_work_pchcom/
 !#if env_chromium
 trueachievements.com##+js(abort-current-inline-script.js, setTimeout, runInIframe)
-pch.com,trueachievements.com##+js(set-constant.js, String.fromCharCode, noopFunc)
+trueachievements.com##+js(set-constant.js, String.fromCharCode, noopFunc)
 !#endif
 trueachievements.com##^script:has-text(String.fromCodePoint)
-pch.com##+js(abort-current-inline-script.js, JSON.parse, Math.random)
+pch.com##+js(abort-on-property-read.js, URL)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4141
 @@||calorielijst.nl^$generichide
@@ -15847,8 +15845,10 @@ celeb.gate.cc##[href^="https://goo.gl/"]
 ||strpjmp.com^
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4619
-bolly4u.wiki##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
-bolly4u.wiki##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+bolly4u.*##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
+bolly4u.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+bolly4u.*##+js(abort-on-property-read.js, open)
+bolly4u.*##.code-block
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4621
 movieloverz.org##+js(abort-on-property-write.js, Fingerprint2)
@@ -18180,3 +18180,47 @@ getfreshcloud.xyz##+js(abort-on-property-write.js, adBlockDetected)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5239
 @@||metin2tech.eu^$generichide
+
+! iphonesoft.fr anti adb
+iphonesoft.fr##+js(setTimeout-defuser.js, replace, 1500)
+iphonesoft.fr##.bigPub
+
+! https://github.com/NanoMeow/QuickReports/issues/887
+@@||architetturaecosostenibile.it^$generichide
+architetturaecosostenibile.it##.adsbygoogle
+
+! https://github.com/NanoMeow/QuickReports/issues/888
+worldcupfootball.me##+js(abort-current-inline-script.js, RegExp, zfgload)
+||42632zfylf.com^$3p
+
+! https://github.com/NanoMeow/QuickReports/issues/889
+gload.cc##+js(setTimeout-defuser.js, popCanFire)
+gload.cc##[href="https://gload.cc/2019/strip"]
+||m3haw43xxuiai.win^$3p
+
+! https://www.reddit.com/r/uBlockOrigin/comments/b2jaz9/why_can_you_bypass_blockadblock_with/ejn17hi/
+@@||ftuforum.com^$generichide
+
+! https://github.com/NanoAdblocker/NanoFilters/issues/294
+@@||minigiants.io/ads.js$script,1p
+
+! https://github.com/uBlockOrigin/uAssets/issues/5242
+sound-park.club##+js(abort-current-inline-script.js, $, open)
+||afletedly.info^
+
+! torrentsave .live popups
+torrentsave.live##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5243
+links4earn.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+links4earn.com##+js(addEventListener-defuser.js, click, trigger)
+links4earn.com##+js(abort-on-property-read.js, open)
+links4earn.com##.banner
+links4earn.com##.button:has-text(/win/i)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5245
+@@||bomcondutor.pt^$generichide
+
+! https://github.com/uBlockOrigin/uAssets/issues/5247
+intporn.org##+js(abort-on-property-read.js, jsm_reruntime)
+||intporn.org/js/chaturbate.js$script,1p

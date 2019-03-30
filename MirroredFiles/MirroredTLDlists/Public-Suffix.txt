@@ -12413,6 +12413,11 @@ vaporcloud.io
 rackmaze.com
 rackmaze.net
 
+// Rancher Labs, Inc : https://rancher.com
+// Submitted by Vincent Fiduccia <domains@rancher.com>
+*.on-rancher.cloud
+*.on-rio.io
+
 // Read The Docs, Inc : https://www.readthedocs.org
 // Submitted by David Fischer <team@readthedocs.org>
 readthedocs.io
@@ -12435,6 +12440,10 @@ hzc.io
 wellbeingzone.eu
 ptplus.fit
 wellbeingzone.co.uk
+
+// Rochester Institute of Technology : http://www.rit.edu/
+// Submitted by Jennifer Herting <jchits@rit.edu>
+git-pages.rit.edu
 
 // Sandstorm Development Group, Inc. : https://sandcats.io/
 // Submitted by Asheesh Laroia <asheesh@sandstorm.io>
@@ -12542,6 +12551,10 @@ temp-dns.com
 // Submitted by Matthias.Winzeler <matthias.winzeler@swisscom.com>
 applicationcloud.io
 scapp.io
+
+// Syncloud : https://syncloud.org
+// Submitted by Boris Rybalkin <syncloud@syncloud.it>
+syncloud.it
 
 // Synology, Inc. : https://www.synology.com/
 // Submitted by Rony Weng <ronyweng@synology.com>
