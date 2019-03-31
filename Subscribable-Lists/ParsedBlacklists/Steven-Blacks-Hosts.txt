@@ -135,6 +135,7 @@ ads.proc.cc
 ads.samsungads.com
 ads1.ero-advertising.com
 ads2.servebom.com
+ads30.adcolony.com
 ads5.truecaller.com
 adsances.ero-advertising.com
 adscan.yelabapp.com
