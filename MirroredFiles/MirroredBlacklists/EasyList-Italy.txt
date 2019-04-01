@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: mUDvfFPxJnpssh+vNeC0Rw
-! Version: 201903240012
+! Checksum: k3hf7G65hBeUTagvYBSfFg
+! Version: 201904010011
 ! Title: EasyList Italy
-! Last modified: 24 Mar 2019 00:12 UTC
+! Last modified: 01 Apr 2019 00:11 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html
@@ -3277,6 +3277,7 @@ vistointv.net##.topbanner2
 chimica-online.it##.topreat
 everyeye.it##.topskin
 comingsoon.it##.trkAmazon
+ilsole24ore.com##.trova-casa-masthead
 turistipercaso.it##.trovaviaggi
 tiscali.it##.ts-headbanner
 tiscali.it##.tsr.mB20

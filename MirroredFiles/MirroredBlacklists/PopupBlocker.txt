@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: BBcOQdhGvvBXUOHCmh5gtw
+! Checksum: Rom5j/mcS799dTdumC6lXw
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
-! Last modified: Sat, 30 Mar 2019, 23:00 UTC+01
-! Version: 2019.3.30.3
+! Last modified: Mon, 01 Apr 2019, 00:00 UTC+02
+! Version: 2019.4.1.4
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -15,7 +15,7 @@
 !   Reddit => https://www.reddit.com/r/PolishFiltersTeam/
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2019 Polish Filters Team
-! Aktualizacja: sob, 30 mar 2019, 23:00 UTC+01
+! Aktualizacja: pon, 01 kwi 2019, 00:00 UTC+02
 !
 !
 ! Newslettery (nie popupy)
@@ -638,6 +638,7 @@ pepsieliot.com##.container:nth-of-type(1) > .row > .col-lg-3:nth-of-type(4)
 perfectfitness.pl###MailIndexForm
 perfekcyjnawdomu.pl##.footer > .container > .row > div.col-md-4:nth-of-type(2)
 pewex.pl##.footerBanner:nth-of-type(1)
+pe.szczecin.pl##body > .py-5.section_7
 pe.szczecin.pl##.py-5.section_7
 picodi.com##.newsletterContainer
 pixel-box.pl##.footer-newsletter-new
@@ -1048,6 +1049,7 @@ yves-rocher.pl##.service__column:nth-of-type(2) > .service__box:nth-of-type(1)
 zabieganamama.com##.widget.jetpack_subscription_widget
 zadowolenie.pl##.b-adZone_wide:nth-of-type(7)
 zadowolenie.pl##.image_widget.widget > .js-imageWidget
+zaffiro.shop###newsletterWidget
 zakupydladziecka.pl##.modNewsltter
 zakupywm1.pl##.hidden-xs.row > .col-sm-4:nth-of-type(3)
 zamek-krolewski.pl###footer_top
@@ -1964,7 +1966,7 @@ drweb-av.pl###scrollup_button
 drzwi-cal.pl##.js-site-scroll-up.site-scroll-up
 dts24.pl##.nav-btn
 durszlak.pl##.button-icon-goup
-dziecieceinspiracje.pl,koty24.pl,psy24.pl,ostra-na-slodko.pl,w10inspiracjidookolaswiata.pl,yerbanot.com,patabloguje.pl,al.to,ecbedzin.pl,enut.pl,emisja.tv,warszawa.promenada.com,gerardroofs.pl,ewaszalkowska.com,kuchniamagdaleny.pl##.to-top
+dziecieceinspiracje.pl,koty24.pl,psy24.pl,ostra-na-slodko.pl,w10inspiracjidookolaswiata.pl,yerbanot.com,patabloguje.pl,al.to,ecbedzin.pl,enut.pl,emisja.tv,warszawa.promenada.com,gerardroofs.pl,ewaszalkowska.com,kuchniamagdaleny.pl,akademiabudowy.pl##.to-top
 echodnia.eu##.scroll-back
 eenergy.com.pl##.back-top-btn
 ekspedyt.org###sbttBacktotop
