@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xsI5B2Sf3aWWvHHx7xdaew
-! Version: 201904010012
+! Checksum: F4xivCpPQkSUa/v+30J1HA
+! Version: 201904030012
 ! Title: Fanboy's Annoyance List
-! Last modified: 01 Apr 2019 00:12 UTC
+! Last modified: 03 Apr 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4061,10 +4061,12 @@ _youtube_social_
 /cookiesbanner/*
 /cookiesConsent.
 /cookiescontrol-
+/cookiesCSS.
 /cookiesdirective.
 /cookiesdisclaimer.
 /cookieser.
 /CookieSettingsManager?
+/cookiesJS.
 /cookieslegal.
 /cookiesLegales.
 /CookiesManager.
@@ -15303,6 +15305,7 @@ _site_cookie_
 ##.prodShareBlock
 ##.product-details__share
 ##.product-info-social
+##.product-share
 ##.product-share-v3
 ##.product-social-area
 ##.product-social-icon-wrapper
@@ -38600,7 +38603,7 @@ ilsole24ore.com###ias-footer
 ilquotidianodellazio.it###imgtop
 citywire.it###jsRegisterAlertBanner
 italiaoggi.it###lig_movingup2it_smartbox
-agenziaimpress.it,davidemaggio.it,ilfarosulmondo.it,moked.it,tvsvizzera.it###mc_embed_signup
+agenziaimpress.it,davidemaggio.it,ilfarosulmondo.it,moked.it,money.it,tvsvizzera.it###mc_embed_signup
 decathlon.it###messagetop
 milanofinanza.it###milanofinanza_web_smartbox_article
 automoto.it,moto.it###mit-bottombar

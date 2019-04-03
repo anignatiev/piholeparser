@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bCa8OGxD83pdaUEeEcReKg
-! Version: 201903300010
+! Checksum: uG8qBtJNpB+7oGVnkvxI7A
+! Version: 201904030010
 ! Title: RU AdList: Counters
-! Last modified: 30 Mar 2019 00:10 UTC
+! Last modified: 03 Apr 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -66,6 +66,9 @@
 @@||zona.mobi/js/build/app/modules/counters/liru.js$script,domain=zona.mobi
 !
 ! = Частные фильтры ===========================================================
+e.mail.ru###LEGO #leftcol-banners
+e.mail.ru###LEGO .b-rb
+e.mail.ru###LEGO div[id^="preload_banner"]
 fastpic.ru###picContainer > img
 happy-hack.ru#?##side_right > .block_r:-abp-has(noindex > center)
 pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net#?##tor-reged ~ *:-abp-has(a)
