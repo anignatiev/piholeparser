@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: F4xivCpPQkSUa/v+30J1HA
-! Version: 201904030012
+! Checksum: 9iB3+JFt1ubM4b7JX9+KkA
+! Version: 201904040012
 ! Title: Fanboy's Annoyance List
-! Last modified: 03 Apr 2019 00:12 UTC
+! Last modified: 04 Apr 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -34856,6 +34856,7 @@ autointhenews.com###subscriptions
 yourtango.com###tango-newsletter-form
 techonomy.com###tcnmy-newsletter-modal
 greece-is.com###teaser-newsletter
+theplaylist.net###text-10
 powerlineblog.com###text-12
 christiannews.net###text-15
 worldreligionnews.com###text-18
@@ -34866,7 +34867,7 @@ franklincounty-news.com###text-3
 chicagoreporter.com,mauritiustimes.com###text-4
 aranews.net,infrastructurene.ws,powerlineblog.com###text-6
 beverlyhillsmagazine.com###text-8
-beverlyhillsmagazine.com###text-9
+beverlyhillsmagazine.com,theplaylist.net###text-9
 azcapitoltimes.com###text-html-widget-17
 thefiscaltimes.com###tft-subscription-inline-block
 filmaffinity.com###top-anch
@@ -36358,7 +36359,7 @@ revntv.com##.hsoc
 sciencetimes.com##.i-btngroup
 pastebin.com##.i_tf
 techtimes.com##.ic_g
-etonline.com,utne.com##.icon-bar
+essence.com,etonline.com,utne.com##.icon-bar
 ted.com##.icon-center
 cookieandkate.com##.icon-font
 nextbigfuture.com##.icon-g
