@@ -158,6 +158,7 @@ analytics.luckypool.io
 analytics.soup.io
 analytics.uax.io
 analytics.urx.io
+analytics.webgains.io
 anon-wallet.luckypool.io
 anon.luckypool.io
 ap-northeast-1.bid.bidr.io
