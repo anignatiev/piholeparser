@@ -1220,7 +1220,7 @@ stern.de##+js(abort-on-property-write.js, exportz)
 ! Sourcepoint
 ! https://forums.lanik.us/viewtopic.php?f=62&t=34570
 ! https://github.com/uBlockOrigin/uAssets/issues/266
-autobytel.com,brigitte.de,cesoirtv.com,chip.de,gamesradar.com,huffingtonpost.co.uk,huffingtonpost.com,moviefone.com,playboy.de,usatoday.com##+js(abort-on-property-write.js, _sp_)
+autobytel.com,brigitte.de,cesoirtv.com,chip.de,gamesradar.com,huffingtonpost.co.uk,huffingtonpost.com,moviefone.com,playboy.de##+js(abort-on-property-write.js, _sp_)
 faz.net##+js(abort-current-inline-script.js, $, _sp_._networkListenerData)
 eltern.de,essen-und-trinken.de,focus.de,spiegel.de##+js(abort-on-property-read.js, _sp_.mms.startMsg)
 ! https://github.com/jspenguin2017/uBlockProtector/issues/367
@@ -1233,7 +1233,7 @@ eltern.de,essen-und-trinken.de,focus.de,spiegel.de##+js(abort-on-property-read.j
 ! https://forums.lanik.us/viewtopic.php?f=62&t=40162
 ! https://github.com/uBlockOrigin/uAssets/issues/461
 ! https://github.com/uBlockOrigin/uAssets/issues/4076
-20min.ch,al.com,alphr.com,autoexpress.co.uk,bento.de,bikeradar.com,blick.ch,chefkoch.de,cleveland.com,cyclingnews.com,digitalspy.com,denofgeek.com,esgentside.com,eurogamer.de,eurogamer.es,eurogamer.it,eurogamer.net,eurogamer.pt,evo.co.uk,exclusivomen.com,finanzfrage.net,ft.com,gala.de,gala.fr,gesundheitsfrage.net,gutefrage.net,heatworld.com,itpro.co.uk,ligainsider.de,livingathome.de,masslive.com,maxisciences.com,metabomb.net,mlive.com,motherandbaby.co.uk,motorcyclenews.com,muthead.com,neonmag.fr,newyorkupstate.com,ngin-mobility.com,nj.com,nola.com,ohmirevista.com,ohmymag.com,ohmymag.com.br,ohmymag.de,oregonlive.com,pcgamer.com,pennlive.com,programme.tv,programme-tv.net,radiotimes.com,silive.com,simplyvoyage.com,stern.de,syracuse.com,theweek.co.uk##+js(abort-on-property-read.js, _sp_._networkListenerData)
+20min.ch,al.com,alphr.com,autoexpress.co.uk,bento.de,bikeradar.com,blick.ch,chefkoch.de,cleveland.com,cyclingnews.com,digitalspy.com,denofgeek.com,esgentside.com,eurogamer.de,eurogamer.es,eurogamer.it,eurogamer.net,eurogamer.pt,evo.co.uk,exclusivomen.com,finanzfrage.net,ft.com,gala.de,gala.fr,gesundheitsfrage.net,gutefrage.net,heatworld.com,itpro.co.uk,ligainsider.de,livingathome.de,masslive.com,maxisciences.com,metabomb.net,mlive.com,motherandbaby.co.uk,motorcyclenews.com,muthead.com,neonmag.fr,newyorkupstate.com,ngin-mobility.com,nj.com,nola.com,ohmirevista.com,ohmymag.com,ohmymag.com.br,ohmymag.de,oregonlive.com,pcgamer.com,pennlive.com,programme.tv,programme-tv.net,radiotimes.com,silive.com,simplyvoyage.com,stern.de,syracuse.com,theweek.co.uk,usatoday.com##+js(abort-on-property-read.js, _sp_._networkListenerData)
 ! https://forums.lanik.us/viewtopic.php?f=90&t=35106
 gamona.de,giga.de,kino.de,spielaffe.de,spieletipps.de##+js(abort-on-property-write.js, _sp_)
 ! https://github.com/uBlockOrigin/uAssets/issues/271
@@ -1301,15 +1301,22 @@ quora.com##:xpath(//span[(text()='d')]/../../../../..)
 ! https://github.com/uBlockOrigin/uAssets/issues/291
 ! https://github.com/uBlockOrigin/uAssets/issues/831
 ! https://github.com/uBlockOrigin/uAssets/issues/1835
-worldfree4u.club##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+worldfree4u.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 worldfree4u.*##+js(abort-on-property-read.js, decodeURIComponent)
 worldfree4u.*##+js(popads-dummy.js)
 @@||worldfree4u.*^$generichide
 ||worldfree4u.*/promotion/*$subdocument
-@@||cdnjs.cloudflare.com/ajax/libs/*$script,domain=worldfree4u.top
-@@||content.jwplatform.com/libraries/*$script,domain=worldfree4u.top
-worldfree4u.lol##a[href="/downlo.html"]
-worldfree4u.lol##a[href="/ws.html"]
+@@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$script,domain=worldfree4u.desi
+worldfree4u.*##a[href="/downlo.html"]
+worldfree4u.*##a[href="/ws.html"]
+jionetflix.org,orkutfeed.com##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+jionetflix.org,orkutfeed.com##+js(noeval.js)
+jionetflix.org,orkutfeed.com##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+jionetflix.org,orkutfeed.com##+js(abort-on-property-read.js, decodeURIComponent)
+jionetflix.org,orkutfeed.com##+js(popads-dummy.js)
+||remtoaku.net^
+||ptikeegno.com^
+||woahizouty.com^
 
 ! https://forums.lanik.us/viewtopic.php?p=112050#p112050
 ! https://www.reddit.com/r/uBlockOrigin/comments/8stv3y
@@ -1781,11 +1788,11 @@ elmundo.es##.disabled-vscroll:style(overflow: auto !important; position: initial
 4chan.org##+js(abort-current-inline-script.js, String.fromCharCode, /\/\*[0-9a-f]{40}\*\//)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/470
-xclusivejams.com##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
-xclusivejams.com##+js(abort-on-property-read.js, anOptions)
-xclusivejams.com##+js(abort-on-property-write.js, Fingerprint2)
-xclusivejams.com##+js(nowebrtc.js)
-||xclusivejams.com/sw.js$script
+xclusivejams.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+xclusivejams.*##+js(abort-on-property-read.js, anOptions)
+xclusivejams.*##+js(abort-on-property-write.js, Fingerprint2)
+xclusivejams.*##+js(nowebrtc.js)
+||xclusivejams.*/sw.js$script
 ||refuzzlizing.pro^$third-party
 
 ! https://adblockplus.org/forum/viewtopic.php?f=10&t=53351
@@ -3672,6 +3679,7 @@ xhamster.com##.xplayer-banner-bottom
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1014
 mangoporn.net##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
+mangopron.net##+js(abort-on-property-read.js, Date.prototype.toGMTString)
 mangoporn.net##+js(abort-on-property-read.js, ExoLoader)
 mangoporn.net##+js(abort-on-property-write.js, _pop)
 mangoporn.net##+js(abort-on-property-write.js, pURL)
@@ -6262,6 +6270,7 @@ bzbasel.ch##+js(setTimeout-defuser.js, [native code], 3000)
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=40249
 animeshow.tv^$csp=script-src 'self' 'unsafe-inline' data: *.bootstrapcdn.com *.googleapis.com *.google-analytics.com
+animeshow.tv##+js(set-constant.js, String.fromCharCode, trueFunc)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1737
 @@||onlinefreecourse.net^$generichide
@@ -10673,7 +10682,7 @@ basellandschaftlichezeitung.ch,solothurnerzeitung.ch##+js(setTimeout-defuser.js,
 
 ! Instart Logic fixes
 ! https://github.com/uBlockOrigin/uAssets/issues/3164
-baltimoresun.com,boston.com,capitalgazette.com,carrollcountytimes.com,chicagotribune.com,citypaper.com,cnet.com,courant.com,ctnow.com,dailypress.com,delmartimes.net,desafiomundial.com,edmunds.com,emedicinehealth.com,growthspotter.com,hoylosangeles.com,lajollalight.com,lolking.net,mcall.com,orlandosentinel.com,ranchosantafereview.com,sandiegouniontribune.com,seattlepi.com,sfgate.com,slickdeals.net,southflorida.com,sun-sentinel.com,sun-sentinel.com,twincities.com,webmd.com,wowhead.com##^script:has-text(IXC_)
+baltimoresun.com,boston.com,capitalgazette.com,carrollcountytimes.com,chicagotribune.com,citypaper.com,cnet.com,courant.com,ctnow.com,dailypress.com,delmartimes.net,desafiomundial.com,edmunds.com,emedicinehealth.com,growthspotter.com,hoylosangeles.com,lajollalight.com,lolking.net,mcall.com,medicinenet.com,orlandosentinel.com,ranchosantafereview.com,sandiegouniontribune.com,seattlepi.com,sfgate.com,slickdeals.net,southflorida.com,sun-sentinel.com,sun-sentinel.com,twincities.com,webmd.com,wowhead.com##^script:has-text(IXC_)
 !#if env_chromium
 desafiomundial.com##+js(abort-on-property-read.js, I10C)
 !#endif
@@ -14522,10 +14531,6 @@ overlordfree.web.id##+js(set-constant.js, showAds, true)
 ! https://github.com/NanoMeow/QuickReports/issues/452
 @@||korenlovers.us^$generichide
 
-! https://github.com/NanoMeow/QuickReports/issues/453
-animeshouse.net##+js(popads-dummy.js)
-@@||animeshouse.net^$generichide
-
 ! https://github.com/uBlockOrigin/uAssets/issues/4326
 hindilinks4u.to##+js(abort-on-property-write.js, Fingerprint2)
 hindilinks4u.to##+js(nowebrtc.js)
@@ -16132,6 +16137,7 @@ firststateupdate.com##+js(abort-on-property-read.js, anOptions)
 ||d2fuc4clr7gvcn.cloudfront.net/track.js$script,3p
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=42488
+solarporn.net##+js(abort-on-property-read.js, Date.prototype.toGMTString)
 solarporn.net##+js(abort-on-property-read.js, ExoLoader)
 solarporn.net##+js(abort-on-property-read.js, ExoLoader.serve)
 solarporn.net##+js(abort-on-property-read.js, jsUnda)
@@ -18395,7 +18401,7 @@ luzernerzeitung.ch##+js(setTimeout-defuser.js, adblock, 5)
 @@||superhumanradio.net^$generichide
 
 ! https://github.com/abp-filters/abp-filters-anti-cv/issues/137
-33sk.tv##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+3sk.co,33sk.tv##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5272
 pornhub.com##+js(abort-on-property-read.js, smpop)
@@ -18498,3 +18504,29 @@ bankomap.com.ua##.adsbygoogle
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5296
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=freeiptv.life
+
+! praxis-jugendarbeit.de anti adb
+praxis-jugendarbeit.de##+js(setTimeout-defuser.js, nextFunction, 2000)
+
+! https://github.com/NanoMeow/QuickReports/issues/927
+@@||m.kuku.lu^$generichide
+
+! https://github.com/uBlockOrigin/uAssets/issues/5297
+watchfreexxx.net##+js(abort-on-property-read.js, Date.prototype.toGMTString)
+watchfreexxx.net##+js(abort-on-property-read.js, ExoLoader)
+watchfreexxx.net##+js(abort-on-property-read.js, ExoLoader.serve)
+watchfreexxx.net##+js(abort-on-property-read.js, initPu)
+watchfreexxx.net##+js(abort-on-property-read.js, jsUnda)
+vidfast.co##+js(abort-current-inline-script.js, Math.sin, vocabulary)
+watchfreexxx.net##+js(abort-on-property-read.js, NBLoader)
+||watchfreexxx.net/*.php$script,1p
+
+! https://www.reddit.com/r/uBlockOrigin/comments/b9p425/meteologixcom/
+@@||meteologix.com/js/ads.js$script,1p
+
+! aflamtorrent .org popups ads
+aflamtorrent.org##+js(abort-on-property-read.js, AaDetector)
+aflamtorrent.org##+js(abort-on-property-read.js, Date.prototype.toUTCString)
+aflamtorrent.org##[href*="redirect"]
+||bl0uxepb4o.com^
+||xghfi97mk6.com^
