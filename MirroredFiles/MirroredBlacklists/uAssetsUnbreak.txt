@@ -2242,3 +2242,24 @@ boards.4chan.org,boards.4channel.org#@#.middlead
 ! https://forums.lanik.us/viewtopic.php?p=146915#p146915
 @@||eastprodcdn.azureedge.net/bundles/*velaro$script
 ||velaro.com^$third-party,badfilter
+
+! https://github.com/NanoMeow/QuickReports/issues/939
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=boo.tw|b00.tw
+
+! https://www.reddit.com/r/uBlockOrigin/comments/b9ns52/cant_purchase_games_on_epic_game_store_while_this/
+@@||tracking.epicgames.com/tracking.js$1p
+
+! mattinopadova .gelocal.it broken page
+@@||scripts.repubblica.it/$script,domain=gelocal.it
+
+! https://github.com/NanoMeow/QuickReports/issues/84#issuecomment-480528757
+@@/playvideo.php$frame,domain=myvidster.com
+
+! https://github.com/NanoAdblocker/NanoFilters/issues/287#issuecomment-479898807
+@@||linetv.tw/public/scripts/ads.js$badfilter
+!#if env_mobile
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=linetv.tw
+!#endif
+
+! https://www.reddit.com/r/uBlockOrigin/comments/ba52ij/vlive_site_preventing_streaming_while_ublock_is/
+@@||gfp.veta.naver.com/adcall$script,domain=vlive.tv
