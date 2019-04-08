@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201904062211
+! Version: 201904071624
 ! Title: EasyPrivacy
-! Last modified: 06 Apr 2019 22:11 UTC
+! Last modified: 07 Apr 2019 16:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1147,7 +1147,6 @@
 /collect.php?data=
 /collect/kf?
 /collect/pageview?
-/collect/sdk?
 /collect/tracking.
 /collect?callback=
 /collect?event=
@@ -2529,6 +2528,7 @@
 /NNAnalytics/*
 /NNAnalyticsWPSites.
 /no-impression.gif?
+/notifications/analytics
 /np?log=
 /npssurvey.
 /nsimpression/*
@@ -3922,7 +3922,7 @@
 /umt.gif?
 /unica.gif?
 /unica.js
-/unica_
+/unica_$domain=~unica.fi
 /UnicaTag.
 /UniqueUserVisit?
 /Universal-Federated-Analytics.
@@ -5450,6 +5450,7 @@ _mongo_stats/
 ||fishhoo.com^$third-party
 ||fitanalytics.com^$third-party
 ||flagcounter.com^$third-party
+||flaghit.com^$third-party
 ||flash-counter.com^$third-party
 ||flash-stat.com^$third-party
 ||flashadengine.com^$third-party
@@ -5888,6 +5889,7 @@ _mongo_stats/
 ||logmatic.io^$third-party
 ||lognormal.net^$third-party
 ||logrocket.com^$third-party
+||logrocket.io^$third-party
 ||logsss.com^$third-party
 ||lookery.com^$third-party
 ||loopfuse.net^$third-party
@@ -6906,6 +6908,7 @@ _mongo_stats/
 ||urlself.com^$third-party
 ||usabilitytools.com^$third-party
 ||usabilla.com^$third-party
+||useinsider.com^$third-party
 ||useitbetter.com^$third-party
 ||user-api.com^$third-party
 ||user-clicks.com^$third-party
@@ -8810,6 +8813,7 @@ _mongo_stats/
 ||23.20.0.197^$third-party,domain=~tritondigital.net.ip
 ||23.23.22.172/ping/$third-party,domain=~newjerseynewsroom.com.ip
 ||24option.com/?oftc=$image,third-party
+||360buyimg.com^*/unit/log/*/log.js
 ||3crowd.com^*/3c1px.gif
 ||3qsdn.com/watchtime?
 ||4theclueless.com/adlogger/
@@ -8963,6 +8967,7 @@ _mongo_stats/
 ||analytics.apnewsregistry.com^
 ||analytics.artirix.com^
 ||analytics.atomiconline.com^
+||analytics.audioeye.com^
 ||analytics.avanser.com.au^
 ||analytics.aweber.com^
 ||analytics.bigcommerce.com^
@@ -9602,6 +9607,7 @@ _mongo_stats/
 ||etoro.com/tradesmonitor/
 ||event-listener.air.tv^
 ||event.api.drift.com^
+||event.getblue.io^
 ||event.loyalty.bigdoor.com^$third-party
 ||event.previewnetworks.com^
 ||event.trove.com^
@@ -10192,6 +10198,7 @@ _mongo_stats/
 ||pix.speedbit.com^$third-party
 ||pixel-a.basis.net^
 ||pixel-xpanama.netdna-ssl.com^
+||pixel.cdnwidget.com^
 ||pixel.colorupmedia.com^
 ||pixel.condenastdigital.com^
 ||pixel.fanbridge.com^
@@ -10289,7 +10296,7 @@ _mongo_stats/
 ||rackcdn.com/icon2.gif?
 ||rackcdn.com/knotice.api.js
 ||rackcdn.com/stf.js
-||rackcdn.com^$script,domain=barrons.com|buysubscriptions.com|cbsnews.com|cbssports.com|cnet.com|dailystar.co.uk|express.co.uk|gamerant.com|gamespot.com|giantbomb.com|inyt.com|metacritic.com|metrolyrics.com|page3.com|rotoworld.com|scout.com|sh.st|thesun.co.uk|thesun.ie|thesundaytimes.co.uk|thetimes.co.uk|tv.com|tvguide.com|zdnet.com
+||rackcdn.com^$script,domain=barrons.com|buysubscriptions.com|cbsnews.com|cbssports.com|cnet.com|cnetfrance.fr|dailystar.co.uk|express.co.uk|gamerant.com|gamespot.com|giantbomb.com|inyt.com|metacritic.com|metrolyrics.com|page3.com|rotoworld.com|scout.com|sh.st|thesun.co.uk|thesun.ie|thesundaytimes.co.uk|thetimes.co.uk|tv.com|tvguide.com|zdnet.com
 ||rackcdn.com^*/analytics.js
 ||radiotime.com/Report.ashx?
 ||radiotime.com/reports/
@@ -11865,6 +11872,7 @@ _mongo_stats/
 ||analytics.wetpaint.me^
 ||analytics.whatculture.com^
 ||analytics.yahoo.com^
+||analytics.zg-api.com^
 ||analyze.yahooapis.com^
 ||analyzer52.fc2.com^
 ||androidcommunity.com/ws/?js
@@ -12214,6 +12222,7 @@ _mongo_stats/
 ||current.com/tracking.htm?
 ||customerservicejobs.com/common/track/
 ||cyberlink.com/analytics/
+||d35u1vg1q28b3w.cloudfront.net^
 ||da.virginmedia.com^
 ||dabs.com/AbacusTest/clientinfo_bk.gif
 ||dailymail.co.uk/rta2/
@@ -12467,6 +12476,7 @@ _mongo_stats/
 ||furk.net/counter.yadro.ru/
 ||fwmrm.net^*/AnalyticsExtension.
 ||g.deathandtaxesmag.com^
+||g.ign.com^
 ||g.msn.com^
 ||g2a-com.newsletter.com.pl^$image,third-party
 ||ga.canoe.ca^
@@ -13853,7 +13863,7 @@ _mongo_stats/
 ||tracking.carsales.com.au^
 ||tracking.chacha.com^
 ||tracking.conduit.com^
-||tracking.epicgames.com^
+||tracking.epicgames.com^$image
 ||tracking.eurosport.com^
 ||tracking.gfycat.com/viewCount/
 ||tracking.goodgamestudios.com^
@@ -15501,6 +15511,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||canoe.ca/generix/omniture/TagOmnitureEngine.js
 @@||capitalone360.com/urchin.js
 @@||care2.com/assets/scripts/cookies/care2/NitroCookies.js
+@@||cbc.ca/g/stats/js/cbc-stats-top.js$~third-party
 @@||cbc.ca/g/stats/videoheartbeat/*/cbc-videoheartbeat.js
 @@||cbc.ca^*/loggingservice.js?
 @@||cbsimg.net/js/cbsi/dw.js$domain=cbssports.com|gamespot.com

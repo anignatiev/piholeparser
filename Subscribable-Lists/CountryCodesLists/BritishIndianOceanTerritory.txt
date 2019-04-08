@@ -564,6 +564,7 @@ eum-eu-west-1.instana.io
 eum-test-fullstack-0-us-west-2.instana.io
 eum-us-west-2.instana.io
 eum.instana.io
+event.getblue.io
 event.prod.bidr.io
 events.branch.io
 events.prod.bidr.io

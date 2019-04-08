@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dNR2NBJ6hoJJA6OobFPyEg
-! Version: 201904060012
+! Checksum: 6lge/OMNBtsXZCqHxdgQ9w
+! Version: 201904080012
 ! Title: Fanboy's Annoyance List
-! Last modified: 06 Apr 2019 00:12 UTC
+! Last modified: 08 Apr 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -18528,6 +18528,7 @@ _site_cookie_
 ##.thesocialbar
 ##.thesocialbarform
 ##.thesocialbartext
+##.thim-author-social
 ##.thr-social-share
 ##.thread-share
 ##.thread-submission-socialSharing
@@ -20511,6 +20512,7 @@ _site_cookie_
 ###_orkla-cookie-disclaimer
 ###_prcy_info_bar
 ###_ubuntu-it_cookie_policy
+###a-cookie
 ###a3_cookie
 ###a8c-cookie-banner
 ###aa_privacy_module
@@ -29425,6 +29427,7 @@ _site_cookie_
 ##.privacy-info-message
 ##.privacy-infos
 ##.privacy-message
+##.privacy-modal
 ##.privacy-module
 ##.privacy-note
 ##.privacy-notice
@@ -30122,6 +30125,7 @@ _site_cookie_
 ##div[class^="CookieBanner-"]
 ##div[class^="CookieBanner_"]
 ##div[class^="CookieBar_"]
+##div[class^="CookieConsent_"]
 ##div[class^="CookieGdpr"]
 ##div[class^="CookieNotice"]
 ##div[class^="CookiePopup"]
@@ -30639,7 +30643,6 @@ _site_cookie_
 ||upscri.be^$third-party
 ||urbanairship.com^$third-party
 ||usefomo.com^$third-party
-||useinsider.com^$third-party
 ||userdatatrust.com^$third-party
 ||vhmengine.com^$third-party
 ||vicomi.com^$third-party
@@ -40903,7 +40906,7 @@ scribol.com#@#.scribol
 advids.co,cbdoilreview.org,mortgageguy.com.au,paperless-insurance.com#@#.scroll-to-top
 channelnewsasia.com,kitacon.org,polskikoszyk.pl,redislabs.com#@#.scroll-top
 indiatimes.com,letyshops.com,msn.com,southernliving.com,tele2.ru#@#.scroll-up
-playtech.co.nz,porozmawiajmyoit.pl,scan.co.uk#@#.scroll_top
+hyperoptic.com,playtech.co.nz,porozmawiajmyoit.pl,scan.co.uk#@#.scroll_top
 theuptake.org#@#.scrolltop
 github.com,kifi.com,okcupid.com,retailmenot.com#@#.signup-email
 dualshockers.com#@#.socialfooter
@@ -41272,7 +41275,7 @@ tvp.info#@#.social-article
 dallascowboys.com,golem.de,patriots.com,top.de#@#.social-bar
 funnyordie.com#@#.social-bar-container
 wat.tv#@#.social-block
-chillitorun.pl,flyertalk.com,onovini.com,rta24.eu,stw24.pl,vonguru.fr,wahl-o-mat.de#@#.social-bottom
+adgully.com,chillitorun.pl,flyertalk.com,onovini.com,rta24.eu,stw24.pl,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 chess.com#@#.social-btns
@@ -41591,6 +41594,7 @@ betway.it#@#.module-cookie
 ramics-conference.org#@#.nf-form-content
 aklagare.se,boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz,pokemon.com,shopstyle.com,thenextweb.com#@#.no-cookies
 pieseauto.ro#@#.page-cookies
+apple.com#@#.privacy-consent
 account.microsoft.com#@#.privacy-container
 jyllands-posten.dk#@#.qc-cmp-showing
 jyllands-posten.dk#@#.qc-cmp-ui-container
