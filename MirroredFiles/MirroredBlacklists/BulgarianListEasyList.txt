@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201904071624
+! Version: 201904081952
 ! Title: EasyPrivacy
-! Last modified: 07 Apr 2019 16:24 UTC
+! Last modified: 08 Apr 2019 19:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3891,6 +3891,7 @@
 /trk.php?
 /trk/p.gif?
 /trk_zbo.
+/trkga.
 /trkpixel.gif
 /trkr.js
 /trkr/php?
@@ -6205,6 +6206,7 @@ _mongo_stats/
 ||pclicks.com^$third-party
 ||pcspeedup.com^$third-party
 ||pdbu.net^$third-party
+||peep1alea.com^$third-party
 ||peerius.com^$third-party
 ||pega.com^$third-party
 ||percentmobile.com^$third-party
@@ -6391,6 +6393,7 @@ _mongo_stats/
 ||retargetly.com^$third-party
 ||retargettracker.com^$third-party
 ||retentionscience.com^$third-party
+||rettica.com^$third-party
 ||reussissonsensemble.fr^$third-party
 ||revdn.net^$third-party
 ||revenuepilot.com^$third-party
@@ -11724,7 +11727,6 @@ _mongo_stats/
 ||3rdeye.spankbang.com^
 ||4hds.com/js/camstats.js
 ||4info.com/alert/listeners/
-||4tube.com/assets/abExperiments-
 ||5.153.4.92^$domain=spreaker.com
 ||5min.com/PSRq?
 ||5min.com/PSRs?
@@ -12985,6 +12987,7 @@ _mongo_stats/
 ||myfitnesspal.com/assets/mfp_localytics.js
 ||mypaydayloan.com/setc.asp?
 ||mypoints.com/js/*ga.js?
+||myporn.club^*/hit
 ||myspace.com/beacon/
 ||myspace.com/isf.gif?
 ||mytravel.co.uk/thomascooktrack.gif?
@@ -14570,6 +14573,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||pcfreunde.de/wb.
 ||pcgames.de^*/remotecampaigntracker.php
 ||pcwelt.de^*/pic.gif?
+||pi.technik3d.com^
 ||pix.friendscout24.de^
 ||pix.telekom.de^
 ||pixel.1und1.de^
@@ -16422,6 +16426,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||vpro.nl/vpro/htmlplayer/0.3-snapshot/statcounter.js?
 ! Finnish
 @@||adobedtm.com^*/satelliteLib-$script,domain=gigantti.fi
+@@||cnetcontent.com/jsc/h.js$domain=atea.fi
 @@||emediate.se/EAS_tag*.js$domain=forssanlehti.fi
 @@||ensighten.com^*/Bootstrap.js$domain=mikrobitti.fi
 @@||googletagmanager.com/gtm.js?$domain=cdon.fi
