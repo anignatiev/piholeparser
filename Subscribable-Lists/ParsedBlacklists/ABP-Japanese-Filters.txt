@@ -462,6 +462,7 @@ blendac.com
 blinkosplash.com
 blogclick.jp
 blogroll.livedoor.net
+blueconic.net
 bluelithium.com
 bmmetrix.com
 bmnq.com
@@ -537,6 +538,7 @@ cbapp.com
 cbjs.baidu.com
 cd-ladsp-com.s3.amazonaws.com
 cdn-image.com
+cdnads.com
 cdncache-a.akamaihd.net
 cdncache1-a.akamaihd.net
 cdneurope.com
@@ -559,6 +561,7 @@ cher-cher.org
 chercher-un-credit.com
 chercher.org
 chestyry.com
+chidsimp.com
 chie8oo.com
 chitika.net
 choisirsonforfait.com
@@ -1093,6 +1096,7 @@ hdjsdata.com
 hdsrc-a.akamaihd.net
 hdstreamerjs.info
 hdvidcodecs.com
+hearstnp.com
 heelwork.com
 heias.com
 henrybucks.ru
@@ -1858,6 +1862,7 @@ proligtb.com
 promo.fileforum.com
 proncar.ru
 proparm.jp
+propellerclick.com
 propellerpops.com
 propermediadeals.com
 prp11ahda.s3.amazonaws.com
@@ -1873,6 +1878,7 @@ puhtml.com
 pulseadnetwork.com
 pureadexchange.com
 pus2011.com
+pushmejs.com
 putags.com
 pwbjgo7q6y.com
 px10.net
@@ -2016,8 +2022,6 @@ ryminos.com
 rytatuy.ru
 s-p-o-n-s-o-r.com
 s.xvideos.com
-s.youtube.com
-s2.youtube.com
 s2hd-plugincom-maynemyltf.netdna-ssl.com
 sail-horizon.com
 saltamendors.com
