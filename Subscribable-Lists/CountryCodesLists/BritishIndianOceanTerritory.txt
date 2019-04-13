@@ -1106,6 +1106,7 @@ proxytest1.sptest.backtrace.io
 proxythree.ipbc.io
 proxytwo.ipbc.io
 psc.luckypool.io
+pub.admedia.io
 pub.web.sapo.io
 public-analytics.useast.atlassian.io
 puma.extole.io

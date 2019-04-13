@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201904112337
+! Version: 201904122246
 ! Title: EasyPrivacy
-! Last modified: 11 Apr 2019 23:37 UTC
+! Last modified: 12 Apr 2019 22:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -683,6 +683,7 @@
 /analyticstick.
 /analyticstrack.
 /analyticstracking.
+/analyticstracking?
 /analyticstracking_
 /analyticstrain-
 /analyticsUnitaire?
@@ -3115,6 +3116,7 @@
 /sdctag2.js
 /sdp-tagcollector.
 /sdxp1/dru4/meta?_hc=
+/search-cookie.aspx?$image
 /searchIgnite.
 /searchMetric.
 /secure-stats.
@@ -3504,6 +3506,7 @@
 /tealium-api/*
 /tealium-udo.
 /tealium-web/*
+/tealium.html?
 /tealium.js
 /tealiumpixel.
 /tenping.cpa.
@@ -3527,6 +3530,7 @@
 /tiwik.
 /tjp_beacon.
 /tmpstats.gif?
+/tms/metrics.
 /tmv11.
 /tnc.js?h=
 /tnc?_t=
@@ -4644,6 +4648,7 @@ _mongo_stats/
 ||11nux.com^$third-party
 ||123count.com^$third-party
 ||149.13.65.144^$third-party
+||15gifts.com^$third-party
 ||168logger.com^$third-party
 ||195.10.245.55^$third-party
 ||1freecounter.com^$third-party
@@ -5219,6 +5224,7 @@ _mongo_stats/
 ||csi-tracking.com^$third-party
 ||ctnsnet.com^$third-party
 ||cttracking02.com^$third-party
+||curalate.com^$third-party
 ||customer.io^$third-party
 ||customerconversio.com^$third-party
 ||customerdiscoverytrack.com^$third-party
@@ -5488,7 +5494,6 @@ _mongo_stats/
 ||forkcdn.com^$third-party
 ||formalyzer.com^$third-party
 ||formisimo.com^$third-party
-||forter.com^$third-party
 ||foundry42.com^$third-party
 ||fout.jp^$third-party
 ||fpctraffic2.com^$third-party
@@ -6056,6 +6061,7 @@ _mongo_stats/
 ||mysitetraffic.net^$third-party
 ||mysocialpixel.com^$third-party
 ||mytictac.com^$third-party
+||mytrack.pro^$third-party
 ||myusersonline.com^$third-party
 ||myvisualiq.net^$third-party
 ||mywebstats.com.au^$third-party
@@ -8970,6 +8976,7 @@ _mongo_stats/
 ||analyticapi.pho.fm^
 ||analyticcdn.globalmailer.com^
 ||analytics-beacon-*.amazonaws.com^
+||analytics-production.hapyak.com^
 ||analytics-rhwg.rhcloud.com^
 ||analytics-static.ugc.bazaarvoice.com^
 ||analytics-v2.anvato.com^
@@ -9464,7 +9471,6 @@ _mongo_stats/
 ||d2kyy9hvbrzkgn.cloudfront.net^
 ||d2nq0f8d9ofdwv.cloudfront.net/track.js
 ||d2nxi61n77zqpl.cloudfront.net^
-||d2o5idwacg3gyw.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
 ||d2pxb4n3f9klsc.cloudfront.net^
@@ -10359,6 +10365,7 @@ _mongo_stats/
 ||rtt.campanja.com^
 ||ru4.com/click?
 ||rva.outbrain.com^
+||s-microsoft.com/mscc/
 ||s-vop.sundaysky.com^$third-party
 ||s.clickability.com^
 ||s.sniphub.com^
@@ -12236,7 +12243,6 @@ _mongo_stats/
 ||current.com/tracking.htm?
 ||customerservicejobs.com/common/track/
 ||cyberlink.com/analytics/
-||d35u1vg1q28b3w.cloudfront.net^
 ||da.virginmedia.com^
 ||dabs.com/AbacusTest/clientinfo_bk.gif
 ||dailymail.co.uk/rta2/
@@ -12552,6 +12558,7 @@ _mongo_stats/
 ||globes.co.il/ga.asp
 ||globes.co.il/shared/s.ashx?
 ||globester.com^*/track.js
+||glosbe.com/glosbetrans.gif?
 ||gmonitor.aliimg.com^
 ||gnar.grammarly.com^
 ||gnavi.co.jp/analysis/
