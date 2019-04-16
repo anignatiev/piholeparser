@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201904142214
+! Version: 201904152339
 ! Title: EasyList
-! Last modified: 14 Apr 2019 22:14 UTC
+! Last modified: 15 Apr 2019 23:39 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3414,7 +3414,7 @@
 /advertisements_
 /AdvertisementShare.
 /advertisementview/*
-/advertiser.$domain=~advertiser.adverbid.com|~advertiser.autorepairconnect.com|~advertiser.growmobile.com|~advertiser.vungle.com|~linkpizza.com|~panel.rightflow.com|~trialpay.com|~unity3d.com
+/advertiser.$domain=~advertiser.adverbid.com|~advertiser.autorepairconnect.com|~advertiser.growmobile.com|~advertiser.livthecity.com|~advertiser.vungle.com|~linkpizza.com|~panel.rightflow.com|~trialpay.com|~unity3d.com
 /advertiser/*$domain=~ads.microsoft.com|~affili.net|~affiliprint.com|~bingads.microsoft.com|~linkpizza.com|~mobileapptracking.com|~trialpay.com
 /advertisers.$image,script,subdocument,domain=~advertisers.adversense.com|~advertisers.careerone.com.au|~advertisers.dk|~advertisers.easyweddings.com.au|~advertisers.io|~advertisers.leadia.ru|~advertisers.ypfboost.ph|~panel.rightflow.com
 /advertisers/*$domain=~datalift360.com|~home.tapjoy.com|~panel.rightflow.com|~propelmedia.com|~publisuites.com
@@ -36515,6 +36515,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||aemxvcqi.com^$third-party
 ||aeobzaii.com^$third-party
 ||aewzmsurtab.com^$third-party
+||afeeknuueaztxt.com^$third-party
 ||afeuvqrsswz.com^$third-party
 ||afgbvhocfvpm.com^$third-party
 ||afxtcajgtzcugb.com^$third-party
@@ -36651,6 +36652,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||bnjhbghjznq.com^$third-party
 ||bnjrtdsafo.com^$third-party
 ||bnpmudgktroz.com^$third-party
+||boaawvdg.com^$third-party
 ||bocqmlgslzoo.com^$third-party
 ||boizgpgrxvokd.com^$third-party
 ||bonxsqstn.com^$third-party
@@ -36907,6 +36909,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ejgdixiddmruql.com^$third-party
 ||ejlsbfqqxoc.com^$third-party
 ||ejoyjumnsft.com^$third-party
+||ekbiwwngwig.com^$third-party
 ||ekggptrw.com^$third-party
 ||eklcrpehu.com^$third-party
 ||ekmztfadigi.com^$third-party
@@ -37148,6 +37151,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||gynzvwhup.com^$third-party
 ||gyycgkchjtimu.com^$third-party
 ||gzoprhvqhie.com^$third-party
+||gzqoxmkuhl.com^$third-party
 ||hafksvqiir.com^$third-party
 ||hagiqxizxqf.com^$third-party
 ||hanimyel.com^$third-party
@@ -37208,6 +37212,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||hnntopkvrsivwc.com^$third-party
 ||hnregzjxsafu.com^$third-party
 ||hnshjxowpldar.com^$third-party
+||hntntnfizowo.com^$third-party
 ||hntxitqhto.com^$third-party
 ||hogylomirfc.com^$third-party
 ||hoqqzlvwukpo.com^$third-party
@@ -37249,8 +37254,10 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||hxhyejtblmu.com^$third-party
 ||hxqetblh.com^$third-party
 ||hxvuuswzydwykb.com^$third-party
+||hyrnujewyatvd.com^$third-party
 ||hysyqgbls.com^$third-party
 ||hyurzuxoksg.com^$third-party
+||hztjenzlrrwinq.com^$third-party
 ||iaatzkkqyv.com^$third-party
 ||iacexhglty.com^$third-party
 ||iafqqcsw.com^$third-party
@@ -37328,6 +37335,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||iqopeoufjul.com^$third-party
 ||iqyirwfzlx.com^$third-party
 ||irfiysdcrnleu.com^$third-party
+||isfxsiooyjad.com^$third-party
 ||isnsgjhthhaqtu.com^$third-party
 ||isxwajatbig.com^$third-party
 ||itlmnxlauah.com^$third-party
@@ -37340,6 +37348,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||iuooczzbi.com^$third-party
 ||ivowhzku.com^$third-party
 ||ivvoooxuyjfuo.com^$third-party
+||iwapwcqg.com^$third-party
 ||iwfzluau.com^$third-party
 ||iwgdguuz.com^$third-party
 ||ixskusmnsb.com^$third-party
@@ -37366,6 +37375,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jcrqhscfqqbgby.com^$third-party
 ||jcsisvtb.com^$third-party
 ||jdbovkzjtuup.com^$third-party
+||jdrckkbpb.com^$third-party
 ||jdskyjntuhea.com^$third-party
 ||jducqfnxeypyw.com^$third-party
 ||jecbbkrnfn.com^$third-party
@@ -37377,6 +37387,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jfjuhxfllw.com^$third-party
 ||jfnafbcysy.com^$third-party
 ||jfvadxjr.com^$third-party
+||jgerrmaktdzyh.com^$third-party
 ||jgjpicgy.com^$third-party
 ||jguczdjzvfp.com^$third-party
 ||jheduynirrxkro.com^$third-party
@@ -37390,6 +37401,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jimxaqrpqbxldt.com^$third-party
 ||jiyvkdfab.com^$third-party
 ||jjhnnzef.com^$third-party
+||jjokvprdxwf.com^$third-party
 ||jkamuwyswgk.com^$third-party
 ||jkawfxvh.com^$third-party
 ||jkciacmcnya.com^$third-party
@@ -37409,11 +37421,13 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jnjbdvchvk.com^$third-party
 ||jnnswtdifjgx.com^$third-party
 ||johonmtpyv.com^$third-party
+||josxzdszqaivb.com^$third-party
 ||jotpybmcjvg.com^$third-party
 ||jozfwcmrxkwva.com^$third-party
 ||jpdauipgz.com^$third-party
 ||jpmyudcnpgl.com^$third-party
 ||jpqmviofsf.com^$third-party
+||jpvmwnnwuzo.com^$third-party
 ||jpxevzab.com^$third-party
 ||jqanygfhqne.com^$third-party
 ||jqgblwjfvox.com^$third-party
@@ -37536,6 +37550,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||kygozmlrr.com^$third-party
 ||labdwkqyavb.com^$third-party
 ||lajpmujdntg.com^$third-party
+||lamwiadakwa.com^$third-party
 ||lanktydm.com^$third-party
 ||lawvcpqtapzsh.com^$third-party
 ||lbaybxwiklnfe.com^$third-party
@@ -37549,6 +37564,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ldvmpopwd.com^$third-party
 ||ledvqaldtf.com^$third-party
 ||lesmyjzc.com^$third-party
+||lfjmmgorkjoaw.com^$third-party
 ||lfjvaaswkxqj.com^$third-party
 ||lfqocbhv.com^$third-party
 ||lfrqmuplp.com^$third-party
@@ -37560,6 +37576,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||lhuetsviudr.com^$third-party
 ||liadlzantv.com^$third-party
 ||liesiotlpfvjm.com^$third-party
+||liulwxrybupyzu.com^$third-party
 ||ljjaiargqfwtzu.com^$third-party
 ||ljkihuolgoh.com^$third-party
 ||ljkmwpvahv.com^$third-party
@@ -37591,6 +37608,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||lovvznyhujf.com^$third-party
 ||lpbhbwpbpnl.com^$third-party
 ||lpbuaqfgwkzrep.com^$third-party
+||lprkphlgaybvtn.com^$third-party
 ||lptggobhuuxcdw.com^$third-party
 ||lpxxafsupgsho.com^$third-party
 ||lpzsxemf.com^$third-party
@@ -37681,6 +37699,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||mqobpsctcxnbi.com^$third-party
 ||mrjzfzwey.com^$third-party
 ||mrtehsag.com^$third-party
+||msigpurubzkm.com^$third-party
 ||msisvvxmnpm.com^$third-party
 ||msmaijsxlo.com^$third-party
 ||msoiqafieh.com^$third-party
@@ -37774,6 +37793,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||nscjgmhyeov.com^$third-party
 ||nswnseld.com^$third-party
 ||ntgqcnferh.com^$third-party
+||nticqzrucdg.com^$third-party
 ||ntjcrsfvszoen.com^$third-party
 ||ntkuokicthbxc.com^$third-party
 ||ntlhrttump.com^$third-party
@@ -37822,6 +37842,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||odukhsymyua.com^$third-party
 ||oebdarcqsqcdk.com^$third-party
 ||oeevatisopdl.com^$third-party
+||oeidusggzj.com^$third-party
 ||oeppesfmzlbpa.com^$third-party
 ||oertmxfsryji.com^$third-party
 ||ofrducrisy.com^$third-party
@@ -38030,6 +38051,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||qnhwhedcrzeodd.com^$third-party
 ||qnjdtefk.com^$third-party
 ||qnzelsgj.com^$third-party
+||qoayrejue.com^$third-party
 ||qofzhmbqa.com^$third-party
 ||qoiagrfbmquek.com^$third-party
 ||qolrlwwirf.com^$third-party
@@ -38086,6 +38108,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||qytuwxcozbk.com^$third-party
 ||qzbnokxxvvpwf.com^$third-party
 ||qzhaqsxb.com^$third-party
+||qzismxssqf.com^$third-party
 ||qzizjjyvsa.com^$third-party
 ||rabjkklvegagrn.com^$third-party
 ||rahvoujjgmtvft.com^$third-party
@@ -38558,6 +38581,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||vwkyuawm.com^$third-party
 ||vwpoxvufxnon.com^$third-party
 ||vwvnounnfteusv.com^$third-party
+||vwxptkkqbyppe.com^$third-party
 ||vxkupxpf.com^$third-party
 ||vxrpmslex.com^$third-party
 ||vxyqsxeo.com^$third-party
@@ -38764,6 +38788,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||xzfswipynyuj.com^$third-party
 ||xzwynraczfcq.com^$third-party
 ||xzywlbgldmpi.com^$third-party
+||yahbdmyvvmjh.com^$third-party
 ||yaikleyabl.com^$third-party
 ||ybbqkfzmj.com^$third-party
 ||ybhgzvkqtocedj.com^$third-party
@@ -49364,7 +49389,6 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ad.lijit.com^$third-party
 ||ad.linkstorms.com^$third-party
 ||ad.livere.co.kr^
-||ad.mail.ru^
 ||ad.mediabong.net^
 ||ad.mesomorphosis.com^
 ||ad.mygamesol.com^$third-party
@@ -67469,7 +67493,6 @@ theregister.co.uk##.wptl
 currentaffair.com##.wrap-cad
 sowetanlive.co.za##.wrap-onelife
 osbot.org##.wrapper > center:nth-of-type(-n+3) > a
-newsbusters.org##.wrapper-100
 paultan.org##.wrapper-footer
 breitbart.com##.wrapperBanner
 kiplinger.com##.wrapper[style="display: block;"]
@@ -72956,6 +72979,7 @@ pornhub.com,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width
 @@||stclassifieds.sg/images/ads/$~third-party
 @@||stclassifieds.sg/postad/
 @@||streamcloud.eu^$generichide
+@@||streaming.adswizz.com/anon.npr-mp3/npr/$media,domain=player.fm
 @@||streaming.gmgradio.com/adverts/*.mp3$object-subrequest
 @@||streamlive.to/ads/$object,script
 @@||streamplay.club/js/pop$script,~third-party
