@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: y9Q7Ev0XhLzKxtF26Ugeig
-! Version: 201904150012
+! Checksum: Ea2ZAuxjzbmdI9DBBcmZvw
+! Version: 201904180012
 ! Title: Fanboy's Annoyance List
-! Last modified: 15 Apr 2019 00:12 UTC
+! Last modified: 18 Apr 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -909,7 +909,6 @@ _backToTop.
 .fbshare.js
 .mobile-share.
 .pluckCount.
-.share-cta.
 .share.dossierheader.
 .share.lead.
 .share.utils.
@@ -2792,8 +2791,6 @@ _backToTop.
 /social-youtube-
 /social-youtube.
 /social-yt.
-/social.button-
-/social.follow.
 /social.icon.
 /social.jpg
 /social.png
@@ -24772,6 +24769,7 @@ _site_cookie_
 ###nx_gdpr_modal
 ###nx_gdpr_modal2
 ###nyh_cookie-message
+###nzme-notification
 ###o-cookie
 ###o-cookie-law
 ###o2fCookieConsentDialog
@@ -29299,6 +29297,7 @@ _site_cookie_
 ##.oh_cookie_notice_wrapper
 ##.okCookiePanel
 ##.okookie
+##.oly-web-ui_cookie-container
 ##.om-cookie-agreement
 ##.omnium_cookies_popup_wrapper
 ##.once-upon-ga-consent

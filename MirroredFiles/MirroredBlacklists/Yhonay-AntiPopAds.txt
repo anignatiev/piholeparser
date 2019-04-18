@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 7538
+! Version: 7553
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -2226,6 +2226,7 @@
 ||gmfestfc.com^
 ||gmnozoruyfy.bid^
 ||gmnxupczjmecj.bid^
+||gmowaloqmhtd.com^
 ||gmqczpcyzjeen.com^
 ||gmquualzdmqtxp.com^
 ||gmutfgxdvwmtf.com^
@@ -2775,6 +2776,7 @@
 ||hzivfezfltago.com^
 ||hztjenzlrrwinq.com^
 ||hzulgipdcbgwad.com^
+||hzwmcqlmxpdrlp.com^
 ||hzwxkqnqrdfv.com^
 ||hzxtamstwecry.bid^
 ||hzyvjghy.bid^
@@ -2892,6 +2894,7 @@
 ||ihzdrktzyrzq.bid^
 ||iialqejeka.com^
 ||iiblzgczrrdiqf.bid^
+||iiccrpwaxmxkqm.com^
 ||iihwyqhxajtn.com^
 ||iijmodcvlwfk.com^
 ||iikhhkwryiqq.bid^
@@ -3097,6 +3100,7 @@
 ||ixznwuxokydz.com^
 ||iybkbyciv.com^
 ||iydppfwjgcjs.com^
+||iyfrmewyned.com^
 ||iygdvith.com^
 ||iyivpsxzgjcarv.bid^
 ||iyjukpbyzsxc.bid^
@@ -3156,6 +3160,7 @@
 ||jccszmkabdean.com^
 ||jcgvmfaby.bid^
 ||jciieszytnk.bid^
+||jcjrcmaunbqxg.com^
 ||jcllysqtvlro.com^
 ||jcmdvfrn.com^
 ||jcnoeyqsdfrc.com^
@@ -3218,6 +3223,7 @@
 ||jgophcykrckik.com^
 ||jgqcraids.com^
 ||jgrcggutsilp.com^
+||jgrsqcqdfwzu.com^
 ||jgsoloqaqp.com^
 ||jgtnayftk.bid^
 ||jguczdjzvfp.com^
@@ -4195,6 +4201,7 @@
 ||lxymfyptdrast.com^
 ||lxzwknybfvycxr.com^
 ||lybmmxah.com^
+||lydgyhthfb.com^
 ||lyeannqhhf.bid^
 ||lyghoxyxohkrdk.com^
 ||lyjcpycaufud.com^
@@ -4965,6 +4972,7 @@
 ||oexupdqy.bid^
 ||ofajzowbwzzi.com^
 ||ofbqjpaamioq.com^
+||ofdfinqurwpi.com^
 ||ofdybheqahjamq.bid^
 ||ofgapiydisrw.com^
 ||ofghrodsrqkg.com^
@@ -5320,6 +5328,7 @@
 ||piuhqbchk.com^
 ||pixjqfvlsqvu.com^
 ||piyzmkcxa.bid^
+||pjbifjjtir.com^
 ||pjeledftjxfnd.com^
 ||pjffrqroudcp.com^
 ||pjfgugfnw.bid^
@@ -5368,6 +5377,7 @@
 ||pmjwztzpuhb.com^
 ||pmkvqmtjniwtyl.com^
 ||pmohsibnim.com^
+||pmoucikneuxcxy.com^
 ||pmpdqkjio.bid^
 ||pmpeylkaxooynu.bid^
 ||pmpgazgz.bid^
@@ -5839,6 +5849,7 @@
 ||qtgarolvaigptk.com^
 ||qtjxalkllc.com^
 ||qtkluwmebrtbrt.com^
+||qtsyxyakun.com^
 ||qttmjwno.com^
 ||qtvnesozf.com^
 ||qtwadryxicx.com^
@@ -5881,6 +5892,7 @@
 ||qwrkigqtgygc.com^
 ||qwtuviguywtza.bid^
 ||qwuejlmct.com^
+||qwuexgqmua.com^
 ||qwufihkhgxphq.com^
 ||qwuxwxdr.com^
 ||qwvktoqxqum.bid^
@@ -6367,6 +6379,7 @@
 ||sgpbbfdchy.com^
 ||sgqmhpqrstwzwd.com^
 ||sgxaqysyilwkiu.com^
+||shacupwelhehqc.com^
 ||shapzwwy.com^
 ||shasnvadkustw.com^
 ||shgvuhvf.com^
@@ -7197,6 +7210,7 @@
 ||vhbyakilp.com^
 ||vhdvllhgyrjy.com^
 ||vhiuhrwapdirpu.com^
+||vhzgmzakn.com^
 ||vickgdkdrwpdt.com^
 ||viphdsrlec.com^
 ||virgbmkmear.com^
@@ -7508,6 +7522,7 @@
 ||znbokxhkwx.com^
 ||znckkjdguw.com^
 ||znjwkwha.com^
+||znmdscnynybx.com^
 ||znnabrxnotlm.com^
 ||znztvqgtaivf.com^
 ||zomsfhgj.com^
