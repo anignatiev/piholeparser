@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201904192237
+! Version: 201904202357
 ! Title: EasyList
-! Last modified: 19 Apr 2019 22:37 UTC
+! Last modified: 20 Apr 2019 23:57 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29090,6 +29090,7 @@ _popunder+$popup
 ##.content-zergnet
 ##.js-footer-zerg
 ##.module-zerg
+##.o-zergnet
 ##.sidebar-zergnet
 ##.td-zergnet
 ##.widget-ami-zergnet
@@ -36597,6 +36598,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||awpxjguq.com^$third-party
 ||awrxkucpfbsq.com^$third-party
 ||axcqasdiots.com^$third-party
+||axfsqwyidpml.com^$third-party
 ||axjxdtnguuyqr.com^$third-party
 ||axmxarqxbkc.com^$third-party
 ||axvabgnr.com^$third-party
@@ -36630,6 +36632,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||bekiruvppl.com^$third-party
 ||bfhlxjwc.com^$third-party
 ||bfmrffluuazwn.com^$third-party
+||bfxachbubcki.com^$third-party
 ||bgchxhhzdee.com^$third-party
 ||bgfdrngowyy.com^$third-party
 ||bgibrhkn.com^$third-party
@@ -36922,6 +36925,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ejgdixiddmruql.com^$third-party
 ||ejlsbfqqxoc.com^$third-party
 ||ejoyjumnsft.com^$third-party
+||ejwxbwzrhihtp.com^$third-party
 ||ekbiwwngwig.com^$third-party
 ||ekggptrw.com^$third-party
 ||eklcrpehu.com^$third-party
@@ -36954,6 +36958,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||eqrbfjwnmxpy.com^$third-party
 ||erificyggw.com^$third-party
 ||erireiejv.com^$third-party
+||ermjhgdl.com^$third-party
 ||ervinguewty.com^$third-party
 ||esfzbdwg.com^$third-party
 ||esgnyfznnihl.com^$third-party
@@ -36991,6 +36996,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fdxdjkswppg.com^$third-party
 ||fdzylxffu.com^$third-party
 ||febalwby.com^$third-party
+||fehsnwiem.com^$third-party
 ||fejbkpidkkwts.com^$third-party
 ||fepzygektdt.com^$third-party
 ||fevgukzwvjam.com^$third-party
@@ -37134,6 +37140,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||golkkzpniri.com^$third-party
 ||gonuuudpdcu.com^$third-party
 ||gouowkjmewn.com^$third-party
+||gpdqzmhayrcgsy.com^$third-party
 ||gpudqmly.com^$third-party
 ||gpuulhuupfinoq.com^$third-party
 ||gpzywrsrcr.com^$third-party
@@ -37307,6 +37314,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||idqzpnea.com^$third-party
 ||idrdmyixk.com^$third-party
 ||idszrbmjvkdodt.com^$third-party
+||idxrjpfxrqernb.com^$third-party
 ||iedijlgkbqc.com^$third-party
 ||ieqbsnteuyn.com^$third-party
 ||ifbhceoxx.com^$third-party
@@ -37429,6 +37437,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jiiyddosyv.com^$third-party
 ||jimqcqsyhser.com^$third-party
 ||jimxaqrpqbxldt.com^$third-party
+||jirmbsgr.com^$third-party
 ||jiyvkdfab.com^$third-party
 ||jjhnnzef.com^$third-party
 ||jjokvprdxwf.com^$third-party
@@ -37525,6 +37534,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||khefhmgfwnnqgv.com^$third-party
 ||kieecarfftwf.com^$third-party
 ||kiejztfpkfayak.com^$third-party
+||kifxgosycvxplk.com^$third-party
 ||kiobmbncsrwc.com^$third-party
 ||kiqsynap.com^$third-party
 ||kjizuuuvqbcd.com^$third-party
@@ -37558,6 +37568,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ksrcnyrntlyfo.com^$third-party
 ||ksufusxqd.com^$third-party
 ||ktdthraxzxt.com^$third-party
+||ktfjyexcacujjg.com^$third-party
 ||ktjcrhdppesdd.com^$third-party
 ||ktzwdewsckssid.com^$third-party
 ||kujwlsnl.com^$third-party
@@ -37630,6 +37641,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||lmcoiiwpguaorp.com^$third-party
 ||lmevacaixeqy.com^$third-party
 ||lmjxrhph.com^$third-party
+||lmlvzeeag.com^$third-party
 ||lmsycyfh.com^$third-party
 ||lnicyniqxdxg.com^$third-party
 ||lnpqqigowz.com^$third-party
@@ -37721,6 +37733,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||mhhjdlsnji.com^$third-party
 ||mhmgeilfkcgov.com^$third-party
 ||mivrpcxlo.com^$third-party
+||mjquyspsrgybs.com^$third-party
 ||mkalruavzrtmh.com^$third-party
 ||mldsiekmhy.com^$third-party
 ||mmsdewfvxhw.com^$third-party
@@ -37756,6 +37769,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||mxpzslze.com^$third-party
 ||mxzxeersjv.com^$third-party
 ||mykhtesikvuz.com^$third-party
+||myogwiwjlfrngo.com^$third-party
 ||myqvhpjyd.com^$third-party
 ||myzsyljf.com^$third-party
 ||mzhcaexrrl.com^$third-party
@@ -37829,6 +37843,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||nrgbjgui.com^$third-party
 ||nrzhlsvqxbgpbn.com^$third-party
 ||nscjgmhyeov.com^$third-party
+||nstjenxcpvm.com^$third-party
 ||nswnseld.com^$third-party
 ||ntgqcnferh.com^$third-party
 ||nticqzrucdg.com^$third-party
@@ -37920,6 +37935,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||otruzjgxof.com^$third-party
 ||otuveoqm.com^$third-party
 ||oucywciij.com^$third-party
+||ouhdgmzajfaop.com^$third-party
 ||ounyrilukncbj.com^$third-party
 ||ouzqwetenps.com^$third-party
 ||ovckindyf.com^$third-party
@@ -37958,6 +37974,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||peyttlwbznahi.com^$third-party
 ||pfihfdmwdsjum.com^$third-party
 ||pfiuzxey.com^$third-party
+||pfmoriuywsl.com^$third-party
 ||pfoohjpdbxt.com^$third-party
 ||pfvfwielz.com^$third-party
 ||pfxcnvjoysztb.com^$third-party
@@ -38052,6 +38069,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||qdjnwlrjllti.com^$third-party
 ||qdpxpnmh.com^$third-party
 ||qduijsyonrmfke.com^$third-party
+||qefyaspzyhcb.com^$third-party
 ||qenprsuoashu.com^$third-party
 ||qeobhjit.com^$third-party
 ||qevmzohvwxesrd.com^$third-party
@@ -38231,6 +38249,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||rqxjnkgcobp.com^$third-party
 ||rqxwisgin.com^$third-party
 ||rrnqzntj.com^$third-party
+||rroyintwabqyua.com^$third-party
 ||rrvpscehvjuz.com^$third-party
 ||rsbblrpnjxgsk.com^$third-party
 ||rscqizsukecevh.com^$third-party
@@ -38283,6 +38302,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sfxmdqbi.com^$third-party
 ||sgggjaosyrxr.com^$third-party
 ||sgiueejx.com^$third-party
+||sgrreqyxvigwuh.com^$third-party
 ||sgxaqysyilwkiu.com^$third-party
 ||shacupwelhehqc.com^$third-party
 ||shapzwwy.com^$third-party
@@ -38329,6 +38349,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sukgtuksypr.com^$third-party
 ||svbsvbwci.com^$third-party
 ||svdmxetbyfyg.com^$third-party
+||svfqoztfopv.com^$third-party
 ||svmtvfuok.com^$third-party
 ||svntdcuxobohs.com^$third-party
 ||swezbddhwcz.com^$third-party
@@ -38529,6 +38550,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||utxatnjs.com^$third-party
 ||uuaajohul.com^$third-party
 ||uubxhbwnwmfqp.com^$third-party
+||uuzjerqlmxnosw.com^$third-party
 ||uvlyzxml.com^$third-party
 ||uvniygdwmoojfm.com^$third-party
 ||uvppdseel.com^$third-party
@@ -38575,6 +38597,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||veoujrnenng.com^$third-party
 ||vepatyei.com^$third-party
 ||vewpwrqebmwu.com^$third-party
+||vezipelsr.com^$third-party
 ||vfgbeaayncdya.com^$third-party
 ||vfkuauks.com^$third-party
 ||vfnemtpehzmzwc.com^$third-party
@@ -38649,6 +38672,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||vwpoxvufxnon.com^$third-party
 ||vwvnounnfteusv.com^$third-party
 ||vwxptkkqbyppe.com^$third-party
+||vxijqpsxpdlztm.com^$third-party
 ||vxkupxpf.com^$third-party
 ||vxrpmslex.com^$third-party
 ||vxyqsxeo.com^$third-party
@@ -38712,6 +38736,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||wozltvfxtntaqk.com^$third-party
 ||wpbhnyjej.com^$third-party
 ||wplqgfpj.com^$third-party
+||wpxowkmaeyrte.com^$third-party
 ||wqkpadciw.com^$third-party
 ||wqnpcflbcv.com^$third-party
 ||wqobjrevtkqym.com^$third-party
@@ -38760,6 +38785,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||xasuekjguyub.com^$third-party
 ||xaxggjsa.com^$third-party
 ||xblcqncce.com^$third-party
+||xbtpmwjwsjn.com^$third-party
 ||xbzakxofyhdy.com^$third-party
 ||xcajbqjdcguybf.com^$third-party
 ||xcgebfplttrdg.com^$third-party
@@ -39060,6 +39086,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||zuybvpprdoo.com^$third-party
 ||zvdacnjhetcrq.com^$third-party
 ||zvovdtomwa.com^$third-party
+||zweigciinmslan.com^$third-party
 ||zwfvzxmc.com^$third-party
 ||zwpaujzg.com^$third-party
 ||zwsyqdnhnyzckt.com^$third-party
@@ -48207,6 +48234,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||baskodenta.com^$third-party
 ||bavesinyourface.com^$third-party
 ||bcash4you.com^$third-party
+||bd202457b.com^$third-party
 ||belamicash.com^$third-party
 ||belasninfetas.org^$third-party
 ||bestcontentservice.top^$third-party
@@ -48292,6 +48320,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||contentabc.com^$third-party
 ||cpacoreg.com^$third-party
 ||cpl1.ru^$third-party
+||cqlupb.com^$third-party
 ||crakbanner.com^$third-party
 ||crakcash.com^$third-party
 ||creoads.com^$third-party
@@ -70491,6 +70520,9 @@ pornfun.com##.aside-spots
 sunporno.com##.atv-block
 mrskin.com##.az
 gayporno.fm##.b-banners-column
+onlydudes.tv##.b-mobile-spots-wrap
+onlydudes.tv##.b-randoms-col
+onlydudes.tv##.b-uvb-spot
 fuqer.com##.b300x250
 porndoo.com##.bAd
 dbnaked.com##.ban-link
@@ -70991,6 +71023,7 @@ h2porn.com##.video_banner
 voyeurperversion.com##.video_right
 bonertube.com##.videoad940
 indianpornvideos.com##.videoads
+onlydudes.tv##.videojs-hero-overlay
 porndoo.com##.videosite
 sexyshare.net##.videosz_banner
 myxvids.com##.vidtopbanner
