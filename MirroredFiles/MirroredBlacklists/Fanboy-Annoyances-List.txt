@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ea2ZAuxjzbmdI9DBBcmZvw
-! Version: 201904180012
+! Checksum: +vNbgxPDCXox5c5NLxKN5g
+! Version: 201904230012
 ! Title: Fanboy's Annoyance List
-! Last modified: 18 Apr 2019 00:12 UTC
+! Last modified: 23 Apr 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4767,6 +4767,7 @@ _site_cookie_
 ##.rate-share
 ##.read_next_box
 ##.recirc-arrows
+##.recirc-riser
 ##.recommended-flyout-wrap
 ##.rhs_cxense
 ##.sailthruRecommendation
@@ -41277,7 +41278,7 @@ belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
 bitly.com,framestr.com#@#.share-btn
 kcrw.com,vimeo.com#@#.share-button
 bandcamp.com,bleacherreport.com,distractify.com,naekranie.pl,thedodo.com#@#.share-buttons
-analyticsindiamag.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,comicbook.com,dogs-magazin.de,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,invisioncommunity.co.uk,livetheorganicdream.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,professorshouse.com,reefbuilders.com,sensationrock.net,stocksbeat.com,tripzilla.ph,zagranie.com#@#.share-container
+analyticsindiamag.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,comicbook.com,dogs-magazin.de,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,professorshouse.com,reefbuilders.com,sensationrock.net,stocksbeat.com,tripzilla.ph,zagranie.com#@#.share-container
 mediafire.com#@#.share-facebook
 bild.de#@#.share-fb
 alwaysdata.net#@#.share-group
