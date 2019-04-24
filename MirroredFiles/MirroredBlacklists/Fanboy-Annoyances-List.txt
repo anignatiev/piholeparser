@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +vNbgxPDCXox5c5NLxKN5g
-! Version: 201904230012
+! Checksum: KJMWIdkbZDcY2hJNw24WsQ
+! Version: 201904240012
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Apr 2019 00:12 UTC
+! Last modified: 24 Apr 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -37843,6 +37843,7 @@ adventure-team.eu,certum.eu##.spu-box
 spox.com##.spxcib
 bonsaipartners.eu##.sqs-slide-layer-content
 openweathermap.org##.stick-footer-panel
+grafana.com##.sticky-footer
 daft.ie##.strapline-container
 meteoblue.com##.successMessage
 spiceworks.com##.sui-site-message-container
