@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201904230017
+! Version: 201904242357
 ! Title: EasyList
-! Last modified: 23 Apr 2019 00:17 UTC
+! Last modified: 24 Apr 2019 23:57 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2238,7 +2238,7 @@
 /adrevenue/*
 /adrevolver/*
 /adrich.
-/adright.
+/adright.$domain=~adright.com
 /adright/*
 /adrightcol.
 /adriver.$~object-subrequest
@@ -7064,7 +7064,7 @@
 ://a.ads.
 ://ad.*/jstag^
 ://adcl.$domain=~adcl.com
-://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.am|~ads.bigbom.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.elcarado.com|~ads.google.com|~ads.harvard.edu|~ads.lapalingo.com|~ads.lordlucky.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.nc|~ads.nimses.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.socialtheater.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~seriouswheels.com
+://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.am|~ads.bigbom.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.elcarado.com|~ads.google.com|~ads.harvard.edu|~ads.lapalingo.com|~ads.lordlucky.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.nc|~ads.nimses.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.socialtheater.com|~ads.taboola.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~seriouswheels.com
 ://adv.$domain=~adv.bet|~adv.cincsys.com|~adv.co.it|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.ee|~adv.gg|~adv.michaelgat.com|~adv.msk.ru|~adv.ru|~adv.vg|~adv.works|~adv.yomiuri.co.jp|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~r7.com|~typeform.com|~welaika.com
 ://affiliate.$third-party
 ://affiliates.$third-party
@@ -18178,6 +18178,7 @@ _popunder+$popup
 ##.ad-nav-ad
 ##.ad-nav-ad-plus
 ##.ad-new
+##.ad-no-notice
 ##.ad-no-style
 ##.ad-noBorderAndMargin
 ##.ad-noline
@@ -36907,6 +36908,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dymaffzxk.com^$third-party
 ||dypmzetaj.com^$third-party
 ||dywqwrtnhegyz.com^$third-party
+||dzacosgvnz.com^$third-party
 ||dzkmbajm.com^$third-party
 ||dzqoubtxsaskdl.com^$third-party
 ||dzztjcbt.com^$third-party
@@ -37254,6 +37256,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||hmepgymo.com^$third-party
 ||hmgozryqbc.com^$third-party
 ||hmzwcomigpqia.com^$third-party
+||hnhsvlswqtoxgn.com^$third-party
 ||hnntopkvrsivwc.com^$third-party
 ||hnregzjxsafu.com^$third-party
 ||hnshjxowpldar.com^$third-party
@@ -37475,6 +37478,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jnhjvkapqf.com^$third-party
 ||jnhmeywrl.com^$third-party
 ||jnjbdvchvk.com^$third-party
+||jnljkbkiaqcmb.com^$third-party
 ||jnnswtdifjgx.com^$third-party
 ||johonmtpyv.com^$third-party
 ||josxzdszqaivb.com^$third-party
@@ -38371,6 +38375,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sosbyncpkyw.com^$third-party
 ||spwssohsyqgq.com^$third-party
 ||sqnkkpba.com^$third-party
+||sqsdyfgyjdjbx.com^$third-party
 ||srgszwexkpehb.com^$third-party
 ||srhovuokux.com^$third-party
 ||ssdsylfzav.com^$third-party
@@ -38594,6 +38599,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||uvzfodimtska.com^$third-party
 ||uwidtpjwh.com^$third-party
 ||uwkwhedvie.com^$third-party
+||uwxldrvqyk.com^$third-party
 ||uxkkltrrxlowzo.com^$third-party
 ||uxnssjly.com^$third-party
 ||uyeluxauiq.com^$third-party
@@ -38759,6 +38765,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||wjgddzpvx.com^$third-party
 ||wjmckfsdcxpj.com^$third-party
 ||wjpdgueqasdgeq.com^$third-party
+||wjuowevxibmg.com^$third-party
 ||wjvwxcnavjodj.com^$third-party
 ||wjwontqlqchq.com^$third-party
 ||wkhkffefck.com^$third-party
@@ -62385,6 +62392,7 @@ windowsitpro.com,winsupersite.com###roadblockbackground
 winsupersite.com###roadblockcontainer
 mirror.co.uk###roffers-top
 barclaysatpworldtourfinals.com###rolex-small-clock
+mywot.com###root > div > div[direction="up"][style*="transform"]
 moviezer.com###rootDiv[style^="width:300px;"]
 logupdateafrica.com###rotating-item-wrapper
 lionsrugby.co.za###rotator
@@ -73138,7 +73146,7 @@ pornhub.com,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width
 @@||stclassifieds.sg/images/ads/$~third-party
 @@||stclassifieds.sg/postad/
 @@||streamcloud.eu^$generichide
-@@||streaming.adswizz.com/anon.npr-mp3/npr/$media,domain=player.fm
+@@||streaming.adswizz.com/anon.npr-mp3/npr/$media,domain=npr.org|player.fm
 @@||streaming.gmgradio.com/adverts/*.mp3$object-subrequest
 @@||streamlive.to/ads/$object,script
 @@||streamplay.club/js/pop$script,~third-party
@@ -73233,6 +73241,7 @@ pornhub.com,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width
 @@||trade-a-plane.com/AdBox/js/jquery.TAP_AdBox.js
 @@||tradecarview.com/material/housead/$image
 @@||tradedoubler.com/file/$image,domain=deliverydeals.co.uk|sunsteps.org
+@@||tradee.com^$generichide
 @@||trader.ca/TraderMobileAPIBB.asmx/GetAds?$script,domain=autos.ca
 @@||trafficvance.com/?$domain=propelmedia.com
 @@||trafficvance.com^*/socket.io/$domain=propelmedia.com
