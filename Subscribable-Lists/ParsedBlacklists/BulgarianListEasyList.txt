@@ -80,6 +80,7 @@ analytic.piri.net
 analyticapi.pho.fm
 analyticapi.piri.net
 analyticcdn.globalmailer.com
+analytics-cms.whitebeard.me
 analytics-production.hapyak.com
 analytics-rhwg.rhcloud.com
 analytics-static.ugc.bazaarvoice.com
@@ -1283,6 +1284,7 @@ lt.tritondigital.com
 lunametrics.wpengine.netdna-cdn.com
 m.anyfiles.ovh
 m.trb.com
+ma.register.it
 magnify360-cdn.s3.amazonaws.com
 maik.ff-bt.net
 malictuiar.com
@@ -1575,6 +1577,7 @@ pound.buzzfeed.com
 powercount.jswelt.de
 powersearch.us.com
 pr.blogflux.com
+prd-collector-anon.playbuzz.com
 presentationtracking.netflix.com
 proac.nationwide.com
 proactive.base.de
@@ -1875,6 +1878,7 @@ ssc.api.bbc.com
 ssl-stats.wordpress.com
 ssp.hinet.net
 ssp.rambler.ru
+st.arte.tv
 st.cdnco.us
 st.tmgrup.com.tr
 st.vq.ku6.cn
@@ -2118,6 +2122,7 @@ stats2.tune.pk
 stats3.unrulymedia.com
 statsapi.screen9.com
 statscol.pond5.com
+statsd.zmags.com
 statsdev.treesd.com
 statsrv.451.com
 statstracker.celebrity-gossip.net
@@ -2680,6 +2685,7 @@ win.staticstuff.net
 winter.metacafe.com
 wisteria-js.excite.co.jp
 wl.jd.com
+wla.vivaldi.com
 wmtech.website
 wordc.ga
 worker.salon.com

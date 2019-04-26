@@ -68,6 +68,7 @@ _softbaron.ru
 _spy2wc.org
 _stock-exchange.ucoz.com
 _vodkov.net
+a-dot-kinozal-tv.appspot.com
 a-love.nninfo.ru
 a.fobos.tv
 a.meteonova.ru
@@ -245,7 +246,6 @@ b.inbox.lv
 b.itvnet.lv
 b.madplace99.com
 b.netall.ru
-b.nude-moon.com
 b.nwave.de
 b.povarenok.ru
 b2b2.su
@@ -669,6 +669,7 @@ everinform.com
 eversmi.com
 evsembu.com
 ex-news.net
+ex.infox.sg
 excalatom.com
 exchange.meta.ua
 exclusiverewards.xyz
@@ -950,7 +951,6 @@ info-peoples.org
 info.howto-news.info
 infoblogs.pro
 infoblogs.ru
-infox.sg
 installpack.net
 interieu.com
 internalinspector.com
@@ -1010,6 +1010,8 @@ kinogo.r.worldssl.net
 kinokayf.com
 kinopromobase.ru
 kinopromobase2.ru
+kinozal-me.appspot.com
+kinozal-tv.appspot.com
 kires.umk-spo.biz
 kisakuku.org
 kistured.com
@@ -1192,6 +1194,7 @@ m0zdeb.ru
 magicanfy.com
 magnet-ball.com
 mainclc.com
+mainews.ru
 mainrusnews.info
 mallplg.com
 malusheva.ru
@@ -1609,6 +1612,7 @@ rcforme.biz
 rd09ettvoemc.pro
 reacten.com
 readtoday.ru
+readvesti.ru
 ready4win.com
 real-blog.name
 real-mind.com
@@ -2001,7 +2005,6 @@ tteasr.com
 ttfean.com
 tubecontext.com
 tuclother.info
-tuningkod.ru
 turboroller.ru
 tvgoods.ru
 tvnotivi.ru
@@ -2049,6 +2052,7 @@ vareza.net
 various1down.biz
 vash-doktor24.ru
 vashflebolog.ru
+vast.videocdn.tv
 vatizon.com
 vba.ru
 vbm1.ru
