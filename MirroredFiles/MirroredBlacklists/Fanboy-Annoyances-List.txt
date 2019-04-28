@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lrQNIfA2eOrhzoqf07wnJA
-! Version: 201904270011
+! Checksum: Q2gPDeQ1iPUByaqWYYLIpQ
+! Version: 201904280012
 ! Title: Fanboy's Annoyance List
-! Last modified: 27 Apr 2019 00:11 UTC
+! Last modified: 28 Apr 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12628,6 +12628,7 @@ _site_cookie_
 ##.fixedsocial
 ##.fixtweet
 ##.fl-share
+##.fl-social-icons
 ##.flag-like
 ##.flag-show-social
 ##.flare-button-icon
@@ -36135,7 +36136,7 @@ inspire52.com###scrolltriggered
 youtube.com###secondary-links
 applebees.com###section_community
 sciencedaily.com###seealso
-40tech.com,amandapeyton.com,blockr.io,blogsdna.com,bulawayo24.com,businessinsider.com,crikey.com.au,dailymotion.com,designtaxi.com,firstsrowsports.eu,fwix.com,geek.com,geekosystem.com,gossipcop.com,hellomagazine.com,html5test.com,imm.io,indiegogo.com,madthumbs.com,mcdonalds.com,mediaite.com,medicaldaily.com,midwestsportsfans.com,monstercockland.com,mtvmusic.com,notepad-plus-plus.org,people-press.org,plosone.org,redpepperland.com,scitechdaily.com,seriouseats.com,sputniknews.com,stabmag.com,tcmag.com,technewsworld.com,techvert.com,themoviedb.org,thethirdpole.net,tnp.no,torrentfreak.com,tvnz.co.nz,usgs.gov,voltairenet.org,washingtonpost.com,whatbrowser.org,wolframalpha.com,wwitv.com,xxxymovies.com###share
+40tech.com,amandapeyton.com,blockr.io,blogsdna.com,bulawayo24.com,businessinsider.com,crikey.com.au,dailymotion.com,designtaxi.com,firstsrowsports.eu,fwix.com,geek.com,geekosystem.com,gossipcop.com,hellomagazine.com,hqbabes.com,html5test.com,imm.io,indiegogo.com,madthumbs.com,mcdonalds.com,mediaite.com,medicaldaily.com,midwestsportsfans.com,monstercockland.com,mtvmusic.com,notepad-plus-plus.org,people-press.org,plosone.org,redpepperland.com,scitechdaily.com,seriouseats.com,sputniknews.com,stabmag.com,tcmag.com,technewsworld.com,techvert.com,themoviedb.org,thethirdpole.net,tnp.no,torrentfreak.com,tvnz.co.nz,usgs.gov,voltairenet.org,washingtonpost.com,whatbrowser.org,wolframalpha.com,wwitv.com,xxxymovies.com###share
 ew.com###share-article
 pornhub.com###sharePlaylist
 biorxiv.org###shareit
