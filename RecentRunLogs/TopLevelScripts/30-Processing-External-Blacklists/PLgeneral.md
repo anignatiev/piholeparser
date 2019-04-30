@@ -13,4 +13,5 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
-* PLgeneral List Marked As Dead. Mon Apr 29 00:31:57 UTC 2019
+* PLgeneral List Unavailable To Download. Tue Apr 30 00:20:35 UTC 2019
+## Checking If List Updated Online
