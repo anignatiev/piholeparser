@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201905042037
+! Version: 201905052002
 ! Title: EasyPrivacy
-! Last modified: 04 May 2019 20:37 UTC
+! Last modified: 05 May 2019 20:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -610,8 +610,7 @@
 /analytics/dist/*
 /analytics/eloqua/*
 /analytics/engine/*
-/analytics/events
-/analytics/eventTrack
+/analytics/event
 /analytics/ga.
 /analytics/ga/*
 /analytics/ga?
@@ -623,6 +622,7 @@
 /analytics/idg_
 /analytics/js/*
 /analytics/liferay-
+/analytics/logging
 /analytics/mbox.js
 /analytics/mouse_
 /analytics/newrelic_
@@ -1472,7 +1472,7 @@
 /error/*.gif?msg=
 /error/js/log?
 /est.pl?
-/estat.$domain=~estat.stat.ee
+/estat.$domain=~estat.ly|~estat.stat.ee
 /estatistica.js
 /estatnativeflashtag.swf
 /etag?
@@ -16381,7 +16381,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||abtasty.com/datacollectHeatmap.php$xmlhttprequest,domain=cdiscount.com
 @@||actiris.be/urchin.js
 @@||actiris.be^*/urchin.js
-@@||adobedtm.com^*/satelliteLib-$script,domain=icimusique.ca|laredoute.be|laredoute.ch|laredoute.fr|nrj.fr|tou.tv
+@@||adobedtm.com^*/satelliteLib-$script,domain=icimusique.ca|laredoute.be|laredoute.ch|laredoute.fr|lci.fr|nrj.fr|tou.tv
 @@||adyoulike.omnitagjs.com^$script,domain=dl.free.fr
 @@||analytics.belgacom.be/tms/loader.js$domain=proximus.be
 @@||analytics.ladmedia.fr/parismatch/xtcore_mod2.js$domain=parismatch.com

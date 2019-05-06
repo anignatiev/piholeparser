@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 7906
+! Version: 7919
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -395,6 +395,7 @@
 ||batigfkcbwpb.com^
 ||bauffnmtou.com^
 ||bavftcgoapga.com^
+||bbackcssmwam.com^
 ||bbbrhcxtdkfui.bid^
 ||bbfasycx.com^
 ||bbheuxcancwj.com^
@@ -1321,6 +1322,8 @@
 ||dqiokxyebdc.com^
 ||dqkeldpjzq.bid^
 ||dqlcgelw.com^
+||dqmfeimedqswbr.com^
+||dqolgbehhzvo.com^
 ||dqpamcouthqv.com^
 ||dqpywdubbxih.com^
 ||dqusbshqrtv.bid^
@@ -2125,6 +2128,7 @@
 ||fxazopwrns.com^
 ||fxcayktrneld.com^
 ||fxdglnldbnyq.com^
+||fxfxpyrq.com^
 ||fxjgprpozntk.com^
 ||fxlmstfrxtqp.com^
 ||fxlyhuluw.com^
@@ -2204,6 +2208,7 @@
 ||gdixpvfqbhun.com^
 ||gdtbpaqa.com^
 ||gduubghr.bid^
+||gdwwpvwq.com^
 ||gdyelbwku.com^
 ||gdyjhclaxvqz.com^
 ||geazikjazoid.com^
@@ -2582,6 +2587,7 @@
 ||hduefoyd.com^
 ||hdweefzvb.bid^
 ||hdwjwooqvnm.com^
+||hdwkcfqzxhvx.com^
 ||hdwlzheftpin.com^
 ||hdxeyqvfb.bid^
 ||hdxfyoziizy.com^
@@ -2759,6 +2765,7 @@
 ||hqbphxpavrxry.com^
 ||hqgenotbptcu.com^
 ||hqkoismxnocd.com^
+||hqkwnyub.com^
 ||hqncduqyzgfugo.com^
 ||hqnyahlpmehp.com^
 ||hqqyesittgihp.com^
@@ -3539,6 +3546,7 @@
 ||jtacrwtaf.com^
 ||jtbmxdoadktnm.com^
 ||jtmfmeexjet.bid^
+||jtmwjkkoes.com^
 ||jtqfggxxk.bid^
 ||jtumenosmrte.com^
 ||jtveisrh.com^
@@ -5189,6 +5197,7 @@
 ||ogonhsbjxrxnv.bid^
 ||ogqclfvaq.com^
 ||ogqeedybsojr.com^
+||ogqewglysfc.com^
 ||oguiftmya.com^
 ||ogulzxfxrmow.com^
 ||oguorftbvegb.com^
@@ -7497,6 +7506,7 @@
 ||virgbmkmear.com^
 ||viwsqbbvfknp.com^
 ||vjcewkcjqu.com^
+||vjfkglkztcz.com^
 ||vjgyxegvfrhthq.com^
 ||vjltrbzrtqmkib.com^
 ||vjzcgotoy.com^
@@ -7540,7 +7550,9 @@
 ||vuvcwrxn.com^
 ||vvjlrhuzmhzlws.com^
 ||vvkvlqubnge.com^
+||vvqpavyfkr.com^
 ||vvrygjuozwps.com^
+||vvvnbqnhxgs.com^
 ||vwdjipcvcph.com^
 ||vwfvnfvelrvvww.com^
 ||vwvnounnfteusv.com^
@@ -7592,6 +7604,7 @@
 ||wlezfkwtv.com^
 ||wlhbgwzgep.com^
 ||wlhgopaqpmwah.com^
+||wlszodcfwqk.com^
 ||wlvjwquv.com^
 ||wmrlljpj.com^
 ||wmtyrdrpjbhnj.com^
