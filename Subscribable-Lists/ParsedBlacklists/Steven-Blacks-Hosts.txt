@@ -252,6 +252,7 @@ app-measurement.com
 app.adjust.com
 app.storage.yunvm.com
 appcdn.tvpage.com
+apple.com-fasting.live
 apple.com-notice.info
 applog.camera360.com
 applog.uc.cn
@@ -344,6 +345,7 @@ clickopon.com
 clickrtb-useast.kobenetwork.com
 client-analytics.braintreegateway.com
 clockskew.alphonso.tv
+com-fasting.live
 com-notice.info
 consumerproductsusa.com
 convhkmp.taboola.com
@@ -834,6 +836,7 @@ www.alphonso.tv
 www.aoredi.com
 www.api.ad.intl.xiaomi.com
 www.api.alphonso.tv
+www.apple.com-fasting.live
 www.apple.com-notice.info
 www.arkonziv.com
 www.axiatraders.com
