@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tJpTH0RtR3/2Bh8cbiLKNg
-! Version: 201905080012
+! Checksum: RmJrJa2V/J1XPzGfK2TCng
+! Version: 201905090011
 ! Title: Fanboy's Annoyance List
-! Last modified: 08 May 2019 00:12 UTC
+! Last modified: 09 May 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -225,6 +225,7 @@ _push_sw.
 /at_newsletter.
 /banner-newsletter.
 /banner/newsletter.
+/bannerino-newsletter.
 /BannerNewsletter.
 /bg-newsletter-
 /bg_newsletter.
@@ -7307,6 +7308,7 @@ _site_cookie_
 ##.go-to-top-arrow
 ##.go-to-top-button
 ##.go-to-top-desktop
+##.go-to-top-page
 ##.go-top
 ##.go-top-button
 ##.go-top-footer-btn
@@ -9105,6 +9107,7 @@ _site_cookie_
 ###share-icons
 ###share-in-content
 ###share-left
+###share-li
 ###share-linkedin
 ###share-links
 ###share-lyrics
@@ -23490,6 +23493,7 @@ _site_cookie_
 ###ctl00_ctl00_divCookiePolicyContainer
 ###ctl00_ctl06_CookieWrapper
 ###ctl00_ctlCookieDisclaimer_pnlDisclaimer
+###ctl00_ctrlUserStaticMenu_cookieDialogTopDiv
 ###ctl00_divCookieMsg
 ###ctl00_header1_CookieHeader
 ###ctl00_informacjaCookiesLayout4
@@ -27309,6 +27313,7 @@ _site_cookie_
 ##.cookieControl
 ##.cookieCorrector
 ##.cookieDialog
+##.cookieDialogTop
 ##.cookieDialogue
 ##.cookieDirWrap
 ##.cookieDirective
