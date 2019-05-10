@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RmJrJa2V/J1XPzGfK2TCng
-! Version: 201905090011
+! Checksum: HH/GYdyF2Ez9qfRtWRGWCQ
+! Version: 201905100012
 ! Title: Fanboy's Annoyance List
-! Last modified: 09 May 2019 00:11 UTC
+! Last modified: 10 May 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -358,6 +358,7 @@ _push_sw.
 /plugins/optin-monster/*$script
 /plugins/wp-subscribe-pro/*
 /pmd-newsletter/*
+/popinNewsletter.
 /popinNewsletter/*
 /popups/subscribe-
 /promonewsletters-
@@ -2973,6 +2974,7 @@ _backToTop.
 /socialFooterSprite.
 /socialgoogledark.
 /socialhomesprite2.
+/SocialIcon/*
 /socialIcons-
 /socialIcons.
 /socialicons/*
@@ -4032,6 +4034,7 @@ _youtube_social_
 /cookieNotification.
 /CookieNotification/*
 /CookieNotifier.
+/cookienotify-
 /cookieok.js
 /cookieparty.
 /cookiepolicy.
@@ -19713,6 +19716,7 @@ _site_cookie_
 ##a[data-tm-ref-type-id="Follow-on-YouTube"]
 ##a[href*="facebook.com/sharer/sharer.php?"]
 ##a[href*="pinterest.com/js/pinmarklet.js?"]
+##a[href="#share-social"]
 ##a[href="//www.reddit.com/submit"]
 ##a[href="https://twitter.com/share"]
 ##a[href^="//pinterest.com/pin/create/button/?"]
@@ -19981,6 +19985,7 @@ _site_cookie_
 ##a[title^="follow us on facebook"]
 ##a[title^="share on Facebook"]
 ##a[title^="share on Twitter"]
+##a[uk-toggle="target: #share-social"]
 ##amp-social-share
 ##button[aria-label="Toggle social share buttons"]
 ##button[data-title="Share on Facebook"]
@@ -33642,6 +33647,7 @@ aegis7.com##.forcetoregister
 patch.com##.form-card
 ijreview.com##.formRow
 huffingtonpost.com##.forma_email
+hiapkdownload.com,modapkdown.com##.fot-float-box
 theweek.com##.fourFreeBar
 fanpop.com##.fp_panel
 chowhound.com##.fr_relarrow
@@ -34001,6 +34007,7 @@ washingtonpost.com##.network-news
 chillicothenews.com##.network_bucket
 v3.co.uk##.network_links
 filehorse.com##.networking
+hiapkdownload.com,modapkdown.com##.new-fixd-box
 guyism.com##.new-guy
 v3.co.uk##.new_connection
 ndtv.com##.new_nextarrow
@@ -42260,6 +42267,7 @@ timeout.com#@#div[data-module="cookie_banner"]
 @@||ge.tt/s/images/twitter-extension-icon.png
 @@||ge.tt/s/images/twitter-signin.png
 @@||gearbest.com/imagecache/*/images/styleimg/share.png
+@@||geocaching.su/images/ctypes/icons/googlemap/$image,~third-party
 @@||getmyapp.link/content/images/share/$image,~third-party
 @@||gfycat.com^*/sharepage-*.js$script
 @@||ghacks.net/wp-content/uploads/*/google-plus-
