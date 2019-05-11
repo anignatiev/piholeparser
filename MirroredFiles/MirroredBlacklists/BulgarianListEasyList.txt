@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201905092229
+! Version: 201905102354
 ! Title: EasyPrivacy
-! Last modified: 09 May 2019 22:29 UTC
+! Last modified: 10 May 2019 23:54 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1768,6 +1768,7 @@
 /getThirdPartyTracking?
 /getTotalHits.
 /getViewBeans.action?
+/GetWebTrekkRecoElement?
 /gifbanner?
 /gifstats.
 /gigyaGAIntegration.
@@ -2131,6 +2132,7 @@
 /jtracking/*
 /jump/?jl=
 /jump/clk1.
+/kairion.gif?
 /kaiseki/script.php
 /kaiseki/track.php?
 /kaizentrack/*
@@ -5178,6 +5180,7 @@ _mongo_stats/
 ||cognitivematch.com^$third-party
 ||collarity.com^$third-party
 ||collserve.com^$third-party
+||colossusssp.com^$third-party
 ||commander1.com^$third-party
 ||company-target.com^$third-party
 ||compteur.cc^$third-party
@@ -8049,6 +8052,7 @@ _mongo_stats/
 ||ipcounter.net^$third-party
 ||iptrack.biz^$third-party
 ||iyi.net^$third-party
+||kctag.net^$third-party
 ||keytrack.de^$third-party
 ||klamm-counter.de^$third-party
 ||kono-research.de^$third-party
@@ -11400,6 +11404,7 @@ _mongo_stats/
 ||counter.nope.dk^$third-party
 ||newbie.dk/topref.php?
 ||newbie.dk^*/counter.php?
+||sslproxy.dk^*/analytics.js
 ||ubt.berlingskemedia.net^
 ||wee.dk/modules/$third-party
 ||wwwportal.dk/statistik.php
@@ -12108,7 +12113,11 @@ _mongo_stats/
 ||bn.adultempire.com^
 ||boards.ie/timing.php?
 ||boats.com/images/tracking/
+||booking.com/error_catcher?
+||booking.com/load_times?
 ||booking.com/logo?
+||booking.com/navigation_times?
+||booking.com/track_join_app_landing?
 ||boston.com/upixel/
 ||box.com/gen204?
 ||brandrepublic.com/session-img/
@@ -13136,8 +13145,6 @@ _mongo_stats/
 ||novell.com^*/metrics.js
 ||novinite.com/tz.php
 ||nst.com.my/statistic/
-||nydailynews.com/tracker.js
-||nydailynews.com^*/tracker.js
 ||nymag.com/js/2/metrony
 ||nymag.com^*/analytics.js
 ||nyse.com^*/stats/
@@ -15903,6 +15910,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||media.ft.com/j/optimost-$domain=ft.com
 @@||media.ticketmaster.*/click_track.js
 @@||mediaite.com/decor/javascript/magnify_stats.js$domain=videos.mediaite.com
+@@||medianetworkinternational.com/js/fingerprint2.js$script
 @@||medicare.gov/SharedResources/widgets/foresee/foresee-trigger.js
 @@||mercedes-benz-mobile.com/js/tracking/tracker.min.js?
 @@||messenger.com/common/referer_frame.php$subdocument,domain=messenger.com
@@ -16536,6 +16544,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=eloan.co.il
 @@||player.bizportal.co.il/scripts/GoogleAnalytics.js$domain=bizportal.co.il
 @@||player.flix.co.il/scripts/GoogleAnalytics.js
+@@||sport5.co.il/js/angulartics-google-analytics.js
 @@||stats.g.doubleclick.net/dc.js$domain=reshet.tv
 @@||tapuz.co.il/general/dotomi/statistics.js?$~third-party
 @@||themarker.com/logger/p.gif?$image,xmlhttprequest
@@ -16578,6 +16587,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ! Indonesian
 @@||detik.com/urchin.js
 ! Japanese
+@@||adobedtm.com^*/satelliteLib-$script,domain=radiko.jp
 @@||analytics.edgekey.net/html5/akamaihtml5-min.js$domain=nhk.or.jp
 @@||chancro.jp/assets/lib/googleanalytics-$script
 ! Korean
