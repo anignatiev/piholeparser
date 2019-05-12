@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EnW/jjK1p+xOOzY7TF8LDw
-! Version: 201905110012
+! Checksum: 3YtqIVKOrTz9nByBt/rPdQ
+! Version: 201905120012
 ! Title: Fanboy's Annoyance List
-! Last modified: 11 May 2019 00:12 UTC
+! Last modified: 12 May 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -23989,6 +23989,7 @@ _site_cookie_
 ###fb-cookie-law
 ###fb-pixel-consent
 ###fc-cookies-notification
+###fcCookie
 ###fd-notes-top-cookies
 ###fdCookieLawBanner
 ###fdih-cb
@@ -35786,7 +35787,7 @@ firstbanknigeria.com###topbottom_arr
 gen14.com###topofpage
 thespinoff.co.nz###topscroll
 listnerd.com###topscroller
-guvonhotels.co.za,hirschs.co.za,langenscheidt.com,regalinn.co.za,schoolguide.co.za,thefairway.co.za,thewitcher.com,xtubetv.net###totop
+guvonhotels.co.za,hirschs.co.za,langenscheidt.com,regalinn.co.za,schoolguide.co.za,thefairway.co.za,thewitcher.com,webfail.com,xtubetv.net###totop
 motortrend.com###totop-arrow
 nextradioapp.com###tsnr-to-pgtop
 europeanjournalists.org###up
@@ -36970,7 +36971,7 @@ chinadailyasia.com##.stsbox
 sextvx.com##.stvxp-social-reddit
 ndtv.com##.sty-updtd
 gizmag.com##.su_footer
-npr.org,symmetrymagazine.org,topbet.eu##.subscribe
+celebzz.com,npr.org,symmetrymagazine.org,topbet.eu##.subscribe
 indiatimes.com##.subscribe-form
 newsandguts.com##.subscribeBar
 programmableweb.com##.subscribeicon
