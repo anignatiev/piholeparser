@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201905122240
+! Version: 201905131910
 ! Title: EasyPrivacy
-! Last modified: 12 May 2019 22:40 UTC
+! Last modified: 13 May 2019 19:10 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12916,6 +12916,7 @@ _mongo_stats/
 ||log.data.disney.com^
 ||log.deutschegrammophon.com^
 ||log.go.com^
+||log.hypebeast.com^
 ||log.mappy.net^
 ||log.newsvine.com^
 ||log.optimizely.com^
