@@ -2390,12 +2390,18 @@ zippyshare.com##+js(abort-current-inline-script.js, String.fromCharCode, decodeU
 kimcartoon.*##+js(abort-current-inline-script.js, $, isAdb)
 kimcartoon.*##+js(abort-current-inline-script.js, parseInt, tabunder)
 kimcartoon.*##+js(abort-on-property-read.js, AaDetector)
-kimcartoon.to##+js(abort-on-property-read.js, _0x7918)
 kimcartoon.*##+js(abort-on-property-write.js, callExo)
 kimcartoon.*##+js(abort-on-property-write.js, Fingerprint2)
 kimcartoon.*##+js(set-constant.js, check_adblock, true)
 kimcartoon.*##+js(setInterval-defuser.js, (), 500)
 kimcartoon.to##+js(setTimeout-defuser.js, adbWarnContainer)
+kimcartoon.me,kimcartoon.to#@#+js(abort-current-inline-script.js, $, isAdb)
+kimcartoon.me,kimcartoon.to#@#+js(abort-current-inline-script.js, parseInt, tabunder)
+kimcartoon.me,kimcartoon.to#@#+js(abort-on-property-read.js, AaDetector)
+kimcartoon.me,kimcartoon.to#@#+js(abort-on-property-write.js, callExo)
+kimcartoon.me,kimcartoon.to#@#+js(abort-on-property-write.js, Fingerprint2)
+kimcartoon.me,kimcartoon.to#@#+js(set-constant.js, check_adblock, true)
+kimcartoon.me,kimcartoon.to#@#+js(setInterval-defuser.js, (), 500)
 kimcartoon.*##^script:has-text(this[atob)
 ||fghtem.com^$xmlhttprequest,redirect=nooptext,domain=kimcartoon.me
 @@||kimcartoon.*/ads/fb.aspx$subdocument,first-party
@@ -13735,7 +13741,7 @@ pch.com##^script:has-text(window.URL)
 !#if !env_firefox
 */*$script,domain=pch.com,redirect=noopjs,third-party
 @@||ajax.googleapis.com/ajax/$script,domain=pch.com
-@@||gstatic.com*$script,domain=pch.com
+@@||gstatic.com^$script,domain=pch.com
 @@||imasdk.googleapis.com^$script,domain=pch.com
 @@||pch.com^$generichide
 @@||content.jwplatform.com^$script,domain=pch.com
@@ -19622,7 +19628,7 @@ uploadbuzz.org###downloadbtnad, .checkbox
 uploadbuzz.org###downloadbtn:style(display: block !important)
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/bi3nw6/ublock_detected_on_some_tv_channel_website/
-@@||proxy.ads.canalplus-bo.net$xhr,domain=mycanal.fr
+@@||proxy.ads.canalplus-bo.net^$xhr,domain=mycanal.fr
 ||static.canal-plus.net/pub/$media,redirect=noopmp3-0.1s,domain=mycanal.fr
 @@||static.mytf1.tf1.fr^$script,1p
 @@*$script,domain=tf1.fr,3p
@@ -20211,3 +20217,50 @@ pornsexer.com##.bottom-adv1
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/aqiblx/please_help_to_get_rid_of_protopage_ads/
 protopage.com##+js(abort-on-property-read.js, pageParams.dispAds)
+
+! https://github.com/NanoMeow/QuickReports/issues/1211
+@@||cyclismactu.net/adserver.js$script,1p
+
+! https://github.com/NanoMeow/QuickReports/issues/1213
+replaytvstreaming.com##+js(bab-defuser.js)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5588
+letmejerk.com##+js(abort-on-property-read.js, ExoLoader)
+letmejerk.com##+js(addEventListener-defuser.js, load, _0x)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5589
+shtme.co##+js(abort-on-property-read.js, AaDetector)
+||parentelement.tk^
+
+! https://github.com/uBlockOrigin/uAssets/issues/5594
+movieor.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+||whukroal.net^
+
+! https://github.com/uBlockOrigin/uAssets/issues/5595
+dunyanews.xyz##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+dunyanews.xyz##+js(abort-current-inline-script.js, Math, zfgloaded)
+dunyanews.xyz##+js(abort-on-property-read.js, open)
+||adxat.com^$3p
+
+! https://github.com/uBlockOrigin/uAssets/issues/5596
+shortbit.co##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+shortbit.co##+js(addEventListener-defuser.js, click, trigger)
+||mn-shop.com^$3p
+*$frame,domain=shortbit.co,3p
+
+! https://github.com/uBlockOrigin/uAssets/issues/5597
+abtakar.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+abtakar.com##+js(abort-on-property-read.js, open)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5598
+dragon-url.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5599
+queenfaucet.website##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+queenfaucet.website##+js(addEventListener-defuser.js, click, trigger)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5600
+v6download.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+v6download.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+@@||v6download.com^$generichide
+v6download.com##.adsbygoogle
