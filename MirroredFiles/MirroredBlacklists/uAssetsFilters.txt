@@ -6002,7 +6002,9 @@ fileflares.com##[id*="ScriptRoot"]
 ! https://github.com/uBlockOrigin/uAssets/issues/1632
 vidoza.net##+js(noeval.js)
 vidoza.net##+js(window.open-defuser.js)
+vidoza.net##.in-block
 vidoza.net###plo_0
+vidoza.net##[id*="ScriptRoot"]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1634
 katfile.com##+js(set-constant.js, adblock, false)
@@ -10750,9 +10752,11 @@ funimg.net##+js(abort-on-property-read.js, ExoLoader.serve)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3158
 ! https://github.com/uBlockOrigin/uAssets/issues/5357
+! https://github.com/NanoMeow/QuickReports/issues/1218
 javqd.com,qdembed.com##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 javqd.com,qdembed.com##+js(setInterval-defuser.js, (), 500)
 javqd.com##+js(window.open-defuser.js)
+@@||javqd.com^$generichide
 embed.media,javqd.com##+js(abort-on-property-read.js, AaDetector)
 javqd.com##center > iframe
 ||muqson0kgr.com^
@@ -11010,7 +11014,6 @@ animehub.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3229
 shippuden.tv###ads
-vidoza.net##.in-block
 shippuden.tv##+js(nowebrtc.js)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3231
@@ -14722,11 +14725,11 @@ smtebooks.*##+js(bab-defuser.js)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4306
 t66y.com##.black.tips
-t66y.com##.sptable_do_not_remove:style(opacity: 0 !important;)
+!t66y.com##.sptable_do_not_remove:style(opacity: 0 !important;)
 t66y.com##+js(remove-attr.js, onclick)
-t66y.com##+js(setTimeout-defuser.js, (), 1602)
-t66y.com##+js(setTimeout-defuser.js, (), 1600)
-t66y.com##+js(setTimeout-defuser.js, /^((?!try).)*$/)
+t66y.com##+js(set-constant.js, Math.random, trueFunc)
+t66y.com##+js(abort-current-inline-script.js, $, undefined)
+!t66y.com##+js(setTimeout-defuser.js, /^((?!try).)*$/)
 
 ! https://github.com/jspenguin2017/uBlockProtector/issues/1011
 k511.me##+js(abort-current-inline-script.js, document.getElementById, undefined)
@@ -18746,7 +18749,9 @@ xpickle.club##+js(bab-defuser.js)
 suarankri.me##+js(addEventListener-defuser.js, load, onload)
 
 ! https://github.com/NanoMeow/QuickReports/issues/943
-muzlan.top##+js(abort-current-inline-script.js, checkAdbl)
+! https://github.com/NanoMeow/QuickReports/issues/1225
+@@||muzlan.top^$generichide
+@@||muzlan.top^$xhr,1p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5305#issuecomment-480551823
 adyou.ws##+js(bab-defuser.js)
@@ -20264,3 +20269,33 @@ v6download.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 v6download.com##+js(abort-current-inline-script.js, Math, zfgloaded)
 @@||v6download.com^$generichide
 v6download.com##.adsbygoogle
+
+! https://github.com/NanoMeow/QuickReports/issues/1221
+@@||dailythanthi.com^$generichide
+
+! https://github.com/NanoMeow/QuickReports/issues/1222
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=windowcleaningforums.co.uk
+windowcleaningforums.co.uk##.ipsAdvertisement_large
+
+! https://github.com/NanoMeow/QuickReports/issues/1223
+jav777.cc##+js(setTimeout-defuser.js, aab, 3000)
+
+! https://github.com/NanoMeow/QuickReports/issues/1224
+playstationlifestyle.net##+js(abort-on-property-read.js, HTMLCanvasElement)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5601
+pennlive.com##+js(addEventListener-defuser.js, load, PrivateMode)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5602
+sivitechno.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+@@||sivitechno.com^$generichide
+sivitechno.com##.adsbygoogle
+
+! https://github.com/uBlockOrigin/uAssets/issues/5603
+ps-insar.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+@@||ps-insar.com^$generichide
+ps-insar.com##.adsbygoogle
+
+! https://github.com/uBlockOrigin/uAssets/issues/5604
+freeupload.info,uploadfree.info##+js(abort-current-inline-script.js, document.getElementById, undefined)
+freeupload.info,uploadfree.info##+js(nano-setTimeout-booster.js, , 1400)

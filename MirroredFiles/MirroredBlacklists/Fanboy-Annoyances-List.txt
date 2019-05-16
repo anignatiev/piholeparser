@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 23w6otwXN4Fs8lwBxliMYA
-! Version: 201905130011
+! Checksum: PklhmduIKlx53x6Vploh6A
+! Version: 201905160012
 ! Title: Fanboy's Annoyance List
-! Last modified: 13 May 2019 00:11 UTC
+! Last modified: 16 May 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -37677,6 +37677,7 @@ zoomin.tv###privacyoverlay
 rocketleague.com###privmessage
 elanco.com###ribbon
 mywot.com###root > div > div[direction="up"][style*="transform"]
+drivetribe.com###root > div[class^="sc-"]
 wrigleys.co.uk###rpcm
 tenuser.com###rsp
 people.cn###shengmingTip
@@ -42011,6 +42012,7 @@ timeout.com#@#div[data-module="cookie_banner"]
 @@||consent.truste.com/notice$script
 @@||cookielawinfo.com^$~third-party
 @@||costa.co.uk/js/libs/cookieconsent.min.js
+@@||drivetribe.com/*/homepage-cookie-dialog.js
 @@||eucookiedirective.com^$~third-party
 @@||evbstatic.com^*/cookie_header.js
 @@||evidon.com/sitenotice/evidon-banner.js$domain=etonline.com|popsugar.co.uk
