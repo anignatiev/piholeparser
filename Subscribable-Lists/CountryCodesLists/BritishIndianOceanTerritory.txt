@@ -627,6 +627,7 @@ fw043oki-android-3-0-1-0.mobile-sdk-api.intercom.io
 fy.eu-west-1.bid.bidr.io
 fy.us-east-1.bid.bidr.io
 fytiinid.pen.io
+g.vev.io
 g7z2j2lo-android.mobile-sdk-api.intercom.io
 ga.kvideo.io
 gad.youpool.io

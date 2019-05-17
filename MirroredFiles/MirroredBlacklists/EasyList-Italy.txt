@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: xhdOZtoyxckjCiPg/5kIRA
-! Version: 201904260011
+! Checksum: PVvcxWJruAzlY/qP6nJ8Cg
+! Version: 201905170011
 ! Title: EasyList Italy
-! Last modified: 26 Apr 2019 00:11 UTC
+! Last modified: 17 May 2019 00:11 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html
@@ -3185,6 +3185,7 @@ megasesso.com##.rightPubHome
 cinquegiorni.it##.rightbanner
 gazzettadasti.it##.rotate-banner
 ecodallecitta.it##.rotobanner
+wikihow.it##.rr_container
 nonsolocap.it##.ru
 quattroruote.it##.salone-sponsor
 genova24.it,ivg.it,lacnews24.it##.sb-banner

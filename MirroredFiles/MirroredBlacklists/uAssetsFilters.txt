@@ -1300,9 +1300,8 @@ quora.com##:xpath(//div[not(@class="ui_qtext_para") and contains(text(), 'promot
 quora.com##:xpath(//div[not(@class="ui_qtext_para") and contains(text(), 'Quora') and contains(text(), 'by') and contains(text(), 'Business')]/parent::a/parent::div/parent::div/parent::div[@id])
 quora.com##.FeedStory.feed_item > div > div:has-text(/by Quora for Business/i)
 quora.com##.Toggle.SimpleToggle.ToggleAnswerFooterWrapper > div:has-text(/Promoted/i)
-quora.com##.UnifiedAnswerPagedList > .paged_list_wrapper > div[id]:if(a[href][target="_blank"][rel="noopener nofollow"]:not(.external_link))
 quora.com##:xpath(//span[contains(text(), 'by')]/ancestor::*[contains(concat(' ', @class, ' '), ' external_link ')]/../../..)
-quora.com##:xpath(//span[(text()='d')]/../../../../..)
+quora.com##:xpath(//*[(text()='d')]/../../../../..)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/291
 ! https://github.com/uBlockOrigin/uAssets/issues/831
@@ -4101,7 +4100,6 @@ mrtechmyth.*##+js(bab-defuser.js)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1128
 mitly.us##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-mitly.us##+js(nano-setInterval-booster.js)
 @@||mitly.us^$generichide
 ||pagead2.googlesyndication.com/pagead/$script,redirect=noopjs,domain=mitly.us
 mitly.us##.adsbygoogle
@@ -11849,8 +11847,9 @@ ngolos.com##+js(abort-on-property-write.js, block_detected)
 @@||ngolos.com^$generichide
 
 ! https://github.com/NanoMeow/QuickReports/issues/99
+! https://github.com/NanoMeow/QuickReports/issues/1228
+hitomi.la##+js(abort-on-property-read.js, write_ad)
 hitomi.la##+js(abort-on-property-write.js, _pop)
-hitomi.la##+js(noeval.js)
 hitomi.la##[href*="nutaku.net/signup/"]
 hitomi.la##.hitomi-anintager
 
@@ -20299,3 +20298,17 @@ ps-insar.com##.adsbygoogle
 ! https://github.com/uBlockOrigin/uAssets/issues/5604
 freeupload.info,uploadfree.info##+js(abort-current-inline-script.js, document.getElementById, undefined)
 freeupload.info,uploadfree.info##+js(nano-setTimeout-booster.js, , 1400)
+
+! https://github.com/NanoMeow/QuickReports/issues/1227
+beatricedailysun.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5605
+@@||piktag.net^$generichide
+
+! https://github.com/uBlockOrigin/uAssets/issues/5608
+@@||naturalhealthy.xyz^$generichide
+naturalhealthy.xyz##.adsbygoogle
+
+! https://github.com/uBlockOrigin/uAssets/issues/5607
+! https://github.com/uBlockOrigin/uAssets/issues/5606
+muhammadyoga.me,oploverzhome.com##+js(addEventListener-defuser.js, load, onload)

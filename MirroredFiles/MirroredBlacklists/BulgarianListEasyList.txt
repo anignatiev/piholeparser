@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201905151533
+! Version: 201905162219
 ! Title: EasyPrivacy
-! Last modified: 15 May 2019 15:33 UTC
+! Last modified: 16 May 2019 22:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19,7 +19,7 @@
 &ctxId=*&pubId=*&objId=
 &event=view&
 &funnel_state=
-&http_referer=$script
+&http_referer=$script,xmlhttprequest
 &pageReferrer=
 &ref=*&tag=
 &refer=http$script
@@ -632,7 +632,7 @@
 /analytics/newrelic_
 /analytics/p.gif?
 /analytics/page/*
-/analytics/pageview.
+/analytics/pageview
 /Analytics/Pdp/*
 /analytics/ping^
 /analytics/pv.gif?
@@ -1161,6 +1161,8 @@
 /collect/kf?
 /collect/pageview?
 /collect/tracking.
+/collect?*&cid=
+/collect?*&tid=
 /collect?callback=
 /collect?eid=
 /collect?event=
@@ -1357,6 +1359,7 @@
 /Diagnostics?hit=
 /didna-pixel-
 /digitalice_tag.js
+/dil_v6.4.js
 /disp_cnt.
 /dispatch.fcgi?
 /dist/analytics.
@@ -1514,6 +1517,7 @@
 /event?t=*&__seed=
 /event?t=view&
 /event?token=
+/event_logger
 /EventhubStats.js
 /EventLog.axd?
 /eventlog.js
@@ -1846,6 +1850,7 @@
 /googletracker/*
 /googleTracking.js
 /googlytics-
+/gootics.js
 /gosquared-livestats/*
 /gPageTracking.
 /grappler/log/*
@@ -1860,6 +1865,7 @@
 /gtm/gtm-
 /gtmTracking.
 /gtrack.
+/gv-analytics/*
 /gweb/analytics/*
 /hash_stat_bulk/*
 /hc/tracking/*
@@ -2311,6 +2317,7 @@
 /logHandler.
 /LogImpression.
 /LogImpression?
+/loglevel.js
 /logLoad/?
 /LogMediaClick?
 /logo.gif?a=
@@ -2837,6 +2844,7 @@
 /plingatracker.
 /plog?id
 /pluck-tracking.
+/plugin/trackEvents.
 /plugins/catman/*
 /plugins/stat-dfp/*
 /plugins/status.gif?
@@ -3037,7 +3045,9 @@
 /revtracking/*
 /RioTracking2.
 /risk_fp_log?
+/riveted.js
 /riveted.min.js
+/rivraddon.js
 /rkrt_tracker-
 /rm.gif?
 /RMAnalytics.
@@ -3448,6 +3458,7 @@
 /statsd_proxy
 /StatsHelper.gif?
 /StatsMngrWebInterface.
+/StatsPage.
 /statspider?
 /statspixel.
 /StatsRadioAnalyticsHub.htm
@@ -5195,6 +5206,7 @@ _mongo_stats/
 ||conductrics.com^$third-party
 ||confirmational.com^$third-party
 ||confirmit.com^$third-party
+||contactatonce.com^$third-party
 ||contactmonkey.com^$third-party
 ||contemporaryceremonies.ca^$third-party
 ||content-square.net^$third-party
@@ -5208,6 +5220,7 @@ _mongo_stats/
 ||conversionlogic.net^$third-party
 ||conversionly.com^$third-party
 ||conversionruler.com^$third-party
+||convertcart.com^$third-party
 ||convertexperiments.com^$third-party
 ||convertglobal.com^$third-party
 ||convertmarketing.net^$third-party
@@ -5768,6 +5781,7 @@ _mongo_stats/
 ||inflectionpointmedia.com^$third-party
 ||influid.co^$third-party
 ||infopro-insight.com^$third-party
+||infoprodata.com^$third-party
 ||informz.net^$third-party
 ||inimbus.com.au^$third-party
 ||innomdc.com^$third-party
@@ -5951,6 +5965,7 @@ _mongo_stats/
 ||logrocket.io^$third-party
 ||logsss.com^$third-party
 ||lookery.com^$third-party
+||loopa.net.au^$third-party
 ||loopfuse.net^$third-party
 ||lopley.com^$third-party
 ||losstrack.com^$third-party
@@ -6473,6 +6488,7 @@ _mongo_stats/
 ||richard-group.com^$third-party
 ||richmetrics.com^$third-party
 ||ritecounter.com^$third-party
+||rivrai.com^$third-party
 ||rkdms.com^$third-party
 ||rktu.com^$third-party
 ||rlcdn.com^$third-party
@@ -9514,6 +9530,7 @@ _mongo_stats/
 ||d22v2nmahyeg2a.cloudfront.net^
 ||d23p9gffjvre9v.cloudfront.net^
 ||d23pi6hvdpcc5i.cloudfront.net^
+||d241ujsiy3yht0.cloudfront.net
 ||d24cze5sab2jwg.cloudfront.net^
 ||d24rtvkqjwgutp.cloudfront.net^
 ||d25ezbwokoefx6.cloudfront.net^
@@ -10391,6 +10408,7 @@ _mongo_stats/
 ||realplayer.com^*/pixel?
 ||realtidbits.com^*/analytics.js
 ||recs.atgsvcs.com^$third-party
+||redditstatic.com/ads/pixel.js
 ||redir.widdit.com^$third-party
 ||redplum.com^*&pixid=$third-party
 ||reevoo.com/assets/ga.$script
@@ -11249,6 +11267,7 @@ _mongo_stats/
 ||cdn-analytics.ladmedia.fr^
 ||cloudfront.net^$script,domain=gentside.com
 ||compteur.websiteout.net^
+||d3eokk6ya562p5.cloudfront.net^
 ||da-kolkoz.com/da-top/track/
 ||devtribu.fr/t.php?
 ||e-pagerank.fr/bouton.gif?$third-party
@@ -12577,6 +12596,7 @@ _mongo_stats/
 ||g.deathandtaxesmag.com^
 ||g.ign.com^
 ||g.msn.com^
+||g.vev.io^
 ||g2a-com.newsletter.com.pl^$image,third-party
 ||ga.canoe.ca^
 ||ga.nsimg.net^
@@ -12969,6 +12989,7 @@ _mongo_stats/
 ||marriott.com^*/Bootstrap.js
 ||marriott.com^*/mi_customer_survey.js
 ||mashable.com/pv.xml
+||massdrop.com*^/pixelrb?
 ||mastercard.com^*/Analytics/
 ||matchesfashion.com/js/Track.js
 ||mate1.com^*/iframe/pixel/
@@ -14787,6 +14808,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 /autopromo.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 /autopromotion.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 ||accn.allocine.net^
+||aliasdmc.fr/js/general_sts.js
 ||analytics.rtbf.be^
 ||arte.tv/includes/xiti/
 ||autoplus.fr/st?
@@ -15311,6 +15333,8 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||montblanc.lenta.ru^
 ||mytoys.ru/ka_z.jpg?
 ||ngs.ru/s/
+||ok.ru/dk?cmd=videoStatNew
+||ok.ru/gwtlog
 ||ozon.ru/tracker/
 ||radar.imgsmail.ru^
 ||rbc.ru/click?
@@ -15348,6 +15372,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||bankinter.com/res/img/documento_cargado.gif?
 ||coletor.terra.com^
 ||compare.easyviajar.com^
+||epimg.net/js/*/satelliteLib-
 ||esmas.com/scripts/esmas_stats.js
 ||estadisticas.lanacion.com.ar^
 ||estadonline.publiguias.cl^

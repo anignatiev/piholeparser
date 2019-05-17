@@ -25,4 +25,4 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 ### TLD Lists That Do NOT use https.
-All TLD Lists Use https.
+* Internet-Assigned-Numbers-Authority
