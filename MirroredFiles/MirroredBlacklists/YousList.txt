@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20190516
+! Version: 20190517
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -4099,7 +4099,7 @@ mbn.mk.co.kr##div#right_today_info_2018
 mbn.mk.co.kr##div#right_top_banner
 mbn.mk.co.kr##div.ad1
 mbn.mk.co.kr##div.relation_ad
-me.me##div.proper-ad-unit
+me.me##div.row-ad
 media.daum.net##div.aside_shopping
 media.daum.net##div.box_ad
 media.naver.com##div._da_banner
@@ -4660,6 +4660,7 @@ osen.mt.co.kr##div.topBanner
 oshiete.goo.ne.jp##div#gheader
 oshiete.goo.ne.jp##div.pr-unit
 osxdaily.com##div#lower_content_ad_box
+osxdaily.com##div.contenttext>div[style="float: left; margin: 10px 10px 10px 0;"]
 osxdaily.com##div.contenttext>div[style="float:left;margin:10px 10px 10px 0;"]
 osxdaily.com##div.contenttext>div[style="float:none;margin:10px 0 10px 0;text-align:center;"]
 osxdaily.com##span.content_ad_head
