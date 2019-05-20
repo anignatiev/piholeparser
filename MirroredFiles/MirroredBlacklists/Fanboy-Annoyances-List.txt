@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: p+NkBWKZ1HdCCh+C93kBiw
-! Version: 201905190012
+! Checksum: CTzPUTYb7VgxMASGCiKidQ
+! Version: 201905200012
 ! Title: Fanboy's Annoyance List
-! Last modified: 19 May 2019 00:12 UTC
+! Last modified: 20 May 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11437,6 +11437,7 @@ _site_cookie_
 ##.brief-socialnetwork
 ##.brk-sharebar
 ##.brk-sharebar-abcd
+##.brojShareova
 ##.bsocialwidget
 ##.bt-share
 ##.bt-social-share
@@ -16518,6 +16519,7 @@ _site_cookie_
 ##.sharebox-outer
 ##.sharebox_new
 ##.sharebtn
+##.sharebtns
 ##.sharebutcont
 ##.sharebutdrop
 ##.sharebutt
@@ -16574,6 +16576,7 @@ _site_cookie_
 ##.sharemore
 ##.sharenewsin
 ##.shareonclick
+##.shareovanje
 ##.sharepanel__bottom
 ##.sharepanel__buttons
 ##.sharepinterest
@@ -32317,9 +32320,6 @@ wolframalpha.com###headerad-pro-a
 cio.com.au###headerpromos
 chron.com###healthpost-content-stub
 ifixit.com###helpLink
-askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com###hero-content
-askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com###herobox
-askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com###herobox-mini
 ncregister.com###hiddenSubscriptionPopupBox
 psdeluxe.com###hide
 rdmag.com###highlighted_text_ad\20
@@ -33899,6 +33899,7 @@ wired.com##.js-annotation
 dn.se##.js-article-preview
 twitch.tv##.js-bits-tooltip-wrapper
 pri.org##.js-cta_prompt
+askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.js-dismissable-hero
 wellandgood.com##.js-flying
 wired.com##.js-prefooter-rad
 medium.com##.js-promoCardWrapper
@@ -34922,6 +34923,7 @@ admonsters.com###adm-signupbar
 wnd.com###alerts-bottom
 reseller.co.nz###art-next_signifier
 humanevents.com###article-signup
+socialistworker.co.uk###article-view-subscribe-footer
 deseretnews.com###ask-form
 wellandgood.com###auto_signup
 tradeearthmovers.com.au###banner
@@ -36242,6 +36244,7 @@ ctnewsjunkie.com###nj-soc-bar-left
 produktywnie.pl###olussierfsp_likebox-3
 therichest.com###openFollow
 lyricsmania.com###overlay
+toofab.com###photo-sharing
 dw.com###pictureteaser_43842080
 dw.com###pictureteaser_43842082
 carscoops.com,fark.com,opposingviews.com###pinterest
@@ -36961,7 +36964,7 @@ trust.org##.slide-out-div
 cafe.com##.slide-promo
 oneindia.in##.sliderightItem
 bulletproof.com,dhpstudios.com##.sm
-any.tv,improper.com##.sm-icons
+any.tv,improper.com,newsguardtech.com##.sm-icons
 washingtonpost.com##.small-block-grid-2
 atlantic.net##.smc-btn
 sonymobile.com##.smdw-footer-stay-connected
@@ -37606,6 +37609,7 @@ c21stores.com###consent-tracking
 predesto.com###consent-wrapper
 eurosport.com###container-notifications
 decathlon.co.uk###container-screen
+tinder.com###content > span > .App > div[class*="Start"]
 wotinfo.net###coo
 alcoholics-anonymous.org.uk###cook
 add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,nspcc.org.uk,oilplusltd.com,onenessscotland.org,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,simmons-simmons.com,stiripesurse.ro,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,wheatley-group.com###cookie
@@ -37731,6 +37735,7 @@ melaniemartinezmusic.com###pp-footer
 tapatalk.com###pp_b
 pacsun.com###pptou-sticky
 autoevolution.com###prajiturele
+fxstreet.com###prestitial-handle
 3q.video,mondaq.co.uk,prevac.eu,vindy.com###privacy
 playstation.com###privacy-header
 islamicfinder.org###privacy-modal
@@ -37868,7 +37873,7 @@ antoineonline.com##.container-overlay
 deezer.com##.cookie-banner
 theatlantic.com##.cookie-disclaimer
 bitfeed.co##.cookiebanner
-amnesty.org,asda.com,ashridge.org.uk,auto1.fi,auto10.com,belivehotels.com,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,crytek.com,dorotheum.com,dur.ac.uk,eirsport.ie,enable-javascript.com,feelunique.com,grandvision.com,graspop.be,guggenheim-bilbao.eus,hmv.com,hotel-spider.com,inagrm.com,luxottica.com,mabanque.bnpparibas,macpaw.com,mailjet.com,mannheimerswartling.se,medela.co.uk,mindshareworld.com,mindswarms.com,ostrog.com,pjon.org,playgwent.com,renaultbryanston.co.za,renaultfourways.co.za,royalparks.org.uk,scamner.com,stuttafordvanlines.co.za,tescomobile.ie,testeri.fi,thenottingham.com,threadreaderapp.com,twinings.co.uk,ukcisa.org.uk,ukmail.com,umicore.com,unian.info,unknownphone.com,uptodown.com,urtekram.com,volvocars.com,warhammerchampions.com,wilko.com##.cookies
+amnesty.org,asda.com,ashridge.org.uk,auto1.fi,auto10.com,belivehotels.com,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,crytek.com,custplace.com,dorotheum.com,dur.ac.uk,eirsport.ie,enable-javascript.com,feelunique.com,grandvision.com,graspop.be,guggenheim-bilbao.eus,hmv.com,hotel-spider.com,inagrm.com,luxottica.com,mabanque.bnpparibas,macpaw.com,mailjet.com,mannheimerswartling.se,medela.co.uk,mindshareworld.com,mindswarms.com,ostrog.com,pjon.org,playgwent.com,renaultbryanston.co.za,renaultfourways.co.za,royalparks.org.uk,scamner.com,stuttafordvanlines.co.za,tescomobile.ie,testeri.fi,thenottingham.com,threadreaderapp.com,twinings.co.uk,ukcisa.org.uk,ukmail.com,umicore.com,unian.info,unknownphone.com,uptodown.com,urtekram.com,volvocars.com,warhammerchampions.com,wilko.com##.cookies
 austrian.com,austrianairlines.ag,austriantechnik.at##.cop
 semanticscholar.org##.copyright-banner
 bandcamp.com##.corp-banners
@@ -39034,6 +39039,7 @@ tomshw.it##.content-autopromo
 bancamediolanum.it##.content-footer-scroll-up
 tomshw.it##.content-related
 corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it##.control_top
+e-coop.it##.coop-goToTop
 dday.it##.corriere-header
 sapere.it##.dbdslim
 donnamoderna.com##.donnam-footer-newsletter
@@ -42173,6 +42179,7 @@ timeout.com#@#div[data-module="cookie_banner"]
 @@/wp-content/plugins/wp-rocket/$image,~third-party
 @@||126.net/share/js/$script,domain=163.com
 @@||3dmark.com/proxycon/images/fb_icon.png
+@@||3obieg.pl/wp-content/themes/sowe/css/content/$image
 @@||4game.com^*/facebook.js
 @@||4game.com^*/twitter.js
 @@||4shared.com/images/icons/social-connect-buttons.png

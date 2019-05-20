@@ -2261,10 +2261,11 @@ fmovies.cab##+js(abort-on-property-read.js, _0x1477)
 9anime.*##+js(abort-current-inline-script.js, Math, zfgloaded)
 @@||9anime.*^$generichide
 ||9anime.*/sw.js$script
-||soujoobafoo.com^
 ||9anime.*^$script,1p
 @@||9anime.*/assets/$script,1p
 @@||static.animecdn.xyz/js/ads.js$script,domain=9animes.ru
+||logger.pw^$3p
+||soujoobafoo.com^
 ! https://github.com/uBlockOrigin/uAssets/issues/5558
 prettyfast.to##+js(nowebrtc.js)
 
@@ -8701,6 +8702,7 @@ hubfiles.ws##+js(abort-current-inline-script.js, Math.sin, vocabulary)
 dlfiles.online##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 dlfiles.online##+js(window.open-defuser.js)
 700mbdownload.*##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
+moviescouch.*##+js(abort-current-inline-script.js, Math.sin, vocabulary)
 moviescouch.*##+js(abort-current-inline-script.js, RegExp, decodeURIComponent)
 moviescouch.*##+js(abort-on-property-read.js, encodeURIComponent)
 ||moviescouch.*/sw.js$script
@@ -11855,6 +11857,7 @@ ngolos.com##+js(abort-on-property-write.js, block_detected)
 ! https://github.com/NanoMeow/QuickReports/issues/1228
 hitomi.la##+js(abort-on-property-read.js, write_ad)
 hitomi.la##+js(abort-on-property-write.js, _pop)
+hitomi.la##+js(abort-on-property-read.js, open)
 hitomi.la##[href*="nutaku.net/signup/"]
 hitomi.la##.hitomi-anintager
 
@@ -13687,7 +13690,9 @@ bit-url.com##.banner
 andreadd.it##+js(abort-current-inline-script.js, document.getElementById, block)
 
 ! https://github.com/NanoAdblocker/NanoFilters/issues/218
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect=nooptext,domain=di.fm|radiotunes.com
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect=nooptext,domain=radiotunes.com
+@@||di.fm^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=di.fm
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4129
 droidtk.com##+js(addEventListener-defuser.js, load, nextFunction)
@@ -14148,7 +14153,9 @@ m.hellporno.com###fltd-inner
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4224
 uiz.io##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+uiz.io##+js(abort-on-property-read.js, open)
 uiz.io##+js(bab-defuser.js)
+uiz.io##+js(setTimeout-defuser.js, checkAdblockUser)
 ||uiz.io/sw.js$script,first-party
 
 ! https://forums.lanik.us/viewtopic.php?f=64&t=42257
@@ -14736,8 +14743,8 @@ t66y.com##.black.tips
 !t66y.com##.sptable_do_not_remove:style(opacity: 0 !important;)
 t66y.com##+js(remove-attr.js, onclick)
 t66y.com##+js(set-constant.js, Math.random, trueFunc)
-t66y.com##+js(abort-current-inline-script.js, $, undefined)
-!t66y.com##+js(setTimeout-defuser.js, /^((?!try).)*$/)
+t66y.com##+js(setTimeout-defuser.js, /^((?!try).)*$/)
+t66y.com##+js(abort-on-property-read.js, $.css)
 
 ! https://github.com/jspenguin2017/uBlockProtector/issues/1011
 k511.me##+js(abort-current-inline-script.js, document.getElementById, undefined)
@@ -19494,9 +19501,9 @@ ckk.ai##a[href^="https://href.li/"]
 asianhobbyist.com##+js(abort-on-property-read.js, anOptions)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5440
-ommantrameditation.com##+js(abort-current-inline-script.js, Math, zfgloaded)
-ommantrameditation.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-ommantrameditation.com##+js(abort-on-property-read.js, open)
+ommantrameditation.com,techsyou.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+ommantrameditation.com,techsyou.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+ommantrameditation.com,techsyou.com##+js(abort-on-property-read.js, open)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5441
 onlineserieshd.com##+js(abort-on-property-read.js, anOptions)
@@ -20208,10 +20215,6 @@ bitcoin.refroma.ru##[src^="http://faucethub.io/assets/img/banners/"]
 bitcoinminingforex.blogspot.com##+js(fuckadblock.js-3.2.0)
 bitcoinminingforex.blogspot.com##+js(window.open-defuser.js)
 
-! https://github.com/uBlockOrigin/uAssets/issues/5585
-fstore.biz##+js(abort-current-inline-script.js, document.getElementById, undefined)
-fstore.biz##+js(nano-setTimeout-booster.js, , 1400)
-
 ! https://github.com/uBlockOrigin/uAssets/issues/5584
 indexof.ir##+js(abort-on-property-read.js, AaDetector)
 ||mpqfzyh.com^
@@ -20304,8 +20307,11 @@ ps-insar.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 ps-insar.com##.adsbygoogle
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5604
-freeupload.info,uploadfree.info##+js(abort-current-inline-script.js, document.getElementById, undefined)
-freeupload.info,uploadfree.info##+js(nano-setTimeout-booster.js, , 1400)
+! https://github.com/uBlockOrigin/uAssets/issues/5585
+! https://github.com/uBlockOrigin/uAssets/issues/5620
+freeupload.info,fstore.biz,uploadfree.info##+js(abort-current-inline-script.js, document.getElementById, undefined)
+freeupload.info,fstore.biz,uploadfree.info##+js(remove-attr.js, disabled)
+freeupload.info,fstore.biz,uploadfree.info###waiting
 
 ! https://github.com/NanoMeow/QuickReports/issues/1227
 beatricedailysun.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
@@ -20369,3 +20375,27 @@ topito.com##+js(abort-on-property-read.js, document.bridCanRunAds)
 
 ! https://github.com/NanoMeow/QuickReports/issues/1253
 0rechner.de##+js(set-constant.js, doads, true)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5616
+healthfary.com,shortzon.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+@@||healthfary.com^$generichide
+@@||shortzon.com^$generichide
+healthfary.com,shortzon.com##.adsbygoogle
+
+! https://github.com/uBlockOrigin/uAssets/issues/5618
+@@||galt.hit.gemius.pl/gplayer.js$script,domain=lrt.lt
+
+! https://github.com/NanoAdblocker/NanoFilters/issues/334
+powerclicks.xyz##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+powerclicks.xyz##.blog-content
+
+! https://github.com/uBlockOrigin/uAssets/issues/5619
+bestbtcfaucets.com,myfaucetslist.com##+js(abort-on-property-write.js, adBlockDetected)
+@@||bestbtcfaucets.com^$generichide
+@@||myfaucetslist.com^$generichide
+bestbtcfaucets.com,myfaucetslist.com##[href*="track"]
+bestbtcfaucets.com##[href*="offer_id"]
+bestbtcfaucets.com###left-adspace
+
+! https://github.com/uBlockOrigin/uAssets/issues/5199#issuecomment-493761857
+semestr.ru##+js(setInterval-defuser.js, (), 1000)

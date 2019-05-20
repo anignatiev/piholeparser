@@ -1745,6 +1745,9 @@ tecnoriales.win#@#.vertical-ads
 |http://*?$script,xmlhttprequest,domain=1movies.is|moviescouch.co|torrentfunk.com,badfilter
 |https://$script,subdocument,third-party,xmlhttprequest,domain=1movies.is|moviescouch.co|torrentfunk.com,badfilter
 |https://*?$script,xmlhttprequest,domain=1movies.is|moviescouch.co|torrentfunk.com,badfilter
+! https://www.reddit.com/r/uBlockOrigin/comments/bqmliz/not_working_on_1movies_anymore/
+|https://$third-party,image,domain=1movies.is,badfilter
+/^http*.:\/\/.*[a-zA-Z0-9]{10,}.*/$xmlhttprequest,domain=1movies.is|moviescouch.co|torrentfunk.com,badfilter
 
 ! https://forums.lanik.us/viewtopic.php?p=144632#p144632
 windowscentral.com#@#a[href^="/e?link="]
@@ -2370,5 +2373,8 @@ detroitnews.com###partner-poster-0
 ||thelibertydaily.com^$csp=script-src 'self' *.leadpages.net *.gstatic.com *.google.com *.googleapis.com *.playwire.com *.facebook.com *.bootstrapcdn.com,badfilter
 ||bigleaguepolitics.com^$csp=script-src 'self' *.leadpages.net *.gstatic.com *.google.com *.googleapis.com *.playwire.com *.facebook.com *.bootstrapcdn.com *.twitter.com *.spot.im,badfilter
 
-! https://forums.lanik.us/viewtopic.php?f=64&t=43037&p=147617#p147617
-@@||googletagmanager.com/gtag/js$script,domain=klix.ba
+! https://github.com/uBlockOrigin/uBlock-issues/issues/583
+@@||googletagmanager.com/gtm.js$script,domain=rappi.com.mx
+
+! https://github.com/NanoMeow/QuickReports/issues/1257
+@@||piasecznonews.pl/wp-content/plugins/wppas/$1p
