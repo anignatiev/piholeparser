@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: xaMSKnTd9/sWj/QatURd5A
-! Version: 201905190011
+! Checksum: hisYjWpRfSgY+Rjj3lsOuw
+! Version: 201905210011
 ! Title: EasyList Italy
-! Last modified: 19 May 2019 00:11 UTC
+! Last modified: 21 May 2019 00:11 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html
@@ -124,6 +124,7 @@ _sito/adv/
 ###fwnetblocco300x300
 ###fwnetblocco_v
 ###hp_sez_advmkt_01
+###kauppa_box
 ###leo-adv
 ###lg-spalla-ads01-down
 ###lg-spalla-ads01-up

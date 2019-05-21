@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CTzPUTYb7VgxMASGCiKidQ
-! Version: 201905200012
+! Checksum: l3kSxm5sCBjg4qRDQM9SjQ
+! Version: 201905210012
 ! Title: Fanboy's Annoyance List
-! Last modified: 20 May 2019 00:12 UTC
+! Last modified: 21 May 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4660,6 +4660,7 @@ _site_cookie_
 ##.aptureTMMBar
 ##.article-next-sticky
 ##.articles-recirculation
+##.asset-paging-container
 ##.avia-post-nav
 ##.background-email-popup
 ##.bbccom_text
@@ -4935,6 +4936,7 @@ _site_cookie_
 ###block-boxes-taboola-article-right-rail
 ###js-Taboola-Container-0
 ###moduleTaboolaRightRail
+###taboola
 ###taboola-autosized-1r
 ###taboola-below-article
 ###taboola-below-article-thumbnails
@@ -6337,6 +6339,7 @@ _site_cookie_
 ##.nn-newsletter
 ##.node-newsletter-subscribe
 ##.nse_subscription-list
+##.nslr-subscb
 ##.nw_form_newsletters
 ##.nw_icon_newsletter
 ##.nwletter-box
@@ -7924,6 +7927,7 @@ _site_cookie_
 ###block-sociallinks
 ###block-socialmedia
 ###block-socialmedialinks
+###block-socialmedialinks-2
 ###block-socialmenu
 ###block-socialmenuservizioheader
 ###block-socialsharingblock
@@ -10572,6 +10576,7 @@ _site_cookie_
 ##.SocialGoogle
 ##.SocialGroupIcon
 ##.SocialIcon
+##.SocialIconNews
 ##.SocialIcons
 ##.SocialIconsBlock
 ##.SocialKit
@@ -14804,6 +14809,7 @@ _site_cookie_
 ##.mejs-share-button
 ##.meme-share-box
 ##.menu--footer-social
+##.menu--social-media-links
 ##.menu-article-share
 ##.menu-facebook
 ##.menu-fb
@@ -31645,6 +31651,7 @@ _site_cookie_
 ||windguru.cz/forms/consent.php
 ||worcesternews-gb.worcesternews.co.uk^
 ||yimg.com^*/guce.js
+||yourlocalguardian-gb.yourlocalguardian.co.uk^
 !------------------------Specific element hiding rules------------------------!
 ! *** easylist:fanboy-addon/fanboy_annoyance_specific_hide.txt ***
 ceo.com###ActionBarCont
@@ -33325,7 +33332,6 @@ technologyreview.com##.articlesidebar
 theglobeandmail.com##.articletoolbar
 reuters.com##.articletools
 bozemandailychronicle.com,heraldcourier.com,psu.edu##.asset-paging
-albanyherald.com,daltondailycitizen.com,missoulian.com,omaha.com,santafenewmexican.com,theadvocate.com##.asset-paging-container
 eweek.com##.assetNew
 stuff.co.nz##.assignment_icon
 runningshoesguru.com##.attention_grabber
@@ -35254,6 +35260,7 @@ catchnews.com##.bg-col-blue
 hcanews.com##.bgClick1
 hcanews.com##.bgClick2
 nocamels.com##.bl-block-signuptextpage
+albawaba.com##.black-box
 theticketmiami.com##.block--second-street--ss-block-signup
 ibtimes.com##.block-ibtimes-newsletters
 americamagazine.org##.block-mailchimp-signup
@@ -35294,7 +35301,7 @@ nytimes.com##.css-mlcs8h.shown
 recipetineats.com##.cta
 thecourier.co.uk##.cta--bg
 rewire.news##.cta-a
-gazette-news.co.uk,worcesternews.co.uk##.cta-component-half-width
+gazette-news.co.uk,worcesternews.co.uk,yourlocalguardian.co.uk##.cta-component-half-width
 meta.com##.ctabox
 codeclimate.com##.ctas
 thebostonpilot.com##.ctct-embed-signup
@@ -35324,7 +35331,7 @@ ecowatch.com##.eco_subscribe_box
 digg.com##.editions-promo
 jlconline.com##.editorial-promo
 insider.com##.editorial-sidebar
-democracynow.org,emigrate2.co.uk,pjmedia.com,townhall.com##.email
+alriyadhdaily.com,democracynow.org,emigrate2.co.uk,pjmedia.com,townhall.com##.email
 hermanmiller.com,refinery29.com##.email-acquisition
 smarteranalyst.com##.email-alerts-pops
 playboy.com##.email-collection
@@ -35388,6 +35395,7 @@ whatuni.com##.fwrp
 thegolfnewsnet.com##.g-20
 startribune.com##.gameday
 icepop.com##.get-it-first
+electronicintifada.net##.get-updates
 pulsenews.co.kr##.getnews
 catholicherald.co.uk,kusc.org,motoring.com.au,threatpost.com,whoprofits.org,yellowhammernews.com##.gform_widget
 pressherald.com,undark.org##.gform_wrapper
@@ -35548,6 +35556,7 @@ aclu.org##.pane-aclu-blog-news-signup
 commondreams.org##.pane-block-54
 commondreams.org##.pane-block-8
 benzinga.com##.pane-bz-email-campaign-bz-email-campaign-newsletter-block
+electronicintifada.net##.pane-mailchimp-signup-ei-readers
 msnbc.com##.pane-msnbc-newsvine-subscribe
 primagames.com##.panel-primary
 pedestrian.tv##.panel-signup-footer
@@ -35666,10 +35675,10 @@ investmentnews.com##.subPopupTop
 stlucianewsonline.com##.subscr
 al-shabaka.org,android.gs,attn.com,bamargera.com,bet.com,bizjournals.com,blackagendareport.com,boardingarea.com,briefly.co.za,businesstech.co.za,caloriesecrets.net,catonmat.net,cbn.com,cheeserank.com,chicagomag.com,classicalite.com,cnet.com,dailycaller.com,dailyfeed.co.uk,devicemag.com,ebayinkblog.com,ehow.com,foxnews.com,freshersworld.com,fromthegrapevine.com,gellerreport.com,gimmesomeoven.com,gizmag.com,gotquestions.org,greece-is.com,hpcwire.com,huffingtonpost.com,indiatimes.com,infowars.com,intoday.in,intomobile.com,irishpost.com,labnol.org,lamag.com,laweekly.com,list25.com,livescience.com,messynessychic.com,miaminewtimes.com,mumbrella.com.au,mybroadband.co.za,mygaming.co.za,naij.com,naija.ng,nationalgeographic.com,ndtv.com,newatlas.com,news.usc.edu,newsarama.com,newsclick.in,newsroom.co.nz,nymag.com,outerplaces.com,pando.com,pandodaily.com,parentherald.com,pba.org,pedestrian.tv,people.com,petapixel.com,phonearena.com,politicsweb.co.za,poundsterlinglive.com,propertyobserver.com.au,rabble.ca,rbth.com,readwriteweb.com,recipetineats.com,savedelete.com,searchengineland.com,seroundtable.com,skiptomylou.org,snopes.com,space.com,spacenews.com,spoonuniversity.com,statescoop.com,stream.org,svpino.com,techeye.net,ted.com,teenchatdecoder.com,theaircurrent.com,theatlantic.com,thecollegefix.com,thefinancialbrand.com,themoscowtimes.com,therichest.org,thinq.co.uk,tourismupdate.co.za,trust.org,tuko.co.ke,tutsplus.com,tv.com,twice.com,udreview.com,upworthy.com,usatoday.com,usnews.com,vagabomb.com,variety.com,wackymania.com,wccftech.com,westword.com,windows7news.com,winhelponline.com,wired.co.uk##.subscribe
 breakingnews.ie##.subscribe-box-articles
-rt.com,sport360.com##.subscribe-btn
+albawaba.com,rt.com,sport360.com##.subscribe-btn
 middleeastmonitor.com##.subscribe-container
 todayonline.com##.subscribe-content
-afp.com,gulfnews.com##.subscribe-footer
+afp.com,albawaba.com,gulfnews.com##.subscribe-footer
 financialbuzz.com,maclife.com,segmentnext.com##.subscribe-form
 thefinancialbrand.com##.subscribe-free
 afamilyfeast.com##.subscribe-full
@@ -36317,7 +36326,7 @@ prlog.org###smx
 prlog.org###smx2
 worldreview.info###sn
 play-asia.com###soc
-amartus.com,amazinglytimedphotos.com,androidzoom.com,ask.com,barneys.com,beefjack.com,bitcoinblackfriday.com,bubblews.com,businessinsider.com,businessinsider.com.au,cmt.com,cnalicense.org,consumerist.com,distance-calculator.co.uk,dogandponyshowwebsite.com,donnahay.com.au,ekathimerini.com,electrictoolbox.com,g2a.com,gamingonlinux.com,gamrreview.com,geekosystem.com,giantfreakinrobot.com,gizmodo.com.au,globes.co.il,goutsa.com,haydenplanetarium.org,hccs.edu,highlandcapital.com,hollywire.com,hostcabi.net,hotscripts.com,humorhub.org,humourtube.org,imgur.com,ini.tv,inkscape.org,joburg.org.za,justrewards.co.za,kinguin.net,kotaku.com.au,latimes.com,lawyersweekly.com.au,legitreviews.com,lifehacker.com.au,mail.opera.com,makeuseof.com,mayoclinic.com,meteoblue.com,meteovista.co.uk,meteovista.com,mtv.com,musicfeeds.com.au,namecheap.com,nzmusicmonth.co.nz,onlineeducation.net,openculture.com,penny-arcade.com,pixiq.com,play-asia.com,presidenthotel.co.za,producersguild.org,radiovaticana.va,ratemyprofessors.com,ryot.org,sfchamber.com,skift.com,smhlmao.com,stileproject.com,stoppress.co.nz,swapit.co.uk,systemrequirementslab.com,talkingpointsmemo.com,tesco.com,the-diplomat.com,theedge.co.nz,theepochtimes.com,theparisreview.org,thepiratebay.org,theroar.com.au,ucl.ac.uk,vimeopro.com,virginactive.co.uk,virginactive.co.za,washingtonblade.com,waterfoxproject.org,wbs-law.de,webglearth.com,whatpeoplesayonline.com,whimn.com.au,whtop.com,wired.com,xda-developers.com###social
+amartus.com,amazinglytimedphotos.com,androidzoom.com,ask.com,barneys.com,beefjack.com,bitcoinblackfriday.com,bubblews.com,businessinsider.com,businessinsider.com.au,chnetwork.org,cmt.com,cnalicense.org,consumerist.com,distance-calculator.co.uk,dogandponyshowwebsite.com,donnahay.com.au,ekathimerini.com,electrictoolbox.com,g2a.com,gamingonlinux.com,gamrreview.com,geekosystem.com,giantfreakinrobot.com,gizmodo.com.au,globes.co.il,goutsa.com,haydenplanetarium.org,hccs.edu,highlandcapital.com,hollywire.com,hostcabi.net,hotscripts.com,humorhub.org,humourtube.org,imgur.com,ini.tv,inkscape.org,joburg.org.za,justrewards.co.za,kinguin.net,kotaku.com.au,latimes.com,lawyersweekly.com.au,legitreviews.com,lifehacker.com.au,mail.opera.com,makeuseof.com,mayoclinic.com,meteoblue.com,meteovista.co.uk,meteovista.com,mtv.com,musicfeeds.com.au,namecheap.com,nzmusicmonth.co.nz,onlineeducation.net,openculture.com,penny-arcade.com,pixiq.com,play-asia.com,presidenthotel.co.za,producersguild.org,radiovaticana.va,ratemyprofessors.com,ryot.org,sfchamber.com,skift.com,smhlmao.com,stileproject.com,stoppress.co.nz,swapit.co.uk,systemrequirementslab.com,talkingpointsmemo.com,tesco.com,the-diplomat.com,theedge.co.nz,theepochtimes.com,theparisreview.org,thepiratebay.org,theroar.com.au,ucl.ac.uk,vimeopro.com,virginactive.co.uk,virginactive.co.za,washingtonblade.com,waterfoxproject.org,wbs-law.de,webglearth.com,whatpeoplesayonline.com,whimn.com.au,whtop.com,wired.com,xda-developers.com###social
 christianpost.com###social-apps
 animenewsnetwork.com###social-bookmarks
 cafemom.com###social-comment
@@ -36536,6 +36545,7 @@ channelnewsasia.com##.ct-contains
 loop21.com##.ctbtextshr
 explosm.net##.custom-comic-social-button-group
 unlockboot.com##.danka
+wam.ae##.dateAndSocial
 linkis.com##.deeper-overlay
 alternativeto.net##.delicious
 freewoodpost.com##.dgd_stb_box
@@ -37123,6 +37133,7 @@ techpp.com##.user-connect-buttons
 gamesrepublic.com##.user-gp
 gamesrepublic.com##.user-tw
 gamesrepublic.com##.user-yt
+aa.com.tr##.ustBar-sosyal
 vanityfair.com##.utilities-top
 activision.com##.utility
 ndtv.com##.vid_socwid_wrap
@@ -37886,7 +37897,7 @@ tannoy.com##.cv2-wrapper
 dhl.com##.dhl-cgk
 ingwb.com##.dialog
 designmodo.com##.dialogContainer
-countwordsfree.com,earthcp.com,lexus.com.cy,lexus.ie##.disclaimer
+countwordsfree.com,earthcp.com,lexus.com.cy,lexus.ie,news.com.au##.disclaimer
 taste.com.au##.disclaimer-note
 news.com.au##.disclaimer-text
 bbc.com##.domestic-header-wrapper
