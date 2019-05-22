@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 7948
+! Version: 7954
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -413,6 +413,7 @@
 ||bcgcvepi.com^
 ||bckmtidcnrobwh.bid^
 ||bckwfsvdgfjw.com^
+||bclizbwet.com^
 ||bcnhnekodmdniu.com^
 ||bcnikicdi.bid^
 ||bcoavtimgn.bid^
@@ -1426,6 +1427,7 @@
 ||dyjkbkpzxgpjfs.com^
 ||dylsjsmqjbbcs.com^
 ||dymaffzxk.com^
+||dymzcxgdvf.com^
 ||dypmzetaj.com^
 ||dywqwrtnhegyz.com^
 ||dyykxositkqt.bid^
@@ -2689,6 +2691,7 @@
 ||hkwzswzf.com^
 ||hkyskqpsqwjq.bid^
 ||hkyykkerrp.com^
+||hldsogaxfq.com^
 ||hlekbinpgsuk.com^
 ||hlgodnojfffhpc.bid^
 ||hlicmukjz.bid^
@@ -5101,6 +5104,7 @@
 ||nyskocbhfz.com^
 ||nytqlenw.com^
 ||nyvdouydkxmaws.bid^
+||nyvqazwtcwk.com^
 ||nywpxugigwfzb.com^
 ||nywuthdzdacoq.com^
 ||nyzncfurdrdxfi.com^
@@ -6234,6 +6238,7 @@
 ||rcqyocxmmkais.bid^
 ||rcsumbkoyens.bid^
 ||rctanilirwefr.bid^
+||rcudacimrqdlk.com^
 ||rcumwyqkv.com^
 ||rcvhzfcnja.com^
 ||rcwczstm.com^
@@ -7472,6 +7477,7 @@
 ||utiiamqdsku.com^
 ||utvxgpmcnaq.com^
 ||utxatnjs.com^
+||utzhcsrzrlhhxn.com^
 ||uuaajohul.com^
 ||uuzjerqlmxnosw.com^
 ||uvniygdwmoojfm.com^
