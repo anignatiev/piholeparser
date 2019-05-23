@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201905212315
+! Version: 201905222324
 ! Title: EasyPrivacy
-! Last modified: 21 May 2019 23:15 UTC
+! Last modified: 22 May 2019 23:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9189,6 +9189,7 @@ _mongo_stats/
 ||ask.com^*/i.gif?
 ||assoc-amazon.*^e/ir?t=$image
 ||asterpix.com/tagcloudview/
+||async-px.dynamicyield.com^$third-party
 ||atdmt.com/action/
 ||atdmt.com/iaction/
 ||atdmt.com/jaction/
@@ -9743,6 +9744,7 @@ _mongo_stats/
 ||eventtracker.videostrip.com^$third-party
 ||eveonline.com/redir.asp$third-party
 ||evgnet.com/beacon/
+||evidon.com/pub/tag.js
 ||eviesays.com/js/analytics/
 ||evri.com/analytics/
 ||evt.collarity.com^$image
@@ -12928,7 +12930,6 @@ _mongo_stats/
 ||linkedin.com/analytics/
 ||linkedin.com/platform-telemetry/
 ||linkedin.com^*/collect
-||linkedin.com^*/track
 ||linkedin.com^*/tracking
 ||linkpuls.idg.no^
 ||linuxtoday.com/hqxapi/
@@ -13316,6 +13317,7 @@ _mongo_stats/
 ||pixel.archive.
 ||pixel.buzzfeed.com^
 ||pixel.digitalspy.co.uk^
+||pixel.dorehernowi.pro^
 ||pixel.facebook.com^
 ||pixel.honestjohn.co.uk^
 ||pixel.klout.com^
@@ -15530,9 +15532,9 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@/cdn-cgi/pe/bag2?*static.getclicky.com%2Fjs$domain=amazingpics.net
 @@/cdn-cgi/pe/bag2?*yieldbot.intent.js$domain=droid-life.com
 @@/cgi-bin/counter_module?action=list_models$subdocument,~third-party
+@@/wp-content/mu-plugins/google-analytics-dashboard-for-wp/*$script,stylesheet,~third-party
 @@/wp-content/mu-plugins/google-analytics-for-wordpress/*$script,stylesheet,~third-party
 @@/wp-content/mu-plugins/google-analytics-premium/*$script,stylesheet,~third-party
-@@/wp-content/mu-plugins/google-analytics-dashboard-for-wp/*$script,stylesheet,~third-party
 @@/wp-content/plugins/google-analytics-dashboard-for-wp/*$script,stylesheet,~third-party
 @@/wp-content/plugins/google-analytics-for-wordpress/*$script,stylesheet,~third-party
 @@/wp-content/plugins/google-analytics-premium/*$script,stylesheet,~third-party

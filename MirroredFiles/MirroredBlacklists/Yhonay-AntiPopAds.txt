@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 7954
+! Version: 7960
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -762,6 +762,7 @@
 ||cbdjzemui.com^
 ||cbehcazifywmro.bid^
 ||cbhpiuopomc.com^
+||cbiapaofuviswf.com^
 ||cbnrvzfvmd.com^
 ||cbolsxvresvu.bid^
 ||cbrqndeptsw.com^
@@ -1144,6 +1145,7 @@
 ||dcmhpbpdcsy.com^
 ||dcqhbqwlcukxu.com^
 ||dcqyyaprodclf.bid^
+||dcxitlzzmyxbwn.com^
 ||dcybolsar.bid^
 ||dcyeufoq.com^
 ||dcznhkojghrl.com^
@@ -4774,6 +4776,7 @@
 ||naaifqdqsnxtsp.com^
 ||naavxddd.com^
 ||nahixtmnmpcz.com^
+||nahpewniig.com^
 ||nahvyfyfpffm.com^
 ||namjixxurjam.com^
 ||naohofhbprtx.com^
@@ -6818,6 +6821,7 @@
 ||sufzmohljbgw.com^
 ||suhprdfb.bid^
 ||sukgtuksypr.com^
+||sumizxwhfsrke.com^
 ||sumsmoxssy.com^
 ||sumvztfze.com^
 ||suonvyzivnfy.com^
@@ -7835,6 +7839,7 @@
 ||ypummbggdjex.com^
 ||yqmmjmjxdigdak.com^
 ||yrbjfusd.com^
+||yrcpupgqtn.com^
 ||yrkozodemantj.com^
 ||yrpjklwly.com^
 ||yrtyflmurngv.com^
@@ -7960,4 +7965,5 @@
 ||zxpevjccjb.com^
 ||zxqudunt.com^
 ||zxwnolwaump.com^
+||zzomiuob.com^
 ||zzwajufm.com^

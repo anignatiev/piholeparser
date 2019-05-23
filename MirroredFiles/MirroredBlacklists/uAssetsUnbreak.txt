@@ -475,6 +475,8 @@ kinopoisk.ru###image:style(opacity: 1 !important;)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/551
 @@||tvpage.com/tvpa.min.js$script,domain=bleepingcomputer.com
+! https://github.com/NanoMeow/QuickReports/issues/1043#issuecomment-494617793
+bleepingcomputer.com#@#.addthis_toolbox
 
 ! https://twitter.com/AnthonyStirk/status/887737611317628929
 @@||audi.co.uk^$first-party,script
@@ -2384,3 +2386,10 @@ downloadsource.*##.date:not(dt):style(display: block !important;)
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/bqmliz/not_working_on_1movies_anymore/
 @@*$media,domain=1movies.is
+
+! https://github.com/NanoMeow/QuickReports/issues/1262
+@@||gstatic.com/images/branding/*/adsense$image,domain=safebrowsing.google.com
+
+! https://forums.lanik.us/viewtopic.php?f=64&t=43042
+||curalate.com/api/v1/metrics/
+/api/v1/metrics$badfilter
