@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201905250008
+! Version: 201905252352
 ! Title: EasyPrivacy
-! Last modified: 25 May 2019 00:08 UTC
+! Last modified: 25 May 2019 23:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -772,6 +772,8 @@
 /atlas_track.
 /atrk.gif?
 /atrk.js
+/ats/lib/*
+/atslib.
 /audience-extraction.js
 /audience-meter.
 /audience-science.
@@ -5448,6 +5450,7 @@ _mongo_stats/
 ||eproof.com^$third-party
 ||eps-analyzer.de^$third-party
 ||ereportz.com^$third-party
+||escalated.io^$third-party
 ||esearchvision.com^$third-party
 ||esm1.net^$third-party
 ||esomniture.com^$third-party
@@ -5689,7 +5692,6 @@ _mongo_stats/
 ||halstats.com^$third-party
 ||haraju.co^$third-party
 ||haveamint.com^$third-party
-||haymarket.com^$third-party
 ||hdmtools.com^$third-party
 ||heapanalytics.com^$third-party
 ||heatmap.it^$third-party
@@ -6009,6 +6011,7 @@ _mongo_stats/
 ||mailstat.us^$third-party
 ||maploco.com^$third-party
 ||mapmyuser.com^$third-party
+||marfeelcache.com^$third-party
 ||marinsm.com^$third-party
 ||market015.com^$third-party
 ||market2lead.com^$third-party
@@ -6907,6 +6910,7 @@ _mongo_stats/
 ||trackinglabs.com^$third-party
 ||trackingpro.pro^$third-party
 ||trackkas.com^$third-party
+||trackmethod.com^$third-party
 ||trackmytarget.com^$third-party
 ||trackmyusers.com^$third-party
 ||trackmyweb.net^$third-party
@@ -7898,6 +7902,7 @@ _mongo_stats/
 ||broaddoor.com^$third-party
 ||consciouscabbage.com^$third-party
 ||consciouschairs.com^$third-party
+||coordinatedcub.com^$third-party
 ||copycarpenter.com^$third-party
 ||delegatediscussion.com^$third-party
 ||detectdiscovery.com^$third-party
@@ -7922,6 +7927,7 @@ _mongo_stats/
 ||quaintcan.com^$third-party
 ||ritzykey.com^$third-party
 ||scintillatingspace.com^$third-party
+||scrubswim.com^$third-party
 ||selectivesummer.com^$third-party
 ||separatesilver.com^$third-party
 ||shallowschool.com^$third-party
@@ -9172,6 +9178,7 @@ _mongo_stats/
 ||api.wipmania.com^
 ||app.cdn-cs.com/__t.png?
 ||app.insightgrit.com^
+||app.link^$third-party
 ||app.pendo.io/data/ptm.gif
 ||app.yesware.com/t/$third-party
 ||appdynamics.com/geo/$third-party
@@ -9409,6 +9416,7 @@ _mongo_stats/
 ||cloudfront.net/trackb.html
 ||cloudfront.net/websites/sb.js
 ||cloudfront.net/zephyr.js
+||cloudfront.net^$script,domain=phonearena.com
 ||cloudfunctions.net/ingest?
 ||cm.g.doubleclick.net^
 ||cmmeglobal.com/evt?
@@ -13898,6 +13906,7 @@ _mongo_stats/
 ||ted1.metro.co.uk^
 ||telegraph.co.uk^*/tmglmultitrackselector.js
 ||telemetry.tradingview.com^
+||tempo.inc.com^
 ||tesco.com/cgi-bin3/buyrate?type=
 ||tfl.gov.uk/tfl-global/scripts/stats-config.js
 ||tfl.gov.uk/tfl-global/scripts/stats.js
@@ -15557,10 +15566,10 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||adblockanalytics.com/ads.js|
 @@||addgene.org/headers/blat/js/analyze.js
 @@||adidas.com^*/adidasAnalytics.js?
-@@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|lenovo.com|newyorker.com|oprah.com|pnc.com|vanityfair.com|wired.com
+@@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|fcbarcelona.com|lenovo.com|newyorker.com|oprah.com|pnc.com|vanityfair.com|wired.com
 @@||adobedtm.com^*/s-code-$script
 @@||adobedtm.com^*/satellite-$script
-@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|argos.co.uk|collegeboard.org|crackle.com|crimewatchdaily.com|directline.com|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp||jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|mastercard.us|mathworks.com|monoprice.com|nbcnews.com|newyorker.com|oprah.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|smooth.com.au|sonycrackle.com|stuff.co.nz|subaru.com|timewarnercable.com|trip-planner.australia.com|vanityfair.com|wired.com
+@@||adobedtm.com^*/satelliteLib-$script,domain=|absa.co.za|argos.co.uk|collegeboard.org|crackle.com|crimewatchdaily.com|directline.com|fcbarcelona.com|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|mastercard.us|mathworks.com|monoprice.com|nbcnews.com|newyorker.com|oprah.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|smooth.com.au|sonycrackle.com|stuff.co.nz|subaru.com|timewarnercable.com|trip-planner.australia.com|vanityfair.com|wired.com
 @@||adobetag.com/d2/$script,domain=thestar.com
 @@||adobetag.com^*/amc.js$script
 @@||adobetag.com^*/sitecatalyst.js$domain=hbf.com.au|seattlepi.com|tv.com
@@ -16490,7 +16499,8 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||abtasty.com/datacollectHeatmap.php$xmlhttprequest,domain=cdiscount.com
 @@||actiris.be/urchin.js
 @@||actiris.be^*/urchin.js
-@@||adobedtm.com^*/satelliteLib-$script,domain=icimusique.ca|laredoute.be|laredoute.ch|laredoute.fr|lci.fr|nrj.fr|tou.tv
+@@||adobedtm.com^*/mbox-contents-$script,domain=fcbarcelona.fr
+@@||adobedtm.com^*/satelliteLib-$script,domain=fcbarcelona.fr|icimusique.ca|laredoute.be|laredoute.ch|laredoute.fr|lci.fr|nrj.fr|tou.tv
 @@||adyoulike.omnitagjs.com^$script,domain=dl.free.fr
 @@||analytics.belgacom.be/tms/loader.js$domain=proximus.be
 @@||analytics.ladmedia.fr/parismatch/xtcore_mod2.js$domain=parismatch.com
@@ -16534,6 +16544,8 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||google-analytics.com/analytics.js$domain=novatv.bg
 ! Chinese
 @@||360buyimg.com^*/components/default/$script,domain=jd.com
+@@||adobedtm.com^*/mbox-contents-$script,domain=fcbarcelona.cn
+@@||adobedtm.com^*/satelliteLib-$script,domain=fcbarcelona.cn
 @@||aixifan.com^*/sensorsdata.min.js?$domain=acfun.cn
 @@||amazonaws.com^*-google-analytics.js$domain=dcard.tw
 @@||aolcdn.com/js/mg2.js$domain=engadget.com
@@ -16656,7 +16668,8 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ! Indonesian
 @@||detik.com/urchin.js
 ! Japanese
-@@||adobedtm.com^*/satelliteLib-$script,domain=radiko.jp
+@@||adobedtm.com^*/mbox-contents-$script,domain=fcbarcelona.jp
+@@||adobedtm.com^*/satelliteLib-$script,domain=fcbarcelona.jp|radiko.jp
 @@||analytics.edgekey.net/html5/akamaihtml5-min.js$domain=nhk.or.jp
 @@||chancro.jp/assets/lib/googleanalytics-$script
 ! Korean
@@ -16733,7 +16746,8 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||yandex.ru/webvisor/$xmlhttprequest,domain=anoncer.net
 ! Spanish
 @@||acb.com/javascripts/jv_feeder_stats.js
-@@||adobedtm.com^*/satelliteLib-$script,domain=crackle.com.ar|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|laredoute.es
+@@||adobedtm.com^*/mbox-contents-$script,domain=fcbarcelona.cat|fcbarcelona.es
+@@||adobedtm.com^*/satelliteLib-$script,domain=crackle.com.ar|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|fcbarcelona.cat|fcbarcelona.es|laredoute.es
 @@||ara.cat/static/BB3Core/images/pixel.gif?hash=$image,domain=ara.cat
 @@||c5n.com^*/angulartics-google-analytics.min.js
 @@||cloudfront.net/libs/amplitude-$script,domain=elconfidencial.com

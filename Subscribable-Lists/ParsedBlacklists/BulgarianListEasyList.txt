@@ -2240,6 +2240,7 @@ telemetry.jivosite.com
 telemetry.reembed.com
 telemetry.soundcloud.com
 telemetry.tradingview.com
+tempo.inc.com
 tf.360.cn
 thersprens.com
 thetradedesk-tags.s3.amazonaws.com

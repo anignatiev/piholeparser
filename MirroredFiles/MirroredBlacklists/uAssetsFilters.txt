@@ -1359,6 +1359,7 @@ gelbooru.com##+js(abort-current-inline-script.js, ExoDetector)
 gelbooru.com##+js(popads-dummy.js)
 gelbooru.com##a[href^="https://gelbooru.com/redirect.php"]
 gelbooru.com##[href*="18."]
+gelbooru.com##[href^="https://a.adtng.com/"]
 gelbooru.com##:xpath(//*[contains(text(),"disable")])
 gelbooru.com##a[href*="/track/"][target="_blank"]
 gelbooru.com##+js(abort-on-property-read.js, adtoniq)
@@ -1628,7 +1629,8 @@ wstream.video##div[onclick^="window.open"]
 ! https://github.com/NanoAdblocker/NanoFilters/issues/100
 ! https://github.com/uBlockOrigin/uAssets/issues/2509
 ! https://github.com/NanoMeow/QuickReports/issues/253
-billingsgazette.com,bismarcktribune.com,jg-tc.com,rapidcityjournal.com,stltoday.com,thesouthern.com,trib.com,tucson.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
+billingsgazette.com,bismarcktribune.com,jg-tc.com,rapidcityjournal.com,stltoday.com,thesouthern.com,trib.com,tucson.com##+js(abort-current-inline-script.js, Array, googlefcPresent)
+||fundingchoicesmessages.google.com^$domain=billingsgazette.com|bismarcktribune.com|jg-tc.com|rapidcityjournal.com|stltoday.com|thesouthern.com|trib.com|tucson.com
 accuweather.com,androidpolice.com,beliefnet.com,businessinsider.com,champions.co,comicbook.com,eurogamer.net,givemesport.com,grubstreet.com,hotair.com,lacrossetribune.com,leaderpost.com,madison.com,magicvalley.com,missoulian.com,moviepilot.com,napavalleyregister.com,nationalpost.com,notalwaysright.com,nowloading.co,ottawacitizen.com,pantagraph.com,parkers.co.uk,patheos.com,popculture.com,poststar.com,rawstory.com,thestarphoenix.com,thestudentroom.co.uk,townhall.com,trendblog.net,tvtropes.org,twitchy.com,vancouversun.com,watoday.com.au,windsorstar.com##+js(abort-on-property-read.js, stop)
 ||0mme.com^$script,domain=comicbook.com|popculture.com
 ||1emn.com^$script,domain=hotair.com|lacrossetribune.com|leaderpost.com|moviepilot.com|nationalpost.com|notalwaysright.com
@@ -7339,6 +7341,7 @@ asr-games.net##+js(abort-current-inline-script.js, document.getElementById, unde
 ||damoh.cinema.de/*$media,redirect=noopmp3-0.1s,domain=cinema.de
 ||damoh.gmx.net/*$media,redirect=noopmp3-0.1s,domain=gmx.net
 ||damoh.golem.de/*$media,redirect=noopmp3-0.1s,domain=golem.de
+||damoh.kochbar.de/*$media,redirect=noopmp3-0.1s,domain=kochbar.de
 ||damoh.n-tv.de/*$media,redirect=noopmp3-0.1s,domain=n-tv.de
 ||damoh.rtl.de/*$media,redirect=noopmp3-0.1s,domain=rtl.de
 ||damoh.tvnow.de/*$media,redirect=noopmp3-0.1s,domain=tvnow.de
@@ -17311,7 +17314,8 @@ vetolink.com##+js(abort-on-property-read.js, open)
 
 ! https://github.com/NanoMeow/QuickReports/issues/692
 ! https://github.com/uBlockOrigin/uAssets/issues/5320
-digitaltrends.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
+digitaltrends.com##+js(abort-current-inline-script.js, Array, googlefcPresent)
+||fundingchoicesmessages.google.com^$domain=digitaltrends.com
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4943
 megafile.io##+js(setInterval-defuser.js, (), 5000)
@@ -17678,7 +17682,8 @@ sdmy168.com,901209.com##+js(set-constant.js, judge, noopFunc)
 ||lessonis.com^
 
 ! https://github.com/NanoMeow/QuickReports/issues/738
-themanual.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
+themanual.com##+js(abort-current-inline-script.js, Array, googlefcPresent)
+||fundingchoicesmessages.google.com^$domain=themanual.com
 themanual.com##.dtads-slot
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/awe7hp/tamilmovierockersorg_doesnt_work_with_ublock_pls/
@@ -20343,7 +20348,8 @@ freeupload.info,fstore.biz,uploadfree.info##+js(remove-attr.js, disabled)
 freeupload.info,fstore.biz,uploadfree.info###waiting
 
 ! https://github.com/NanoMeow/QuickReports/issues/1227
-beatricedailysun.com##+js(abort-current-inline-script.js, Uint8Array, googlefcPresent)
+beatricedailysun.com##+js(abort-current-inline-script.js, Array, googlefcPresent)
+||fundingchoicesmessages.google.com^$domain=beatricedailysun.com
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5605
 @@||piktag.net^$generichide
@@ -20608,3 +20614,19 @@ uploadever.com##+js(setTimeout-defuser.js, '0x)
 ! https://github.com/uBlockOrigin/uAssets/issues/5665
 @@||hevchub.com^$generichide
 hevchub.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+
+! https://github.com/NanoMeow/QuickReports/issues/1278
+@@||ferrovie.info/modules/*/js/advertisement.js$script,1p
+
+! https://github.com/NanoMeow/QuickReports/issues/1280
+@@||woxikon.de^$generichide
+woxikon.de##.ads-wrapper
+
+! https://github.com/uBlockOrigin/uAssets/issues/5666
+senpa.io##+js(bab-defuser.js)
+senpa.io###ad-slot-left-panel
+senpa.io###ad-slot-center-panel
+
+! https://github.com/uBlockOrigin/uAssets/issues/5667
+@@||getfreecourses.me^$generichide
+getfreecourses.me##.adsbygoogle

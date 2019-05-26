@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 7963
+! Version: 7971
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -463,6 +463,7 @@
 ||bfdihioj.com^
 ||bfhlxjwc.com^
 ||bfidvcsuazwy.com^
+||bfkpzjqpawfu.com^
 ||bflcuvtyffao.bid^
 ||bfmrffluuazwn.com^
 ||bfpzhrzcvs.bid^
@@ -687,6 +688,7 @@
 ||bvezznurwekr.com^
 ||bvhzswlde.bid^
 ||bvnekcpa.bid^
+||bvnmmdelarn.com^
 ||bvqfuryhas.bid^
 ||bvreosoejjt.bid^
 ||bvrkzhtxlgono.com^
@@ -1394,6 +1396,7 @@
 ||dvhznawcuacblo.com^
 ||dviavwhykcdp.com^
 ||dvlhwokr.bid^
+||dvokgydenwaksi.com^
 ||dvpgijdm.com^
 ||dvprcchlzke.bid^
 ||dvsrlrnpyxwv.com^
@@ -4611,6 +4614,7 @@
 ||mnvgyfpoir.bid^
 ||mnvjibhehv.com^
 ||mnyavixcddgx.com^
+||mnyawkpabrsv.com^
 ||moadlbgojatn.com^
 ||modkehkcihvzi.bid^
 ||mofrupteeuqnvc.bid^
@@ -5239,6 +5243,7 @@
 ||oicbwkyjsyxjgj.bid^
 ||oickwqmwerbnq.bid^
 ||oieeezzld.com^
+||oiehcvpxfbnur.com^
 ||oiffrtkdgoef.com^
 ||oiftdobow.bid^
 ||oijjptnwrg.com^
@@ -7562,6 +7567,7 @@
 ||vntcxqxuqki.com^
 ||voaalhaobdl.com^
 ||vodbordnhhemq.com^
+||voqdswwgrheo.com^
 ||voxnrvzwy.com^
 ||vplvywqxsm.com^
 ||vpndcpxavg.com^
@@ -7661,6 +7667,7 @@
 ||wqypgiakfbxb.com^
 ||wrrytjtsyhrnfg.com^
 ||wrwwvymy.com^
+||wrxivlclw.com^
 ||wssejwluqthda.com^
 ||wstvcgfkvc.com^
 ||wsucuzkmnd.com^
@@ -7819,6 +7826,7 @@
 ||yllfdnftjo.com^
 ||ylnmzwwc.com^
 ||yloidlvfhpkq.com^
+||ylqbiljjlyq.com^
 ||ymhqeelitngcr.com^
 ||ympkaxpaf.com^
 ||ymzrrizntbhde.com^
