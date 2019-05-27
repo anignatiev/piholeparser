@@ -112,6 +112,7 @@ acp.1rx.io
 ad-stinger.prod.bidr.io
 ad-us-east-1.pxlad.io
 ad.1rx.io
+ad.abema.io
 ad.bitmedia.io
 ad.kissanime.io
 ad.kisscartoon.io
@@ -156,6 +157,7 @@ amlt.coinfirm.io
 analytics.cloudron.io
 analytics.luckypool.io
 analytics.soup.io
+analytics.suggestv.io
 analytics.uax.io
 analytics.urx.io
 analytics.webgains.io

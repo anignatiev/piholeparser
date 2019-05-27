@@ -1,8 +1,11 @@
 4chan-ads.org
+abema-adx.ameba.jp
 access.news.mynavi.jp
+ad.abema.io
 adc.shinobi.jp
 adcdn.goo.ne.jp
 adm.shinobi.jp
+adqy6rzwcs.com
 adserver-apne.tidaltv.com
 aff.jskyservices.com
 aimg.fc2.com
@@ -42,12 +45,15 @@ deqwas.net
 dw-eu.com.com
 dynamic.rakuten.co.jp
 fd7qz88ckd.com
+fembed.com
+find-my-great-life.com
 geo.yahoo.com
 gsspcln.jp
 gum.xbooks.to
 himajinlp.net
 imgj.xrea.com
 itoman.doorblog.jp
+klaudicustors.info
 l.sharethis.com
 latexbizarramb.info
 lcs.naver.jp
@@ -56,6 +62,7 @@ log000.goo.ne.jp
 match.seesaa.jp
 media.fc2.com
 multiquicks.net
+mygoodlives.com
 n1198adserv.xyz
 nw2.babyblue.jp
 omt.shinobi.jp
@@ -63,7 +70,6 @@ ov.yahoo.co.jp
 pagead2.googlesyndication.com
 pixel.wp.com
 pop-ad.link
-pussl48.com
 pvcnt.okwave.jp
 pzd.rakuten.co.jp
 rd.rakuten.co.jp
@@ -81,6 +87,7 @@ t.blog.livedoor.jp
 tracer.jp
 vis1.shinobi.jp
 visit.geocities.jp
+wranjeon.xyz
 xml.affiliate.rakuten.co.jp
 yads.yahoo.co.jp
 ybx.yahoo.co.jp

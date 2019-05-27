@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pNmhXYtCM+W/71SqjOkmMw
-! Version: 201905260011
+! Checksum: Ob9ViNg4y5itX8tatssj9A
+! Version: 201905270011
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 May 2019 00:11 UTC
+! Last modified: 27 May 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7463,6 +7463,7 @@ _site_cookie_
 ##.mod-totop
 ##.move-top
 ##.ms-scroll-to-top-button
+##.mvp-to-top
 ##.mypresta_scrollup
 ##.nav--back-to-top
 ##.o-backtop
@@ -31434,6 +31435,7 @@ _site_cookie_
 ||l.yimg.com/zz/combo?pv*/promo-banner_$script
 ||l.yimg.com^*/img/badge-
 ||lightboxcdn.com/vendor/*/lightbox.js?$script,third-party
+||lightboxcdn.com/vendor/*/lightbox_inline.js$script,third-party
 ||mediafire.com/images/backgrounds/download/*promo
 ||mg.co.za^*/iabsa_
 ||moneytalksnews.com/wp-content/themes/mtn/assets/js/mtn-modal.$script
@@ -32024,6 +32026,7 @@ ndtv.com###collapseSocial
 askkissy.com,cagle.com,cheatsheet.com,clove.co.uk,designm.ag,desmogblog.com,eclectablog.com,extremetech.com,fantasypros.com,globalvoicesonline.org,grantland.com,guide4bankexams.blogspot.co.nz,guide4bankexams.blogspot.com,gurufocus.com,heavy.com,ibtimes.com,jerusalemonline.com,lostateminor.com,lushome.com,medicaldaily.com,nationalmemo.com,ndtv.com,newsweek.com,numberfire.com,originalpenguin.co.uk,pcmag.com,politicususa.com,psychologies.co.uk,radaronline.com,rasmussenreports.com,sdtimes.com,shareable.net,techglobex.blogspot.in,the-hobbitmovie.com,thevideoink.com,thewrap.com,thisislocallondon.co.uk,vinepair.com,visual.ly,xboxgamercard.org###colorbox
 inhabitat.com###column3-follow-inhabitat
 about.com###com
+megabonus.com###comeback-modal
 dailymail.co.uk###comment-notification-container
 heraldscotland.com###comment_box
 videobash.com###companion
@@ -34079,6 +34082,7 @@ bournemouthecho.co.uk,jobomas.com,patient.info,tuaw.com,voyages-sncf.com##.modal
 allkpop.com,aplus.com,bournemouthecho.co.uk,decalgirl.com,eurocheapo.com,jobomas.com,kevinmd.com,pbsamerica.co.uk,police.uk,upworthy.com,younow.com##.modal-backdrop
 popdust.com##.modal-close
 narrative.ly,timesofindia.indiatimes.com##.modal-content
+megabonus.com##.modal-dialog
 popdust.com##.modal-image
 popdust.com##.modal-lightsout
 narrative.ly,timesofisrael.com##.modal-overlay
@@ -35271,6 +35275,7 @@ naturalnews.com##.Subscription-Article-Box
 cnbc.com##.WildcardEmbed-wrapper
 languagetool.org##.ZebraDialog
 languagetool.org##.ZebraDialogOverlay
+bmmagazine.co.uk##._dark._inline-form
 sportspromedia.com##._floating-box
 commentarymagazine.com##._form_5
 collective-evolution.com##._form_7
@@ -37428,7 +37433,7 @@ kotaku.com.au##.contact-module__btns
 infowars.com##.cresta-share-icon
 watchparksandrecreation.net##.dt_social_single
 clashdaily.com##.essb_links
-computerera.co.in##.essb_links_list
+computerera.co.in,dailysurge.com##.essb_links_list
 minecrafthousedesign.com##.et_social_inline
 jiwangmovie.com##.et_social_sidebar_networks
 pcmag.com##.fa-facebook
@@ -37476,7 +37481,6 @@ ijr.com##.opt360-share-buttons-sidebar
 menshealth.com,runnersworld.com##.pinit-btn-container
 dailymail.co.uk##.pinterest
 calgaryherald.com,edmontonjournal.com,montrealgazette.com,ottawacitizen.com,thestarphoenix.com,windsorstar.com##.pn_socialmedia_widget
-bmmagazine.co.uk##.post-share
 collectivelyconscious.net##.post-single-footer
 stern.de##.prettysocial
 wikia.com##.quick-links__social
@@ -37531,10 +37535,11 @@ informer.com##.social-buttons
 stereogum.com##.social-container
 huffingtonpost.co.uk,huffingtonpost.com##.social-dock
 forbes.com##.social-facebook
+dailysurge.com##.social-footer-block
 bento.de##.social-header
 spin.com,stereogum.com##.social-holder
 benchmarkhardware.com,forbes.com##.social-icon
-bento.de,bmmagazine.co.uk,financialpost.com,kitguru.net,sidereel.com,spin.com,vibe.com##.social-icons
+bento.de,financialpost.com,kitguru.net,sidereel.com,spin.com,vibe.com##.social-icons
 theatlantic.com##.social-kit__item
 merriam-webster.com##.social-link
 jazzfm.com,spin.com,vibe.com,vilaglato.info##.social-links

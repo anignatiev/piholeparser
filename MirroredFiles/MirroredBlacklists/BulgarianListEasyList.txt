@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201905252352
+! Version: 201905262341
 ! Title: EasyPrivacy
-! Last modified: 25 May 2019 23:52 UTC
+! Last modified: 26 May 2019 23:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7917,6 +7917,7 @@ _mongo_stats/
 ||hammerhearing.com^$third-party
 ||hilariouszinc.com^$third-party
 ||importedincrease.com^$third-party
+||jadeitite.com^$third-party
 ||jewelcheese.com^$third-party
 ||lizardslaugh.com^$third-party
 ||mowfruit.com^$third-party
@@ -7937,6 +7938,7 @@ _mongo_stats/
 ||spiffymachine.com^$third-party
 ||spottysense.com^$third-party
 ||spurioussteam.com^$third-party
+||steepsquirrel.com^$third-party
 ||storesurprise.com^$third-party
 ||strivesidewalk.com^$third-party
 ||suddensidewalk.com^$third-party
@@ -9143,6 +9145,7 @@ _mongo_stats/
 ||analytics.staticiv.com^
 ||analytics.stg.springboardvideo.com^
 ||analytics.strangeloopnetworks.com^
+||analytics.suggestv.io^
 ||analytics.supplyframe.com^
 ||analytics.themarketiq.com^
 ||analytics.tout.com^
@@ -15666,6 +15669,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||bootcamp.mit.edu/js/angulartics-google-analytics.min.js
 @@||borderfree.com/assets/utils/google-analytics.js$~third-party
 @@||bountysource.com/badge/tracker?
+@@||boxberry.ru/local/templates/site-boxberry/js/tracking_service.js$xmlhttprequest
 @@||boxtops4education.com^*/ntpagetag.js
 @@||britishairways.com/cms/global/scripts/applications/tracking/visualsciences.js
 @@||browserscope.org/user/beacon/*?callback=$script,domain=jsperf.com
