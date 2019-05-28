@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201905262341
+! Version: 201905272351
 ! Title: EasyPrivacy
-! Last modified: 26 May 2019 23:41 UTC
+! Last modified: 27 May 2019 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1006,6 +1006,7 @@
 /cgi-bin/count1.cgi?
 /cgi-bin/CP/*
 /cgi-bin/ctasp-server.cgi?
+/cgi-bin/ctn?
 /cgi-bin/hits/*
 /cgi-bin/ivw-ssl/*
 /cgi-bin/ivw/*
@@ -3669,6 +3670,8 @@
 /track_click?
 /track_clicks_
 /track_event.
+/track_general_stat.
+/track_google.
 /track_in_overwatch.gif?
 /track_js/?
 /track_metric/*
@@ -4161,6 +4164,7 @@
 /web_cm_event?
 /Web_JS.gif?
 /web_page_view?
+/web_tracking_
 /web_traffic_capture.js
 /webabacus-$script
 /WebAnalytics.
@@ -12587,6 +12591,7 @@ _mongo_stats/
 ||flyjazz.ca/ow_ga.js
 ||fncstatic.com/static/all/js/geo.js
 ||fnlondon.com/fn_rac/
+||fns.modanisa.com^*/analytics.js
 ||foodcouture.net/public_html/ra/script.php$script
 ||foodnavigator.com/tracker/
 ||fool.com/tracking/
@@ -13502,6 +13507,7 @@ _mongo_stats/
 ||rumble.com/l/$image
 ||runnersworld.com^*/universalpixel.html
 ||russellgrant.com/hostedsearch/panelcounter.aspx
+||rv.modanisa.com^
 ||s-msn.com/br/gbl/js/2/report.js
 ||s-msn.com/primedns.gif?$domain=msn.com
 ||s-msn.com/s/js/loader/activity/trackloader.min.js
@@ -13754,6 +13760,7 @@ _mongo_stats/
 ||ssc.api.bbc.com^
 ||ssl-stats.wordpress.com^
 ||st.arte.tv^
+||stan.xing.com^
 ||startpage.*/avtc?
 ||startpage.*/do/avt?$image
 ||startpage.*/do/smt?
@@ -14293,6 +14300,7 @@ _mongo_stats/
 ||xhamster.com/ajax.php?act=track_event
 ||xhamster.com/embed.log/
 ||xhcdn.com/js/track.
+||xing.com/app_stats/
 ||xing.com/collect/
 ||xing.com/logjam/
 ||xozilla.com/js/analytics.js
@@ -14682,6 +14690,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||kicker.de^*/videocount?
 ||koins.de/screen.js
 ||krissi-ist-weg.de/ce_vcounter/
+||kununu.com^*/log?
 ||laut.de^*/analyse.gif?
 ||log.suchen.de^
 ||log.sz-online.de^
@@ -14869,6 +14878,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||elr.sfr.fr^
 ||eultech.fnac.com^
 ||flake.formr.io/sp.js
+||franceculture.fr/static/js/xtcore-
 ||futura-sciences.com^*/xtcore.js
 ||g.itespresso.fr^
 ||grazia.fr/ea.js
