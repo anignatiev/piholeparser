@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 7971
+! Version: 7976
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -937,6 +937,7 @@
 ||cnuxnqgjkjqmky.bid^
 ||cnyblliqyhcs.bid^
 ||cnygzgurqpwop.bid^
+||coaincltxhw.com^
 ||cofybuwuc.com^
 ||cogxsnvqesph.com^
 ||cohhcaahxxcf.com^
@@ -2716,6 +2717,7 @@
 ||hmjtutipevtmg.com^
 ||hmkrfmtra.bid^
 ||hmlghvujrve.com^
+||hmmmcjgho.com^
 ||hmqzghfpl.bid^
 ||hmwsaxnhc.com^
 ||hmwxaldhioby.bid^
@@ -4707,6 +4709,7 @@
 ||mtyqtczr.bid^
 ||mtysahmkqqdo.com^
 ||muasoctv.com^
+||muhexvakuawzo.com^
 ||mukxblrkoaaa.com^
 ||munqaasewcla.bid^
 ||muoiuxfj.com^
@@ -6611,6 +6614,7 @@
 ||scofnjymyym.bid^
 ||scrltyokacghvd.bid^
 ||scsklzqwme.com^
+||scvdxxgbvoz.com^
 ||scvonjdwad.bid^
 ||scxxbyqjslyp.com^
 ||sczcxmaizy.com^
@@ -7933,6 +7937,7 @@
 ||znmdscnynybx.com^
 ||znnabrxnotlm.com^
 ||znztvqgtaivf.com^
+||zobsibzczd.com^
 ||zomsfhgj.com^
 ||zotjktpk.com^
 ||zpaimilpqx.com^
