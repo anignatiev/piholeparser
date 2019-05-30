@@ -2386,7 +2386,7 @@ downloadsource.*##.date:not(dt):style(display: block !important;)
 /api/v1/metrics$badfilter
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5662
-@@||nbcnewyork.com/includes/AppMeasurement.js$script,1p
+@@||nbc*.com/includes/AppMeasurement.js$script,1p
 
 ! https://forums.lanik.us/viewtopic.php?f=103&t=43064
 @@||adobedtm.com/*/satelliteLib$script,domain=fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp
@@ -2408,3 +2408,12 @@ downloadsource.*##.date:not(dt):style(display: block !important;)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5688
 ||amazonaws.com^*/funders-$domain=globalvoices.org,badfilter
+
+! https://github.com/NanoMeow/QuickReports/issues/1297
+@@||tm.jsuol.com.br/uoltm.js$script,domain=macmagazine.uol.com.br
+
+! https://github.com/NanoMeow/QuickReports/issues/1296#issuecomment-496773275
+calgaryherald.com#@#.local-branding
+
+! https://forums.lanik.us/viewtopic.php?f=64&t=43078
+@@||deutschlandfunkkultur.de/*script/smarttag.js$script,1p

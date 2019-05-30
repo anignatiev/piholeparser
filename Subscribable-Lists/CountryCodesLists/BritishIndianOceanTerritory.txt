@@ -1624,6 +1624,7 @@ www.geteth.io
 www.ghash.io
 www.ghostboard.io
 www.gmc.epool.io
+www.goodblock.gladly.io
 www.gotime.backtrace.io
 www.graphly.io
 www.hashcoin.io
@@ -1659,6 +1660,7 @@ www.pool.sfo.coinbucks.io
 www.presage.io
 www.proxy.mining-pool.io
 www.rainpool.io
+www.redshell.io
 www.refresh-js.bitbucket.io
 www.rocks.io
 www.rpc.scrypt1.coinking.io
@@ -1670,6 +1672,7 @@ www.solo.mining-pool.io
 www.sparechange.io
 www.sql.coinking.io
 www.stratum1.coinking.io
+www.superlogout.github.io
 www.tabmo.io
 www.testnet.epool.io
 www.teststats.epool.io

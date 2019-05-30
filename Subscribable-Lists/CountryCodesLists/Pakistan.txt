@@ -93,5 +93,7 @@ uniservi.org.pk
 update-cgi-bin.ezee.net.pk
 usaa.logon.cec.com.pk
 wfc.com.pk
+www.bacr.com.pk
+www.pakistanelevators.pk
 yaza.com.pk
 zoomtechnology.com.pk
