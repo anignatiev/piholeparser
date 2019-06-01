@@ -151,12 +151,14 @@ hentaifr.net,jeu.info,tuxboard.com,xstory-fr.com##+js(goyavelab-defuser.js)
 ! AdDefend
 !#if env_chromium
 haus-garten-test.de,sozialversicherung-kompetent.de##+js(set-constant.js, Object.keys, trueFunc)
-giga.de,kicker.de,kino.de,meinestadt.de,spieletipps.de##+js(set-constant.js, String.fromCharCode, noopFunc)
-airliners.de,auszeit.bio,autorevue.at,bafoeg-aktuell.de,berliner-kurier.de,berliner-zeitung.de,bikerszene.de,boersennews.de,bonedo.de,clever-tanken.de,deine-tierwelt.de,desired.de,dhd24.com,digitalfernsehen.de,donnerwetter.de,e-hausaufgaben.de,express.de,fanfiktion.de,finya.de,formel1.de,frag-mutti.de,freenet.de,fremdwort.de,frustfrei-lernen.de,fussballdaten.de,gameswelt.*,gartendialog.de,gartenlexikon.de,gewinnspiele.tv,gut-erklaert.de,haus-garten-test.de,hifi-forum.de,iban-rechner.de,immobilienscout24.de,inside-handy.de,juraforum.de,kindergeld.org,kino.de,ksta.de,liga3-online.de,lz.de,meinestadt.de,messen.de,moviejones.de,mt.de,musiker-board.de,mz-web.de,naumburger-tageblatt.de,news.de,newsbreak24.de,nickles.de,nw.de,oeffentlicher-dienst.info,onlinemarketing.de,prad.de,psychic.de,quoka.de,rheinische-anzeigenblaetter.de,rimondo.com,rundschau-online.de,spielen.de,spieletipps.de,spielfilm.de,tichyseinblick.de,torgranate.de,transfermarkt.*,truckscout24.*,tvinfo.de,unicum.de,unsere-helden.com,webfail.com,weltfussball.at,weristdeinfreund.de,weser-kurier.de,wetter.com##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, ||)
-airliners.de,auszeit.bio,autorevue.at,bafoeg-aktuell.de,berliner-kurier.de,berliner-zeitung.de,bikerszene.de,boersennews.de,bonedo.de,clever-tanken.de,deine-tierwelt.de,desired.de,dhd24.com,digitalfernsehen.de,donnerwetter.de,e-hausaufgaben.de,express.de,fanfiktion.de,finya.de,formel1.de,frag-mutti.de,freenet.de,fremdwort.de,frustfrei-lernen.de,fussballdaten.de,gameswelt.*,gartendialog.de,gartenlexikon.de,gewinnspiele.tv,gut-erklaert.de,haus-garten-test.de,hifi-forum.de,iban-rechner.de,immobilienscout24.de,inside-handy.de,juraforum.de,kindergeld.org,kino.de,ksta.de,liga3-online.de,lz.de,meinestadt.de,messen.de,moviejones.de,mt.de,musiker-board.de,mz-web.de,naumburger-tageblatt.de,news.de,newsbreak24.de,nickles.de,nw.de,oeffentlicher-dienst.info,onlinemarketing.de,prad.de,psychic.de,quoka.de,rheinische-anzeigenblaetter.de,rimondo.com,rundschau-online.de,spielen.de,spieletipps.de,spielfilm.de,tichyseinblick.de,torgranate.de,transfermarkt.*,truckscout24.*,tvinfo.de,unicum.de,unsere-helden.com,webfail.com,weltfussball.at,weristdeinfreund.de,weser-kurier.de,wetter.com##+js(setTimeout-defuser.js, ())return)
+airliners.de,auszeit.bio,autorevue.at,bafoeg-aktuell.de,berliner-kurier.de,berliner-zeitung.de,bikerszene.de,boersennews.de,bonedo.de,clever-tanken.de,deine-tierwelt.de,desired.de,dhd24.com,digitalfernsehen.de,donnerwetter.de,e-hausaufgaben.de,express.de,fanfiktion.de,finya.de,formel1.de,frag-mutti.de,freenet.de,fremdwort.de,frustfrei-lernen.de,fussballdaten.de,gameswelt.*,gartendialog.de,gartenlexikon.de,gewinnspiele.tv,gut-erklaert.de,haus-garten-test.de,hifi-forum.de,iban-rechner.de,immobilienscout24.de,inside-handy.de,juraforum.de,kindergeld.org,ksta.de,liga3-online.de,lz.de,messen.de,moviejones.de,mt.de,musiker-board.de,mz-web.de,naumburger-tageblatt.de,news.de,newsbreak24.de,nickles.de,nw.de,oeffentlicher-dienst.info,onlinemarketing.de,prad.de,psychic.de,quoka.de,rheinische-anzeigenblaetter.de,rimondo.com,rundschau-online.de,spielen.de,spielfilm.de,tichyseinblick.de,torgranate.de,transfermarkt.*,truckscout24.*,tvinfo.de,unicum.de,unsere-helden.com,webfail.com,weltfussball.at,weristdeinfreund.de,weser-kurier.de,wetter.com##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, ||)
+airliners.de,auszeit.bio,autorevue.at,bafoeg-aktuell.de,berliner-kurier.de,berliner-zeitung.de,bikerszene.de,boersennews.de,bonedo.de,clever-tanken.de,deine-tierwelt.de,desired.de,dhd24.com,digitalfernsehen.de,donnerwetter.de,e-hausaufgaben.de,express.de,fanfiktion.de,finya.de,formel1.de,frag-mutti.de,freenet.de,fremdwort.de,frustfrei-lernen.de,fussballdaten.de,gameswelt.*,gartendialog.de,gartenlexikon.de,gewinnspiele.tv,gut-erklaert.de,haus-garten-test.de,hifi-forum.de,iban-rechner.de,immobilienscout24.de,inside-handy.de,juraforum.de,kindergeld.org,ksta.de,liga3-online.de,lz.de,,messen.de,moviejones.de,mt.de,musiker-board.de,mz-web.de,naumburger-tageblatt.de,news.de,newsbreak24.de,nickles.de,nw.de,oeffentlicher-dienst.info,onlinemarketing.de,prad.de,psychic.de,quoka.de,rheinische-anzeigenblaetter.de,rimondo.com,rundschau-online.de,spielen.de,spielfilm.de,tichyseinblick.de,torgranate.de,transfermarkt.*,truckscout24.*,tvinfo.de,unicum.de,unsere-helden.com,webfail.com,weltfussball.at,weristdeinfreund.de,weser-kurier.de,wetter.com##+js(setTimeout-defuser.js, ())return)
+airliners.de,auszeit.bio,autorevue.at,bafoeg-aktuell.de,berliner-kurier.de,berliner-zeitung.de,bikerszene.de,boersennews.de,bonedo.de,clever-tanken.de,deine-tierwelt.de,desired.de,dhd24.com,digitalfernsehen.de,donnerwetter.de,e-hausaufgaben.de,express.de,fanfiktion.de,finya.de,formel1.de,frag-mutti.de,freenet.de,fremdwort.de,frustfrei-lernen.de,fussballdaten.de,gameswelt.*,gartendialog.de,gartenlexikon.de,gewinnspiele.tv,gut-erklaert.de,haus-garten-test.de,hifi-forum.de,iban-rechner.de,immobilienscout24.de,inside-handy.de,juraforum.de,kindergeld.org,ksta.de,liga3-online.de,lz.de,messen.de,moviejones.de,mt.de,musiker-board.de,mz-web.de,naumburger-tageblatt.de,news.de,newsbreak24.de,nickles.de,nw.de,oeffentlicher-dienst.info,onlinemarketing.de,prad.de,psychic.de,quoka.de,rheinische-anzeigenblaetter.de,rimondo.com,rundschau-online.de,spielen.de,spielfilm.de,tichyseinblick.de,torgranate.de,truckscout24.*,tvinfo.de,unicum.de,unsere-helden.com,webfail.com,weltfussball.at,weristdeinfreund.de,weser-kurier.de,wieistmeineip.*##+js(set-constant.js, String.prototype.slice, noopFunc)
 computerbild.de##+js(abort-on-property-read.js, Date.prototype.toUTCString)
 computerbild.de##+js(setTimeout-defuser.js, ())return)
 lablue.*##+js(setTimeout-defuser.js, push, 500)
+freenet.de,giga.de,kicker.de,quoka.de,transfermarkt.*##+js(abort-current-inline-script.js, document.createElement, (window);)
+kino.de,meinestadt.de,spieletipps.de##+js(abort-on-property-read.js, document.cookie)
 !#endif
 freenet.de,giga.de,kicker.de,kino.de,meinestadt.de,quoka.de,spieletipps.de##+js(set-constant.js, atob, trueFunc)
 webmail.freenet.de#@#+js(set-constant.js, atob, trueFunc)
@@ -181,6 +183,7 @@ aachener-nachrichten.de,aachener-zeitung.de,modhoster.de,pff.de,play3.de,quotenm
 aachener-nachrichten.de,aachener-zeitung.de,modhoster.de,pff.de,play3.de,quotenmeter.de,saarbruecker-zeitung.de,volksfreund.de,ze.tt##+js(setTimeout-defuser.js, ())return)
 aachener-nachrichten.de,aachener-zeitung.de,modhoster.de,pff.de,play3.de,quotenmeter.de,saarbruecker-zeitung.de,volksfreund.de,ze.tt##+js(setTimeout-defuser.js, )&&)
 aachener-nachrichten.de,aachener-zeitung.de,modhoster.de,pff.de,play3.de,quotenmeter.de,saarbruecker-zeitung.de,volksfreund.de,ze.tt##+js(setTimeout-defuser.js, 0&&)
+aachener-nachrichten.de,aachener-zeitung.de,modhoster.de,pff.de,play3.de,quotenmeter.de,saarbruecker-zeitung.de,volksfreund.de,ze.tt##+js(set-constant.js, String.prototype.slice, noopFunc)
 bonedo.de##.banner
 transfermarkt.*##.noscript
 ! https://github.com/jspenguin2017/uBlockProtector/issues/635
@@ -197,7 +200,7 @@ gamepro.de,gamestar.de##+js(abort-on-property-write.js, uabInject)
 ! Yavli ads
 ! https://www.reddit.com/r/uBlockOrigin/comments/7cgb7h/pjmediacom_has_a_right_sidebar_that_is_labeled/
 ! https://github.com/uBlockOrigin/uAssets/issues/1589
-100percentfedup.com,activistpost.com,addictinginfo.*,alfonzorachel.com,allenbwest.com,allenwestrepublic.com,allthingsvegas.com,americanewshub.com,americasfreedomfighters.com,appleeats.com,barbwire.com,bb4sp.com,bestfunnyjokes4u.com,bighealthreport.com,bigleaguepolitics.com,bizpacreview.com,boomsbeat.com,breakingfirst.com,bugout.news,bulletsfirst.net,buzzlamp.com,canadafreepress.com,celebrity-gossip.net,cheapism.com,cheatsheet.com,chicksonright.com,clashamerica.com,clashdaily.com,classicalite.com,collapse.news,comicallyincorrect.com,constitution.com,craigjames.com,creepybasement.com,cyberwar.news,dailyheadlines.net,dailysurge.com,damnlol.com,deneenborelli.com,designbump.com,directexpose.com,eaglerising.com,enstarz.com,evil.news,faithit.com,firstinfreedomdaily.com,fitnessconnoisseur.com,foreverymom.com,freedom.news,freedomdaily.com,freedomforce.com,freedomoutpost.com,funnyand.com,gamer4k.com,gamersheroes.com,glitch.news,godfatherpolitics.com,gopocalypse.org,grammarist.com,greatamericanrepublic.com,guardianlv.com,guns.news,hackspirit.com,hautereport.com,hispolitica.com,hngn.com,icepop.com,ifyouonlynews.com,infowars.com,instigatornews.com,intellectualconservative.com,itechpost.com,janmorganmedia.com,jobsnhire.com,joeforamerica.com,juicerhead.com,justdiy.com,kdramastars.com,keepandbear.com,knowledgedish.com,kpopstarz.com,lastresistance.com,latinpost.com,legalinsurrection.com,liberty.news,libertyunyielding.com,lidblog.com,lifebuzz.com,madworldnews.com,millionpictures.co,moneyversed.com,musictimes.com,natural.news,naturalblaze.com,naturalsociety.com,natureworldnews.com,o4anews.com,opednews.com,patriotoutdoornews.com,pjmedia.com,politicalcowboy.com,politicaloutcast.com,politichicks.com,practicallyviral.com,profitconfidential.com,quirlycues.com,readysethealth.com,realmomsrealreviews.com,realtytoday.com,redhotchacha.com,redmaryland.com,reverbpress.com,reviveusa.com,rightwingtribune.com,rollingout.com,sciencetimes.com,shark-tank.com,shedthoselbs.com,slender.news,sonsoflibertymedia.com,sportsworldnews.com,sportsworldreport.com,stupid.news,supercheats.com,survivalnation.com,sweepstakesfanatics.com,techconsumer.com,telexplorer.com.ar,terezowens.com,thealternativedaily.com,theblacksphere.net,theboredmind.com,thedesigninspiration.com,thefreethoughtproject.com,thegatewaypundit.com,thehayride.com,thelastlineofdefense.org,thelibertydaily.com,themattwalshblog.com,thepoke.co.uk,thepolitistick.com,therealside.com,threepercenternation.com,tiebreaker.com,tosavealife.com,twisted.news,universityherald.com,vcpost.com,videogamesblogger.com,viralnova.com,visiontoamerica.com,wakingtimes.com,westernjournalism.com,worldlifestyle.com,xtribune.com,youngcons.com,youthhealthmag.com##+js(set-constant.js, String.fromCharCode, noopFunc)
+100percentfedup.com,activistpost.com,addictinginfo.*,alfonzorachel.com,allenbwest.com,allenwestrepublic.com,allthingsvegas.com,americanewshub.com,americasfreedomfighters.com,appleeats.com,barbwire.com,bb4sp.com,bestfunnyjokes4u.com,bighealthreport.com,bigleaguepolitics.com,bizpacreview.com,boomsbeat.com,breakingfirst.com,bugout.news,bulletsfirst.net,buzzlamp.com,canadafreepress.com,celebrity-gossip.net,cheapism.com,cheatsheet.com,chicksonright.com,clashamerica.com,clashdaily.com,classicalite.com,collapse.news,comicallyincorrect.com,constitution.com,craigjames.com,creepybasement.com,cyberwar.news,dailyheadlines.net,dailysurge.com,damnlol.com,deneenborelli.com,designbump.com,directexpose.com,eaglerising.com,enstarz.com,evil.news,faithit.com,firstinfreedomdaily.com,fitnessconnoisseur.com,foreverymom.com,freedom.news,freedomdaily.com,freedomforce.com,freedomoutpost.com,funnyand.com,gamer4k.com,glitch.news,godfatherpolitics.com,gopocalypse.org,grammarist.com,greatamericanrepublic.com,guardianlv.com,guns.news,hackspirit.com,hautereport.com,hispolitica.com,hngn.com,icepop.com,ifyouonlynews.com,infowars.com,instigatornews.com,intellectualconservative.com,itechpost.com,janmorganmedia.com,jobsnhire.com,joeforamerica.com,juicerhead.com,justdiy.com,kdramastars.com,keepandbear.com,knowledgedish.com,kpopstarz.com,lastresistance.com,latinpost.com,legalinsurrection.com,liberty.news,libertyunyielding.com,lidblog.com,lifebuzz.com,madworldnews.com,millionpictures.co,moneyversed.com,musictimes.com,natural.news,naturalblaze.com,naturalsociety.com,natureworldnews.com,o4anews.com,opednews.com,patriotoutdoornews.com,pjmedia.com,politicalcowboy.com,politicaloutcast.com,politichicks.com,practicallyviral.com,profitconfidential.com,quirlycues.com,readysethealth.com,realmomsrealreviews.com,realtytoday.com,redhotchacha.com,redmaryland.com,reverbpress.com,reviveusa.com,rightwingtribune.com,rollingout.com,sciencetimes.com,shark-tank.com,shedthoselbs.com,slender.news,sonsoflibertymedia.com,sportsworldnews.com,sportsworldreport.com,stupid.news,supercheats.com,survivalnation.com,sweepstakesfanatics.com,techconsumer.com,telexplorer.com.ar,terezowens.com,thealternativedaily.com,theblacksphere.net,theboredmind.com,thedesigninspiration.com,thefreethoughtproject.com,thegatewaypundit.com,thehayride.com,thelastlineofdefense.org,thelibertydaily.com,themattwalshblog.com,thepoke.co.uk,thepolitistick.com,therealside.com,threepercenternation.com,tiebreaker.com,tosavealife.com,twisted.news,universityherald.com,vcpost.com,videogamesblogger.com,viralnova.com,visiontoamerica.com,wakingtimes.com,westernjournalism.com,worldlifestyle.com,xtribune.com,youngcons.com,youthhealthmag.com##+js(set-constant.js, String.fromCharCode, noopFunc)
 whatfinger.com##+js(set-constant.js, oeo, noopFunc)
 @@||galaxant.com^$image,domain=viralnova.com
 @@||stackpathdns.com/static/*$script,domain=enstarz.com|itechpost.com|kdramastars.com|kpopstarz.com|musictimes.com|natureworldnews.com|realtytoday.com
@@ -1639,7 +1642,7 @@ wstream.video##div[onclick^="window.open"]
 ! https://github.com/NanoMeow/QuickReports/issues/253
 billingsgazette.com,bismarcktribune.com,jg-tc.com,rapidcityjournal.com,stltoday.com,thesouthern.com,trib.com,tucson.com##+js(abort-current-inline-script.js, Array, googlefcPresent)
 ||fundingchoicesmessages.google.com^$domain=billingsgazette.com|bismarcktribune.com|jg-tc.com|rapidcityjournal.com|stltoday.com|thesouthern.com|trib.com|tucson.com
-accuweather.com,androidpolice.com,beliefnet.com,businessinsider.com,champions.co,comicbook.com,eurogamer.net,givemesport.com,grubstreet.com,hotair.com,lacrossetribune.com,madison.com,magicvalley.com,missoulian.com,moviepilot.com,napavalleyregister.com,notalwaysright.com,nowloading.co,ottawacitizen.com,pantagraph.com,parkers.co.uk,patheos.com,popculture.com,poststar.com,rawstory.com,thestudentroom.co.uk,townhall.com,trendblog.net,tvtropes.org,twitchy.com,vancouversun.com,watoday.com.au,windsorstar.com##+js(abort-on-property-read.js, stop)
+accuweather.com,androidpolice.com,beliefnet.com,businessinsider.com,champions.co,comicbook.com,eurogamer.net,givemesport.com,grubstreet.com,hotair.com,lacrossetribune.com,madison.com,magicvalley.com,missoulian.com,moviepilot.com,napavalleyregister.com,notalwaysright.com,nowloading.co,pantagraph.com,parkers.co.uk,patheos.com,popculture.com,poststar.com,rawstory.com,thestudentroom.co.uk,townhall.com,trendblog.net,tvtropes.org,twitchy.com,vancouversun.com,watoday.com.au,windsorstar.com##+js(abort-on-property-read.js, stop)
 ||0mme.com^$script,domain=comicbook.com|popculture.com
 ||1emn.com^$script,domain=hotair.com|lacrossetribune.com|moviepilot.com|notalwaysright.com
 ||1enm.com^$script,domain=champions.co|pantagraph.com|parkers.co.uk|windsorstar.com
@@ -2285,6 +2288,7 @@ fmovies.cab##+js(abort-on-property-read.js, _0x1477)
 ||logger.pw^$3p
 ||soujoobafoo.com^
 ! https://github.com/uBlockOrigin/uAssets/issues/5558
+prettyfast.to##+js(abort-current-inline-script.js, Math, zfgloaded)
 prettyfast.to##+js(nowebrtc.js)
 
 ! https://github.com/uBlockOrigin/uAssets/pull/643
@@ -5499,6 +5503,10 @@ globalbesthosting.com,goldescargas.com,katfile.com,shortify.pw,srt.am,userupload
 ! https://github.com/jspenguin2017/uBlockProtector/issues/173
 freepdf-books.com##+js(nano-setInterval-booster.js, myTimer, 1500)
 
+! https://github.com/timmyrs/Universal-Bypass/issues/247
+uploadhaven.com##+js(nano-setInterval-booster.js)
+uploadhaven.com##+js(window.open-defuser.js)
+
 ! backin.net anti adb + popups
 backin.net##+js(setTimeout-defuser.js, (), 3000)
 backin.net##+js(window.open-defuser.js)
@@ -7831,9 +7839,11 @@ mega-dvdrip.*##+js(addEventListener-defuser.js, DOMContentLoaded, shortener)
 ||acortador.net^$3p
 
 ! https://github.com/jspenguin2017/uBlockProtector/issues/926
+! https://www.reddit.com/r/uBlockOrigin/comments/bv37t2/animedao_blocking_ublock_origins/
 @@||anime-update*.*^$generichide
 @@||animedao*.*^$generichide
 @@||animetake*.*^$generichide
+@@||animedao24.stream/js/ads.js$script,1p
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/8hgrg9/blocking_deals_on_kinja_sites_gizmodo_kotaku/
 ! https://github.com/uBlockOrigin/uAssets/issues/2836
@@ -7948,9 +7958,13 @@ seriesblanco.com##+js(abort-current-inline-script.js, atob, tabunder)
 nuevos-mu.ucoz.com##+js(addEventListener-defuser.js, load, 2000)
 
 ! https://forums.lanik.us/viewtopic.php?p=136424#p136424
+! https://github.com/uBlockOrigin/uAssets/issues/5710
 libertaddigital.com##+js(set-constant.js, publd.ads_blocked, false)
+@@||esradio.libertaddigital.com/ad/*$xhr,1p
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=esradio.libertaddigital.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=storage.oraclecloud.com
 @@||storage.oraclecloud.com/*/smartclip-services/sc_player/$script,first-party
+esradio.libertaddigital.com###mega-atf
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/8vg377/how_to_block_ads_that_change_names_all_the_time/
 dailydot.com##+js(set-constant.js, oio, true)
@@ -8040,8 +8054,9 @@ grantorrent.net##+js(abort-on-property-read.js, getUrlParameter)
 grantorrent.net##+js(abort-on-property-write.js, Fingerprint2)
 grantorrent.net##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 ! https://github.com/uBlockOrigin/uAssets/issues/2260#issuecomment-488532216
-redirector.desbloqueador.org##+js(addEventListener-defuser.js, mousedown, trigger)
-redirector.desbloqueador.org##+js(set-constant.js, Ok, true)
+desbloqueador.*##+js(addEventListener-defuser.js, mousedown, trigger)
+desbloqueador.*##+js(set-constant.js, Ok, true)
+desbloqueador.*##+js(window.open-defuser.js, 1, given)
 ||redirector.desbloqueador.org/redirect?given=$popup,popunder
 ||desbloqueador.org^$third-party,popup,badfilter
 
@@ -19568,10 +19583,12 @@ filerio.in##+js(abort-current-inline-script.js, Math, zfgloaded)
 ||oukrocky.com^
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5439
+ckk.ai##+js(abort-current-inline-script.js, Math.sin, vocabulary)
 ckk.ai##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 ckk.ai##+js(abort-on-property-read.js, AaDetector)
 ||ckk.ai/sw.js$script,1p
 ckk.ai##a[href^="https://href.li/"]
+ckk.ai##a[href^="https://tipsalert.xyz"]
 ||98bf9h8jbg.com^
 ||cfts1tifqr.com^
 ||deberorewhen.info^
@@ -19623,6 +19640,7 @@ iphonetweak.fr##.bigPub
 freeserial-keys.blogspot.com##+js(addEventListener-defuser.js, load, nextFunction)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5453
+duden.de##+js(abort-on-property-read.js, document.cookie)
 duden.de##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, ||)
 duden.de##+js(setTimeout-defuser.js, )&&)
 duden.de##+js(setTimeout-defuser.js, 0&&)
@@ -20813,6 +20831,22 @@ montrealgazette.com##section.pm_layouts_news_ticker:has(.flyer-ticker.widget)
 @@||nationalpost.com^$generichide
 nationalpost.com##[id^='postmedia_layouts_ad']
 nationalpost.com##section.pm_layouts_news_ticker:has(.flyer-ticker.widget)
+! https://github.com/NanoMeow/QuickReports/issues/1296#issuecomment-497566703
+@@||ottawacitizen.com^$generichide
+ottawacitizen.com##[id^='postmedia_layouts_ad']
+ottawacitizen.com##.widget-sticky:has([id^='postmedia_layouts_ad'])
+ottawacitizen.com##section.pm_layouts_news_ticker:has(.flyer-ticker.widget)
+! https://github.com/NanoMeow/QuickReports/issues/1296#issuecomment-497567266
+@@||ottawasun.com^$generichide
+ottawasun.com##.adslot
+ottawasun.com##.flyercity-ads
+ottawasun.com##[id^='postmedia_layouts_ad']
+ottawasun.com##section.pm_layouts_news_ticker:has(.flyer-ticker.widget)
+! https://github.com/NanoMeow/QuickReports/issues/1296#issuecomment-497567614
+@@||theprovince.com^$generichide
+theprovince.com##.flyercity-ads
+theprovince.com##[id^='postmedia_layouts_ad']
+theprovince.com##section.pm_layouts_news_ticker:has(.flyer-ticker.widget)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5693
 @@||satellite-calculations.com/ads.js$script,1p
@@ -20851,3 +20885,42 @@ thehdvid.*##+js(abort-on-property-write.js, Fingerprint2)
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/buv8ct/animetake_blocks_ublock_origins/
 @@||animetake25.stream/js/ads.js$script,1p
+
+! https://github.com/NanoMeow/QuickReports/issues/1312
+vladan.fr##+js(setTimeout-defuser.js, adb, 0)
+
+! https://github.com/NanoMeow/QuickReports/issues/1313
+losporn.org##+js(abort-on-property-read.js, ExoLoader.serve)
+losporn.org##+js(window.open-defuser.js)
+||clckysudks.com^
+
+! https://github.com/NanoMeow/QuickReports/issues/1310
+gamersheroes.com##+js(abort-current-inline-script.js, document.createElement, advertising)
+||gamersheroes.com^$csp=script-src 'self' *.leadpages.net *.gstatic.com *.google.com *.googleapis.com *.playwire.com *.facebook.com *.bootstrapcdn.com *.twitter.com *.spot.im,badfilter
+
+! https://www.reddit.com/r/uBlockOrigin/comments/bv1k66/blockadblockcom_issue/
+@@||grandmastreams.live^$generichide
+grandmastreams.live##.adsbygoogle
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/34542
+hdfilmcehennemi1.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+
+! filminkeyfi .com popups
+filminkeyfi.com##+js(window.open-defuser.js)
+
+! https://www.reddit.com/r/uBlockOrigin/comments/buur9g/blocklist_addition_request/
+onepiece-tube.com##+js(set-constant.js, abp, noopFunc)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5707
+@@||quizdiva.net^$generichide
+
+! https://github.com/uBlockOrigin/uAssets/issues/5706
+@@||torrentmegafilme.com^$generichide
+torrentmegafilme.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5708
+@@||reisefrage.net^$generichide
+reisefrage.net##.Ad
+
+! https://github.com/uBlockOrigin/uAssets/issues/5710
+windowsaplicaciones.com##+js(abort-on-property-read.js, anOptions)

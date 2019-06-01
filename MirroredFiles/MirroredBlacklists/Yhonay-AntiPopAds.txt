@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 7984
+! Version: 7993
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -2707,6 +2707,7 @@
 ||hljyawylquvl.bid^
 ||hloyloppqpvnmd.com^
 ||hlqnhatfxtclut.com^
+||hlsqjrgeuw.com^
 ||hlvvlouaeicp.com^
 ||hlvzvisiwbtuwv.com^
 ||hmcczsoimnjxzi.com^
@@ -3261,6 +3262,7 @@
 ||iygdvith.com^
 ||iyivpsxzgjcarv.bid^
 ||iyjukpbyzsxc.bid^
+||iykehvusfrt.com^
 ||iykrtmswkibdp.com^
 ||iylndfmf.com^
 ||iylssoobxtvm.com^
@@ -5550,6 +5552,7 @@
 ||pgnjgjiwomgdmn.com^
 ||pgpfdravejq.com^
 ||pgpszwldfpc.com^
+||pgqpibyycasfvl.com^
 ||pgubdmshfz.bid^
 ||pguwtwcougzrc.bid^
 ||pguxoochezkc.com^
@@ -5571,6 +5574,7 @@
 ||piifwkvdil.com^
 ||piljbvnykkt.bid^
 ||pimygjumeyrtxe.com^
+||pingqwlxklbiev.com^
 ||pipiryiqu.com^
 ||piqvuvqc.com^
 ||pismvlkq.com^
@@ -5583,6 +5587,7 @@
 ||pjffrqroudcp.com^
 ||pjfgugfnw.bid^
 ||pjhwhxmzefjgn.com^
+||pjkbojrcraj.com^
 ||pjlcpzevt.bid^
 ||pjnkstpiz.com^
 ||pjnrwznmzguc.com^
@@ -5777,6 +5782,7 @@
 ||pwzjsujf.bid^
 ||pxbugrgwy.com^
 ||pxcveedcuzy.com^
+||pxhtltatsxarl.com^
 ||pxiqcfkbxof.com^
 ||pxjmdtryd.com^
 ||pxlcadvpqd.com^
@@ -7583,6 +7589,7 @@
 ||vpndcpxavg.com^
 ||vppabbakjzxmz.com^
 ||vptkyunlzfy.com^
+||vpyrfomwel.com^
 ||vqaizaukh.com^
 ||vqkkbbivznoso.com^
 ||vqmcyhsi.com^
@@ -7623,6 +7630,7 @@
 ||wblkmmxi.com^
 ||wbswxksctrvw.com^
 ||wbthdphsb.com^
+||wbufuclb.com^
 ||wcobqyeqpckkzh.com^
 ||wcwzzauws.com^
 ||wdkbcvnh.com^
@@ -7679,6 +7687,7 @@
 ||wrrytjtsyhrnfg.com^
 ||wrwwvymy.com^
 ||wrxivlclw.com^
+||wsrkpjfs.com^
 ||wssejwluqthda.com^
 ||wstvcgfkvc.com^
 ||wsucuzkmnd.com^
