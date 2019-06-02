@@ -12,7 +12,7 @@
 ! New filter class: entity filters, where entity = domain minus public suffix
 ! The following filters were taken out of EasyList and given an entity name,
 ! which makes them candidates to be injected early in the page.
-! Last updated: 2017-10-10
+! Last updated: 2019-06-01
 google.*###center_col > #\5f Emc
 google.*###center_col > #main > .dfrd > .mnr-c > .c._oc._zs
 google.*###center_col > #res > #topstuff + #search > div > #ires > #rso > #flun
@@ -58,6 +58,7 @@ google.*##.commercial-unit-desktop-rhs
 google.*##.commercial-unit-desktop-top
 google.*##.commercial-unit-mobile-bottom
 google.*##.commercial-unit-mobile-top
+google.*##.gws-flights-book__ads-wrapper
 google.*##.lads[width="100%"][style="background:#FFF8DD"]
 google.*##.mod > ._jH + .rscontainer
 google.*##.mw > #rcnt > #center_col > #taw > #tvcap > .c
@@ -69,6 +70,10 @@ google.*##.rhsvw[style="background-color:#fff;margin:0 0 14px;padding-bottom:1px
 google.*##.rscontainer > .ellip
 google.*##.section-result[data-result-ad-type]
 google.*##.widget-pane-section-result[data-result-ad-type]
+google.*##div[data-flt-ve="sponsored_search_ads"]
+google.*##div[role="navigation"] + c-wiz > div > .kxhcC
+google.*##div[role="navigation"] + c-wiz > script + div > .kxhcC
+google.*##header#hdr + #main > div[data-hveid]
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/8xg7p0/ublock_origin_is_not_blocking_google_sponsored/
 google.*##.ads-ad
@@ -1642,10 +1647,10 @@ wstream.video##div[onclick^="window.open"]
 ! https://github.com/NanoMeow/QuickReports/issues/253
 billingsgazette.com,bismarcktribune.com,jg-tc.com,rapidcityjournal.com,stltoday.com,thesouthern.com,trib.com,tucson.com##+js(abort-current-inline-script.js, Array, googlefcPresent)
 ||fundingchoicesmessages.google.com^$domain=billingsgazette.com|bismarcktribune.com|jg-tc.com|rapidcityjournal.com|stltoday.com|thesouthern.com|trib.com|tucson.com
-accuweather.com,androidpolice.com,beliefnet.com,businessinsider.com,champions.co,comicbook.com,eurogamer.net,givemesport.com,grubstreet.com,hotair.com,lacrossetribune.com,madison.com,magicvalley.com,missoulian.com,moviepilot.com,napavalleyregister.com,notalwaysright.com,nowloading.co,pantagraph.com,parkers.co.uk,patheos.com,popculture.com,poststar.com,rawstory.com,thestudentroom.co.uk,townhall.com,trendblog.net,tvtropes.org,twitchy.com,vancouversun.com,watoday.com.au,windsorstar.com##+js(abort-on-property-read.js, stop)
+accuweather.com,androidpolice.com,beliefnet.com,businessinsider.com,champions.co,comicbook.com,eurogamer.net,givemesport.com,grubstreet.com,hotair.com,lacrossetribune.com,madison.com,magicvalley.com,missoulian.com,moviepilot.com,napavalleyregister.com,notalwaysright.com,nowloading.co,pantagraph.com,parkers.co.uk,patheos.com,popculture.com,poststar.com,rawstory.com,thestudentroom.co.uk,townhall.com,trendblog.net,tvtropes.org,twitchy.com,vancouversun.com,watoday.com.au##+js(abort-on-property-read.js, stop)
 ||0mme.com^$script,domain=comicbook.com|popculture.com
 ||1emn.com^$script,domain=hotair.com|lacrossetribune.com|moviepilot.com|notalwaysright.com
-||1enm.com^$script,domain=champions.co|pantagraph.com|parkers.co.uk|windsorstar.com
+||1enm.com^$script,domain=champions.co|pantagraph.com|parkers.co.uk
 ||2enm.com^$domain=androidpolice.com|beliefnet.com
 ||8d1f.com^$script,domain=napavalleyregister.com|rawstory.com|tvtropes.org|vancouversun.com|watoday.com.au
 ||e0mn.com^$script,domain=accuweather.com|patheos.com
@@ -2045,6 +2050,7 @@ streamplay.*##+js(window.open-defuser.js)
 @@||streamplay.to/js/pop$script,first-party
 streamp1ay.*##+js(abort-on-property-write.js, Fingerprint2)
 streamp1ay.*##+js(abort-on-property-write.js, Fingerprent2)
+@@||streamp1ay.me^$generichide
 ||exercially.mobi^
 ||terdiparcalpe.info^
 ||eontent.streamplay.to^
@@ -2171,8 +2177,8 @@ dropapk.com##+js(nowebrtc.js)
 ||partuise.info^$3p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/609
-ig2fap.com,igfap.com##+js(abort-on-property-read.js, anOptions)
-ig2fap.com,igfap.com##+js(abort-on-property-write.js, _pop)
+igfap.com##+js(abort-on-property-read.js, anOptions)
+igfap.com##+js(abort-on-property-write.js, _pop)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/610
 fas.li##+js(abort-on-property-read.js, blockAdBlock)
@@ -7840,9 +7846,11 @@ mega-dvdrip.*##+js(addEventListener-defuser.js, DOMContentLoaded, shortener)
 
 ! https://github.com/jspenguin2017/uBlockProtector/issues/926
 ! https://www.reddit.com/r/uBlockOrigin/comments/bv37t2/animedao_blocking_ublock_origins/
+! https://github.com/NanoMeow/QuickReports/issues/1325
 @@||anime-update*.*^$generichide
 @@||animedao*.*^$generichide
 @@||animetake*.*^$generichide
+@@||anime-update*.stream/js/ads.js$script,1p
 @@||animedao24.stream/js/ads.js$script,1p
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/8hgrg9/blocking_deals_on_kinja_sites_gizmodo_kotaku/
@@ -11021,7 +11029,7 @@ duellinksmeta.com##+js(noeval.js)
 ||duellinksmeta.com/*/adsbygoogle.js$script,1p,redirect=noopjs
 ||googletagmanager.com/gtag/js$script,redirect=noopjs,domain=duellinksmeta.com
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=duellinksmeta.com
-@@||duellinksmeta.com^$image,script,xhr,1p
+@@||duellinksmeta.com^$1p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3202
 $popunder,domain=ah.pe
@@ -14309,11 +14317,6 @@ hentaisd.tv##+js(abort-on-property-read.js, AaDetector)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4245
 atlanticcitywebcam.com,ftlauderdalebeachcam.com,ftlauderdalewebcam.com,hiltonbeachcam.com,juneauharborwebcam.com,keywestharborwebcam.com,kittycatcam.com,mahobeachcam.com,miamiairportcam.com,morganhillwebcam.com,njwildlifecam.com,nyharborwebcam.com,paradiseislandcam.com,pompanobeachcam.com,portarubawebcam.com,portbermudawebcam.com,portcanaveralwebcam.com,portevergladeswebcam.com,portmiamiwebcam.com,portnywebcam.com,portnassauwebcam.com,portstmaartenwebcam.com,porttampawebcam.com,sxmislandcam.com##+js(abort-on-property-read.js, adLeftLen)
-
-! https://github.com/uBlockOrigin/uAssets/issues/4247
-sexodx.com##+js(set-constant.js, ads_unblocked, true)
-sexodx.com###video_reklamy
-sexodx.com###background-cloud
 
 ! anti adb compressnow . com
 @@||compressnow.com^$generichide
@@ -18782,7 +18785,7 @@ alternet.org##+js(abort-on-property-read.js, HTMLCanvasElement)
 ! https://github.com/NanoMeow/QuickReports/issues/918
 720pstream.me##+js(abort-current-inline-script.js, Math, zfgloaded)
 720pstream.me##+js(set-constant.js, decodeURIComponent, trueFunc)
-720pstream.me#+js(nowebrtc.js)
+720pstream.me##+js(nowebrtc.js)
 ||cepailru.com^
 ||roojouma.com^
 
@@ -20847,6 +20850,16 @@ ottawasun.com##section.pm_layouts_news_ticker:has(.flyer-ticker.widget)
 theprovince.com##.flyercity-ads
 theprovince.com##[id^='postmedia_layouts_ad']
 theprovince.com##section.pm_layouts_news_ticker:has(.flyer-ticker.widget)
+! https://github.com/NanoMeow/QuickReports/issues/1296#issuecomment-497908878
+@@||windsorstar.com^$generichide
+windsorstar.com##[id^='postmedia_layouts_ad']
+windsorstar.com##.widget-sticky:has([id^='postmedia_layouts_ad'])
+windsorstar.com##section.pm_layouts_news_ticker:has(.flyer-ticker.widget)
+! https://github.com/NanoMeow/QuickReports/issues/1296#issuecomment-497909027
+@@||winnipegsun.com^$generichide
+winnipegsun.com##.flyercity-ads
+winnipegsun.com##[id^='postmedia_layouts_ad']
+winnipegsun.com##section.pm_layouts_news_ticker:has(.flyer-ticker.widget)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5693
 @@||satellite-calculations.com/ads.js$script,1p
@@ -20924,3 +20937,62 @@ reisefrage.net##.Ad
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5710
 windowsaplicaciones.com##+js(abort-on-property-read.js, anOptions)
+
+! https://github.com/NanoMeow/QuickReports/issues/1315
+@@||british-birdsongs.uk^$generichide
+british-birdsongs.uk##.adsbygoogle
+
+! https://github.com/uBlockOrigin/uAssets/issues/5711
+pohmy.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+@@||pohmy.com^$generichide
+pohmy.com##.adsbygoogle
+
+! https://github.com/uBlockOrigin/uAssets/issues/5712
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=moroa.tistory.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/5713
+japgay.com##+js(set-constant.js, AlobaidiDetectAdBlock, true)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5714
+sportsuz.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+sportsuz.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5715
+@@||myakoam.com^$generichide
+myakoam.com##.ad-300-250
+myakoam.com##.ad-728-90
+
+! https://github.com/uBlockOrigin/uAssets/issues/5716
+filmywap.world##+js(addEventListener-defuser.js, load, 2000)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5717
+themesradar.com##+js(nano-setInterval-booster.js)
+@@||themesradar.com^$generichide
+themesradar.com##.adsbygoogle
+
+! https://github.com/uBlockOrigin/uAssets/issues/5718
+hentai-vl.blogspot.com##+js(addEventListener-defuser.js, load, 2000)
+||nhsrv.cf^$3p
+
+! https://github.com/uBlockOrigin/uAssets/issues/5719
+@@||rlinstall.tech^$generichide
+rlinstall.tech##div[id^="ads300_250-widget"]
+
+! https://github.com/NanoMeow/QuickReports/issues/1316
+||fundingchoicesmessages.google.com^$domain=helenair.com
+
+! https://github.com/adsbypasser/adsbypasser/issues/2081
+deltabit.co##+js(nano-setInterval-booster.js)
+deltabit.co##+js(abort-on-property-read.js, popjs)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5723
+watchseries.video##+js(abort-current-inline-script.js, Math, zfgloaded)
+||hosoojat.net^
+
+! https://github.com/NanoMeow/QuickReports/issues/1322
+@@||loskatchorros.com.br^$generichide
+loskatchorros.com.br##.adsbygoogle:style(max-height: 1px !important;)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5727
+xstreamcdn.com##+js(nano-setTimeout-booster.js)
+||github.io^$script,domain=xstreamcdn.com
