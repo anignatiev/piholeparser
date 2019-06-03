@@ -2427,3 +2427,9 @@ calgaryherald.com#@#.local-branding
 
 ! https://github.com/NanoMeow/QuickReports/issues/1321
 @@||cdn.cdn000.club/js/loadjs.min.js$script,domain=vipstand.se
+
+! https://github.com/uBlockOrigin/uAssets/issues/5722
+@@||cdnjs.cloudflare.com/ajax/libs/jquery/*$script,domain=openloed.co
+
+! https://github.com/uBlockOrigin/uAssets/issues/2070#issuecomment-498000989
+@@/video-js.swf$object,1p
