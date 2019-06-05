@@ -2434,11 +2434,13 @@ calgaryherald.com#@#.local-branding
 ! https://github.com/uBlockOrigin/uAssets/issues/2070#issuecomment-498000989
 @@/video-js.swf$object,1p
 
-! broken videos at torgranate.de
-@@||player.skystream.tv^$frame,domain=torgranate.de
-
 ! player broken http://www. digi24. ro/live/digi24
 @@||scdn.cxense.com/cx.js$script,domain=digi24.ro
 
 ! https://github.com/easylist/easylist/issues/3567
 /prism.js$badfilter
+
+! https://forums.lanik.us/viewtopic.php?f=64&t=43104&p=148044#p148040
+@@||imasdk.googleapis.com/pal/sdkloader/pal.js$script,domain=animalplanet.com
+@@||fusion.ddmcdn.com/*/comscore.streaming$script,domain=animalplanet.com
+@@||src.litix.io/core/2/mux.js$script,domain=animalplanet.com
