@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 01 Apr 2019 12:01 UTC
+! Last modified: 05 Jun 2019 12:01 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -24,6 +24,7 @@
 ##.pub_300x250m
 ##.pub_300x250
 ||ad.doubleclick.net^
+||psd.marketing^$third-party
 
 coinhive.min.js
 ||coin-hive.com^
@@ -77,12 +78,15 @@ coinhive.min.js
 @@||content.adunity.com/aulib.js$script,domain=b1.ro
 ||ivm.antenaplay.ro/fadead_check.php$xmlhttprequest
 /cdn-cgi/apps/head/*$script,first-party,domain=dot.ro
-||europafm.ro/wp-content/uploads/2018/08/europaFM_static-banner-*.jpg$image,domain=europafm.ro
-||europafm.ro/wp-content/uploads/2019/03/telekom_Europa_FM_desktop.jpg
-||europafm.ro/wp-content/uploads/2019/03/telekom_Europa_FM_mobil.jpg
-||europafm.ro/wp-content/uploads/2019/03/lidl_deluxe_desktop.jpg
-||europafm.ro/wp-content/uploads/2019/03/lidl_deluxe_mobile.jpg
 
+virginradio.ro###background-link
+virginradio.ro###background-div
+europafm.ro###background-link
+europafm.ro###background-image
+
+||virginradio.ro/wp-content/uploads/2019/04/*kfc-dejun-virgin-*.png$image
+@@||scdn.cxense.com/cx.js$script,domain=www.digi24.ro
+@@||liveplayer.romaniatv.net/js/ads.js$script,domain=liveplayer.romaniatv.net
 
 ! DOM elements
 !HotNews
@@ -146,6 +150,8 @@ stiripesurse.ro##.news-widget-color-1.news-widget.widget:nth-of-type(14)
 stiripesurse.ro##.row:nth-of-type(4) > .column-container > .md-one-half.ld-one-half.column:nth-of-type(1)
 stiripesurse.ro##.row:nth-of-type(4) > .column-container > .md-one-half.ld-one-half.column:nth-of-type(2)
 stiripesurse.ro##.small.banner
+stiripesurse.ro##.banner
+||media.stiripesurse.ro/assets/img/ads_img/$image
 trafictube.ro##div[style$="width:520px"]
 transilvaniareporter.ro###flashContent
 urban.ro###home_calendar > a
