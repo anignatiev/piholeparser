@@ -13,4 +13,5 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
-* Tofu-Filter List Marked As Dead. Sun Jun 9 00:40:07 UTC 2019
+* Tofu-Filter List Unavailable To Download. Mon Jun 10 00:20:40 UTC 2019
+## Checking If List Updated Online
