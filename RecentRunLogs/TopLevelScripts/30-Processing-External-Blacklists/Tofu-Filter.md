@@ -13,5 +13,4 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
-* Tofu-Filter List Unavailable To Download. Mon Jun 10 00:20:40 UTC 2019
 ## Checking If List Updated Online

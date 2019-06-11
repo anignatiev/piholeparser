@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZkINmMZOQtaF4/f9j1I73Q
-! Version: 201906100011
+! Checksum: bmXOg3mSnYRfyriQmg+Rbg
+! Version: 201906110011
 ! Title: Fanboy's Annoyance List
-! Last modified: 10 Jun 2019 00:11 UTC
+! Last modified: 11 Jun 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -8470,6 +8470,7 @@ _site_cookie_
 ###follow-us-2
 ###follow-us-block
 ###follow-us-block-body
+###follow-us-box
 ###follow-us-buttons
 ###follow-us-footer
 ###follow-us-on-facebook
@@ -31134,6 +31135,7 @@ _site_cookie_
 ||alertme.news^$third-party
 ||aswpsdkus.com^$third-party
 ||basepush.com^$third-party
+||braze.com^$third-party
 ||browserpusher.com^$third-party
 ||centrnotify.com^$third-party
 ||centrpush.com^$third-party
@@ -31880,6 +31882,7 @@ techieopus.com###PopSubBox
 edn.com###PromoBox2
 about.com###QZTrackbacks
 ebay.com###RightPanel
+malavida.com###ScrollBox
 newser.com###StoryEmbed
 readwriteweb.com###Subscribe
 thefreewarejunkie.com###Subscribe1
@@ -34984,7 +34987,6 @@ csmonitor.com,details.com##a[href^="https://w1.buysub.com/"]
 watchseries-online.ch##a[title="Go Up"]
 translate.google.co.nz,translate.google.co.uk,translate.google.com,translate.google.com.au,translate.google.de,translate.google.es,translate.google.fr##body > header#gb > div.gb_se > div.gb_g
 google.com##button[id^="gbpwm_"]
-facebook.com##div > div[id][class][style*=" background-color: rgb"]
 bloombergquint.com##div[class^="more-on-this-topic"]
 brighthub.com##div[data-bhtrackregion="Subscribe"]
 forbes.com##div[data-tracking-link-name="articleLink_ContribBylineFollow"]
@@ -41678,7 +41680,7 @@ wpolityce.pl#@#.icon-facebook-official
 lockerdome.com#@#.icon-facebook2
 eskimi.com,secure.allocine.fr#@#.icon-fb
 flattr.com#@#.icon-flickr
-flattr.com#@#.icon-github
+flattr.com,hacpai.com#@#.icon-github
 chess.com,imgur.com,login.alibaba.com#@#.icon-google
 airbnb.cat,airbnb.com,airbnb.de,theoldreader.com,unieuro.it#@#.icon-google-plus
 register.thisis.co.uk#@#.icon-google-plus-sign
@@ -41691,10 +41693,12 @@ football.fr,owncloud.org,theoldreader.com,trello.com#@#.icon-share
 carsguide.com.au#@#.icon-social-facebook
 carsguide.com.au#@#.icon-social-linkedin
 flattr.com,gleam.io#@#.icon-soundcloud
+hacpai.com#@#.icon-telegram
 aitnews.com,comicbook.com,fastcompany.com,flattr.com,gleam.io,imgur.com,lockerdome.com,login.alibaba.com,squidoo.com#@#.icon-twitter
 twitter.com,yourstory.com#@#.icon-twitter-bird
 cc.cc#@#.icon-twitter-sign
 flattr.com#@#.icon-vimeo
+hacpai.com#@#.icon-wechat
 flattr.com#@#.icon-youtube
 ndtv.com#@#.icon_gplus
 community.imgur.com#@#.icons
@@ -42752,6 +42756,7 @@ timeout.com#@#div[data-module="cookie_banner"]
 @@||ok.ru^*/img/social/$image,domain=ok.ru
 @@||ok.ru^*/sprites/social-$image,domain=ok.ru
 @@||oklivetv.com/wp-content/plugins/facebook-page-promoter-lightbox/$script
+@@||oko-planet.su/templates/*/images/ratingplus.png$image,~third-party
 @@||onesecond.designly.com/img/*.gif$~third-party
 @@||opendatacity.de/prism/assets/img/logos/logo_facebook_$image
 @@||opensat4all.com/forums/public/$stylesheet

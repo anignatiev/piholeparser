@@ -8,7 +8,6 @@ ____________________________________
 
 ___________________________________________________________________
 ### Lists That Do NOT use https.
-* Tofu-Filter
 * Adblock-Filters-by-Gurudee
 * BLOGRAM-Analysis-Block-Filter-List-for-Japan
 * BLOGRAM-Basic-Filter-List-for-Japan
@@ -22,6 +21,7 @@ ___________________________________________________________________
 * PLgeneral
 * Spam-Assassin-Bill-Stearns
 * The-Hosts-File-Project
+* Tofu-Filter
 
 ___________________________________________________________________
 ### TLD Lists That Do NOT use https.
