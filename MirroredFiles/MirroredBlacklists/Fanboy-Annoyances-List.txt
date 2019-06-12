@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bmXOg3mSnYRfyriQmg+Rbg
-! Version: 201906110011
+! Checksum: eHwBEtt0+BYpyck/P7ZX7g
+! Version: 201906120011
 ! Title: Fanboy's Annoyance List
-! Last modified: 11 Jun 2019 00:11 UTC
+! Last modified: 12 Jun 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12332,6 +12332,7 @@ _site_cookie_
 ##.facebook-box-widget
 ##.facebook-broadcasting-widget
 ##.facebook-btn
+##.facebook-btn-icon
 ##.facebook-button
 ##.facebook-button-colorbox
 ##.facebook-button-link
@@ -12973,6 +12974,7 @@ _site_cookie_
 ##.followandshare
 ##.followbl
 ##.followbox
+##.followbtn_ac
 ##.followbutton
 ##.followistic-box
 ##.follows-channel_fb
@@ -13532,6 +13534,8 @@ _site_cookie_
 ##.haberaltshare
 ##.hat_social_tab
 ##.hatena-bookmark-button
+##.hatena-btn-icon
+##.hatenabutton
 ##.hb-social-icons-widget
 ##.hc_social
 ##.hcf-action-share
@@ -14596,6 +14600,7 @@ _site_cookie_
 ##.likes-block
 ##.likes-block_left
 ##.likes-box
+##.line-btn-icon
 ##.line-social
 ##.linfoShare
 ##.link-facebook
@@ -15488,6 +15493,7 @@ _site_cookie_
 ##.pn__share
 ##.pn_socialmedia_widget
 ##.po-hr-fl__sharing
+##.pocket-btn-icon
 ##.pod_share
 ##.poll-share-box
 ##.poll-social-header
@@ -16906,6 +16912,8 @@ _site_cookie_
 ##.sidebarsharer
 ##.sidebarsocial
 ##.sidebartwitter
+##.sideblock_social
+##.sideblock_twitter
 ##.sidefacebook
 ##.sideshares-slidein
 ##.sidesocial
@@ -17058,8 +17066,12 @@ _site_cookie_
 ##.sns-fb
 ##.sns-link
 ##.sns-link-wrap
+##.sns-list__item--facebook
+##.sns-list__item--hatena
+##.sns-list__item--twitter
 ##.sns-section
 ##.sns-share
+##.sns-share-area
 ##.sns-share-icon
 ##.sns-tw
 ##.sns-wrapper
@@ -19021,6 +19033,7 @@ _site_cookie_
 ##.twitter-block
 ##.twitter-box
 ##.twitter-btn
+##.twitter-btn-icon
 ##.twitter-bubble
 ##.twitter-button
 ##.twitter-button-link
@@ -19892,6 +19905,7 @@ _site_cookie_
 ##a[href^="/gp/socialmedia/share/"]
 ##a[href^="fb-messenger://share/?"]
 ##a[href^="http://add.my.yahoo.com/content?"]
+##a[href^="http://b.hatena.ne.jp/add"]
 ##a[href^="http://b.hatena.ne.jp/add?url="]
 ##a[href^="http://blinklist.com/post?url="]
 ##a[href^="http://blip.pl/dashboard?body="]
@@ -39527,6 +39541,7 @@ srad.jp###article-bottom
 shiseidogroup.jp###extra-tools
 biz-journal.jp,ntv.co.jp###sns
 asahi.com##.SnsUtilityArea
+oricon.co.jp##.block-sub-sns
 1242.com##.conts_Facebook
 1242.com##.conts_Twitter
 bayfm.co.jp,ironna.jp##.facebook
@@ -39538,6 +39553,8 @@ tokyo-np.co.jp##.print
 blogos.com##.ranking-sns
 fnn-news.com,gettyimages.co.jp,landrover.co.jp##.share
 bestcarweb.jp,biglobe.ne.jp,coffee-break.me,sankei.com##.sns
+oricon.co.jp##.sns-box
+ismedia.jp##.sns-fixed
 blogos.com,impress.co.jp,mobilenews.jp##.social
 tokyo-np.co.jp##.social-plugin
 srad.jp##.synd

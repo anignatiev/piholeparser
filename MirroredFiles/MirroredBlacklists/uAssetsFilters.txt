@@ -19639,10 +19639,9 @@ freeserial-keys.blogspot.com##+js(addEventListener-defuser.js, load, nextFunctio
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5453
 duden.de##+js(abort-on-property-read.js, document.cookie)
-duden.de##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, ||)
+mentor.duden.de#@#+js(abort-on-property-read.js, document.cookie)
 duden.de##+js(setTimeout-defuser.js, )&&)
 duden.de##+js(setTimeout-defuser.js, 0&&)
-duden.de##+js(setTimeout-defuser.js, (), 0)
 duden.de##[id*="billboard"]
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/bhr1sj/adblocker_detected/
@@ -20577,6 +20576,7 @@ faselhd.co##+js(popads-dummy.js)
 ! https://www.reddit.com/r/uBlockOrigin/comments/brb2nh/how_do_i_get_rid_of_the_ad_cancer_on_this_website/
 ||kansas.com/static/yozons-lib/core.js$script
 kansas.com,thenewstribune.com##+js(abort-on-property-read.js, performance)
+kansas.com,thenewstribune.com##+js(abort-on-property-read.js, apxyRedirect)
 
 ! https://github.com/NanoMeow/QuickReports/issues/1268
 livesport.ws##+js(abort-on-property-read.js, MessageChannel)
@@ -21230,7 +21230,7 @@ nsfwalbum.com##+js(addEventListener-defuser.js, getexoloader)
 @@||fapxl.com/skins/blank/js/blockadblock.js$script,1p
 
 ! https://github.com/NanoMeow/QuickReports/issues/1365
-@@||xtremeserve.xyz/add$xhr,domain=weirdmovies.xyz
+weirdmovies.xyz#@#.afs_ads
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5797
 dreamfancy.org##+js(setTimeout-defuser.js, nextFunction, 250)
@@ -21248,3 +21248,22 @@ dreamdth.com##+js(abort-on-property-write.js, wutimeBotPattern)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5799
 pornhub.com##+js(set-constant.js, atob, trueFunc)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5804
+ranker.com##+js(abort-on-property-read.js, __eiPb)
+
+! https://github.com/NanoMeow/QuickReports/issues/1368
+@@||stltoday.com^$generichide
+stltoday.com##.dfp-ad
+stltoday.com##.tnt-ads-container
+
+! https://www.reddit.com/r/uBlockOrigin/comments/brisbv/help_with_this_site/
+subdivx.com###taboola-below-article-thumbnails
+karconsulting.us^$3p
+
+! https://github.com/uBlockOrigin/uAssets/issues/5808
+arba7-online.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+arba7-online.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5809
+helis.com##+js(abort-on-property-write.js, adBlockDetected)

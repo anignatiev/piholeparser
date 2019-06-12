@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201906102242
+! Version: 201906112248
 ! Title: EasyPrivacy
-! Last modified: 10 Jun 2019 22:42 UTC
+! Last modified: 11 Jun 2019 22:48 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8585,6 +8585,7 @@ _mongo_stats/
 ||genieedmp.com^$third-party
 ||genieessp.jp^$third-party
 ||gmodmp.jp^$third-party
+||gsspcln.jp^$third-party
 ||hitgraph.jp^$third-party
 ||i2ad.jp^$third-party
 ||i2i.jp^$third-party
@@ -8598,9 +8599,11 @@ _mongo_stats/
 ||marsflag.com^$third-party
 ||mobylog.jp^$third-party
 ||n8s.jp^$third-party
+||nex8.net^$third-party
 ||omiki.com^$third-party
 ||owldata.com^$third-party
 ||pagoda56.com^$third-party
+||pdmp.jp^$third-party
 ||polymorphicads.jp^$third-party
 ||r-ad.ne.jp^$third-party
 ||rentracks.jp^$third-party
@@ -11608,15 +11611,20 @@ _mongo_stats/
 ||clickanalyzer.jp^$third-party
 ||counter2.blog.livedoor.com^
 ||imgstat.ameba.jp^$third-party
+||ip2c.landscape.co.jp^
+||kitchen.juicer.cc^
 ||l.popin.cc^
 ||lcs.livedoor.net^
+||line.me/tag.gif$image
 ||log.nordot.jp^
 ||macromill.com/imp/
 ||mofa.go.jp^*/count.cgi?
 ||omt.shinobi.jp^
 ||otoshiana.com/ufo/
+||pia.jp/akam/$script
+||pia.jp/images/pt.gif$image
 ||rcm.shinobi.jp^
-||rd.rakuten.co.jp^
+||rd.rakuten.co.jp^$script
 ||seesaa.jp/ot_square.pl?
 ||shinobi.jp/track?
 ||speee-ad.akamaized.net^
@@ -15254,12 +15262,15 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||volkswagen-italia.it^*/tracking/
 ||yachtingnetwork.it/stat/
 ! Japanese
+||amazonaws.com/ai-img/aia.js
 ||ameblo.jp/accesslog/
 ||analytics.cocolog-nifty.com^
 ||analyzer.fc2.com^
 ||analyzer2.fc2.com^
+||barks.jp/v1/stats
 ||carview.co.jp/include_api/log/
 ||cgi.tbs.co.jp^
+||count.upc.rakuten.co.jp^
 ||dmm.com/analytics/
 ||dmm.com^*/dmm.tracking.
 ||goo.ne.jp^*/vltracedmd.js
@@ -15280,6 +15291,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||tsite.jp/static/analytics/
 ||visit.geocities.jp^
 ||wisteria-js.excite.co.jp^
+||x.allabout.co.jp^
 ||yahoo.co.jp/b?p=
 ||yahoo.co.jp/p?
 ||yahoo.co.jp/s?s=
@@ -15591,7 +15603,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|fcbarcelona.com|lenovo.com|newyorker.com|oprah.com|pnc.com|vanityfair.com|wired.com
 @@||adobedtm.com^*/s-code-$script
 @@||adobedtm.com^*/satellite-$script
-@@||adobedtm.com^*/satelliteLib-$script,domain=|absa.co.za|argos.co.uk|collegeboard.org|crackle.com|crimewatchdaily.com|directline.com|fcbarcelona.com|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|mastercard.us|mathworks.com|monoprice.com|nbcnews.com|newyorker.com|oprah.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|smooth.com.au|sonycrackle.com|stuff.co.nz|subaru.com|timewarnercable.com|trip-planner.australia.com|vanityfair.com|wired.com
+@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|argos.co.uk|collegeboard.org|crackle.com|crimewatchdaily.com|directline.com|fcbarcelona.com|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|nbcnews.com|newyorker.com|oprah.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|smooth.com.au|sonycrackle.com|stuff.co.nz|subaru.com|timewarnercable.com|trip-planner.australia.com|vanityfair.com|wired.com
 @@||adobetag.com/d2/$script,domain=thestar.com
 @@||adobetag.com^*/amc.js$script
 @@||adobetag.com^*/sitecatalyst.js$domain=hbf.com.au|seattlepi.com|tv.com
