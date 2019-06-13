@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: eHwBEtt0+BYpyck/P7ZX7g
-! Version: 201906120011
+! Checksum: Y3XLpbT2bFquePeJq55Afg
+! Version: 201906130011
 ! Title: Fanboy's Annoyance List
-! Last modified: 12 Jun 2019 00:11 UTC
+! Last modified: 13 Jun 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4234,6 +4234,7 @@ _youtube_social_
 /gdpr/bundle.
 /GDPR/consentStorage.
 /gdpr/CookieConsent
+/gdpr/disp.js
 /gdpr/gdpr.$script
 /gdpr/gdpr_
 /gdpr/img/*
@@ -12931,6 +12932,7 @@ _site_cookie_
 ##.follow-youtube
 ##.follow-yt
 ##.followBox
+##.followBtns
 ##.followButtons
 ##.followFacebook
 ##.followFooter
@@ -13385,7 +13387,10 @@ _site_cookie_
 ##.global-footer__social-link
 ##.global-share
 ##.global-social
+##.globalFacebook
+##.globalInstagram
 ##.globalSocialLinks
+##.globalTwitter
 ##.global_sharing_controls
 ##.glyphicon-gplus
 ##.glyphicon-instagram
@@ -14548,6 +14553,7 @@ _site_cookie_
 ##.lf-share-item-wrapper
 ##.lf-social-bookmarks
 ##.lf-twitter
+##.lh-postSnsInner
 ##.liSocialFacebook
 ##.liSocialGoogle
 ##.liSocialLinkedIn
@@ -17871,6 +17877,7 @@ _site_cookie_
 ##.socialBtnList
 ##.socialBtns
 ##.socialButton
+##.socialButtonArea
 ##.socialButtonBig
 ##.socialButtons
 ##.socialButtonsContainer
@@ -26575,6 +26582,7 @@ _site_cookie_
 ##.bds_mini_cookie_policy
 ##.bdu-cookie-consent-bar
 ##.bg_cookie
+##.bg_gdpr_popup
 ##.bgcookies
 ##.bh-cookies-warning
 ##.bh-layerCookieLaw
@@ -31252,6 +31260,9 @@ _site_cookie_
 ||assets.pinterest.com/pidget.html$third-party
 ||assets.tumblr.com/assets/html/iframe/o.html$third-party
 ||assets.tumblr.com/assets/html/iframe/teaser.html?$third-party
+||b.hatena.ne.jp^$third-party
+||b.st-hatena.com/images/$image,third-party
+||b.st-hatena.com/js/$script,third-party
 ||b2c-wsinsight.crowdfactory.com^$third-party
 ||badge.facebook.com^$third-party
 ||badges.del.icio.us/feeds/$third-party
@@ -39540,7 +39551,11 @@ vapee.com##a[href^="http://t.qq.com/"]
 srad.jp###article-bottom
 shiseidogroup.jp###extra-tools
 biz-journal.jp,ntv.co.jp###sns
+etour.co.jp###snsbtn
+jiji.com##.SnsBtn
 asahi.com##.SnsUtilityArea
+kakakumag.com##.article-sns-btm
+kakakumag.com##.article-sns-top
 oricon.co.jp##.block-sub-sns
 1242.com##.conts_Facebook
 1242.com##.conts_Twitter
@@ -39555,10 +39570,12 @@ fnn-news.com,gettyimages.co.jp,landrover.co.jp##.share
 bestcarweb.jp,biglobe.ne.jp,coffee-break.me,sankei.com##.sns
 oricon.co.jp##.sns-box
 ismedia.jp##.sns-fixed
+ismedia.jp##.sns-icons
 blogos.com,impress.co.jp,mobilenews.jp##.social
 tokyo-np.co.jp##.social-plugin
 srad.jp##.synd
 toyokeizai.net##.tools
+kakakumag.com##.top-header-sns-link
 nikkei-cnbc.co.jp##.twitter
 !
 !---------- German Site Specific Hiding Rules ----------

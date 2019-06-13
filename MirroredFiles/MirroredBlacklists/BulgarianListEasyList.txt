@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201906112248
+! Version: 201906130002
 ! Title: EasyPrivacy
-! Last modified: 11 Jun 2019 22:48 UTC
+! Last modified: 13 Jun 2019 00:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3376,6 +3376,7 @@
 /statistics.asp?
 /statistics.aspx?profile
 /statistics.html?action=
+/statistics.html?url=
 /statistics.js?$third-party
 /statistics.php?data=
 /statistics.php?nid=
@@ -6410,7 +6411,6 @@ _mongo_stats/
 ||putags.com^$third-party
 ||pxf.io^$third-party
 ||pxi.pub^$third-party
-||pxlad.io^$third-party
 ||pymx5.com^$third-party
 ||pzkysq.pink^$third-party
 ||q-counter.com^$third-party
@@ -8598,6 +8598,7 @@ _mongo_stats/
 ||macromill.com^$third-party
 ||marsflag.com^$third-party
 ||mobylog.jp^$third-party
+||msgs.jp^$third-party
 ||n8s.jp^$third-party
 ||nex8.net^$third-party
 ||omiki.com^$third-party
@@ -9584,6 +9585,7 @@ _mongo_stats/
 ||d2d5uvkqie1lr5.cloudfront.net^*/analytics.
 ||d2gfdmu30u15x7.cloudfront.net^
 ||d2gfi8ctn6kki7.cloudfront.net^
+||d2ibu2ug0mt5qp.cloudfront.net^
 ||d2kmrmwhq7wkvs.cloudfront.net^
 ||d2kyy9hvbrzkgn.cloudfront.net^
 ||d2nq0f8d9ofdwv.cloudfront.net/track.js
@@ -11608,11 +11610,13 @@ _mongo_stats/
 ||analysis.shinobi.jp^
 ||analyzer51.fc2.com^
 ||asumi.shinobi.jp^
+||beacon.itmedia.jp^
 ||clickanalyzer.jp^$third-party
 ||counter2.blog.livedoor.com^
 ||imgstat.ameba.jp^$third-party
 ||ip2c.landscape.co.jp^
 ||kitchen.juicer.cc^
+||l-tike.com/akam/$script
 ||l.popin.cc^
 ||lcs.livedoor.net^
 ||line.me/tag.gif$image
@@ -15281,6 +15285,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 ||nhk.or.jp^*/bc.js
 ||ppf.rakuten.co.jp^$~script
 ||pvtag.yahoo.co.jp^
+||pw.gigazine.net^
 ||rakuten.co.jp/gw.js
 ||rdsig.yahoo.co.jp^$image
 ||sankei.co.jp/js/analytics/

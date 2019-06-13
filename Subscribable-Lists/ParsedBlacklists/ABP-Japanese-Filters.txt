@@ -369,6 +369,7 @@ atas.io
 atax.ign.com
 atemda.com
 atgsvcs.com
+aticdn.net
 atm.youku.com
 ato.mx
 attiveri.com
@@ -2270,6 +2271,7 @@ tacrater.com
 tafla.ru
 tag-cloud-generator.com
 tag.nifty.com
+tagcommander.com
 takealldir.ru
 tanzuki.net
 tapjoyads.com

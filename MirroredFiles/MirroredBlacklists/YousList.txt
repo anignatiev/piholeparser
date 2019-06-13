@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20190611
+! Version: 20190612
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -2817,6 +2817,8 @@ guitarworld.com##div.m-aside-rail--atf-ad
 guitarworld.com##div.m-aside-rail--sticky-ad
 guitarworld.com##div.m-fixedbottom-ad
 guitarworld.com##div.m-header-ad
+gyunggijh.co.kr##div#floating_banner_body
+gyunggijh.co.kr##ins[data-ad-slot="6372983748"]
 hackintosh.zone##div#ipsLayout_mainArea>div[align="center"]
 hackintosh.zone##ins#aswift_3_expand
 hani.co.kr##div#a-left-scroll-in>div[style="text-align:center; padding: 0 0 25px"]
@@ -3613,6 +3615,7 @@ m.gamemeca.com##div.mobile_tib_ad
 m.gamemeca.com##div.mobile_top_ad
 m.gametoc.hankyung.com##section.advertisment
 m.gokorea.kr##div[data-widget_id="V7av0xlB"]
+m.gyunggijh.co.kr##section.advertisment
 m.hani.co.kr##div.news-box-ad
 m.hani.co.kr##section.adBox
 m.hankooki.com##div#ad_img_div
@@ -4877,6 +4880,7 @@ ruliweb.com##div.adrrr
 rutor.info##div.sideblock2
 ryueyes11.tistory.com##div.entry>table[border="0"][cellpadding="0"][cellspacing="0"][width="100%"]
 ryueyes11.tistory.com##ins[data-ad-slot="2146069498"]
+sciencemag.org##div[id^="aaas-oas_"]
 search.daum.net##div.ad_sch
 search.daum.net##div.content_sponsor
 search.naver.com##div.ad_section

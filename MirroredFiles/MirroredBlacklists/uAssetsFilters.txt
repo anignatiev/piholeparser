@@ -492,6 +492,7 @@ pornhub.com##+js(abort-on-property-write.js, rAb)
 ! https://github.com/uBlockOrigin/uAssets/issues/2913
 pornhub.com##+js(addEventListener-defuser.js, DOMContentLoaded, [native code])
 pornhub.com##sads
+pornhub.com##.alpha.sniperModeEngaged
 ! https://github.com/uBlockOrigin/uAssets/issues/356
 ! https://forums.lanik.us/viewtopic.php?p=120148#p120148
 youjizz.com##+js(abort-on-property-write.js, nb)
@@ -1317,7 +1318,6 @@ howtogeek.com##.thecontent > div:has(a[href^="http://www.jdoqocy.com/click-"])
 ! https://github.com/uBlockOrigin/uAssets/issues/2262
 ! https://github.com/uBlockOrigin/uAssets/issues/2404
 ! https://github.com/uBlockOrigin/uAssets/issues/3640
-quora.com##.pagedlist_item:has([href*="utm_campaign"])
 quora.com##.PromptsList
 quora.com##.AdBundle
 quora.com##.AdStory
@@ -1552,7 +1552,7 @@ bicycling.com,menshealth.com,prevention.com,rodalesorganiclife.com,runnersworld.
 ! https://github.com/NanoMeow/QuickReports/issues/323
 ! https://github.com/uBlockOrigin/uAssets/issues/4268
 ! https://github.com/NanoMeow/QuickReports/issues/1189
-advocate.com,arobasenet.com,cultofmac.com,currentaffairs.gktoday.in,dailycaller.com,dogtime.com,fallbrook247.com,gamesgames.com,gazettenet.com,insidenova.com,jetztspielen.de,leitesculinaria.com,onmsft.com,post-gazette.com,practicalpainmanagement.com,rawstory.com,sanangelolive.com,sanfoundry.com,sporcle.com,stylecaster.com,upi.com,viraliq.com,yourtango.com##+js(abort-on-property-read.js, googletag)
+advocate.com,arobasenet.com,cultofmac.com,currentaffairs.gktoday.in,dailycaller.com,dogtime.com,fallbrook247.com,gamesgames.com,gazettenet.com,insidenova.com,jetztspielen.de,leitesculinaria.com,nj.com,onmsft.com,post-gazette.com,practicalpainmanagement.com,rawstory.com,sanangelolive.com,sanfoundry.com,sporcle.com,stylecaster.com,upi.com,viraliq.com,yourtango.com##+js(abort-on-property-read.js, googletag)
 ! https://github.com/uBlockOrigin/uAssets/issues/618#issuecomment-333248119
 ! https://forums.lanik.us/viewtopic.php?p=117475#p117475
 ! https://github.com/uBlockOrigin/uAssets/issues/852
@@ -1947,19 +1947,19 @@ dailymail.co.uk##+js(set-constant.js, atob, trueFunc)
 android-zone.ws##+js(bab-defuser.js)
 
 ! https://www.reddit.com/r/KissAnime/comments/6ng3gn/ublock_origin_not_blocking_all_ads/
-rapidvideo.com##+js(popads.net.js)
+rapidvideo.*##+js(popads.net.js)
 ! https://www.reddit.com/r/uBlockOrigin/comments/6tewvm/i_got_a_horrible_adpop_up_that_spawned_itself/
-rapidvideo.com##+js(noeval.js)
-rapidvideo.com##+js(abort-on-property-write.js, executed)
+rapidvideo.*##+js(noeval.js)
+rapidvideo.*##+js(abort-on-property-write.js, executed)
 ! https://github.com/uBlockOrigin/uAssets/issues/833
-rapidvideo.com##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
+rapidvideo.*##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
 ! https://github.com/uBlockOrigin/uAssets/issues/2739
-rapidvideo.com##+js(set-constant.js, onload, noopFunc)
+rapidvideo.*##+js(set-constant.js, onload, noopFunc)
 ! https://github.com/uBlockOrigin/uAssets/issues/2669#issuecomment-409005490
-rapidvideo.com##+js(addEventListener-defuser.js, mousedown, preventDefault)
+rapidvideo.*##+js(addEventListener-defuser.js, mousedown, preventDefault)
 ! https://github.com/uBlockOrigin/uAssets/issues/3992
-rapidvideo.com##+js(abort-current-inline-script.js, Math, zfgloaded)
-rapidvideo.com##+js(window.open-defuser.js)
+rapidvideo.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+rapidvideo.*##+js(window.open-defuser.js)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/516
 thepiratebay.*##+js(abort-on-property-read.js, _wm)
@@ -5802,11 +5802,11 @@ tinypaste.cc##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 tinypaste.cc##+js(abort-on-property-write.js, Fingerprint2)
 @@||tinypaste.cc^$generichide
 
-! https://github.com/uBlockOrigin/uAssets/issues/2165
+! https://github.com/uBlockOrigin/uAssets/issues/5811
 bs.to##+js(abort-current-inline-script.js, _0x7bb5)
 bs.to,burningseries.co##+js(addEventListener-defuser.js, click, 0x)
 *$popunder,3p,domain=bs.to|burningseries.co
-bs.to,burningseries.co##[onclick]
+bs.to,burningseries.co##+js(remove-attr.js, onclick)
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/7ys9hz/nsfw_how_do_you_get_rid_of_those_dancing_girls/
 hentaigo.com##+js(abort-on-property-read.js, loadTool)
@@ -19365,8 +19365,10 @@ enrt.eu##[href^="https://peritoempreendimentos.builderall.net/"]
 ! https://github.com/uBlockOrigin/uAssets/issues/5390
 oko.sh##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 oko.sh##+js(abort-on-property-read.js, AaDetector)
+oko.sh##+js(abort-current-inline-script.js, Math.sin, vocabulary)
 ||oko.sh/sw.js$script,1p
 oko.sh##a[href^="https://href.li/"]
+oko.sh##[href="https://tipsalert.xyz"]
 
 ! https://github.com/NanoMeow/QuickReports/issues/1047
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=husseinezzat.com
@@ -21267,3 +21269,36 @@ arba7-online.com##+js(abort-current-inline-script.js, Math, zfgloaded)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5809
 helis.com##+js(abort-on-property-write.js, adBlockDetected)
+
+! thevidhd popups
+thevidhd.*##+js(abort-on-property-write.js, smrtSB)
+thevidhd.*##+js(nowebrtc.js)
+||thevidhd.*/sw.js$script,1p
+thevidhd.*##.video_batman
+thevidhd.*##h1
+||kirkir.xyz^
+
+! https://github.com/NanoMeow/QuickReports/issues/1372
+@@/ads.js$xhr,domain=tubitv.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/5813
+funimg.net##+js(addEventListener-defuser.js, getexoloader)
+*$popunder,3p,domain=funimg.net
+funimg.net##[href="http://pornsouls.com"]
+
+! https://github.com/uBlockOrigin/uAssets/issues/5814
+official-kmspico.com##+js(set-constant.js, $tieE3, true)
+
+! https://forums.lanik.us/viewtopic.php?p=148205#p148205
+cuatro.com,mitele.es,telecinco.es##+js(abort-on-property-read.js, $REACTBASE_STATE.serverModules.push)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5816
+@@||wupfile.com^$generichide
+
+! https://www.reddit.com/r/uBlockOrigin/comments/bzva02/please_add_this_to_global_ublock_filters/
+@@||tf1-das-live.secure.footprint.net/$xmlhttprequest,domain=prod-player.tf1.fr
+||delivery.tf1.fr/pub$media,redirect=noopmp3-0.1s,domain=tf1.fr
+||dnl-adv-ssl.tf1.fr/$media,redirect=noopmp3-0.1s,domain=tf1.fr
+
+! https://github.com/uBlockOrigin/uAssets/issues/5817
+@@||world-of-facts.com^$generichide
