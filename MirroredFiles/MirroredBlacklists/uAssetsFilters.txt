@@ -166,8 +166,6 @@ freenet.de,giga.de,kicker.de,quoka.de,transfermarkt.*##+js(abort-current-inline-
 kino.de,spieletipps.de##+js(abort-on-property-read.js, document.cookie)
 news.de##+js(set-constant.js, String.prototype.charAt, noopFunc)
 !#endif
-freenet.de,giga.de,kicker.de,kino.de,meinestadt.de,quoka.de,spieletipps.de##+js(set-constant.js, atob, trueFunc)
-webmail.freenet.de#@#+js(set-constant.js, atob, trueFunc)
 airliners.de,auszeit.bio,autorevue.at,bafoeg-aktuell.de,berliner-kurier.de,berliner-zeitung.de,bikerszene.de,boersennews.de,bonedo.de,chefkoch.de,clever-tanken.de,computerbild.de,deine-tierwelt.de,dhd24.com,digitalfernsehen.de,donnerwetter.de,e-hausaufgaben.de,express.de,fanfiktion.de,finya.de,formel1.de,frag-mutti.de,freenet.de,fremdwort.de,frustfrei-lernen.de,fussballdaten.de,gameswelt.*,gartendialog.de,gartenlexikon.de,gewinnspiele.tv,gut-erklaert.de,haus-garten-test.de,iban-rechner.de,immobilienscout24.de,inside-handy.de,kindergeld.org,ksta.de,liga3-online.de,lz.de,messen.de,moviejones.de,mt.de,musiker-board.de,mz-web.de,naumburger-tageblatt.de,news.de,newsbreak24.de,nickles.de,nw.de,oeffentlicher-dienst.info,onlinemarketing.de,prad.de,psychic.de,quoka.de,rheinische-anzeigenblaetter.de,rimondo.com,rundschau-online.de,spielen.de,spieletipps.de,spielfilm.de,tichyseinblick.de,torgranate.de,transfermarkt.*,truckscout24.*,tvinfo.de,unicum.de,unsere-helden.com,webfail.com,weltfussball.at,weristdeinfreund.de,weser-kurier.de,wetter.com,wetteronline.at,wetteronline.ch,wieistmeineip.*,wize.life##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, ||()
 airliners.de,auszeit.bio,autorevue.at,bafoeg-aktuell.de,berliner-kurier.de,berliner-zeitung.de,bikerszene.de,boersennews.de,bonedo.de,chefkoch.de,clever-tanken.de,computerbild.de,deine-tierwelt.de,dhd24.com,digitalfernsehen.de,donnerwetter.de,e-hausaufgaben.de,express.de,fanfiktion.de,finya.de,formel1.de,frag-mutti.de,freenet.de,fremdwort.de,frustfrei-lernen.de,fussballdaten.de,gameswelt.*,gartendialog.de,gartenlexikon.de,gewinnspiele.tv,gut-erklaert.de,haus-garten-test.de,iban-rechner.de,immobilienscout24.de,inside-handy.de,kindergeld.org,ksta.de,liga3-online.de,lz.de,messen.de,moviejones.de,mt.de,musiker-board.de,mz-web.de,naumburger-tageblatt.de,news.de,newsbreak24.de,nickles.de,nw.de,oeffentlicher-dienst.info,onlinemarketing.de,prad.de,psychic.de,quoka.de,rheinische-anzeigenblaetter.de,rimondo.com,rundschau-online.de,spielen.de,spielfilm.de,tichyseinblick.de,torgranate.de,transfermarkt.*,truckscout24.*,tvinfo.de,unicum.de,unsere-helden.com,webfail.com,weltfussball.at,weristdeinfreund.de,weser-kurier.de,wetter.com,wetteronline.at,wetteronline.ch,wieistmeineip.*,wize.life##+js(setTimeout-defuser.js, )&&)
 airliners.de,auszeit.bio,autorevue.at,bafoeg-aktuell.de,berliner-kurier.de,berliner-zeitung.de,bikerszene.de,boersennews.de,bonedo.de,chefkoch.de,clever-tanken.de,computerbild.de,deine-tierwelt.de,dhd24.com,digitalfernsehen.de,donnerwetter.de,e-hausaufgaben.de,express.de,fanfiktion.de,finya.de,formel1.de,frag-mutti.de,freenet.de,fremdwort.de,frustfrei-lernen.de,fussballdaten.de,gameswelt.*,gartendialog.de,gartenlexikon.de,gewinnspiele.tv,gut-erklaert.de,haus-garten-test.de,iban-rechner.de,immobilienscout24.de,inside-handy.de,kindergeld.org,ksta.de,liga3-online.de,lz.de,messen.de,moviejones.de,mt.de,musiker-board.de,mz-web.de,naumburger-tageblatt.de,news.de,newsbreak24.de,nickles.de,nw.de,oeffentlicher-dienst.info,onlinemarketing.de,prad.de,psychic.de,quoka.de,rheinische-anzeigenblaetter.de,rimondo.com,rundschau-online.de,spielen.de,spieletipps.de,spielfilm.de,tichyseinblick.de,torgranate.de,transfermarkt.*,truckscout24.*,tvinfo.de,unicum.de,unsere-helden.com,weltfussball.at,weristdeinfreund.de,weser-kurier.de,wetter.com,wetteronline.at,wetteronline.ch,wieistmeineip.*,wize.life##+js(setTimeout-defuser.js, 0&&)
@@ -611,6 +609,8 @@ m.economictimes.com###appBanner,#stickyBanner
 ! https://github.com/uBlockOrigin/uAssets/issues/1404
 ||svonm.com/hd-main.js$script,redirect=hd-main.js,domain=4players.de|bento.de|brigitte.de|buffed.de|desired.de|gamesaktuell.de|gamezone.de|gamona.de|giga.de|golem.de|kicker.de|kino.de|myspass.de|pcgames.de|pcgameshardware.de|spiegel.de|spiegel.tv|spielaffe.de|spieletipps.de|t-online.de|tele5.de|thrashermagazine.com|videogameszone.de
 4players.de,bento.de,brigitte.de,buffed.de,chip.de,desired.de,gamesaktuell.de,gamezone.de,gamona.de,giga.de,golem.de,kicker.de,kino.de,myspass.de,pcgames.de,pcgameshardware.de,spiegel.de,spiegel.tv,spielaffe.de,spieletipps.de,t-online.de,tele5.de,thrashermagazine.com,videogameszone.de,welt.de##+js(golem.de.js)
+! https://github.com/uBlockOrigin/uBlock-issues/issues/630
+||video.golem.de/*/scripts/radiant/homad$xhr,redirect=nooptext,domain=golem.de
 
 ! https://adblockplus.org/forum/viewtopic.php?f=10&t=45273&start=15#p156427
 dailycaller.com##[id^="outbrain_widget"]
@@ -7312,10 +7312,12 @@ mikymoons.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 mikymoons.com##+js(nano-setInterval-booster.js)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2016
-speed4up.com##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=speed4up.com
-@@||speed4up.com^$generichide
-speed4up.com##.adsbygoogle
+speed4up.*##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
+speed4up.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=speed4up.com|speed4up.net
+@@||speed4up.*^$generichide
+speed4up.*##.adsbygoogle
+speed4up.net##[id^="div-gpt-ad"]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2017
 toptech360.com##+js(setTimeout-defuser.js, nextFunction, 500)
@@ -10674,6 +10676,8 @@ imgskull.com##+js(noeval.js)
 softmaroc.org##+js(addEventListener-defuser.js, load, nextFunction)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3097
+tv-onlinehd.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+tv-onlinehd.com##+js(abort-on-property-write.js, _pop)
 tv-onlinehd.com##+js(addEventListener-defuser.js, load, onload)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3098
@@ -14819,9 +14823,7 @@ smtebooks.*##+js(bab-defuser.js)
 t66y.com##.black.tips
 !t66y.com##.sptable_do_not_remove:style(opacity: 0 !important;)
 t66y.com##+js(remove-attr.js, onclick)
-t66y.com##+js(set-constant.js, Math.random, trueFunc)
 t66y.com##+js(setTimeout-defuser.js, /^((?!try).)*$/)
-t66y.com##+js(abort-on-property-read.js, $.css)
 
 ! https://github.com/jspenguin2017/uBlockProtector/issues/1011
 k511.me##+js(abort-current-inline-script.js, document.getElementById, undefined)
@@ -15176,6 +15178,7 @@ czapkomania.pl##+js(abort-on-property-read.js, anOptions)
 @@||legia.net^$script,first-party
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4396
+mangovideo.pw,pandamovies.pw##+js(abort-current-inline-script.js, document.createElement, 'script')
 pandamovies.pw##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
 pandamovies.pw##+js(abort-on-property-read.js, ExoLoader.serve)
 mangovideo.pw,pandamovies.pw##+js(window.open-defuser.js)
@@ -16409,6 +16412,7 @@ firststateupdate.com##+js(abort-on-property-read.js, anOptions)
 ||d2fuc4clr7gvcn.cloudfront.net/track.js$script,3p
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=42488
+solarporn.net##+js(abort-current-inline-script.js, document.createElement, 'script')
 solarporn.net##+js(abort-on-property-read.js, _0x1676)
 solarporn.net##+js(abort-on-property-read.js, Date.prototype.toGMTString)
 solarporn.net##+js(abort-on-property-read.js, ExoLoader)
@@ -18805,6 +18809,7 @@ praxis-jugendarbeit.de##+js(setTimeout-defuser.js, nextFunction, 2000)
 @@||m.kuku.lu^$generichide
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5297
+watchfreexxx.net##+js(abort-current-inline-script.js, document.createElement, 'script')
 watchfreexxx.net##+js(abort-on-property-read.js, Date.prototype.toGMTString)
 watchfreexxx.net##+js(abort-on-property-read.js, ExoLoader)
 watchfreexxx.net##+js(abort-on-property-read.js, ExoLoader.serve)
@@ -21302,3 +21307,22 @@ cuatro.com,mitele.es,telecinco.es##+js(abort-on-property-read.js, $REACTBASE_STA
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5817
 @@||world-of-facts.com^$generichide
+
+! techperiod.com anti adb
+@@||techperiod.com^$generichide
+techperiod.com##.adsbygoogle
+
+! https://github.com/uBlockOrigin/uAssets/issues/5819
+@@||waifusafe.ooo^$generichide
+waifusafe.ooo##.adsbygoogle
+
+! https://github.com/jspenguin2017/uBlockProtector/issues/1068
+anisindo.com##+js(abort-current-inline-script.js, Math.random)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5820
+bollywooddramanews.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+@@||bollywooddramanews.com^$generichide
+bollywooddramanews.com##.adsbygoogle
+
+! https://github.com/uBlockOrigin/uAssets/issues/5822
+3ds-models.org##+js(abort-on-property-read.js, anOptions)
