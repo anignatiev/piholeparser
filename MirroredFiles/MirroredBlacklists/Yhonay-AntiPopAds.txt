@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 8178
+! Version: 8205
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -115,6 +115,7 @@
 ||ahjljmxfxuet.com^
 ||ahkilcrublxn.bid^
 ||ahstrelgnh.com^
+||ahtkajcs.com^
 ||ahuivddkvrrebo.com^
 ||ahuosyyqprt.com^
 ||ahvnvtxbk.bid^
@@ -149,6 +150,7 @@
 ||ajxwyowuylhos.bid^
 ||ajzdkkzv.com^
 ||ajzxdeslpbnhp.bid^
+||akbeyfcu.com^
 ||akbiokbinnzh.com^
 ||akcdinzvcenhjh.com^
 ||akdzimverrss.com^
@@ -492,6 +494,7 @@
 ||bgibeluywjhgb.com^
 ||bgibrhkn.com^
 ||bgiiubagsuvv.com^
+||bglnzzsgigbto.com^
 ||bgmgyuzcfrujc.com^
 ||bgpxrwjrbsjb.com^
 ||bgqddlvq.com^
@@ -535,6 +538,7 @@
 ||bivujadpvk.com^
 ||biwjfwhxoy.bid^
 ||bixolsoqluvzpu.com^
+||bjceodmwesmbth.com^
 ||bjcunwelpd.com^
 ||bjdfckchzsa.bid^
 ||bjenzpojtgvo.club^
@@ -709,6 +713,7 @@
 ||bvqfuryhas.bid^
 ||bvreosoejjt.bid^
 ||bvrkzhtxlgono.com^
+||bvwkethv.com^
 ||bvwzffbinbou.com^
 ||bvyoekxfjwpa.com^
 ||bvzhalhubwkbg.bid^
@@ -1283,6 +1288,7 @@
 ||dkgitkwo.com^
 ||dkjgyysfincxps.bid^
 ||dklvewbgjksyy.com^
+||dksvmumbi.com^
 ||dktaqipmquo.com^
 ||dktyjwldv.com^
 ||dkvblgxkihtys.bid^
@@ -1350,6 +1356,7 @@
 ||dpmyrskvbznvn.com^
 ||dpnahzfbb.com^
 ||dpoffxqjlgt.com^
+||dpoulbxouhor.com^
 ||dpqytzwxohcd.bid^
 ||dprdhzofq.bid^
 ||dpwmloknxtuw.com^
@@ -2503,6 +2510,7 @@
 ||gtkikiwa.com^
 ||gtlcgovlg.com^
 ||gtmonytxxglu.com^
+||gtnlyyxfhkjv.com^
 ||gtnmyddlf.com^
 ||gtorsoxdh.com^
 ||gttrngwnuuvy.bid^
@@ -3070,6 +3078,7 @@
 ||ifbhceoxx.com^
 ||ifdmdfqysaacqa.com^
 ||ifecuwzjajkiq.com^
+||ifeuddaywa.com^
 ||iffzxqnhd.com^
 ||ifgnsrtjcz.com^
 ||iflndvke.com^
@@ -3632,6 +3641,7 @@
 ||jrcpoxuskv.com^
 ||jrdxlxdnohjzs.bid^
 ||jrecvuklrjpli.com^
+||jrikmexrknmxy.com^
 ||jrlnmyorquny.bid^
 ||jrlsithadutpm.com^
 ||jrrekpskc.com^
@@ -4046,6 +4056,7 @@
 ||kvhkfptcv.bid^
 ||kvhxckkd.com^
 ||kvikjeqepjrq.bid^
+||kvjbqtwgrfnmt.com^
 ||kvkoqywl.com^
 ||kvmsbpzptwm.bid^
 ||kvnldhrlw.com^
@@ -4247,6 +4258,7 @@
 ||ljfmxgkfmvtowg.com^
 ||ljgmufobaphrd.com^
 ||ljhuvzutnpza.com^
+||ljhyotgxuyglm.com^
 ||ljjaiargqfwtzu.com^
 ||ljkihuolgoh.com^
 ||ljkmwpvahv.com^
@@ -4689,6 +4701,7 @@
 ||mmdcibihoimt.com^
 ||mmdifgneivng.com^
 ||mmesheltljyi.com^
+||mmfvtvdqlwxyj.com^
 ||mmfzcakzcqn.bid^
 ||mmknsfgqxxsg.com^
 ||mmnridsrreyh.com^
@@ -4963,6 +4976,7 @@
 ||nfdntqlqrgwc.com^
 ||nfefwoasiq.bid^
 ||nfijzdjtpglk.com^
+||nfkxplkiid.com^
 ||nfnssadfhxov.com^
 ||nfnxvdds.com^
 ||nfqxehrpahqhjf.com^
@@ -5259,6 +5273,7 @@
 ||obodwgqr.bid^
 ||obpzuctfozram.com^
 ||obqtccxcfjmd.com^
+||obufquwiwy.com^
 ||obwvmzdb.com^
 ||obxffuwanefrr.bid^
 ||obynjduwh.bid^
@@ -5701,6 +5716,7 @@
 ||pjnkstpiz.com^
 ||pjnrwznmzguc.com^
 ||pjnudrgy.com^
+||pjpgrrkegamhq.com^
 ||pjrlztgwix.com^
 ||pjtycinmerhb.com^
 ||pjydgizqsldqj.bid^
@@ -6775,6 +6791,7 @@
 ||seoaelrfdy.com^
 ||seotpqntjukhg.bid^
 ||sepyqhipq.com^
+||setrtcjfhreqg.com^
 ||seuojaesymeriv.com^
 ||seympfgeyrew.com^
 ||sfaprgtgcguh.com^
@@ -7450,6 +7467,7 @@
 ||uaczwcws.com^
 ||uafgymcern.com^
 ||uaiilmuujsu.com^
+||uaiowafphhb.com^
 ||ualobhbpjbjtm.bid^
 ||uamfjudim.bid^
 ||uamgajydnv.com^
@@ -7571,6 +7589,7 @@
 ||ujrfwuzv.com^
 ||ujrtwvabum.com^
 ||ujtyosgemtnx.com^
+||ujuqvalvvvof.com^
 ||ujwdwwfuqcgnv.com^
 ||ujzeqfkeilro.com^
 ||ukbhtzbxqzzqp.bid^
@@ -7689,6 +7708,7 @@
 ||vcxoizuwy.com^
 ||vcyxvhxysl.com^
 ||vczprcezg.com^
+||vdfoejtqimcgog.com^
 ||vdldsjqxppi.com^
 ||vdrpwkycbla.com^
 ||vebubhzj.com^
@@ -7719,6 +7739,7 @@
 ||vjfkglkztcz.com^
 ||vjgyxegvfrhthq.com^
 ||vjltrbzrtqmkib.com^
+||vjqshoyjxwk.com^
 ||vjzcgotoy.com^
 ||vkbftstazhjgdx.com^
 ||vkhrnisuky.com^
@@ -7896,7 +7917,9 @@
 ||xcjelwzs.com^
 ||xcqgkkccjjucf.com^
 ||xctiblmetgwr.com^
+||xcwmyyglayg.com^
 ||xcwnwrgvwg.com^
+||xddqdioms.com^
 ||xddydaddexkjxs.com^
 ||xdjefibopixf.com^
 ||xdlmsvhhsvsp.com^
@@ -7990,6 +8013,7 @@
 ||ydutvhtw.com^
 ||ydwjfuhuiesrhp.com^
 ||yeagdfyw.com^
+||yebojewh.com^
 ||yecxfxsbkb.com^
 ||yefttzzn.com^
 ||yenlubragf.com^
@@ -8005,6 +8029,7 @@
 ||ygemknajajg.com^
 ||ygngaqihz.com^
 ||yhaztdufgmw.com^
+||yhljenkljge.com^
 ||yhyxopmgofz.com^
 ||yifuqtge.com^
 ||yimfcnxzyqhpih.com^
@@ -8098,6 +8123,7 @@
 ||zcczlrtbbx.com^
 ||zcfbwlgydxo.com^
 ||zcjxeitlmnuq.com^
+||zckpaeifoq.com^
 ||zcwjasfrog.com^
 ||zdhnepeadrwetg.com^
 ||zdjkzqwpqvwcmc.com^
@@ -8169,6 +8195,7 @@
 ||zursiicizyhd.com^
 ||zuwuqxstogbj.com^
 ||zuybvpprdoo.com^
+||zvmprcnihkk.com^
 ||zweigciinmslan.com^
 ||zwfvzxmc.com^
 ||zwpaujzg.com^

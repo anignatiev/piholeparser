@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jV1xIHO/CT0oGoElQNFqtQ
-! Version: 201906150011
+! Checksum: AkR6mxKC+Vr58p0wqGMI9A
+! Version: 201906160011
 ! Title: Fanboy's Annoyance List
-! Last modified: 15 Jun 2019 00:11 UTC
+! Last modified: 16 Jun 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4148,6 +4148,7 @@ _youtube_social_
 /cookiesdisclaimer.
 /cookieser.
 /CookieSettingsManager?
+/cookiesgdpr?
 /cookiesJS.
 /cookieslegal.
 /cookiesLegales.
@@ -5283,6 +5284,7 @@ _site_cookie_
 ###newsletter-button
 ###newsletter-component
 ###newsletter-container
+###newsletter-content-wrapper
 ###newsletter-cta
 ###newsletter-dialog
 ###newsletter-email-ask
@@ -5311,6 +5313,7 @@ _site_cookie_
 ###newsletter-panel
 ###newsletter-popup
 ###newsletter-popup-cont
+###newsletter-popup-container
 ###newsletter-popup-left
 ###newsletter-popup-overlay
 ###newsletter-popup-pardon
@@ -5455,6 +5458,7 @@ _site_cookie_
 ###nyp-newsletter-modal
 ###obog_signup_widget
 ###offer-research-center-newsletter
+###ols-email-popup
 ###openNewsletter
 ###opinion-newsletter-promo
 ###optinform-container
@@ -7333,6 +7337,7 @@ _site_cookie_
 ##.bc_goto_top
 ##.bd-backtotop-1
 ##.block_to_top
+##.blog-back-to-top
 ##.body-back-to-top
 ##.body-btn-top
 ##.body-scrollToTop
@@ -10758,6 +10763,7 @@ _site_cookie_
 ##.actionlinks__title
 ##.actions-bar-share
 ##.actions-social
+##.actions-sociaux
 ##.actions_facebook
 ##.actions_sharethis
 ##.actions_twitter
@@ -15664,6 +15670,7 @@ _site_cookie_
 ##.qt-sharepage
 ##.qt-socialicon
 ##.qticon-share
+##.quick-links__social
 ##.quickshare
 ##.quickshare-container
 ##.quickshare-stumbleupon
@@ -19975,6 +19982,7 @@ _site_cookie_
 ##a[href^="http://www.tumblr.com/share/"]
 ##a[href^="http://www.tumblr.com/share?"]
 ##a[href^="http://www.twitter.com/share?"]
+##a[href^="http://www.viadeo.com/shareit/"]
 ##a[href^="http://www.wykop.pl/dodaj/link/?url="]
 ##a[href^="http://www.wykop.pl/dodaj?url="]
 ##a[href^="http://yozm.daum.net/api/popup/prePost?sourceid="]
@@ -27050,7 +27058,6 @@ _site_cookie_
 ##.cookie-banner-section
 ##.cookie-banner:not(body):not(html)
 ##.cookie-banner__cnt
-##.cookie-bar
 ##.cookie-bar-alert
 ##.cookie-bar-con
 ##.cookie-bar-mask
@@ -27062,7 +27069,7 @@ _site_cookie_
 ##.cookie-bar-wrap
 ##.cookie-bar-wrapper
 ##.cookie-bar2
-##.cookie-bar:not(body)
+##.cookie-bar:not(body):not(html)
 ##.cookie-bar_inner
 ##.cookie-barre
 ##.cookie-bg
@@ -29760,6 +29767,7 @@ _site_cookie_
 ##.pc-cookie-bar
 ##.pci-global-cookies
 ##.pcookie
+##.pcy_cookie_notice
 ##.pea_cook_more_info_popover
 ##.pea_cook_wrapper
 ##.penci-gprd-law
@@ -35756,7 +35764,8 @@ draxe.com##.optin-sidebar
 cookienameddesire.com,ghettoradio.co.ke##.optinforms-form-container
 evonomics.com##.optshorts
 bidnessetc.com##.outlinks
-realclearpolitics.com,realclearscience.com##.overlay
+focus-arztsuche.de,realclearpolitics.com,realclearscience.com##.overlay
+focus-arztsuche.de##.overlay-modal
 howtogeek.com##.overlay-wrapper
 bidnessetc.com##.overlayyy
 gellerreport.com##.pamelageller_join
@@ -36137,6 +36146,7 @@ nomuraholdings.com##.js-PageTop
 airliquide.com##.js-scroll-down
 buyee.jp##.jump
 marketwatch.com##.link--top
+pole-emploi.fr##.link-top
 kakaocorp.com##.link_top
 bbc.com##.lx-commentary__top-link
 sony.net##.ly_pagetop-main
@@ -38096,7 +38106,7 @@ themaven.net##.consent-ui
 cityoflondon.gov.uk##.container-floating-notifications
 bankofengland.co.uk,cityoflondon.police.uk##.container-notifications
 antoineonline.com##.container-overlay
-18virginsex.com,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,hempel.co.uk,hempelyacht.com,here.com,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mysurveylab.com,nationalcircus.org.uk,natwest.com,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,silverlake.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com##.cookie
+18virginsex.com,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,hempel.co.uk,hempelyacht.com,here.com,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,silverlake.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com##.cookie
 deezer.com##.cookie-banner
 theatlantic.com##.cookie-disclaimer
 bitfeed.co##.cookiebanner
@@ -40370,6 +40380,7 @@ ehl.de##.popup_bg
 audio-parts.de##.popup_notification
 bad-wildbad.de##.popupbox
 brieffreund-gesucht.de##.privacy
+focus-arztsuche.de##.py-md.tracking-box
 deutscher-fenstershop.de##.rule_assept
 grazia-magazin.de,idee-fuer-mich.de##.safeSpaceForClose
 bw-online-shop.com##.show-modal

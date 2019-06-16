@@ -490,7 +490,6 @@ pornhub.com##+js(abort-on-property-write.js, rAb)
 ! https://github.com/uBlockOrigin/uAssets/issues/2913
 pornhub.com##+js(addEventListener-defuser.js, DOMContentLoaded, [native code])
 pornhub.com##sads
-pornhub.com##.alpha.sniperModeEngaged
 ! https://github.com/uBlockOrigin/uAssets/issues/356
 ! https://forums.lanik.us/viewtopic.php?p=120148#p120148
 youjizz.com##+js(abort-on-property-write.js, nb)
@@ -1196,7 +1195,7 @@ wikia.com##+js(abort-on-property-write.js, _sp_)
 ! https://github.com/uBlockOrigin/uAssets/issues/1153
 ! https://github.com/uBlockOrigin/uAssets/issues/1194
 ! https://forums.lanik.us/viewtopic.php?f=62&t=38315
-123movies.net,2ddl.*,allitebooks.com,arabseed.tv,bonstreams.net,buzzfil.net,byter.tv,clicknupload.org,convertinmp4.com,crictime.com,ddlvalley.me,dontdo.pw,dramamate.*,entervideo.net,eztv.*,filmvf.cc,fluvore.com,go4up.com,hilltop.pw,icefilms.info,igg-games.com,kiss-anime.*,letmewatchthis.*,liveflashplayer.org,mac-torrents.com,mapx.pw,mkvcage.*,movie4k.org,oceanoffgames.com,openload.ch,pdf-giant.com,pelispedia.*,playuc.live,radiofly.ws,readmanga.today,sawlive.tv,skidrowcrack.com,sportshd.me,strdef.world,streamfilmzzz.com,streamzzz.online,subswiki.com,thevideobee.to,tny.ec,tomadivx.org,toros.co,torrentz.to,torrentz2.*,ublock.pw,ubocam.pw,unblocked.app,upload.ee,uploading.site,uptobox.com,yts.*,zooqle.*##+js(nowebrtc.js)
+123movies.net,2ddl.*,allitebooks.com,arabseed.tv,bonstreams.net,buzzfil.net,byter.tv,clicknupload.org,convertinmp4.com,cric1.com,crictime.com,ddlvalley.me,dontdo.pw,dramamate.*,entervideo.net,eztv.*,filmvf.cc,fluvore.com,go4up.com,hilltop.pw,icefilms.info,igg-games.com,kiss-anime.*,letmewatchthis.*,liveflashplayer.org,mac-torrents.com,mapx.pw,mkvcage.*,movie4k.org,oceanoffgames.com,openload.ch,pdf-giant.com,pelispedia.*,playuc.live,radiofly.ws,readmanga.today,sawlive.tv,skidrowcrack.com,sportshd.me,strdef.world,streamfilmzzz.com,streamzzz.online,subswiki.com,thevideobee.to,tny.ec,tomadivx.org,toros.co,torrentz.to,torrentz2.*,ublock.pw,ubocam.pw,ucaster.xyz,unblocked.app,upload.ee,uploading.site,uptobox.com,yts.*,webcric.com,zooqle.*##+js(nowebrtc.js)
 123movies.la##a[href*="bit.ly"]
 ##[href^="https://adsrv4k.com/"]
 pelispedia.*##[id^="ap"]
@@ -8472,7 +8471,7 @@ udemycoursedownloader.net##+js(abort-on-property-write.js, KillAdBlock)
 musculacao.net##+js(abort-on-property-read.js, anOptions)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2377
-2ddl.*##+js(abort-on-property-write.js, _pop)
+2ddl.*##+js(abort-on-property-read.js, popjs.init)
 ganol.*,ganool123.com##+js(abort-current-inline-script.js, Math, zfgloaded)
 2ddl.*,ancensored.com,ganol.*,ganool.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 2ddl.*,ancensored.com,ganol.*,ganool.*##+js(setInterval-defuser.js, (), 500)
@@ -14214,6 +14213,8 @@ easymoneyearn.com##+js(addEventListener-defuser.js, click, trigger)
 hpjav.tv##+js(abort-on-property-read.js, AaDetector)
 hpjav.tv##+js(abort-on-property-read.js, VAST)
 ||stunninglover.com^$frame,3p
+hpjav.tv##div#single_ad_nativeads
+hpjav.tv##[href^="http://wct.link/click"]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4216
 mywatchseries.stream##+js(abort-current-inline-script.js, Math, zfgloaded)
@@ -16289,7 +16290,9 @@ faperplace.com,xxxopenload.com##+js(abort-current-inline-script.js, parseInt, ta
 naszraciborz.pl##+js(abort-on-property-write.js, adBlockDetected)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4645
+! https://github.com/uBlockOrigin/uAssets/issues/5824
 brainly.com##+js(setTimeout-defuser.js, trigger, 0)
+brainly.com##+js(abort-on-property-write.js, jsData)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4647
 anitoki.com##+js(abort-on-property-read.js, Base64.encode)
@@ -19380,6 +19383,7 @@ oko.sh##+js(abort-current-inline-script.js, Math.sin, vocabulary)
 ||oko.sh/sw.js$script,1p
 oko.sh##a[href^="https://href.li/"]
 oko.sh##[href="https://tipsalert.xyz"]
+oko.sh##[src^="https://i.imgur.com/"]
 
 ! https://github.com/NanoMeow/QuickReports/issues/1047
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=husseinezzat.com
@@ -21349,3 +21353,19 @@ apkmodif.com##+js(nano-setInterval-booster.js)
 
 ! https://github.com/NanoAdblocker/NanoFilters/issues/359
 razergamingseries.com##+js(abort-on-property-write.js, adBlockDetected)
+
+! goss.watch popups
+goss.watch##+js(abort-on-property-read.js, popjs.init)
+gosswatch.com##+js(abort-on-property-write.js, _pop)
+goss.watch,gosswatch.com##+js(window.open-defuser.js)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5828
+acefile.co,awsubs.tv##+js(abort-on-property-read.js, popjs)
+awsubs.tv##+js(abort-current-inline-script.js, Math, zfgloaded)
+||gtnlyyxfhkjv.com^
+||blogspot.com/*.gif$image,domain=awsubs.tv
+
+! https://www.reddit.com/r/uBlockOrigin/comments/byoh79/pandora_advertisements_showing_up_again/
+@@||pandora.com/web-client-assets/$script,xhr,1p
+||pandora.com/api/v1/ad/getAdList
+||pandora.com/api/v1/ad/registerImpression
