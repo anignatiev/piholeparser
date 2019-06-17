@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 8205
+! Version: 8216
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -834,6 +834,7 @@
 ||ceywprmvjy.com^
 ||cfdmkifknsjt.com^
 ||cfhkiriics.com^
+||cfkhdbzn.com^
 ||cfnumapv.com^
 ||cfpqhrfpccmpq.com^
 ||cfqzixjwwqgow.com^
@@ -2632,6 +2633,7 @@
 ||hbhjamkcubtez.com^
 ||hbkajyvrus.com^
 ||hbkcelqibvx.bid^
+||hbnqcbfgsjfa.com^
 ||hbrsqluft.bid^
 ||hbrvwrdama.bid^
 ||hbvhahzjh.bid^
@@ -3348,6 +3350,7 @@
 ||izavihllfvej.com^
 ||izedcwsouaszk.com^
 ||izelshnkrh.com^
+||izfaiqnxxts.com^
 ||izgnfkvpiawwn.bid^
 ||izhmxwivr.com^
 ||iziwhlafxitn.com^
@@ -3534,6 +3537,7 @@
 ||jldnphwwu.bid^
 ||jldstutlnz.com^
 ||jlhkteiqgvafic.com^
+||jlkadizug.com^
 ||jlkqurysdsw.com^
 ||jllveksikabohj.bid^
 ||jllzvqolrdu.bid^
@@ -3688,6 +3692,7 @@
 ||jvqbbfrg.com^
 ||jvrbjipsyyc.bid^
 ||jvriybgxne.com^
+||jvykohlq.com^
 ||jwbdezxfl.bid^
 ||jwbroglwc.com^
 ||jwbuxywauut.com^
@@ -5017,6 +5022,7 @@
 ||njjdnqhehvlzjd.bid^
 ||njjybqyiuotl.com^
 ||njlltkkaavws.com^
+||njmeadll.com^
 ||njrpynolojcel.com^
 ||njswarysemyf.bid^
 ||njvpulnxjzhhf.bid^
@@ -6075,6 +6081,7 @@
 ||qhkfgjoyinllld.com^
 ||qhlwqzntlwvbf.bid^
 ||qhlzkkwb.com^
+||qhpjexftk.com^
 ||qhpwanmnbvkiio.com^
 ||qhqofqeivtno.com^
 ||qhqrtjgsnu.com^
@@ -6731,6 +6738,7 @@
 ||sanksvohixxnlf.com^
 ||sapvummffiay.com^
 ||saqcgojcure.bid^
+||sardfereose.com^
 ||sasieidpe.bid^
 ||sasqhtfxsnklxn.bid^
 ||satjrvwtaertn.com^
@@ -7631,6 +7639,7 @@
 ||umswxgeedbaoa.bid^
 ||umvgcqaxmie.com^
 ||umwsjnsvfzuo.com^
+||umybobusjo.com^
 ||umzrccpfbnuu.com^
 ||uncumlzowtkn.com^
 ||undoxiraqm.com^
@@ -8137,6 +8146,7 @@
 ||zfoeiywwiqo.com^
 ||zfvrrodxfb.com^
 ||zggnhhadif.com^
+||zgyxizppxf.com^
 ||zhlfogiy.com^
 ||zhpdtoott.com^
 ||zhrmtsxcdkjj.com^
@@ -8177,6 +8187,7 @@
 ||zpxlmtujszhixe.com^
 ||zqdvdygz.com^
 ||zqeskyeg.com^
+||zqmxzjrhchg.com^
 ||zqqyhcqf.com^
 ||zqseasmu.com^
 ||zqswmyzlkcvrtu.com^
