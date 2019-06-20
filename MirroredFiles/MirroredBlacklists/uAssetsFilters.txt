@@ -1141,8 +1141,8 @@ carbuyer.co.uk##+js(abort-on-property-read.js, _sp_.mms.startMsg)
 ! hackintosh stuff
 @@||hackintosh.download^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/$script,domain=hackintosh.download
-!@@*$script,xhr,image,domain=hackintoshzone.com|hackintosh.computer,3p
-hackintoshzone.com##div:matches-css-before(content:/ /i):xpath(..)
+@@*$script,xhr,image,domain=hackintoshzone.com|hackintosh.computer,3p
+!hackintoshzone.com##div:matches-css-before(content:/ /i):xpath(..)
 ||hackintosh.computer^$csp=style-src 'self' *
 @@||hackintosh.computer^$generichide
 @@||hackintoshzone.com^$generichide
@@ -2113,7 +2113,8 @@ torrentz2.*##[class]:not(body):not(html):has-text(/Protect your privacy/i)
 ! https://github.com/uBlockOrigin/uAssets/issues/568
 calciomercato.it##+js(setTimeout-defuser.js, disabledAdBlock, 10000)
 ! https://forums.lanik.us/viewtopic.php?p=130215#p130215
-calciomercato.com##+js(abort-on-property-read.js, overlayAdId)
+! https://github.com/NanoAdblocker/NanoFilters/issues/361
+calciomercato.com##+js(setTimeout-defuser.js, _0x)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/571
 informer.com##+js(abort-on-property-read.js, adblock_added)
@@ -2594,6 +2595,7 @@ tumejortorrent.com##.pub728x90
 
 ! https://github.com/uBlockOrigin/uAssets/issues/723
 xmoviesforyou.com##+js(abort-current-inline-script.js, parseInt, tabunder)
+xmoviesforyou.com##+js(abort-on-property-read.js, popjs.init)
 xmoviesforyou.com##+js(abort-on-property-write.js, __htapop)
 xmoviesforyou.com##+js(abort-on-property-write.js, miner)
 xmoviesforyou.com##+js(window.open-defuser.js)
@@ -12065,7 +12067,9 @@ hdvid.*,onvid.*,ovid.*,vidhd.*##+js(abort-on-property-write.js, Fingerprint2)
 hdvid.*,onvid.*,ovid.*,vidhd.*##+js(abort-on-property-write.js, smrtSB)
 hdvid.*,onvid.*,ovid.*,vidhd.*##+js(nowebrtc.js)
 vidhd.*##+js(abort-on-property-read.js, AaDetector)
+hdvid.*,onvid.*,ovid.*,vidhd.*##.video_batman
 ||hdvid.tv/sw.js$script
+||onvid.*/sw.js$script
 ||ovid.*/sw.js$script,1p
 ||550b3ikb9j.com^$3p
 ||vidhd.*/sw.js$script,1p
@@ -16123,6 +16127,7 @@ mlbstream.tv,nbastream.tv,nhlstream.tv##[href^="https://pl.allsports4free.club/"
 ##[href^="https://qwertyuiop.stream/"]
 */*$script,3p,redirect=noopjs,domain=kuntv.pw
 @@||cdn.jsdelivr.net^$script,domain=kuntv.pw
+@@||cdn.vdosupreme.com/vdo.js$script,domain=kuntv.pw
 ||dairouzy.net^
 ||kimsacka.net^
 ||naustoch.net^
@@ -16130,6 +16135,7 @@ mlbstream.tv,nbastream.tv,nhlstream.tv##[href^="https://pl.allsports4free.club/"
 ||ogeemolt.net^$3p
 ||poazoanu.com^$3p,important
 ||taiphaib.net^
+||ws.vdosupreme.com^$3p
 ||xjuljbjlbb.com^
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4617
@@ -17230,8 +17236,8 @@ nation.co.ke##+js(set-constant.js, Math.random, noopFunc)
 nation.co.ke##^script:has-text('+'\x)
 
 ! https://forums.lanik.us/viewtopic.php?p=145613#p145613
-pctnew.com##+js(window.open-defuser.js)
-pctnew.com##+js(abort-on-property-read.js, gtp)
+pctnew.*##+js(window.open-defuser.js, 0, link)
+pctnew.*##+js(abort-on-property-read.js, gtp)
 ||secure-cloud.pro^$3p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4903
@@ -18727,10 +18733,6 @@ luzernerzeitung.ch,tagblatt.ch##+js(setTimeout-defuser.js, adblock, 5)
 
 ! https://github.com/abp-filters/abp-filters-anti-cv/issues/137
 3sk.*,33sk.*##+js(abort-current-inline-script.js, Math, zfgloaded)
-
-! https://github.com/uBlockOrigin/uAssets/issues/5272
-pornhub.com##+js(abort-on-property-read.js, smpop)
-||smpop.icfcdn.com/smpop-stable.js$script
 
 ! https://github.com/abp-filters/abp-filters-anti-cv/issues/138
 egydead.com##+js(abort-current-inline-script.js, Math, zfgloaded)
@@ -21268,6 +21270,7 @@ techtremendous.com##.adsbygoogle
 ! https://github.com/uBlockOrigin/uAssets/issues/3203#issuecomment-460096756
 my.mail.ru##+js(abort-on-property-read.js, AdmanHTML)
 my.mail.ru##+js(window.open-defuser.js, , clb670603)
+||my.mail.ru/dstat?$image
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=43122
 nsfwalbum.com##+js(addEventListener-defuser.js, getexoloader)
@@ -21292,8 +21295,12 @@ doshort.info##+js(nano-setInterval-booster.js)
 ! https://www.reddit.com/r/uBlockOrigin/comments/byxkl0/please_help_me_bypass_the_adblock_detection_on/
 dreamdth.com##+js(abort-on-property-write.js, wutimeBotPattern)
 
+! https://github.com/uBlockOrigin/uAssets/issues/5272
 ! https://github.com/uBlockOrigin/uAssets/issues/5799
+pornhub.com##+js(abort-current-inline-script.js, Math, createShadowRoot)
+pornhub.com##+js(abort-on-property-read.js, smpop)
 pornhub.com##+js(set-constant.js, atob, trueFunc)
+||smpop.icfcdn.com/smpop-stable.js$script
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5804
 ranker.com##+js(abort-on-property-read.js, __eiPb)
@@ -21442,6 +21449,7 @@ seireshd.com##+js(setTimeout-defuser.js, href, 2000)
 ! pivigames .blog
 ||playpaste.com/sw.js$script,1p
 playpaste.com##+js(set-constant.js, $.ajax, trueFunc)
+countrygames.net##+js(addEventListener-defuser.js, click, openWindow)
 
 ! fix poseidonhd .co ads
 ||nativeadmatch.com^$3p
@@ -21466,3 +21474,18 @@ clx.icu##+js(addEventListener-defuser.js, click, trigger)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5845
 stategossip.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5850
+@@||darkw.pl^$generichide
+
+! https://www.reddit.com/r/uBlockOrigin/comments/c2fo5u/ad_blocker_blocking_ublock_on_picgym/
+@@||picgym.net^$generichide
+
+! https://github.com/uBlockOrigin/uAssets/issues/5847
+player.rtl2.de##+js(set-constant.js, getHomadConfig, noopFunc)
+
+! fix binbox.io anti adb
+binbox.io##+js(abort-current-inline-script.js, $, adblock-detected)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5726
+welt.de##+js(abort-on-property-read.js, funkotron.config.switches.StickyVideoRewrite)
