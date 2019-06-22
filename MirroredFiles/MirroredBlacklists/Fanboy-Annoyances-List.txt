@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0pQr04eCkEGL4daR9+ridA
-! Version: 201906180012
+! Checksum: PLE1HVcXAGDrRdItwr74dw
+! Version: 201906220011
 ! Title: Fanboy's Annoyance List
-! Last modified: 18 Jun 2019 00:12 UTC
+! Last modified: 22 Jun 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4231,6 +4231,7 @@ _youtube_social_
 /gdpr-min.
 /gdpr-public.
 /gdpr-transparency-
+/gdpr-v2.
 /gdpr.eu.htm
 /gdpr.htm
 /gdpr.js
@@ -4240,6 +4241,7 @@ _youtube_social_
 /GDPR/consentStorage.
 /gdpr/CookieConsent
 /gdpr/disp.js
+/gdpr/gdpr-
 /gdpr/gdpr.$script
 /gdpr/gdpr_
 /gdpr/img/*
@@ -4252,6 +4254,7 @@ _youtube_social_
 /gdpr_js/*
 /gdpr_optout.
 /gdpr_plugin.
+/gdpr_s.
 /gdpr_status.
 /GDPRCard/*
 /gdprcompliance/*
@@ -5425,6 +5428,7 @@ _site_cookie_
 ###newsletter_subscribe
 ###newsletter_subscription
 ###newsletter_subscription_box
+###newsletter_widget-2
 ###newsletter_wrapper
 ###newsletterblock
 ###newsletterbox
@@ -6701,6 +6705,7 @@ _site_cookie_
 ##.widget_newsletter_manager
 ##.widget_newsletter_sidebar
 ##.widget_newsletter_signup
+##.widget_newsletter_widget
 ##.widget_newsletters
 ##.widget_newsletterwidget
 ##.widget_newsletterwidgetminimal
@@ -7166,6 +7171,7 @@ _site_cookie_
 ###eltdf-back-to-top
 ###fav-backtotop
 ###fl-to-top
+###float-btn-backtotop
 ###footer-back-to-top
 ###footer_scroll_top
 ###g1-back-to-top
@@ -7310,6 +7316,7 @@ _site_cookie_
 ##.back-to-top-btn
 ##.back-to-top-button
 ##.back-to-top-container
+##.back-to-top-cta
 ##.back-to-top-link
 ##.back-to-top-sticky
 ##.back-to-top-wrap
@@ -7369,6 +7376,7 @@ _site_cookie_
 ##.button-back-top
 ##.button-to-top
 ##.c-back-to-top
+##.c-back-to-top-cta
 ##.c-totop
 ##.cScrollIndicatorContainer
 ##.c_pagetop
@@ -7484,6 +7492,7 @@ _site_cookie_
 ##.m-go-top
 ##.m-scroll-top
 ##.main-footer__btn-backtotop
+##.material-scrolltop
 ##.menu-back-to-top
 ##.mh-back-to-top
 ##.mk-go-top
@@ -7622,6 +7631,7 @@ _site_cookie_
 ##[data-id="documentScrollToTop"]
 ##[data-linktracking="cta:scroll_up"]
 ##[data-ng-click^="scrollToTop"]
+##[data-role="back-to-top-cta"]
 ##[data-test="back-to-top"]
 ##[data-trackname="page-top"]
 ##[name="goBackTop"]
@@ -15909,6 +15919,7 @@ _site_cookie_
 ##.selection-sharing
 ##.selectionSharer
 ##.selfPromo__box--social
+##.sequex-social-icons
 ##.serious-share
 ##.service-links-facebook-like
 ##.service-links-google-plus-one
@@ -30558,6 +30569,7 @@ _site_cookie_
 ##app-cookie-consent
 ##app-cookie-warning
 ##app-cookies-policy-updated
+##aside[class^="cookie-banner__Wrapper-"]
 ##awsui-alert[dismiss*="CookieBanner"]
 ##b2c-cookies-notification
 ##cbn-cookies
@@ -31829,6 +31841,8 @@ _site_cookie_
 ||sourceforge.net/social/
 ||static2.stuff.co.nz^$subdocument
 ||store.yahoo.net/lib/directron/icons-test02.jpg
+||teamskeetimages.com^*/ig.png
+||teamskeetimages.com^*/twit.png
 ||thedailyblog.co.nz^*_Facebook_Promo-
 ||theecologist.org/siteimage/scale/0/0/132471.gif
 ||theecologist.org/siteimage/scale/0/0/132472.gif
@@ -36124,7 +36138,7 @@ hamodia.com##.btp
 getdroidtips.com##.btp-top
 gamestop.com##.bttbtn
 diplo.de##.c-top-link--default
-alarabiya.net,aurecongroup.com,caltex.co.za,drivesouth.co.nz,gasoline-station.com,millenniumpost.in,pastebin.com,rti.org.tw,sammobile.com,secondnexus.com,shine.cn,suninternational.com,wifi.id##.cd-top
+alarabiya.net,aurecongroup.com,caltex.co.za,drivesouth.co.nz,gasoline-station.com,millenniumpost.in,pastebin.com,rti.org.tw,sammobile.com,secondnexus.com,shine.cn,suninternational.com,unifiedlayers.com,wifi.id##.cd-top
 tricri.org##.chevron
 publy.com##.cmsmasters_theme_icon_slide_top
 crunchyroll.com##.cr-expo-banner
@@ -37568,7 +37582,6 @@ dailycaller.com###share-wrapper
 dailymail.co.uk###shareCountBottom
 pcmag.com###share_container
 boredpanda.com###sharebar
-file-upload.com###sharebuttons
 technobuffalo.com###sharing-floater
 ranker.com###siteNavShare
 gsmarena.com###social-connect
@@ -37741,7 +37754,6 @@ autobild.de##.socialmediabox
 viralitytoday.com##.socials
 ndtv.com##.socialshare-icons2
 batchnime.net##.socialsharex
-onlinemoviewatchs.com,onlinemoviewatchs.tv##.ssocial
 runnersworld.com,womenshealthmag.com##.standard-social-buttons
 ndtv.com##.stickysocial
 history.com##.story-share
@@ -38300,6 +38312,7 @@ pcmag.com##.privacy-content
 gigaom.com,gq.com.au,mta.tv,vocativ.com,zumba.com##.privacy-policy
 thenewdaily.com.au##.privacy-policy-slideup
 zmags.com##.privacyPrompt
+newscientist.com##.prompt
 mega.nz##.public-service-anouncement
 bbc.co.uk##.pulse-banner
 metaswitch.com##.pum-container
@@ -39244,6 +39257,7 @@ monclick.it###scroll-top-container
 dottori.it###scroll_top
 vloungebeach.tv###scroll_up
 mobimart.it###scrollblock
+cb01.best###scroller
 chiesi.com###scrolltab
 tuttoandroid.net###sh_local
 virgilio.it###shr_box
@@ -41801,7 +41815,6 @@ kliknijwzdrowie.pl,pokoleniesmart.pl,truepundit.com#@#.post-share-container
 imgur.com#@#.post-share-panel
 reddit.com#@#.post-sharing
 guildwars2.com#@#.post-social
-worldfree4u.ws#@#.postShare
 vk.com#@#.post_share
 reddit.com#@#.reddit_button
 hootsuite.com#@#.retweet
@@ -42375,6 +42388,7 @@ timeout.com#@#div[data-module="cookie_banner"]
 @@||mirrorlessrumors.com/wp-content/*/cookies-enabler.$script,stylesheet
 @@||natalieportman.com^*/js/cookielawinfo-$script
 @@||netdna-ssl.com/wp-content/plugins/bwp-minify/*/wp-gdpr-$script,stylesheet,domain=x-plane.com
+@@||oddschecker.com/OC-B2B/platform-uk-gdpr-banner/$script
 @@||ozmotorbike.com/templates/motorbike/js/vendor/cookies-enabler.js
 @@||ozracing.com/templates/oz/js/vendor/cookies-enabler.min.js
 @@||porno720.pl/core/js/cookieinfo.js
@@ -42607,6 +42621,7 @@ timeout.com#@#div[data-module="cookie_banner"]
 @@||droid-life.com/wp-content/uploads/*-logo.$image,domain=droid-life.com
 @@||droid-life.com/wp-content/uploads/*-twitter.$image,domain=droid-life.com
 @@||dropbox.com/sm/share_link/$xmlhttprequest
+@@||dsreps.com/js/social-icons-bio.js?
 @@||duckduckgo.com/assets/icons/favicons/youtube.png
 @@||e-biznes.pl^*/sociallocker-next-premium/
 @@||eceplayground.com^*/plugins/sociable/
