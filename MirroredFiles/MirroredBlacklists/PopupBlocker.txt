@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: UNK8wp1zcdu2wannGPBL2g
+! Checksum: rxBNEBilqnx1rjU97jegWA
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
-! Last modified: Sat, 22 Jun 2019, 00:00 UTC+02
-! Version: 2019.6.22.1
+! Last modified: Sun, 23 Jun 2019, 00:00 UTC+02
+! Version: 2019.6.23.1
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -15,7 +15,7 @@
 !   Reddit => https://www.reddit.com/r/PolishFiltersTeam/
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2019 Polish Filters Team
-! Aktualizacja: sob, 22 cze 2019, 00:00 UTC+02
+! Aktualizacja: nie, 23 cze 2019, 00:00 UTC+02
 !
 !
 ! Newslettery (nie popupy)
@@ -39,6 +39,7 @@ abcfirany.pl###ZakladkaNewsletterOkno
 accu-chek.pl#?#.bg-gradient-combo.awecontent-column.awe-col:-abp-has(.keep-in-touch)
 active.fibrain.pl##.newsletterWithFacebook
 ac.com.pl#?#.footerBar:-abp-has(.form-horizontal > .form-group)
+adapter.pl##.main-top-wrapper > .container > h2
 addnature.pl,bikester.pl##.newsletterModule
 adequate.pl##.hidden-xs.col-sm-4.col-md-4.col-lg-4
 administrator24.info###bNewsl
@@ -81,6 +82,7 @@ apollo.pl##.newsletter-block-container
 apteka-niezapominajka.pl##.tnp-widget.tnp > a[href$="/Newsletter_akcept/"]
 architektura.info###PopupSignupForm_0
 architektura.info,historyk.eu,dobremiejsce.org,mimowszystko.org,pl.dawanda.com,blachotrapez.eu,sklep.kameleon.pro,slowhop.com,saintbody.com,grupafachowiec.eu,pantuniestal.com,nails.silcare.com,legalcakes.com,debowewzgorze.eu###newsletter
+artmuseum.pl##.follow > div
 arystoteles.pl###dozapi
 asta24.pl##.columns.small-12.medium-6.large-3:nth-of-type(4)
 astor.com.pl##.footer_4 .col-md-5.col-sm-6
@@ -286,6 +288,7 @@ elnino-parfum.pl##.Subscribe > .Container
 eloblog.pl##a[href="https://eloblog.pl/newsletter/"]
 emaks.pl###newsletter-validate-detail
 embryolisse.pl##.col-md-12 > .block_newsletter
+emocje.pro###bloomwidget-3
 empik.com##.footerNewsletter__form-wrap
 eneba.com#?#div#app > footer > div > div > form:-abp-has(input[name="email"][type="email"])
 enerad.pl###g1-prefooter-widget-area > .g1-grid > .g1-one-fourth.g1-column:nth-of-type(3)
@@ -600,6 +603,7 @@ naszrybnik.com,naszraciborz.pl,naszwodzislaw.com#?#div.comments.right_box:-abp-c
 navcomm.eu###newsletter_block_left
 nazdrowie.pl###subskrybuj
 nazdrowie.pl##.imd-footer.col-xs-12.col-sm-6.col-md-4.col-lg-4:nth-of-type(2)
+nazdrowie.pl,vivio.pl###text-5
 nazwa.pl###news_content
 nbsklep.pl##.subscribe_newsletter
 neonet.pl##.joinNewsletterDesktop-root-2Mr
@@ -1052,7 +1056,6 @@ vissavi.pl###newsletter-header-holder
 vistula.edu.pl###vistula-newsletter
 vistula.pl##.three_footer__single--newsletter
 vivaldi.com###newsletterpromo
-vivio.pl###text-5
 vobis.pl##.b-newsletter
 vuch.pl##footer > .row > .nl-column.large-3.medium-6.xsmall-12.columns
 wakacje-hiszpania.pl###newsletterteaser
@@ -1557,6 +1560,7 @@ pl###ouibounce-modal
 pl###popup-social-media
 pl###topLayerBackDrop
 pl##.facebook-popup
+pl##.hejhej:not(body):not(html)
 pl##.livecall-widget-container
 pl.aleteia.org##.newsletter-popups
 pl.aliexpress.com##.ui-mask, .newuser-container
@@ -1948,6 +1952,7 @@ typeofweb.com,pl###onesignal-popover-dialog
 !
 !
 ! Scrollujące filmiki
+abczdrowie.pl,wp.pl###Player0.floating
 gry.pl,waznygry.pl##.wt-notification-container
 naekranie.pl##body > #cornerContainer[style*="position: fixed;"]
 nowa.tv##.floating-video
@@ -1964,7 +1969,6 @@ tvn.pl##.videoPlayerFloatEnabled.videoPlayerFloat.videoPlayer
 tvp.info##.mini-player-container
 ugotuj.to##div.onnetworkplayercontainer > div.miniplayer
 webcamera.pl##.bigcam.floating-player > div >  .fullscreen-wrap
-wp.pl###Player0.floating
 wrc.net.pl##.sticky-video.sticky.is-stuck
 www.dobreprogramy.pl#?#.variant-desktop #phContent_divArticle > .desktop-flex > #sidebar > .block:-abp-contains(Nasze najnowsze wideo)
 ||ppstatic.pl/assets/nsk/*/js/compiled/atoms/article/sticky-video.js
@@ -2111,6 +2115,7 @@ electrolux.pl##.navigate-to-top
 electro.pl,mediaexpert.pl###go_top
 elk.zdz.bialystok.pl###dotop
 elnino-parfum.pl,e-glamour.pl##.js-scrollUp
+emocje.pro###back_to_top
 empik.com,pzsnstart.eu,sklep.mebloart.eu,kappahl.com,tp-link.com,domnowoczesny.com##.scroll-to-top
 epicgames.com##.up-button
 eurofirany.com.pl,retrolab.pl,e-sano.pl###go_up
@@ -2215,6 +2220,7 @@ lajtmobile.pl##.hoveredImages
 lamoda.pl##.js-return-to-top
 lasery.pl##.t4c_go_top
 lechia.net###gkBackToTop
+legalnakultura.pl###goUp
 legalniewsieci.pl##.float-news-nav
 lento.pl,superanime.pl###scroller
 lidl-sklep.pl##.btn-totop
@@ -3219,7 +3225,6 @@ kaufland.pl##.o-info-overlay
 kawaly.tja.pl###div_wysuwany_pomoc
 kawro.pl###title
 kettei.pl###powrot
-ki24.info,kolniak24.eu,ciechocinek.biz##.hejhej
 kierunekspozywczy.pl###sb-b2b, #sb-magazine, #sb-conference
 kierunektoyota.pl##.overlay-white
 kina.krakow.pl,repertuary.pl##.incap_bottom
@@ -3373,7 +3378,6 @@ pizzapelati.pl,archonhome.pl###musli
 pkobp.pl###smartbanner-desktop
 plastcom.pl###test
 pl##.bilet
-pl##.hejhej
 pl###ClPanel
 pl###SliderPrzycisk
 pl###allegro_ikona

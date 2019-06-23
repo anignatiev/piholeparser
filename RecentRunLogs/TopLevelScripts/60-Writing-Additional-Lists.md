@@ -2,11 +2,11 @@
 [Return To Main](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
-## Compiling Deathbybandaid Combined List Sat Jun 22 00:34:53 UTC 2019
+## Compiling Deathbybandaid Combined List Sun Jun 23 00:34:00 UTC 2019
 Process Took 2 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/60-Writing-Additional-Lists/70-Compiling-Deathbybandaid-Combined-List.md)
 
-## Compiling Country Code Lists Sat Jun 22 00:34:55 UTC 2019
-Process Took 1 Minutes.
+## Compiling Country Code Lists Sun Jun 23 00:34:02 UTC 2019
+Process Took 2 Minutes.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/60-Writing-Additional-Lists/75-Compiling-Country-Code-Lists.md)
 
