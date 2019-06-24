@@ -471,6 +471,7 @@ cl.expedia.com
 clarium.global.ssl.fastly.net
 clc.stackoverflow.com
 clck.yandex.com
+clck.yandex.ru
 click.ali213.net
 click.appinthestore.com
 click.bokecc.com
@@ -696,6 +697,7 @@ d1rgnfh960lz2b.cloudfront.net
 d1rnw04e6mc22h.cloudfront.net
 d1ros97qkrwjf5.cloudfront.net
 d1ssbq1bwjg5ux.cloudfront.net
+d1t9uctetvi0tu.cloudfront.net
 d1uanozc5el74n.cloudfront.net
 d1wscoizcbxzhp.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
@@ -827,6 +829,7 @@ drozdovvalerij0.github.io
 ds-aksb-a.akamaihd.net
 ds.haaretz.co.il
 dt.sellpoint.net
+dt1pxsve3tgas.cloudfront.net
 du4rq1xqh3i1k.cloudfront.net
 dubester.pw
 dubester.site
@@ -1327,6 +1330,7 @@ mcs.delvenetworks.com
 measure.ameblo.jp
 mediametrics.mpsa.com
 mediator.mail.ru
+megabanners.cf
 merlin.abc.go.com
 met.vgwort.de
 meter-svc.nytimes.com
@@ -1464,7 +1468,6 @@ omt.shinobi.jp
 onespot-tracking.herokuapp.com
 open.delivery.net
 open.mkt1397.com
-ophan.guardian.co.uk
 ophan.theguardian.com
 optimera.elasticbeanstalk.com
 optimize-stats.voxmedia.com
@@ -2266,8 +2269,10 @@ tl.tradetracker.net
 tm.jsuol.com.br
 tm.tradetracker.net
 tm.uol.com.br
+tm.vendemore.com
 tmgr.ccmbg.com
 tms-st.cdn.ngenix.net
+tnla.thenewslens.com
 tns.simba.taobao.com
 tongji.mafengwo.cn
 tools.ranker.com
@@ -2543,6 +2548,7 @@ tracking.statravel.de
 tracking.synthasite.net
 tracking.target2sell.com
 tracking.tchibo.de
+tracking.teamskeet.com
 tracking.theeword.co.uk
 tracking.thehut.net
 tracking.tidalhifi.com
@@ -2672,7 +2678,6 @@ vtrtl.de
 vv.ricardo.ch
 w88.espn.com
 w88.go.com
-w88.m.espn.go.com
 wa.metro.co.uk
 wa.ui-portal.de
 wal.wolfram.com

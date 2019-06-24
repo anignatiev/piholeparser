@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /SgN45EXyQGsJJh0k+ozMA
-! Version: 201906230011
+! Checksum: glORds4UxvaahwJGnkEG7w
+! Version: 201906240011
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Jun 2019 00:11 UTC
+! Last modified: 24 Jun 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -42357,6 +42357,7 @@ timeout.com#@#div[data-module="cookie_banner"]
 @@||wayback.archive.org/web/jsp/Interstitial.jsp?
 @@||williams-sonoma.com^*/js/external/coremetrics.js
 @@||ws.audioscrobbler.com^$domain=diffuser.fm
+@@||yimg.com/ud/fp/js/GoldenGate$script,domain=mobi.yahoo.com
 @@||yimg.com/uq/syndication/yad.js$domain=zdnet.com
 @@||zdnet.com/images/base/sprites-social.png
 ! *** easylist:fanboy-addon/fanboy_cookie_whitelist.txt ***
@@ -42422,8 +42423,8 @@ timeout.com#@#div[data-module="cookie_banner"]
 @@||amigosmuseoreinasofia.org/assets/js/cookiecuttr/jquery.cookie.js
 @@||candidat.pole-emploi.fr^*/modules/jquery-eu-cookie-law-popup.js$script
 @@||cdp.pl/skin/*/cookies.js
-@@||ciaopeople.it^*/remote-gdpr.js$domain=fanpage.it
-@@||ciaopeople.it^*/sdk-gdpr.min.js$domain=fanpage.it
+@@||ciaopeople.it^*/remote-gdpr.$script,domain=fanpage.it
+@@||ciaopeople.it^*/sdk-gdpr.$script,domain=fanpage.it
 @@||cloudflare.com^*/cookieconsent.min.js$domain=bab.la|firkloveren.no|satkurier.pl
 @@||cloudfront.net/js/cookie-banner-gdpr/app.min.js?$script,domain=cn.nytimes.com
 @@||consent.truste.com/notice?$script,domain=forbes.it
@@ -43096,6 +43097,7 @@ timeout.com#@#div[data-module="cookie_banner"]
 @@||yandex.st/share/share.js$domain=66.ru
 @@||yarobleirc.ru/bitrix/templates/yarobleirc/js/twitterFetcher_min.js
 @@||yastatic.net/share2/share.js$script
+@@||yimg.com/ud/fp/js/SocialBar$script,domain=mobi.yahoo.com
 @@||yimg.com^*/combo?*/followus.$domain=yahoo.com
 @@||yimg.com^*/combo?*/share-buttons-$script,domain=yahoo.com
 @@||yimg.com^*/react-share-buttons.$script,domain=yahoo.com
