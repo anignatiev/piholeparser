@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: aIchIpmTVIjzvcui0PRY5w
-! Version: 201906250011
+! Checksum: 4HeU1JUDGU4Hvz6pAHIOJw
+! Version: 201906260011
 ! Title: EasyList Italy
-! Last modified: 25 Jun 2019 00:11 UTC
+! Last modified: 26 Jun 2019 00:11 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html
@@ -1633,6 +1633,7 @@ brocardi.it#@#.with-background-ads
 ||pianetadonna.it/images/*_300x100_
 ||pianetazzurro.it/images/banner/
 ||piratestreaming.com/functions/pist_strp.js
+||plx.pornototale.com^
 ||poker.commentierecensioni.com^*/titanpoker125x125.gif
 ||poliziamunicipale.it/script/getbnr.aspx?
 ||pornovideoitaliano.com/bitter728.jpg
