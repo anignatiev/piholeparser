@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 8345
+! Version: 8356
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1038,6 +1038,7 @@
 ||crnxueioe.bid^
 ||croxdfrdjfnt.com^
 ||crpiucewddag.com^
+||crpmohfici.com^
 ||crqnosmxstdfnp.bid^
 ||crrgnnqidpf.com^
 ||crtntrvjuun.bid^
@@ -1402,6 +1403,7 @@
 ||drcfjmkmy.com^
 ||drdvvfgqzwkutc.bid^
 ||drjctivspweild.com^
+||drjwmuwmnll.com^
 ||droqnswhcfk.com^
 ||drpmtzjanjqjpj.com^
 ||drragqvk.bid^
@@ -2055,6 +2057,7 @@
 ||fnjzuwviiyedmp.com^
 ||fnkyyrgraizy.com^
 ||fnmubgld.com^
+||fnprtscsvux.com^
 ||fnsjfalwuti.bid^
 ||fnutdrjkcebyw.com^
 ||fnuuhrhfkvpbnm.com^
@@ -3124,6 +3127,7 @@
 ||iflndvke.com^
 ||ifmobkrjonnm.com^
 ||ifoldmuxqjeddk.com^
+||ifqzzgwrra.com^
 ||iftvlrkyvubnn.com^
 ||ifvgsekkvcc.bid^
 ||ifyngpctovtv.com^
@@ -3830,6 +3834,7 @@
 ||kbprllyfvqns.bid^
 ||kbqebfcubeiaa.com^
 ||kbrnfzgglehh.com^
+||kbrpiuql.com^
 ||kbsceyleonkq.com^
 ||kbwortdqjbns.com^
 ||kbxkcmpd.bid^
@@ -5214,6 +5219,7 @@
 ||nrgbjgui.com^
 ||nrgqdsjqu.com^
 ||nrifyiemem.bid^
+||nrllvmtosawfm.com^
 ||nrmcznhlqnx.com^
 ||nrszmiiwfifwlq.bid^
 ||nrtapaiums.com^
@@ -5853,6 +5859,7 @@
 ||pnfdunvcgl.bid^
 ||pnfpithmmrxc.com^
 ||pnjeolgxsimj.com^
+||pnkrtgea.com^
 ||pnmxoeztls.bid^
 ||pnobsmeio.com^
 ||pnrqhqixc.com^
@@ -5964,6 +5971,7 @@
 ||pudswlbzob.bid^
 ||pugfgjvrivfm.bid^
 ||pugpwrqsk.bid^
+||pukzrlddw.com^
 ||punfbtrcvfdxl.com^
 ||punlkhusprgw.com^
 ||punvqjsvnmubxb.com^
@@ -6722,6 +6730,7 @@
 ||rsrbqknrfskkb.bid^
 ||rssgflbj.com^
 ||rstjainimptgn.com^
+||rsuroxpotcoiq.com^
 ||rsvxipjqyvfs.com^
 ||rswgoccwzs.com^
 ||rszzpjttufuw.bid^
@@ -6773,6 +6782,7 @@
 ||rwtvvdspsbll.com^
 ||rwugdvqdpxfz.com^
 ||rwugglxboxgw.com^
+||rwxivmfldvo.com^
 ||rwxzeoqfj.com^
 ||rxbbddhkl.com^
 ||rxczemggfsxx.com^
@@ -7902,6 +7912,7 @@
 ||vulbyhxsrxcdgo.com^
 ||vuvcwrxn.com^
 ||vvaqbhmahjb.com^
+||vvbmvooy.com^
 ||vvjlrhuzmhzlws.com^
 ||vvkvlqubnge.com^
 ||vvqpavyfkr.com^
