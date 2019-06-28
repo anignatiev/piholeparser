@@ -557,8 +557,6 @@ collector.sspinc.io
 collector.statowl.com
 collector.tescocompare.com
 collector.trendmd.com
-collector.xhamster.com
-collector1.xhamster.com
 com.econa.com
 comet.ibsrv.net
 comms-web-tracking.uswitchinternal.com
@@ -1343,6 +1341,7 @@ metrics.apartments.com
 metrics.api.drift.com
 metrics.aviasales.ru
 metrics.aws.sitepoint.com
+metrics.bangbros.com
 metrics.brightcove.com
 metrics.cbn.com
 metrics.cbslocal.com
@@ -1584,14 +1583,13 @@ pixel.tuko.co.ke
 pixel.usrsync.com
 pixel.vmm-satellite2.com
 pixel.wp.com
+pixel.wp.pl
 pixel.yabidos.com
 pixel.yola.com
 pixel.zumby.io
 pixels.livingsocial.com
 pixiedust.buzzfeed.com
-play.estream.nu
 play.estream.to
-play.estream.xyz
 play.mix.kinostuff.com
 play.vidzi.tv
 pmetrics.performancing.com
@@ -2354,7 +2352,6 @@ track.omgpl.com
 track.parse.ly
 track.prezna.com
 track.pricespider.com
-track.promptfile.com
 track.propelplus.com
 track.pushbullet.com
 track.qcri.org

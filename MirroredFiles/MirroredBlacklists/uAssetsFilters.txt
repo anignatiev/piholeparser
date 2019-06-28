@@ -6110,7 +6110,7 @@ yoursports.stream###streambutton
 yoursports.stream##[data-player] a img
 yoursports.stream##img#close
 yoursports.stream##div:matches-css(width: 300px):matches-css(height: 250px):matches-css(z-index: 2)
-yoursports.stream##div a[href*="img.codes"]
+yoursports.stream##div a[href*="img.codes"], .w3-center[style="width:100%"]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1639
 ! https://forums.lanik.us/viewtopic.php?f=103&t=32877
@@ -9613,8 +9613,10 @@ turboserver.tk##+js(setInterval-defuser.js, visibility, 1000)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2706
 pnd.tl##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+pnd.tl##+js(abort-on-property-read.js, AaDetector)
 pnd.tl##+js(abort-on-property-write.js, Fingerprint2)
 pnd.tl##A[href$=".html"][rel="nofollow norefferer noopener"]
+||nlwy0.com^
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2707
 @@||micinehd.com^$generichide
@@ -13849,6 +13851,7 @@ javstream.com##+js(abort-on-property-read.js, AaDetector)
 ! https://github.com/uBlockOrigin/uAssets/issues/4130
 sna3talaflam.com###adblock_abdoutech
 sna3talaflam.com##body:style(overflow: auto !important;)
+sna3talaflam.com##+js(addEventListener-defuser.js, load, onload)
 
 ! ! https://github.com/uBlockOrigin/uAssets/issues/4132
 tuttotek.it##+js(abort-on-property-read.js, anOptions)
@@ -14016,6 +14019,7 @@ filescdn.net,vidtodo.me##+js(abort-on-property-write.js, Fingerprint2)
 uppit.com##+js(abort-on-property-write.js, decodeURIComponent)
 vidtoro.com##+js(abort-on-property-write.js, Fingerprint2)
 vidtoro.com##+js(abort-on-property-read.js, open)
+vidtoro.com##+js(nowebrtc.js)
 *$popunder,domain=oboom.com
 ||kimqbvkaidbwst.com^
 ||irpaknbwgif.com^
@@ -19467,6 +19471,8 @@ cam4.com###Cam4DialogContainer
 ! https://github.com/NanoMeow/QuickReports/issues/965
 footystreams.net##+js(setTimeout-defuser.js, '0x)
 ##[href^="https://pl.allsports4free.club/"]
+##[href^="https://pl.allsports4u.club/"]
+mlbstreams.net###iframe_preview
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5391
 @@||1warie.com^$generichide
@@ -21659,3 +21665,10 @@ aflamyz.com##+js(window.open-defuser.js)
 ||dawmal.com^
 ||smartlnk.com^
 ||s85n4btydl.online^
+
+! https://github.com/NanoMeow/QuickReports/issues/1427
+collater.al##+js(abort-on-property-read.js, adsanity_ad_block_vars)
+
+! https://github.com/NanoAdblocker/NanoFilters/issues/367
+getsl.me##+js(set-constant.js, atob, trueFunc)
+getsl.me##A[href$=".html"][rel="nofollow norefferer noopener"]
