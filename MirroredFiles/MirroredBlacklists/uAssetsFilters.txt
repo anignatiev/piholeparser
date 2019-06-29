@@ -1209,7 +1209,7 @@ wikia.com##+js(abort-on-property-write.js, _sp_)
 ##[href^="https://adsrv4k.com/"]
 pelispedia.*##[id^="ap"]
 ||pelispedia.tv/Native.html
-embed.media,fembed.com,pelispedia.*##+js(abort-on-property-read.js, AaDetector)
+fembed.com,pelispedia.*##+js(abort-on-property-read.js, AaDetector)
 ||1.fembed.com^
 
 ! https://github.com/uBlockOrigin/uAssets/issues/243
@@ -5799,7 +5799,9 @@ marvelousga.com##+js(abort-current-inline-script.js, $, openNewWindow)
 ! https://www.reddit.com/r/uBlockOrigin/comments/81am26
 ! https://www.reddit.com/r/uBlockOrigin/comments/9byeux
 1movies.to##+js(abort-current-inline-script.js, atob, encodeURIComponent)
-||loadshare.org/custom/$media,redirect=noopmp4-1s,domain=1movies.se|1movies.to|1movies.is
+||loadshare.org/custom/$media,redirect=noopmp4-1s,domain=1movies.se|1movies.to|1movies.is,important
+1movies.*##+js(set-constant.js, String.prototype.charCodeAt, trueFunc)
+###p_native
 1movies.se,1movies.to###no_po_share
 ! https://github.com/uBlockOrigin/uAssets/issues/1718
 1movies.*##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
@@ -6775,6 +6777,7 @@ world4ufree.com.co##+js(abort-on-property-read.js, Date.prototype.toUTCString)
 ||world4ufree.com.co/sw.js$script,1p
 ||qiroris.pw^$3p
 ||2d7bd9e6eb370143.com^
+||keapeiros.xyz^$3p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1839
 vermangasporno.com##+js(abort-on-property-write.js, __htapop)
@@ -10877,11 +10880,16 @@ funimg.net##+js(abort-on-property-read.js, ExoLoader.serve)
 ! https://github.com/NanoMeow/QuickReports/issues/1218
 javqd.com,qdembed.com##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 javqd.com,qdembed.com##+js(setInterval-defuser.js, (), 500)
+embed.media,javqd.com##+js(abort-on-property-read.js, AaDetector)
 javqd.com##+js(window.open-defuser.js)
 @@||javqd.com^$generichide
-embed.media,javqd.com##+js(abort-on-property-read.js, AaDetector)
+@@||embed.media^$generichide
+embed.media##[href^="//witalfieldt.com/redirect"]
 javqd.com##center > iframe
+||cachlambanhdongian.com^$3p
+||lifeideas.site^$3p
 ||muqson0kgr.com^
+||newdonate.com^$3p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3159
 javhay.net##+js(addEventListener-defuser.js, load, 2000)
@@ -14019,6 +14027,8 @@ filescdn.net,vidtodo.me##+js(abort-on-property-write.js, Fingerprint2)
 uppit.com##+js(abort-on-property-write.js, decodeURIComponent)
 vidtoro.com##+js(abort-on-property-write.js, Fingerprint2)
 vidtoro.com##+js(abort-on-property-read.js, open)
+vidtoro.com##+js(abort-on-property-write.js, _pop)
+vidtoro.com##+js(abort-on-property-write.js, adcashMacros)
 vidtoro.com##+js(nowebrtc.js)
 *$popunder,domain=oboom.com
 ||kimqbvkaidbwst.com^
@@ -21672,3 +21682,7 @@ collater.al##+js(abort-on-property-read.js, adsanity_ad_block_vars)
 ! https://github.com/NanoAdblocker/NanoFilters/issues/367
 getsl.me##+js(set-constant.js, atob, trueFunc)
 getsl.me##A[href$=".html"][rel="nofollow norefferer noopener"]
+
+! https://github.com/NanoMeow/QuickReports/issues/1428
+whynotceviri.com##+js(abort-on-property-read.js, anOptions)
+whynotceviri.com##+js(abort-on-property-write.js, ai_adb_overlay)
