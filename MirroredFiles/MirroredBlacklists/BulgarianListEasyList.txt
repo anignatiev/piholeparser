@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201906292353
+! Version: 201907010002
 ! Title: EasyPrivacy
-! Last modified: 29 Jun 2019 23:53 UTC
+! Last modified: 01 Jul 2019 00:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -721,6 +721,7 @@
 /api/pixel?
 /api/stat?
 /api/tracking/*
+/api/v1/collector
 /api/v1/metrics
 /api/v1/stat?
 /api/x.gif?
@@ -1638,6 +1639,7 @@
 /ft/hit/*
 /FTTrack2.js
 /g-track/*
+/g2insights.
 /g=analytics&
 /g_track.php?
 /ga*.js?PID=
@@ -3409,6 +3411,7 @@
 /stats.gif?
 /stats.hitbox.com/*
 /stats.php?*http
+/stats.php?format=
 /stats.php?type=
 /stats.php?uri=
 /stats/*?category=$image
@@ -7945,6 +7948,7 @@ _mongo_stats/
 ||jewelcheese.com^$third-party
 ||lizardslaugh.com^$third-party
 ||mowfruit.com^$third-party
+||nervoussummer.com^$third-party
 ||petiteumbrella.com^$third-party
 ||photographpan.com^$third-party
 ||pietexture.com^$third-party
@@ -9343,6 +9347,7 @@ _mongo_stats/
 ||bufferapp.com/wf/open?upn=$third-party
 ||bumpin.com^*/analytics.html
 ||business.sharedcount.com^$third-party
+||buybox.click/analytics.js
 ||buzzbox.buzzfeed.com^
 ||bzgint.com/CUNCollector/
 ||bzpics.com/jslib/st.js?
@@ -10393,6 +10398,7 @@ _mongo_stats/
 ||pixhosting.com/ct/jct.php?
 ||planet49.com/log/
 ||platform.communicatorcorp.com^$third-party
+||platform.iteratehq.com^$third-party
 ||platform.twitter.com/impressions.js$third-party
 ||player.ooyala.com/errors/report?
 ||playtomic.com/Tracker/
@@ -12147,6 +12153,7 @@ _mongo_stats/
 ||avstop.com^*/poll.gif?
 ||axa.com/elements/js/wreport.js
 ||azfamily.com/images/pixel.gif
+||azureedge.net/prod/1.0/fp.min.js$domain=mercurynews.com
 ||b-aws.techcrunch.com^
 ||b.huffingtonpost.com^
 ||b.imwx.com^
@@ -13760,6 +13767,7 @@ _mongo_stats/
 ||sp.press-citizen.com^
 ||sp.pressconnects.com^
 ||sp.publicopiniononline.com^
+||sp.pushsquare.com^
 ||sp.redding.com^
 ||sp.reporternews.com^
 ||sp.rgj.com^

@@ -162,7 +162,7 @@ hentaifr.net,jeu.info,tuxboard.com,xstory-fr.com##+js(goyavelab-defuser.js)
 haus-garten-test.de,sozialversicherung-kompetent.de##+js(set-constant.js, Object.keys, trueFunc)
 bafoeg-aktuell.de,berliner-kurier.de,berliner-zeitung.de,bikerszene.de,deine-tierwelt.de,dhd24.com,digitalfernsehen.de,donnerwetter.de,e-hausaufgaben.de,express.de,fremdwort.de,gartendialog.de,gartenlexikon.de,gewinnspiele.tv,gut-erklaert.de,haus-garten-test.de,iban-rechner.de,kindergeld.org,ksta.de,liga3-online.de,messen.de,moviejones.de,mz-web.de,naumburger-tageblatt.de,newsbreak24.de,nickles.de,nw.de,oeffentlicher-dienst.info,rheinische-anzeigenblaetter.de,rundschau-online.de,spielfilm.de,tichyseinblick.de,torgranate.de,truckscout24.*,tvinfo.de,unicum.de,unsere-helden.com,webfail.com,weser-kurier.de,wieistmeineip.*##+js(set-constant.js, String.prototype.slice, noopFunc)
 airliners.de,auszeit.bio,autorevue.at,clever-tanken.de,fanfiktion.de,finya.de,frag-mutti.de,frustfrei-lernen.de,fussballdaten.de,gameswelt.*,liga3-online.de,lz.de,mt.de,psychic.de,rimondo.com,spielen.de,weltfussball.at,weristdeinfreund.de##+js(abort-current-inline-script.js, Number.isNaN)
-prad.de##+js(abort-on-property-read.js, document.cookie)
+prad.de##+js(abort-current-inline-script.js, Number.isNaN)
 computerbild.de##+js(abort-on-property-read.js, Date.prototype.toUTCString)
 computerbild.de##+js(setTimeout-defuser.js, ())return)
 lablue.*##+js(setTimeout-defuser.js, push, 500)
@@ -10882,6 +10882,7 @@ funimg.net##+js(abort-on-property-read.js, ExoLoader.serve)
 javqd.com,qdembed.com##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 javqd.com,qdembed.com##+js(setInterval-defuser.js, (), 500)
 embed.media,javqd.com##+js(abort-on-property-read.js, AaDetector)
+embed.media##+js(abort-on-property-write.js, Fingerprint2)
 javqd.com##+js(window.open-defuser.js)
 @@||javqd.com^$generichide
 @@||embed.media^$generichide
@@ -13704,9 +13705,11 @@ lenouvelliste.com##.adsbygoogle
 ! https://www.reddit.com/r/uBlockOrigin/comments/c4icq3/req_ddlto_antiadblock/
 ddl.to##+js(abort-current-inline-script.js, decodeURIComponent, zfgloadedpopup)
 ddl.to##+js(abort-on-property-read.js, AaDetector)
+ddl.to##+js(abort-current-inline-script.js, Math.sin, vocabulary)
 ddl.to##+js(set-constant.js, adb_check, true)
 ddl.to##+js(nowebrtc.js)
 ||ddl.to/images/*.gif$image,1p
+ddl.to##[href="https://ddl.to/download.html"]
 
 ! https://forums.lanik.us/viewtopic.php?f=64&t=42128
 @@||v.fwmrm.net/ad/g/$script,domain=helmiradio.fi|hs.fi|is.fi|loop.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|supla.fi
@@ -20030,6 +20033,7 @@ dmntsf.net##+js(set-constant.js, canRunAds, true)
 ! https://github.com/uBlockOrigin/uAssets/issues/5503
 talkittechy.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||talkittechy.com^$generichide
+talkittechy.com##.adsbygoogle
 
 ! https://github.com/NanoMeow/QuickReports/issues/1130
 turbogvideos.com##+js(abort-on-property-read.js, B2BB.EkZ9B)
@@ -21726,3 +21730,23 @@ beautypackaging.com##+js(abort-on-property-write.js, adblockerpopup)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5891
 farodevigo.es##+js(set-constant.js, pr_okvalida, true)
+
+! https://github.com/easylist/easylist/issues/3662
+beta.cheatsquad.gg##+js(abort-on-property-write.js, Swal.fire)
+
+! https://github.com/NanoMeow/QuickReports/issues/1441
+miniurl.pw##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+||miniurl.pw/sw.js$script,1p
+
+! https://github.com/uBlockOrigin/uAssets/issues/5893
+uptomega.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+uptomega.com##[href="https://uptomega.com/dobutton.html"]
+
+! https://github.com/uBlockOrigin/uAssets/issues/5894
+@@||multiup.us^$generichide
+
+! https://github.com/uBlockOrigin/uAssets/issues/5895
+gulfupload.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+
+! https://forums.lanik.us/viewtopic.php?f=62&t=43212
+@@||vtpii.com^$generichide
