@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zLlkgDvEonJFI4ygLeI6PQ
-! Version: 201907010011
+! Checksum: Kjm3u9wzpIAoV/2SDGIfLA
+! Version: 201907020011
 ! Title: Fanboy's Annoyance List
-! Last modified: 01 Jul 2019 00:11 UTC
+! Last modified: 02 Jul 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -19822,6 +19822,7 @@ _site_cookie_
 ##[aria-label="Follow us on Twitter"]
 ##[aria-label="More sharing options"]
 ##[aria-label="Social bar"]
+##[aria-label^="Follow on Facebook"]
 ##[card-share-open]
 ##[class*="socialLink"]
 ##[class*="socialSection"]
@@ -19908,6 +19909,7 @@ _site_cookie_
 ##[title^="Follow Us On "]
 ##[title^="Follow Us on "]
 ##[title^="Follow me on "]
+##[title^="Follow on Facebook"]
 ##[title^="Follow on Twitter"]
 ##[title^="Follow us on "]
 ##[title^="Like us on Facebook"]
@@ -36887,6 +36889,7 @@ aol.com##.follow-aol
 breakingnews.ie##.follow-bn
 indiancountrytodaymedianetwork.com##.follow-home
 talabat.com##.follow-i
+radio.com##.follow-link--facebook
 grubstreet.com,nymag.com,vulture.com##.follow-list
 higherperspectives.com##.follow-module
 opendemocracy.net##.follow-od
@@ -37194,6 +37197,7 @@ sky.com##.sdc-news-footer__list--social
 sdsu.edu##.sdsuuniverse_above_header_right
 oneplus.net##.sec-follow
 thejewishnews.com##.section-article__data-icons
+radio.com##.section__email
 forbiddenplanet.com##.see-us-on
 ew.com,frieze.com,rdnewsnow.com##.service-links
 lycos.co.uk##.sfoot
@@ -42259,7 +42263,7 @@ standaard.be#@#.gdpr-dialog
 gamewatcher.com,pekao.com.pl#@#.gdpr-modal
 totalcasino.pl#@#.gdpr-popup
 wufoo.com#@#.gdpr-prompt
-coastalliving.com,commercialtrucktrader.com,cookinglight.com,essence.com,ew.com,fortune.com,golf.com,health.com,hellogiggles.com,instyle.com,metallica.com,mirjan24.pl,nytimes.com,people.com,realsimple.com,si.com,southernliving.com,time.com,travelandleisure.com#@#.gdpr:not(body):not(html)
+coastalliving.com,commercialtrucktrader.com,cookinglight.com,essence.com,ew.com,fortune.com,gct.com,golf.com,health.com,hellogiggles.com,instyle.com,metallica.com,mirjan24.pl,nytimes.com,people.com,realsimple.com,si.com,southernliving.com,time.com,travelandleisure.com#@#.gdpr:not(body):not(html)
 suzuki.co.nz#@#.js-cookie
 geleidehond.nl#@#.js-cookie-alert
 capstan.fr#@#.js-cookie-container
@@ -42270,7 +42274,7 @@ bosch-mobility-solutions.com#@#.m-cookie
 bosch-mobility-solutions.com#@#.m-cookie-intro
 makelaarsland.nl#@#.m-cookie-notice
 theverge.com#@#.m-privacy-consent
-oattravel.com,piaggiogroup.com#@#.mod_cookies
+gct.com,oattravel.com,piaggiogroup.com#@#.mod_cookies
 multimediago.pl#@#.modal-cookie
 betway.it#@#.module-cookie
 ramics-conference.org#@#.nf-form-content

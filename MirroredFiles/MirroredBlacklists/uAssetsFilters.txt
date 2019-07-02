@@ -170,6 +170,7 @@ freenet.de,giga.de,kicker.de,quoka.de,transfermarkt.*##+js(abort-current-inline-
 musiker-board.de,tichyseinblick.de##+js(abort-current-inline-script.js, Math, /\}\s*\(.*?\b(self|this|window)\b.*?\)/)
 kino.de,spieletipps.de##+js(abort-on-property-read.js, document.cookie)
 news.de##+js(set-constant.js, String.prototype.charAt, noopFunc)
+@@||prad.de^$image,1p
 @@||wieistmeineip.*^$image,1p
 !#endif
 airliners.de,auszeit.bio,autorevue.at,bafoeg-aktuell.de,berliner-kurier.de,berliner-zeitung.de,bikerszene.de,boersennews.de,bonedo.de,chefkoch.de,clever-tanken.de,computerbild.de,deine-tierwelt.de,dhd24.com,digitalfernsehen.de,donnerwetter.de,e-hausaufgaben.de,express.de,fanfiktion.de,finya.de,formel1.de,frag-mutti.de,freenet.de,fremdwort.de,frustfrei-lernen.de,fussballdaten.de,gameswelt.*,gartendialog.de,gartenlexikon.de,gewinnspiele.tv,gut-erklaert.de,haus-garten-test.de,iban-rechner.de,immobilienscout24.de,inside-handy.de,kindergeld.org,ksta.de,liga3-online.de,lz.de,messen.de,moviejones.de,mt.de,musiker-board.de,mz-web.de,naumburger-tageblatt.de,news.de,newsbreak24.de,nickles.de,nw.de,oeffentlicher-dienst.info,onlinemarketing.de,prad.de,psychic.de,quoka.de,rheinische-anzeigenblaetter.de,rimondo.com,rundschau-online.de,spielen.de,spieletipps.de,spielfilm.de,tichyseinblick.de,torgranate.de,transfermarkt.*,truckscout24.*,tvinfo.de,unicum.de,unsere-helden.com,webfail.com,weltfussball.at,weristdeinfreund.de,weser-kurier.de,wetter.com,wetteronline.at,wetteronline.ch,wieistmeineip.*,wize.life##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, ||()
@@ -808,6 +809,7 @@ m.timesofindia.com,m.photos.timesofindia.com##.ad1
 ! https://github.com/uBlockOrigin/uAssets/issues/176
 ! https://github.com/NanoAdblocker/NanoFilters/issues/57
 @@||m.photos.timesofindia.com^$generichide
+||static.toiimg.com/ad-banner*/photo/*$image,redirect=2x2-transparent.png,domain=m.timesofindia.com
 m.timesofindia.com##.adsinview
 timesofindia.com##+js(abort-on-property-read.js, detector)
 indiatimes.com##+js(setTimeout-defuser.js, adBlockDetectionStart)
@@ -1204,7 +1206,7 @@ wikia.com##+js(abort-on-property-write.js, _sp_)
 ! https://github.com/uBlockOrigin/uAssets/issues/1153
 ! https://github.com/uBlockOrigin/uAssets/issues/1194
 ! https://forums.lanik.us/viewtopic.php?f=62&t=38315
-123movies.net,2ddl.*,allitebooks.com,arabseed.tv,bonstreams.net,buzzfil.net,byter.tv,clicknupload.org,convertinmp4.com,cric1.com,crictime.com,ddlvalley.me,dontdo.pw,dramamate.*,entervideo.net,eztv.*,filmvf.cc,fluvore.com,go4up.com,hilltop.pw,icefilms.info,igg-games.com,kiss-anime.*,letmewatchthis.*,liveflashplayer.org,mac-torrents.com,mapx.pw,mkvcage.*,movie4k.org,oceanoffgames.com,openload.ch,pdf-giant.com,pelispedia.*,playuc.live,radiofly.ws,readmanga.today,sawlive.tv,skidrowcrack.com,sportshd.me,strdef.world,streamfilmzzz.com,streamzzz.online,subswiki.com,thevideobee.to,tny.ec,tomadivx.org,toros.co,torrentz.to,torrentz2.*,ublock.pw,ubocam.pw,ucaster.xyz,unblocked.app,upload.ee,uploading.site,uptobox.com,yts.*,webcric.com,zooqle.*##+js(nowebrtc.js)
+123movies.net,2ddl.*,allitebooks.com,arabseed.tv,bonstreams.net,buzzfil.net,byter.tv,clicknupload.org,convertinmp4.com,cric1.com,crictime.com,ddlvalley.me,dontdo.pw,dramamate.*,entervideo.net,eztv.*,filmvf.cc,fluvore.com,go4up.com,hilltop.pw,icefilms.info,igg-games.com,kiss-anime.*,letmewatchthis.*,liveflashplayer.org,mac-torrents.com,mapx.pw,mkvcage.*,movie4k.org,oceanoffgames.com,openload.ch,pdf-giant.com,pelispedia.*,playuc.live,radiofly.ws,readmanga.today,sawlive.tv,skidrowcrack.com,sportshd.me,strdef.world,streamfilmzzz.com,streamzzz.online,subswiki.com,thevideobee.to,tny.ec,tomadivx.org,toros.co,torrentz.to,torrentz2.*,ublock.pw,ubocam.pw,unblocked.app,upload.ee,uploading.site,uptobox.com,yts.*,webcric.com,zooqle.*##+js(nowebrtc.js)
 123movies.la##a[href*="bit.ly"]
 ##[href^="https://adsrv4k.com/"]
 pelispedia.*##[id^="ap"]
@@ -14279,9 +14281,11 @@ hpjav.tv##div#single_ad_nativeads
 hpjav.tv##[href^="http://wct.link/click"]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4216
-mywatchseries.stream##+js(abort-current-inline-script.js, Math, zfgloaded)
-mywatchseries.stream##+js(abort-current-inline-script.js, atob, decodeURI)
-mywatchseries.stream##+js(nowebrtc.js)
+mywatchseries.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+mywatchseries.*##+js(abort-current-inline-script.js, atob, decodeURI)
+mywatchseries.*##+js(nowebrtc.js)
+mywatchseries.*##+js(abort-on-property-write.js, Fingerprint2)
+||d19f0dp1dh77jq.cloudfront.net^
 ||viral782.com^$script,third-party
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4217
@@ -20744,7 +20748,9 @@ variety.com##+js(abort-on-property-read.js, pmc_admanager.show_interrupt_ads)
 ||fundingchoicesmessages.google.com^$domain=sme.sk
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=43060
-janjua.tv##+js(nowebrtc.js)
+!janjua.tv##+js(nowebrtc.js)
+! anti adb http://arembed .com/live.php?ch=Bein_Sports1
+@@||janjua.*^$generichide
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5652
 cmovieshd.bz##+js(abort-current-inline-script.js, Math, zfgloaded)
@@ -21750,3 +21756,6 @@ gulfupload.com##+js(abort-current-inline-script.js, Math, zfgloaded)
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=43212
 @@||vtpii.com^$generichide
+
+! https://github.com/uBlockOrigin/uAssets/issues/5897
+bollydata.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)

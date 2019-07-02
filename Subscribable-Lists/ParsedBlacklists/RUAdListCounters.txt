@@ -47,7 +47,6 @@ pulse.aviasales.ru
 r.msn.com
 radar.imgsmail.ru
 rcounter.rambler.ru
-recostream.go.mail.ru
 referrer.disqus.com
 s.agava.ru
 s.youtube.com
