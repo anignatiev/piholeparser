@@ -13,4 +13,5 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
-* JapaneseSiteAdblockFilterver2 List Marked As Dead. Wed Jul 3 00:26:18 UTC 2019
+* JapaneseSiteAdblockFilterver2 List Unavailable To Download. Thu Jul 4 00:20:51 UTC 2019
+## Checking If List Updated Online
