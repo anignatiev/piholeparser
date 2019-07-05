@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201907022357
+! Version: 201907042355
 ! Title: EasyPrivacy
-! Last modified: 02 Jul 2019 23:57 UTC
+! Last modified: 04 Jul 2019 23:55 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13248,6 +13248,7 @@ _mongo_stats/
 ||news.cn/webdig.js
 ||news.com.au/track/
 ||news.com.au/tracking/
+||news.google.com/_/v
 ||news9.com/beacon/
 ||newsarama.com/common/track.php
 ||newscom.com/js/v2/ga.js
@@ -14264,6 +14265,7 @@ _mongo_stats/
 ||vodpod.com/stats/
 ||vogue.co.uk/_/logic/statistics.js
 ||votigo.com/contests/t/
+||voxmedia.com/needle?d=$image,third-party
 ||voyages-sncf.com^*/vsca.js
 ||voyeurhit.com/js/a2210.js
 ||vs.target.com^
@@ -14495,7 +14497,7 @@ $xmlhttprequest,domain=alltube.pl|alltube.tv|auroravid.to|catrumahminimalis.me|d
 ! CSP Mining
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=ddmix.net|extratorrent.cd|gofile.io|hq-porns.com|intactoffers.club|myfeed4u.net|skyback.ru|szukajka.tv|thepiratebay.cr|thepiratebay.org|thepiratebay.red|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tvad.me|vidoza.net|vidup.me
-$csp=worker-src 'none',domain=akvideo.stream|alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.net|bigspeeds.com|biter.tv|bypassed.ws|byter.tv|centrum-dramy.pl|cinemafacil.com|clipwatching.com|coinfaucet.eu|coinhub.win|crictime.com|crictime.is|dekoder.ws|deltabit.co|descargas2020.com|estream.to|estream.xyz|filmonet.com|filmstreamvk.site|flashx.cc|flashx.co|flashx.sx|flashx.to|flashx.tv|flashx.ws|hdvid.life|hdvid.tv|hdvid.xyz|hentai-online.pl|hqq.watch|ianimes.co|kinokongo.cc|kinostuff.com|lewd.ninja|love-drama.pl|movie4k.is|pebx.pl|potomy.ru|povw1deo.com|powvideo.cc|powvideo.net|proxyportal.eu|reactor.cc|salon.com|severita-service.ru|sickrage.ca|sorteosrd.com|tomadivx.tv|unblockall.org|unblocked.gdn|vidfile.net|vidtodo.com|vidtodo.me|vidtodo.pro|wallpoper.com|wearesaudis.net|ya3ale.com|yazilir.com|zenexplayer.com
+$csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.net|bigspeeds.com|biter.tv|bypassed.ws|byter.tv|centrum-dramy.pl|cinemafacil.com|clipwatching.com|coinfaucet.eu|coinhub.win|crictime.com|crictime.is|dekoder.ws|deltabit.co|descargas2020.com|estream.to|estream.xyz|filmonet.com|filmstreamvk.site|flashx.cc|flashx.co|flashx.sx|flashx.to|flashx.tv|flashx.ws|hdvid.life|hdvid.tv|hdvid.xyz|hentai-online.pl|hqq.watch|ianimes.co|kinokongo.cc|kinostuff.com|lewd.ninja|love-drama.pl|movie4k.is|pebx.pl|potomy.ru|povw1deo.com|powvideo.cc|powvideo.net|proxyportal.eu|reactor.cc|salon.com|severita-service.ru|sickrage.ca|sorteosrd.com|tomadivx.tv|unblockall.org|unblocked.gdn|vidfile.net|vidtodo.com|vidtodo.me|vidtodo.pro|wallpoper.com|wearesaudis.net|ya3ale.com|yazilir.com|zenexplayer.com
 ! Preliminarily blocking Omniture s_code tracking scripts (versions H.25 - H.25.2) due to breakage (https://adblockplus.org/forum/viewtopic.php?f=10&t=11378)
 ||abc.com/service/gremlin/js/files/s_code.js?$domain=abc.go.com
 ||adobe.com^*/omniture_s_code.js
@@ -16514,9 +16516,10 @@ $csp=worker-src 'none',domain=akvideo.stream|alltube.pl|alltube.tv|animeteatr.ru
 @@||getgoods.de^*/emstrack.js
 @@||giga.de/wp-content/plugins/econa-stats/log/video-views/log.php?id=$object-subrequest
 @@||gls.de^*/emos2.js
-@@||google-analytics.com/analytics.js$domain=schweizerfleisch.ch
+@@||google-analytics.com/analytics.js$domain=saturn.at|schweizerfleisch.ch
+@@||google-analytics.com/plugins/ua/ec.js$domain=saturn.at
 @@||google-analytics.com/siteopt.js?$domain=chip.de
-@@||googletagmanager.com/gtm.js?$domain=bunte.de|finanzen.net
+@@||googletagmanager.com/gtm.js?$domain=bunte.de|finanzen.net|saturn.at
 @@||hach.de^*/emstrack.js
 @@||hammonline.de/statistik/piwik.js
 @@||hermesworld.com/tracking/urchin.js
@@ -16733,14 +16736,13 @@ $csp=worker-src 'none',domain=akvideo.stream|alltube.pl|alltube.tv|animeteatr.ru
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||imrworldwide.com/novms/*/ggcm*.js$domain=la7.it|sky.it|video.corriere.it
 @@||imrworldwide.com/v60.js$domain=corriereadriatico.it|fanpage.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|leggo.it|quotidianodipuglia.it
-@@||kataweb.it/wt/wt.js?http$domain=video.repubblica.it
-@@||lastampa.it/modulo/tracciatori/js/nielsen.js
+@@||kataweb.it/wt/wt.js?http$domain=video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it
 @@||maxmind.com^*/geoip.js$domain=sportube.tv
 @@||omtrdc.net^*/mbox/json?$xmlhttprequest,domain=vodafone.it
 @@||paginegialle.it/js/shinystat.js
 @@||panorama.it/wp-content/themes/panorama/js/google-nielsen-analytics.js?
 @@||repstatic.it^*/Nielsen.js
-@@||scripts.repubblica.it/pw/pw.js?deskurl=$domain=messaggeroveneto.gelocal.it
+@@||repubblica.it/pw/pw.js?deskurl=$domain=lastampa.it|messaggeroveneto.gelocal.it
 @@||timvision.it/libs/fingerprint/fingerprint.js
 @@||tiscali.it/js/webtrends/$script,domain=mail.tiscali.it
 @@||track.adform.net/serving/scripts/trackpoint$script,domain=sky.it|ubibanca.com
