@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201907060005
+! Version: 201907062327
 ! Title: EasyPrivacy
-! Last modified: 06 Jul 2019 00:05 UTC
+! Last modified: 06 Jul 2019 23:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3882,6 +3882,7 @@
 /trackingCode-
 /trackingCode.js
 /TrackingCookieCheck.
+/TrackingCookieCheck?
 /trackingcookies.
 /TrackingData.
 /trackingDTM.js
@@ -7059,6 +7060,7 @@ _mongo_stats/
 ||userreplay.net^$third-party
 ||userreport.com^$third-party
 ||users-api.com^$third-party
+||userzoom.com^$third-party
 ||usuarios-online.com^$third-party
 ||uuxnwoevyb.com^$third-party
 ||v12group.com^$third-party
@@ -7998,6 +8000,7 @@ _mongo_stats/
 ||adquality.ch^$third-party
 ||adrank24.de^$third-party
 ||adtraxx.de^$third-party
+||adtriba.com^$third-party
 ||adzoe.de^$third-party
 ||amunx.de^$third-party
 ||analytics.rechtslupe.org^
@@ -15649,6 +15652,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||adblockanalytics.com/ads.js|
 @@||addgene.org/headers/blat/js/analyze.js
 @@||adidas.com^*/adidasAnalytics.js?
+@@||adobedtm.com/launch-$script
 @@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|fcbarcelona.com|lenovo.com|newyorker.com|oprah.com|pnc.com|vanityfair.com|wired.com
 @@||adobedtm.com^*/s-code-$script
 @@||adobedtm.com^*/satellite-$script

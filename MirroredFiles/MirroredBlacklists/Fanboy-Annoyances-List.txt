@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Kjm3u9wzpIAoV/2SDGIfLA
-! Version: 201907020011
+! Checksum: t1SvYI9dixwGQhML91AlwQ
+! Version: 201907070011
 ! Title: Fanboy's Annoyance List
-! Last modified: 02 Jul 2019 00:11 UTC
+! Last modified: 07 Jul 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -14423,6 +14423,9 @@ _site_cookie_
 ##.jetpack_widget_social_icons
 ##.jiathis_style
 ##.jiathis_top
+##.jj_sl_facebook
+##.jj_sl_twitter
+##.jj_sl_youtube
 ##.jl-social-media
 ##.join-social-panel
 ##.joinSocial
@@ -33623,8 +33626,6 @@ itproportal.com##.beta-overlay-background
 itproportal.com##.beta-overlay-popup
 rsf.org##.bg-overlay
 bhaskar.com##.bgTB
-ibnlive.in.com##.big_left_arrow
-ibnlive.in.com##.big_right_arrow
 huffingtonpost.com##.bing_pixie
 buzznet.com##.bing_tab_header
 natureworldnews.com##.bk-connected
@@ -33999,7 +34000,6 @@ fashionnstyle.com,universityherald.com##.fs-main-in
 fashionnstyle.com##.fs-tertiary-in
 tomshardware.com##.ftFollowBox
 tripadvisor.com##.ftr_mobile
-ibnlive.in.com##.fx-ftr
 gameinformer.com##.g-i-blog-links
 ispreview.co.uk##.g_bar
 maxim.com##.g_subs_Container
@@ -34747,7 +34747,6 @@ lifehack.org##.slide-in-pager
 discovery.com##.slide-out-div
 sassymanila.com##.slideInRight
 nymag.com,thedissolve.com##.slideout
-ibnlive.in.com##.slider_story
 bleacherreport.com##.slideshowNav
 fastcompany.com##.slideshowlinks
 freeenterprise.com##.sliding-panel-trigger
@@ -35759,7 +35758,7 @@ weta.org##.news_signup
 la-croix.com##.news_w_02
 newsbtc.com##.newsform
 dnaindia.com##.newsletTab
-9to5mac.com,aawsat.com,about.com,algemeiner.com,antlionaudio.com,apracticalwedding.com,arab24.com,arabnews.com,atimes.com,autoguide.com,autoweek.com,bostonmagazine.com,brooklynbased.com,cheapies.nz,clickhole.com,cnet.com,completesportsnigeria.com,complex.com,computerworld.com,consumerreports.org,csoonline.com,defensenews.com,designntrend.com,discoverymedia.com,egyptiangazette.net.eg,elpais.com,emirates247.com,engadget.com,epicurious.com,essentialbaby.com.au,essentialkids.com.au,euractiv.com,eventfinda.co.nz,fashionotes.com,fivethirtyeight.com,geek.com,gizchina.com,goodfood.com.au,goodnet.org,grantland.com,graziadaily.co.uk,greatbritishchefs.com,greenbot.com,guyism.com,haaretz.com,hdwallpapers.in,healthday.com,hellomagazine.com,higherperspectives.com,hightimes.com,hodinkee.com,hottopics.ht,huffingtonpost.com,indypendent.org,infoq.com,infoworld.com,investopedia.com,israeltoday.co.il,itechpost.com,itworld.com,javaworld.com,jewishjournal.com,jns.org,jstor.org,kpfa.org,life.com,lifehack.org,maplin.co.uk,maritimejobs.com,massivesci.com,maxim.com,michiganchronicle.com,muckrock.com,multichannel.com,muslimnews.co.uk,nationalinterest.org,ndtv.com,nerve.com,networkworld.com,newrepublic.com,newsdeeply.com,npr.org,nymag.com,out-law.com,paidcontent.org,pbs.org,peoplesworld.org,piriform.com,pomade.com,popdust.com,presstv.com,propublica.org,psfk.com,recombu.com,redsharknews.com,revealnews.org,rsf.org,rumorfix.com,screencrush.com,silicon.co.uk,singularityhub.com,slate.com,speedcafe.com,stylecaster.com,swingbyswing.com,talkandroid.com,techbeat.com,techly.com.au,techtimes.com,the-star.co.ke,thebaffler.com,thedailybeast.com,thedrinknation.com,theepochtimes.com,themeshreport.com,thenevadaindependent.com,thenextweb.com,theregister.co.nz,theregister.co.uk,thetruthaboutcars.com,topdocumentaryfilms.com,travelweekly.com,truthdig.com,tvquran.com,twice.com,twitchy.com,variety.com,vice.com,vulture.com,weeklystandard.com,wgnamerica.com,wikitribune.com,yahoo.com##.newsletter
+2gb.com,9to5mac.com,aawsat.com,about.com,algemeiner.com,antlionaudio.com,apracticalwedding.com,arab24.com,arabnews.com,atimes.com,autoguide.com,autoweek.com,bostonmagazine.com,brooklynbased.com,cheapies.nz,clickhole.com,cnet.com,completesportsnigeria.com,complex.com,computerworld.com,consumerreports.org,csoonline.com,defensenews.com,designntrend.com,discoverymedia.com,egyptiangazette.net.eg,elpais.com,emirates247.com,engadget.com,epicurious.com,essentialbaby.com.au,essentialkids.com.au,euractiv.com,eventfinda.co.nz,fashionotes.com,fivethirtyeight.com,geek.com,gizchina.com,goodfood.com.au,goodnet.org,grantland.com,graziadaily.co.uk,greatbritishchefs.com,greenbot.com,guyism.com,haaretz.com,hdwallpapers.in,healthday.com,hellomagazine.com,higherperspectives.com,hightimes.com,hodinkee.com,hottopics.ht,huffingtonpost.com,indypendent.org,infoq.com,infoworld.com,investopedia.com,israeltoday.co.il,itechpost.com,itworld.com,javaworld.com,jewishjournal.com,jns.org,jstor.org,kpfa.org,life.com,lifehack.org,maplin.co.uk,maritimejobs.com,massivesci.com,maxim.com,michiganchronicle.com,muckrock.com,multichannel.com,muslimnews.co.uk,nationalinterest.org,ndtv.com,nerve.com,networkworld.com,newrepublic.com,newsdeeply.com,npr.org,nymag.com,out-law.com,paidcontent.org,pbs.org,peoplesworld.org,piriform.com,pomade.com,popdust.com,presstv.com,propublica.org,psfk.com,recombu.com,redsharknews.com,revealnews.org,rsf.org,rumorfix.com,screencrush.com,silicon.co.uk,singularityhub.com,slate.com,speedcafe.com,stylecaster.com,swingbyswing.com,talkandroid.com,techbeat.com,techly.com.au,techtimes.com,the-star.co.ke,thebaffler.com,thedailybeast.com,thedrinknation.com,theepochtimes.com,themeshreport.com,thenevadaindependent.com,thenextweb.com,theregister.co.nz,theregister.co.uk,thetruthaboutcars.com,topdocumentaryfilms.com,travelweekly.com,truthdig.com,tvquran.com,twice.com,twitchy.com,variety.com,vice.com,vulture.com,weeklystandard.com,wgnamerica.com,wikitribune.com,yahoo.com##.newsletter
 foodandwine.com,golf.com,health.com,realsimple.com,southernliving.com,travelandleisure.com##.newsletter-callout
 alarabiya.net,businesstimes.com.sg,commondreams.org,economist.com,foxnews.com,techly.com.au,thefiscaltimes.com##.newsletter-form
 beinsports.com##.newsletter-header
@@ -37552,7 +37551,6 @@ heartcms.com,yiannimize-refined.com##div[style="position:fixed;width:36px;float:
 yahoo.com##div[style="position:relative;display:inline-block;cursor:default;height:40px;vertical-align:top;"]
 skinnytaste.com##div[style="text-align:left; margin-left:auto; margin-right:auto;"]
 rodalenews.com##div[style="width: 290px; height: 70px; padding-top:10px"]
-ibnlive.in.com##div[style="width: 300px; height: 600px;"]
 goldderby.com##div[style="width: auto; height: auto; padding: 6px; background-color: rgb(242, 251, 239); border: 1px solid #298A08; text-align: center;"]
 planetivy.com##div[style="width:100%;height:90px"]
 fansshare.com##div[style="width:192px;height:90px;float:left;padding-left:6px;"]
@@ -38250,6 +38248,7 @@ adobe.com,merixstudio.com,sapabuildingsystem.com,timesofisrael.com##.message
 gametwist.com##.message__container
 wandermap.net##.messages
 mitele.es##.mitele-consent
+transparency.org##.mk-c-modal
 amazon.com##.mo-wp
 mirror.co.uk##.mod-cookiepolicy
 axminster.co.uk,daf.be,daf.co.uk,daf.com,daf.fr,daf.global,daf.nl,daf.ru,daf.se,daftrucks.de,daftrucks.dk,daftrucks.it,daftrucks.pl,daftrucks.sk,ferratum.co.uk,fiveguys.co.uk,kon-boot.com,lam.co.mz,medtronic.com,primaresearch.org##.modal-backdrop
@@ -41528,7 +41527,7 @@ novojornal.co.ao#@#.newsletter-modal
 billabong.com,strikerconcepts.com,tactxflashlights.com,urbanedcsupply.com#@#.newsletter-popup
 thefork.it#@#.newsletterSignup
 outbrain.com#@#.outbrain
-pch24.pl#@#.popup-newsletter
+pch24.pl,retro-bit.com#@#.popup-newsletter
 inverse.com#@#.promos-newsletter
 push.abs-cbn.com,schufa.de#@#.push-container
 underconsideration.com#@#.push-wrap
@@ -42682,6 +42681,7 @@ timeout.com#@#div[data-module="cookie_banner"]
 @@||findicons.com/files/icons/$~third-party
 @@||flattr.com/images/platforms/$image,domain=flattr.com
 @@||flattr.com^$generichide
+@@||flintmobile.de/assets/js/twitterfetcher_min.js
 @@||fncstatic.com^*/fb-logo-$image,domain=foxbusiness.com
 @@||fncstatic.com^*/fb-logo.$image,domain=foxbusiness.com
 @@||fontawesome.io^$generichide,~third-party
@@ -42770,6 +42770,7 @@ timeout.com#@#div[data-module="cookie_banner"]
 @@||inkscape.org/design/images/logo_twitter.png
 @@||inoreader.com/images/login/but_facebook.png
 @@||inquisitr.com/wp-content/uploads/*-Social-Media-$image,domain=inquisitr.com
+@@||instagram.com/p/$subdocument,third-party
 @@||instantlogosearch.com/svg/$image
 @@||interlinkexpress.com/apps/tracking/images/google-$~third-party
 @@||investis.com^*/share_arrow.png
