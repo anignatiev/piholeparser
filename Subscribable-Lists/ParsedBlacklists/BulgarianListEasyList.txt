@@ -2312,6 +2312,7 @@ track.addevent.com
 track.adintend.com
 track.atom-data.io
 track.bannedcelebs.com
+track.bazonline.ch
 track.bernerzeitung.ch
 track.bluecompany.cl
 track.briskfile.com

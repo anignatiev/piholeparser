@@ -1163,7 +1163,7 @@ wikia.com##+js(abort-on-property-write.js, _sp_)
 ! https://github.com/uBlockOrigin/uAssets/issues/1153
 ! https://github.com/uBlockOrigin/uAssets/issues/1194
 ! https://forums.lanik.us/viewtopic.php?f=62&t=38315
-123movies.net,2ddl.*,allitebooks.com,arabseed.tv,bonstreams.net,buzzfil.net,byter.tv,clicknupload.org,convertinmp4.com,cric1.com,crictime.com,ddlvalley.me,dontdo.pw,dramamate.*,entervideo.net,eztv.*,filmvf.cc,fluvore.com,go4up.com,hilltop.pw,icefilms.info,igg-games.com,kiss-anime.*,letmewatchthis.*,liveflashplayer.org,mac-torrents.com,mapx.pw,mkvcage.*,movie4k.org,oceanoffgames.com,openload.ch,pdf-giant.com,pelispedia.*,playuc.live,radiofly.ws,readmanga.today,sawlive.tv,skidrowcrack.com,sportshd.me,strdef.world,streamfilmzzz.com,streamzzz.online,subswiki.com,thevideobee.to,tny.ec,tomadivx.org,toros.co,torrentz.to,torrentz2.*,ublock.pw,ubocam.pw,unblocked.app,upload.ee,uploading.site,uptobox.com,yts.*,webcric.com,zooqle.*##+js(nowebrtc.js)
+123movies.net,2ddl.*,allitebooks.com,arabseed.tv,bonstreams.net,buzzfil.net,byter.tv,clicknupload.org,convertinmp4.com,cric1.com,crictime.com,ddlvalley.me,dontdo.pw,dramamate.*,entervideo.net,eztv.*,filmvf.cc,fluvore.com,go4up.com,hilltop.pw,icefilms.info,igg-games.com,kiss-anime.*,letmewatchthis.*,liveflashplayer.org,mac-torrents.com,mapx.pw,mkvcage.*,movie4k.org,oceanoffgames.com,openload.ch,pastehere.xyz,pdf-giant.com,pelispedia.*,playuc.live,radiofly.ws,readmanga.today,sawlive.tv,skidrowcrack.com,sportshd.me,strdef.world,streamfilmzzz.com,streamzzz.online,subswiki.com,thevideobee.to,tny.ec,tomadivx.org,toros.co,torrentz.to,torrentz2.*,ublock.pw,ubocam.pw,unblocked.app,upload.ee,uploading.site,uptobox.com,yts.*,webcric.com,zooqle.*##+js(nowebrtc.js)
 123movies.la##a[href*="bit.ly"]
 ##[href^="https://adsrv4k.com/"]
 pelispedia.*##[id^="ap"]
@@ -7824,7 +7824,7 @@ peliculas-mp4.com##+js(abort-on-property-write.js, adsurgeNode)
 peliculas-mp4.com##+js(setTimeout-defuser.js, rejectWith)
 ||sisney.net^$3p
 ! https://github.com/uBlockOrigin/uAssets/issues/2198#issuecomment-478436892
-mega-dvdrip.*##+js(addEventListener-defuser.js, DOMContentLoaded, shortener)
+mega-dvdrip.*,peliculas-dvdrip.*##+js(addEventListener-defuser.js, DOMContentLoaded, shortener)
 ||acortador.net^$3p
 
 ! https://github.com/jspenguin2017/uBlockProtector/issues/926
@@ -11407,7 +11407,8 @@ deinesexfilme.com,einfachtitten.com,halloporno.com,herzporno.com,hd-pornos.net,l
 deinesexfilme.com,herzporno.com,lesbenhd.com,milffabrik.com,pornoaffe.com,pornoente.tv,pornohelm.com,pornoklinge.com,xnxx-sexfilme.com###wa_join_btn
 einfachtitten.com,halloporno.com,hd-pornos.net,pornodavid.com,pornofisch.com,pornofelix.com,pornohammer.com,pornotom.com,pornotommy.com,pornovideos-hd.com,pornozebra.com##.send_event.widget_btn.cf
 ! https://github.com/uBlockOrigin/uAssets/issues/3341
-xnxx-sexfilme.com##+js(abort-on-property-read.js, VTTCue)
+xnxx-sexfilme.com##+js(abort-on-property-write.js, SpecialUp)
+xnxx-sexfilme.com##+js(addEventListener-defuser.js, ads)
 xnxx-sexfilme.com##+js(popads-dummy.js)
 ||pushpad.xyz^$script,domain=xnxx-sexfilme.com
 xnxx-sexfilme.com##.img_box:has-text(Anzeige)
@@ -12147,7 +12148,9 @@ eurozpravy.cz##.adsbygoogle
 msembed.net,mystream.to##+js(window.open-defuser.js)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3575
-glory-link.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+forextradiiing.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+forextradiiing.com,glory-link.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+forextradiiing.com##+js(bab-defuser.js)
 
 ! https://www.rong-chang.com/usalife/ anti adb
 @@||rong-chang.com^$generichide
@@ -21538,7 +21541,7 @@ countrygames.net##+js(setTimeout-defuser.js, checkAdblockUser)
 ktmx.pro##+js(addEventListener-defuser.js, load, 2000)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5843
-animeyt2.tv##+js(set-constant.js, String.prototype.charCodeAt, trueFunc)
+animeyt2.tv##+js(abort-on-property-read.js, loadRunative)
 
 ! https://github.com/abp-filters/abp-filters-anti-cv/issues/194
 egybest2.com,egybest4.com##+js(abort-current-inline-script.js, Math, zfgloaded)
@@ -21913,8 +21916,8 @@ fmovies.mx##^script:has-text(vocabulary)
 fmovies.mx###clickfakeplayer
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5926
-fmovie.info##+js(abort-current-inline-script.js, Math, zfgloaded)
-fmovie.info##+js(abort-on-property-write.js, _pop)
+fmovie.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+fmovie.*##+js(abort-on-property-write.js, _pop)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5926
 fmovieson.com##+js(abort-on-property-read.js, _0x4459)
@@ -21930,9 +21933,16 @@ fmovies123.*##+js(abort-on-property-read.js, require)
 ! https://github.com/uBlockOrigin/uAssets/issues/5926
 ||loadshare.org/custom/$media,redirect=noopmp4-1s,domain=01fmovies.com
 01fmovies.com##+js(addEventListener-defuser.js, DOMContentLoaded, checkVPN)
+||01fmovies.com/mmmasdfl-asd$xhr,1p
 01fmovies.com##[src^="/addons/"]
 01fmovies.com##.jw-logo
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3026
 coolrom.com.au##+js(nano-setTimeout-booster.js)
 coolrom.com.au##+js(set-constant.js, time, 0)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5929
+onlystream.tv##+js(abort-on-property-read.js, BetterJsPop)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5928
+||autotracer.org/cnc/?*=rightcol$xhr,1p

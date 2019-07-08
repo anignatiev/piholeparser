@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: t1SvYI9dixwGQhML91AlwQ
-! Version: 201907070011
+! Checksum: EILDWzwe5mdt+HpQvjTNhQ
+! Version: 201907080011
 ! Title: Fanboy's Annoyance List
-! Last modified: 07 Jul 2019 00:11 UTC
+! Last modified: 08 Jul 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6064,6 +6064,7 @@ _site_cookie_
 ##.m-rock-newsletter
 ##.m-site-foot--newsletter
 ##.m-subscribe
+##.m4p-newsletter-form
 ##.mailchimp-lists-user-subscribe-form
 ##.mailing-list-signup
 ##.mailingList--sidebar
@@ -13673,6 +13674,7 @@ _site_cookie_
 ##.header__social-media
 ##.header__social-nav
 ##.header__social-section
+##.header__socialMedia
 ##.header__socials
 ##.header__toggle--share
 ##.header_fb_icon
@@ -20941,6 +20943,7 @@ _site_cookie_
 ###acceptCookiesWrapper
 ###acceptTrackingCookieWrapper
 ###acceptUserExperience
+###accept_agree
 ###accept_cookie
 ###accept_cookie_box
 ###accept_cookie_widget
@@ -33082,7 +33085,7 @@ siouxcityjournal.com###scroll-nav-container
 filmschoolrejects.com###scrollbarbox
 ibtimes.co.uk###scrollcontainer
 allvoices.com,statetechmagazine.com,thesixthaxis.com###scrollingDiv
-addictinginfo.org,ipsnews.net###scrolltriggered
+ipsnews.net###scrolltriggered
 elephantjournal.com###sd
 sandiego6.com###sdSB
 observer.com###search-form
@@ -37694,6 +37697,7 @@ last.fm##.share-desktop
 dailymail.co.uk##.share-email
 dailymail.co.uk,gala.de##.share-facebook
 last.fm##.share-features
+last.fm##.share-footer
 dailymail.co.uk,gala.de##.share-gplus
 goldderby.com##.share-group
 calciomercato.com##.share-icon
@@ -37784,6 +37788,7 @@ kabeleins.de,prosieben.de,prosiebenmaxx.de,ran.de,sat1.de,sixx.de##.twitter-shar
 cinemablend.com##.twitter-share-button
 kabeleins.de,prosieben.de,prosiebenmaxx.de,ran.de,sat1.de,sixx.de##.twitter-timeline
 itechpost.com##.uni-social
+last.fm##.user-dashboard-share
 tlc.com##.videoMetadata__social
 dailymail.co.uk##.vjs-social-icon
 softonic.com##.widget-facebook-timeline
@@ -39122,6 +39127,7 @@ telemundo20.com,telemundo31.com,telemundo40.com,telemundo47.com,telemundo48elpas
 rtve.es##.arrow
 andro4all.com,applesencia.com,atlascultural.com,capitalibre.com,frenomotor.com,placeralplato.com,rootear.com,sportadictos.com,winphonemetro.com,xombit.com,xombitgames.com,xombitmusic.com##.border-button
 economiahoy.mx##.box-sus
+elplural.com##.btn-subscribe
 telesurtv.net##.btnBoletin
 cadenaser.com##.cnt-subir
 cadenaser.com##.cont_webpush
@@ -39148,6 +39154,7 @@ lanacion.com.ar##.titulares-del-dia
 andro4all.com,applesencia.com,atlascultural.com,capitalibre.com,frenomotor.com,placeralplato.com,rootear.com,sportadictos.com,winphonemetro.com,xombit.com,xombitgames.com,xombitmusic.com##.top-button
 lanacion.com.ar##.twitter
 telcel.com##.up_button
+larepublica.cat##.widget_mailpoet_form
 infobae.com##a[href^="/newsletter/"]
 clarin.com##a[href^="/newsletters/"]
 ||ara.cat^*/newsletters/
@@ -39993,6 +40000,7 @@ epochtimes.com.br##.tools
 !---------- Spanish Site Specific Hiding Rules ----------
 !
 soychile.cl###facebook
+mediterraneodigital.com###jj_sl_navigation
 notiactual.com###redes
 perfil.com###redesArticulo
 hispantv.com###sharings-footer
@@ -42121,7 +42129,7 @@ acceptableads.org,battleforthenet.com,breakoutlist.com,easyicon.net,github.com,g
 a2zapk.com,authy.com,battleforthenet.com,breakoutlist.com,clubbingtv.com,disqus.com,eff.org,github.com,github.io,gitlab.com,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws,hackerone.com,incgamers.com,massivelyop.com,maxthon.com,microsoft.com,opendatacity.de,thoughtcatalog.com,twitter.com,vvhp.net,whatculture.com,whatthetech.com#@#img[alt="Twitter"]
 github.com,mezzacotta.net,theverge.com,twitter.com#@#img[alt="Vine"]
 a2zapk.com,github.com,maxthon.com,opendatacity.de,whatculture.com#@#img[alt="Youtube"]
-facebook.com,github.com,github.io,megabus.com,theguardian.com,uservoice.com#@#img[alt="facebook"]
+avira.com,facebook.com,github.com,github.io,megabus.com,theguardian.com,uservoice.com#@#img[alt="facebook"]
 discourse.org,github.com,github.io,megabus.com#@#img[alt="twitter"]
 allestörungen.de,github.com,github.io,keepa.com,marketplace.firefox.com,vvhp.net#@#img[title="Facebook"]
 allestörungen.de,github.com,github.io,whatismyip.com#@#img[title="LinkedIn"]
