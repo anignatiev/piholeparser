@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 8656
+! Version: 8671
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -220,6 +220,7 @@
 ||ankcnflupb.com^
 ||anleqthwxxns.com^
 ||anluecyopslm.com^
+||anmvuuhgo.com^
 ||anogjkubvdfe.com^
 ||anoufpjmkled.com^
 ||anpwsppugpu.com^
@@ -760,6 +761,7 @@
 ||bwssvome.com^
 ||bwuxrzvr.bid^
 ||bwvigmkn.com^
+||bwwfncfuzahpg.com^
 ||bwzohoomljs.com^
 ||bxejeqyudkgum.com^
 ||bxexufifrsfr.com^
@@ -1130,6 +1132,7 @@
 ||cvhpuccaib.bid^
 ||cvjzauehxjsy.com^
 ||cvnmmeux.com^
+||cvofpjhscrj.com^
 ||cvwipkjyu.bid^
 ||cvzixxiesyjkha.com^
 ||cwbbqhgtjbvtzi.com^
@@ -2018,6 +2021,7 @@
 ||ffvghouburgijz.bid^
 ||ffvvapasfcoha.bid^
 ||ffwbpadvkcyi.com^
+||ffxobftzaiogcg.com^
 ||fgcterkdpns.com^
 ||fghdembabvwe.com^
 ||fghtrrasovlsu.com^
@@ -2096,6 +2100,7 @@
 ||flnqkhnqjcmvp.com^
 ||flntdbwafec.com^
 ||flooaiaubf.bid^
+||flrqdjglshsbi.com^
 ||fluunrkjjhv.com^
 ||flvuylhsyg.com^
 ||flzelfqolfnf.com^
@@ -2250,6 +2255,7 @@
 ||fupgvldb.com^
 ||fuurqgbfhvqx.com^
 ||fuwgbbkktwbu.com^
+||fuxhdhdjlyrwhq.com^
 ||fuymatqqiyz.com^
 ||fvbtqaijuo.com^
 ||fveegvyfe.com^
@@ -3400,6 +3406,7 @@
 ||irzdishtggyo.com^
 ||isbzjaedbdjr.com^
 ||iscaebizkzyd.com^
+||isfmvohloskgw.com^
 ||isfouztifttwha.bid^
 ||isfxsiooyjad.com^
 ||isggimkjabpa.com^
@@ -4325,6 +4332,7 @@
 ||kyzlzjtbgjr.bid^
 ||kzawrekf.bid^
 ||kzexkhstcng.com^
+||kzfinsoee.com^
 ||kzgzfndrvpnz.com^
 ||kzlmwsyftm.com^
 ||kzqrjfulybvv.com^
@@ -4747,6 +4755,7 @@
 ||mafndqbvdgkm.com^
 ||magwfymjhils.com^
 ||maidlytsnrn.com^
+||mailhxubk.com^
 ||makhhvgdkhwn.com^
 ||makumuvgxfogq.com^
 ||malgyhuytbnjb.bid^
@@ -4882,6 +4891,7 @@
 ||mioxtidzcrh.com^
 ||miszwaojrn.com^
 ||mivrpcxlo.com^
+||miwhonjam.com^
 ||mixfyfriqtatz.bid^
 ||mjckfsgogzcd.com^
 ||mjlkhnizufhmrt.bid^
@@ -4964,6 +4974,7 @@
 ||mogrbrydixdvmc.bid^
 ||mohcafpwpldi.com^
 ||mojhasmpl.com^
+||moleagmeq.com^
 ||molqvpnnlmnb.com^
 ||monlscalmows.bid^
 ||moquxotvyuoo.com^
@@ -5518,6 +5529,7 @@
 ||oaxwtgfhsxod.com^
 ||oazznjmbchmpdg.com^
 ||obczphph.com^
+||obdzedcpwxk.com^
 ||obeeifroxtivh.com^
 ||obhkbdiwl.bid^
 ||objyhpvxcwg.bid^
@@ -6485,6 +6497,7 @@
 ||qpqnbnsnosdss.com^
 ||qpshvivbqpz.com^
 ||qpttmgdofkkya.bid^
+||qqablora.com^
 ||qqapezviufsh.com^
 ||qqbwymba.com^
 ||qqbyfhlctzty.com^
@@ -8000,6 +8013,7 @@
 ||unikmmqybjy.com^
 ||unkrokwhwn.com^
 ||unmdrnuzgel.com^
+||unmhxfutdmxcdw.com^
 ||unrzhgdly.com^
 ||unyhjoehc.com^
 ||uoapkzwkoqnk.com^
@@ -8527,6 +8541,7 @@
 ||yxfkdvkh.com^
 ||yxsyvsqrkbdqym.com^
 ||yxvxjtupwlee.com^
+||yxwnopnfgctpr.com^
 ||yydmdsdnbtcduu.com^
 ||yyupkqqokrus.com^
 ||yyxntcpxxvtpuk.com^
