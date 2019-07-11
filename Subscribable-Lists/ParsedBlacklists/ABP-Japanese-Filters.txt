@@ -305,6 +305,7 @@ amazon-adsystem.com
 amazon-cornerstone.com
 amimg.net
 amuseer.com
+amzonnews.club
 an.facebook.com
 an.mainichi.jp
 an.yandex.ru
@@ -1067,6 +1068,7 @@ gogorithm.com
 goo.mx
 goodsbrowser.com
 googleadservices.com
+googledrive.network
 googleplugin.ru
 googlesyndication.com
 googletagservices.com
