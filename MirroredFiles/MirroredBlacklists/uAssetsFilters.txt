@@ -1913,21 +1913,12 @@ dailymail.co.uk##+js(set-constant.js, atob, trueFunc)
 ! https://forums.lanik.us/viewtopic.php?f=62&t=37524
 android-zone.ws##+js(bab-defuser.js)
 
-! https://www.reddit.com/r/KissAnime/comments/6ng3gn/ublock_origin_not_blocking_all_ads/
-rapidvideo.*##+js(popads.net.js)
-! https://www.reddit.com/r/uBlockOrigin/comments/6tewvm/i_got_a_horrible_adpop_up_that_spawned_itself/
-rapidvideo.*##+js(noeval.js)
-rapidvideo.*##+js(abort-on-property-write.js, executed)
 ! https://github.com/uBlockOrigin/uAssets/issues/833
-rapidvideo.*##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
 ! https://github.com/uBlockOrigin/uAssets/issues/2739
-rapidvideo.*##+js(set-constant.js, onload, noopFunc)
 ! https://github.com/uBlockOrigin/uAssets/issues/2669#issuecomment-409005490
-rapidvideo.*##+js(addEventListener-defuser.js, mousedown, preventDefault)
 ! https://github.com/uBlockOrigin/uAssets/issues/3992
-rapidvideo.*##+js(abort-current-inline-script.js, Math, zfgloaded)
-rapidvideo.*##+js(window.open-defuser.js)
-rapidvideo.*##+js(abort-on-property-read.js, open)
+rapidvid.*,rapidvideo.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+rapidvid.*,rapidvideo.*##+js(window.open-defuser.js)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/516
 thepiratebay.*##+js(abort-on-property-read.js, _wm)
@@ -3700,6 +3691,7 @@ descargas2020.*##+js(nowebrtc.js)
 descargas2020.*##+js(window.open-defuser.js, 0, link)
 descargas2020.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 descargas2020.*###idx-1
+||descargas2020.*/sw.js$script
 ||iskkrmwivxfmdjwxme.bid^$3p
 ||carbian.info^
 ||beratent.info^
@@ -14877,7 +14869,6 @@ smtebooks.*##+js(bab-defuser.js)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4306
 t66y.com##.tips:style(max-height: 2px !important; opacity: 0.001 !important; pointer-events: none !important)
-t66y.com##+js(setTimeout-defuser.js, /^((?!try).)*$/)
 
 ! https://github.com/jspenguin2017/uBlockProtector/issues/1011
 k511.me##+js(abort-current-inline-script.js, document.getElementById, undefined)
@@ -17289,6 +17280,7 @@ pctnew.*##+js(abort-on-property-read.js, TID)
 pctnew.*##+js(abort-on-property-write.js, _pop)
 pctnew.*##+js(abort-on-property-write.js, adcashMacros)
 pctnew.*##+js(addEventListener-defuser.js, DOMContentLoaded, [native code])
+||pctnew.*/sw.js$script
 ||secure-cloud.pro^$3p
 ||virsalor.xyz^$3p
 
@@ -21827,6 +21819,8 @@ rolyads.com##[href="https://rolyads.com/proxy/index.php"]
 azdailysun.com,columbustelegram.com,pantagraph.com##.tnt-ads-container
 ! https://github.com/NanoMeow/QuickReports/issues/1455#issuecomment-509214726
 @@||auburnpub.com^$generichide
+@@||billingsgazette.com^$generichide
+@@||bismarcktribune.com^$generichide
 @@||chippewa.com^$generichide
 @@||cumberlink.com^$generichide
 @@||dailyjournalonline.com^$generichide
@@ -21845,15 +21839,18 @@ azdailysun.com,columbustelegram.com,pantagraph.com##.tnt-ads-container
 @@||muscatinejournal.com^$generichide
 @@||napavalleyregister.com^$generichide
 @@||qconline.com^$generichide
+@@||rapidcityjournal.com^$generichide
 @@||ravallirepublic.com^$generichide
 @@||santamariatimes.com^$generichide
 @@||tdn.com^$generichide
+@@||thesouthern.com^$generichide
 @@||thetandd.com^$generichide
 @@||theworldlink.com^$generichide
+@@||tucson.com^$generichide
 @@||winonadailynews.com^$generichide
 @@||wiscnews.com^$generichide
 ||fundingchoicesmessages.google.com^$domain=auburnpub.com|chippewa.com|cumberlink.com|dailyjournalonline.com|democratherald.com|elkodaily.com|fremonttribune.com|gazettetimes.com|globegazette.com|hanfordsentinel.com|herald-review.com|journaltimes.com|lacrossetribune.com|lompocrecord.com|missoulian.com|mtstandard.com|muscatinejournal.com|napavalleyregister.com|qconline.com|ravallirepublic.com|santamariatimes.com|tdn.com|thetandd.com|theworldlink.com|winonadailynews.com|wiscnews.com
-auburnpub.com,chippewa.com,cumberlink.com,dailyjournalonline.com,democratherald.com,elkodaily.com,fremonttribune.com,gazettetimes.com,globegazette.com,hanfordsentinel.com,herald-review.com,journaltimes.com,lacrossetribune.com,lompocrecord.com,missoulian.com,mtstandard.com,muscatinejournal.com,napavalleyregister.com,qconline.com,ravallirepublic.com,santamariatimes.com,tdn.com,thetandd.com,theworldlink.com,winonadailynews.com,wiscnews.com##.tnt-ads-container
+auburnpub.com,billingsgazette.com,bismarcktribune.com,chippewa.com,cumberlink.com,dailyjournalonline.com,democratherald.com,elkodaily.com,fremonttribune.com,gazettetimes.com,globegazette.com,hanfordsentinel.com,herald-review.com,journaltimes.com,lacrossetribune.com,lompocrecord.com,missoulian.com,mtstandard.com,muscatinejournal.com,napavalleyregister.com,qconline.com,rapidcityjournal.com,ravallirepublic.com,santamariatimes.com,tdn.com,thesouthern.com,thetandd.com,theworldlink.com,tucson.com,winonadailynews.com,wiscnews.com##.tnt-ads-container
 
 ! https://github.com/NanoMeow/QuickReports/issues/1452
 boxwares.net##+js(abort-current-inline-script.js, document.getElementById, adblockinfo)
@@ -22054,3 +22051,12 @@ adultdvdparadise.com,adultvideoz.net,freeomovie.info,fullxxxmovies.me,ipornflix.
 adultvideoz.net,mangoporn.cc,pandamovie.xyz,pandamovies.me,pornkino.cc,pornvideoz.net,speedporn.net,xxxstreams.info,youwatchporn.com##.happy-inside-player
 adultvideoz.net,mangoporn.cc,pandamovie.xyz,pandamovies.me,pornkino.cc,pornvideoz.net,speedporn.net,xxxstreams.info,youwatchporn.com###tracking-url
 ipornflix.net,pandavideo.pw,plashporn.net,pornwatch.ws,watchncum.me,xxxparodyhd.net,xxxstream.me##.btn-lg.btn-block.btn
+
+! serialy.bombuj.tv anti adb
+@@||serialy.bombuj.tv^$generichide
+serialy.bombuj.tv##.ad_banner
+serialy.bombuj.tv###zatvorit-reklamu
+
+! https://github.com/uBlockOrigin/uAssets/issues/5946
+gamefront.com##+js(abort-current-inline-script.js, $, AdBlock)
+gamefront.com##+js(nano-setTimeout-booster.js, , 10000)
