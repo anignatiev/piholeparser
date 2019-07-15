@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 8756
+! Version: 8764
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -245,6 +245,7 @@
 ||aorzglux.com^
 ||aoshrcptugsjd.com^
 ||aotrcqegtfhlaw.bid^
+||aoukclebpcb.com^
 ||aovajfmsy.com^
 ||aoxkyvcmgr.bid^
 ||aoxntgxf.bid^
@@ -913,6 +914,7 @@
 ||cgrvnpkwuytts.com^
 ||cgtqfbnviajcx.com^
 ||cguvvvdxa.com^
+||cgwhbzfxhwltpm.com^
 ||chiybszey.bid^
 ||chjfbjjgqts.com^
 ||chjvykulvzey.com^
@@ -2627,6 +2629,7 @@
 ||grrduoonwjpy.com^
 ||grsdvgnr.com^
 ||grsnseuoispsco.com^
+||grtbzrsndrrtsb.com^
 ||grtduutw.bid^
 ||grubpbrmek.com^
 ||grvoflsctenq.bid^
@@ -3493,6 +3496,7 @@
 ||iwmonrwpeeku.com^
 ||iwnvbdosun.bid^
 ||iwptktyoq.bid^
+||iwpxkwojbw.com^
 ||iwqownwjbk.com^
 ||iwqsvntvdry.com^
 ||iwquafxm.com^
@@ -6019,6 +6023,7 @@
 ||pgymbgnabv.bid^
 ||phfknysgvwhnr.bid^
 ||phhigelii.com^
+||phiambczsg.com^
 ||phiubpdrh.com^
 ||phlslvetboouo.bid^
 ||phpjtafdqsa.com^
@@ -6043,6 +6048,7 @@
 ||pixjqfvlsqvu.com^
 ||piyzmkcxa.bid^
 ||pjbifjjtir.com^
+||pjbwsczypwze.com^
 ||pjeledftjxfnd.com^
 ||pjffrqroudcp.com^
 ||pjfgugfnw.bid^
@@ -6235,6 +6241,7 @@
 ||punlkhusprgw.com^
 ||punvqjsvnmubxb.com^
 ||puogotzrsvtg.com^
+||pupwgnmakgpnrl.com^
 ||puwzwbdopaeq.bid^
 ||pvdrlztojkd.bid^
 ||pviztjecuczh.com^
@@ -8471,6 +8478,7 @@
 ||xqkqkfszveqvm.com^
 ||xqtymopje.com^
 ||xquhrikrq.com^
+||xrexjmudy.com^
 ||xrkfqpbubaq.com^
 ||xrluvlmyuxqjme.com^
 ||xruuohzpxmmw.com^
