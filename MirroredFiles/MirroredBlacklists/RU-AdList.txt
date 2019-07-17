@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Yy6+XDVn/Ks508hQtn9CCg
-! Version: 201907150010
+! Checksum: U9o3QfQvPTDzo7Zkq4aYHw
+! Version: 201907170010
 ! Title: RU AdList
-! Last modified: 15 Jul 2019 00:10 UTC
+! Last modified: 17 Jul 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1350,6 +1350,7 @@ by,~mail.ru,ru,~sportmail.ru,ua##.banner_box
 ~101xp.com##a[href*="101xp.com/?utm_source=ad"]
 ~1xwgn.xyz##a[href*="1xwgn.xyz"]
 ~2di.site##a[href*="2di.site"]
+##a[href*="://etcodes.com/"]
 ~sports.ru,~tribuna.com,~winline.ru##a[href*="://winline.ru"]
 ~abs-cdn.org,~sports.ru,~tribuna.com##a[href*="abs-cdn.org"]
 ~actionteaser.ru##a[href*="actionteaser.ru"]
@@ -1832,7 +1833,7 @@ by,~mail.ru,ru,~sportmail.ru,ua##.banner_box
 /images/bn/*
 /images/rek/*
 /images/rekl/*
-/img/banner/*
+/img/banner/*$domain=~belby.by|~chitai-gorod.ru|~gostas-klimat.ru|~imhonet.ru|~mts.ru|~mtsbank.ru|~stavsalut.hostcrm.ru|~webnames.ru
 /img/bn/*
 /img/bnr-
 /img/bnr/*$domain=~drweb.ru
@@ -2067,7 +2068,7 @@ _tizers.
 ||ru/ban/$domain=~chita-game.ru
 ||ru/banner.$domain=~knigilub.ru|~megafon.ru
 ||ru/banner/$domain=~autodoc.ru|~befree.ru|~matematikalegko.ru|~newdaynews.ru
-||ru/banners/
+||ru/banners/$domain=~animespirit.ru|~cheese-cake.ru|~citilink.ru|~e96.ru|~killot.ru|~mrtexpert.ru|~onlime.ru|~rosbank.ru|~toptracker.ru|~webnames.ru|~wildberries.ru|~zalivalka.ru
 ||ru/bpoint/bnr/
 ||ru/i/banner/
 ||ru/i/banners/
@@ -7608,6 +7609,7 @@ _tizers.
 ||qocsb.com^$third-party
 ||qoheo.com^$third-party
 ||qooqleplay.ru^$third-party
+||qqmilk.ru^$third-party
 ||qractv.com^
 ||qrdeom.com^
 ||qrrgv.space^$third-party
@@ -9437,7 +9439,6 @@ _vodkov.net
 =ppronpic.org
 =prons.org
 =ruspicbox.ru
-=rutracker.org.ua
 =santikov.net
 =torrent-telik.
 =videotuts.ru
@@ -10190,7 +10191,7 @@ truba.com###branding-head-link
 namba.tj###branding-html
 pikabu.ru###branding_ad_footer
 pikabu.ru###branding_ad_header:not(#id)
-hdfilms.tv,kolyan.net,telegraf.in.ua,vse.kz###branding_link
+hdfilms.tv,kolyan.net,telegraf.in.ua,traffilm.net,vse.kz###branding_link
 telegraf.in.ua###branding_top
 ura-inform.com###branding_wrap
 auto43.ru,dom43.ru###brandirovanie
@@ -11196,7 +11197,7 @@ ua.today##.admix
 promigren.ru##.adp-block
 news.tj##.adredirector
 cn.ru##.adriver
-1927.kiev.ua,bubluoteka.org,chatadelic.net,day.az,fontanka.ru,fotokto.ru,gamehunt.net,gamemag.ru,gotoshop.net.ua,gs.by,gsconto.com,hentaiz.org,hotzoom.net,infoniac.ru,jooble.org,kino-krad.com,kinogo-hit.com,kinogo10-filmi-2019.club,kinogo222.club,kinoonline.org,kinovip.online,klubok.com,like-film.online,malenkiy.ru,mangalib.me,meta.ua,orl.ec,podrobnosti.ua,ranobelib.me,scooter-remont.com,seasonvar24.com,sexytales.org,soccer.ru,sports.kz,takprosto.cc,tokino.me,tvsezon.com,vse.fm,world-knigi.ru,yaoilib.me##.ads
+1927.kiev.ua,bubluoteka.org,chatadelic.net,day.az,fontanka.ru,fotokto.ru,gamehunt.net,gotoshop.net.ua,gs.by,gsconto.com,hentaiz.org,hotzoom.net,infoniac.ru,jooble.org,kino-krad.com,kinogo-hit.com,kinogo10-filmi-2019.club,kinogo222.club,kinoonline.org,kinovip.online,klubok.com,like-film.online,malenkiy.ru,mangalib.me,meta.ua,orl.ec,podrobnosti.ua,ranobelib.me,scooter-remont.com,seasonvar24.com,sexytales.org,soccer.ru,sports.kz,takprosto.cc,tokino.me,tvsezon.com,vse.fm,world-knigi.ru,yaoilib.me##.ads
 savevideo.me##.ads *
 delfi.lv##.ads-block-small
 delfi.lv##.ads-blocks-link
@@ -11271,6 +11272,7 @@ hotslogs.com##.advertisementBanner
 diary.ru,kanalukraina.tv,qrz.ru,ufanet.ru,vsenovostroyki.com.ua##.advertising
 podolsk.ru##.advertising > span.title
 infotime.co##.advertising-heading
+gamemag.ru##.advertising_review
 baby-mult.com##.advertisingheader
 mac.net.ua##.advertize_horizontal
 film.ru##.adverts-banner
@@ -11495,6 +11497,7 @@ videomore.ru##.banner-horiz
 bnkirov.ru##.banner-img:not([href^="http://bnkirov.ru/"]):not([href*="rodnaya-vyatka.ru"]):not([href*="che-online.com"])
 gts39.ru##.banner-item
 gameportalrf.ru,profi-forex.org##.banner-left
+newsomsk.ru##.banner-left-detail-new
 zhitomir.info##.banner-link
 newsazerbaijan.ru##.banner-middle
 hh.ru,tut.by,vesti.kz##.banner-place
@@ -11745,7 +11748,6 @@ wincore.ru#?#.box:-abp-has(> div > .adsbygoogle)
 riotpixels.com##.br-new
 gdeetotdom.ru##.bracing-banner
 livejournal.com##.brand
-sovetromantica.com##.brand--block
 smolensk2.ru##.brand-banner
 bnkirov.ru##.brand-bg
 gamegpu.com##.brand-block
@@ -11857,6 +11859,7 @@ sportarena.com##.closebtn
 bolshoyulov.ru,gubdaily.ru,kakbog.com,o-polze.com,poravkrym.ru,villaved.ru##.code-block
 1igolka.com,vsekamni.net#?#.code-block:-abp-has(> .content_rb)
 it-tehnik.ru##.code-block[class*="ai-"]
+slivup.me##.code11
 sibdepo.ru##.col > .b-section
 66.ru#?#.col > .news-grid:-abp-has([class*="adv-"])
 turbobit.net##.col-2
@@ -11890,7 +11893,7 @@ alser.kz##.columnBanner
 inforeactor.ru#?#.columnHeader:-abp-contains(Новости партнеров)
 mignews.com.ua#?#.columnTitle:-abp-contains(Новости партнеров)
 transinfo.by##.column_banner-wrap
-lostfilmhd.ru,rg-mechanics.org#?#.comEnt:-abp-contains(datxxx.com)
+lostfilmhd.ru,rg-mechanics.org,xatab-repack.net#?#.comEnt:-abp-contains(/datxxx.com/i)
 crashkino.net#?#.com_inform:-abp-has(> [class^="com_inform_title"]:-abp-contains(/это интересно/i))
 politexpert.net##.comm-button
 news.tj##.comment-area .newsbox-outer-banner
@@ -11995,6 +11998,7 @@ openssource.biz,openssource.info##.crymoreb
 1000sovetov.ru##.ctaRightWidget
 google.by,google.com,google.com.ua,google.kz,google.ru##.cu-container > div[class*="commercial-unit"]
 diabethelp.org##.custom
+ok-tv.org##.custom > noindex
 onelike.tv##.custom noindex
 udermis.ru,uroki-pitaniya.ru##.custom-block
 rubryka.com##.custom-html-block
@@ -12111,6 +12115,7 @@ villaved.ru##.fbln
 twirpx.com##.file-download ~ div[class] a[href][rel="nofollow"][target="_blank"]
 libertycity.ru##.fileloadnew > .asrc
 nixp.ru##.firefox
+slivup.me##.firstPostRandomCode_wrapper
 finfront.ru##.first_block > .right_block
 narodna-pravda.ua##.fit-vids-style
 tarkov-wiki.ru##.fix-block
@@ -12121,7 +12126,7 @@ glavnoe.ua##.fixed_right_ads
 tarkov-wiki.ru##.fixible-block
 toptracker.ru##.flash
 syl.ru##.flatBlock
-lordfilms.tv##.fleft > noindex
+lordsfilm.tv##.fleft > noindex
 pawno-info.ru##.floatcontainer.formcontrols.blockbody > a[href][target="_blank"]
 goldroyal.net##.floating
 factroom.ru##.floating.b-sidebar
@@ -12494,8 +12499,10 @@ zakon.kz#?#.ln_header:-abp-contains(Новости партнеров)
 platon.kz##.logo + #ja-search
 torrent-pirat.com##.logo + div
 zabeba.li##.logo-container > div[class="widget-header"]
+gamemag.ru##.logo-gf
 lentainform.com##.logo-text ~ .menu-category
 clubfile.net##.logo-w + a[target="blank_"]
+gamemag.ru##.logo-zen-feed
 chevy-niva.ru##.logo.right
 21region.org##.logo_ad_wrap
 sapr.ru##.lolcount
@@ -12714,6 +12721,7 @@ narodclub.net##.news > div[onmouseout][onmouseover][style]
 zhmak.info##.news > noindex
 gtavicecity.ru##.news-ads
 amurmedia.ru,auto.onliner.by,eaomedia.ru,irkutskmedia.ru,ivanovonews.ru,krasnodarmedia.su,krasnoyarskmedia.ru,magadanmedia.ru,onliner.by,primamedia.ru,sakhalinmedia.ru,sevastopolmedia.ru,tech.onliner.by,ulanmedia.ru,ussurmedia.ru,yakutiamedia.ru##.news-banner
+newsomsk.ru##.news-banners-source
 glavpost.com##.news-block-magick
 motorpage.ru##.news-br
 penzavzglyad.ru##.news-content__b
@@ -12962,7 +12970,7 @@ serialis.net##.rasstoianie
 onlainfilm.co##.rb
 rusbody.com##.rb-adv
 onlainfilm.co##.rb-cont-last
-kinozal.tv##.rb_new
+kinozal.guru,kinozal.site,kinozal.tv,kinozal.website,kinozaltv.net##.rb_new
 eg.ru##.rbanner
 bashskazki.ru##.rblock
 friday.ru#?#.rc2:-abp-has(div:first-child > #rc-bn)
@@ -13901,7 +13909,7 @@ zismo.biz##[id^="numlink"]
 rst.ua##[id^="rst-page-banner-300x250"]
 motovolg.com##[id^="slider"][id*="ontent"] span.right
 delpc.ru,parazitovnetu.ru##[id^="smartrotator_ad"]
-argumenti.ru,chto-proishodit.ru,echo.msk.ru,gubdaily.ru,kramola.info,mgorod.kz,nahnews.org,nation-news.ru,newinform.com,newsland.com,oko-planet.su,omskinform.ru,penzavzglyad.ru,planet-today.ru,polit.info,politpuzzle.ru,riafan.ru,rueconomics.ru,russian.rt.com,russian7.ru,sovsport.ru,topnews.ru,topwar.ru,tsargrad.tv,tvernews.ru,x-true.info##[id^="smi_teaser"]
+argumenti.ru,chto-proishodit.ru,echo.msk.ru,gubdaily.ru,kramola.info,mgorod.kz,nahnews.org,nation-news.ru,newinform.com,newsland.com,newsomsk.ru,oko-planet.su,omskinform.ru,penzavzglyad.ru,planet-today.ru,polit.info,politpuzzle.ru,riafan.ru,rueconomics.ru,russian.rt.com,russian7.ru,sovsport.ru,topnews.ru,topwar.ru,tsargrad.tv,tvernews.ru,x-true.info##[id^="smi_teaser"]
 kakprosto.ru##[id^="taboo-la"]
 mobiltelefon.ru##[id^="td-vv"]
 moyskelet.ru,myhairsalon.ru,progipertoniyu.ru,znachenieimenipro.ru##[id^="teaser_"]
@@ -13933,7 +13941,7 @@ clubsandero.ru##[src="//an.yandex.ru/system/context.js"] ~ iframe
 texnic.ru##[src^="http://a.edirect.efind.ru/"] ~ div *
 news.soundex.ru##[src^="http://news.soundex.ru/images/banners/"]
 yarportal.ru##[style$="height: 60px;"]
-inforeactor.ru#?#[style*="font"]:-abp-contains(Новости партнеров)
+inforeactor.ru,newsomsk.ru#?#[style*="font"]:-abp-contains(Новости партнеров)
 penzainform.ru##[style*="height: 43px"][style*="max-height: 43px"]
 www.drive2.ru##[style*="min-height"][style*="min-width"][style*="max-width"]
 pogoda.by##[style*="url(/promo/"]
@@ -14800,7 +14808,7 @@ biqle.ru##body > div[style^="z-index"][style*="background-image"]
 programmersforum.ru##body > form + br + center
 x-raydoctor.ru##body > iframe
 forums.rusmedserv.com##body > iframe[src*="rusmedserv.com"]
-allbesta.cc,allbesta.org,allsport-live.net,altapress.ru,amuzic.ru,apachan.net,astromeridian.ru,centr-molodosti.ru,classic.newsru.com,demotivation.me,e-libra.ru,elek.club,fast-torrent.co,gamemag.ru,gameru.net,gdzplus.ru,gossebanmen.ru,hi-fi.ru,igrigo.net,ikinohd.club,lostfan.net,miytvideo.ru,nowfilms.ru,relasko.ru,repackov.net,rg-mechanics.org,rogoff.club,rufilmtv.org,sexytal.com,sitandwatch.org,story-house.ru,telegraf.in.ua,tfilm.co,torrents-nn.cn,tourister.ru,underverse.su,vorle.ru,womo.ua,zona-film.com##body > noindex
+allbesta.cc,allbesta.org,allsport-live.net,altapress.ru,amuzic.ru,apachan.net,astromeridian.ru,centr-molodosti.ru,classic.newsru.com,demotivation.me,e-libra.ru,elek.club,fast-torrent.co,gameru.net,gdzplus.ru,gossebanmen.ru,hi-fi.ru,igrigo.net,ikinohd.club,lostfan.net,miytvideo.ru,nowfilms.ru,relasko.ru,repackov.net,rg-mechanics.org,rogoff.club,rufilmtv.org,sexytal.com,sitandwatch.org,story-house.ru,telegraf.in.ua,tfilm.co,torrents-nn.cn,tourister.ru,underverse.su,vorle.ru,womo.ua,zona-film.com##body > noindex
 4pna.com##body > noindex > center
 moto.kiev.ua##body > noindex > noindex
 ut3mk.at.ua##body > p + p > a[href] > img
@@ -15248,7 +15256,7 @@ newsroom.kh.ua##div[id^="block-nodeblock"]
 kharkov.info##div[id^="block-views-banner"]
 kharkov.info##div[id^="block-views-paid_place_slider-block"]
 alldonors.ru##div[id^="blockbann"]
-11serial.club,123hd.tv,1news.com.ua,1torrent.net,2018.pp.ua,2baksa.net,37.220.38.66,4book.org,4watching.club,5litra.ru,abook.fm,adultmult.be,adultmult.net,adultmult.ru,adultmult.xyz,aghdrezka.com,agrimpasa.com,ahdrezka.com,ahs-online.net,ahs-online.xyz,allday2.com,allkino.me,allserial.tv,allsofts2009.ru,amovies.cc,anamvseravno.ru,anidub.net,artfile.ru,asiakino.net,aspekty.net,audioboo.info,audioboo.ru,ava-avto.ru,avtovod.com.ua,avtovod.org.ua,baskino-z720.com,baskino.fun,baskino.info,baskino.ooo,besstidniki.com,besthdrezka.com,bigbang-tv.net,bigbangtv.ru,bigbangtv.space,bigfangroup.org,bigkiev.com.ua,bitva-ex.ru,bo-em.com,bobfilm.me,bokino.tv,borodachtv.ru,br-ba.net,brextkino.ru,brodim.com,chop-online.com,cinema-24.tv,cinozone.com,clubhdrezka.com,comedyportal.org,compendium.su,coollib.net,cosmohd.com,cvid.kiev.ua,cwer.me,cwer.ru,cwer.su,cwer.ws,dead-online.net,deviloff.net,dextv.net,diagnoz.net.ua,dnevniki-vampira.net,dochronika.ru,dokpro.club,dokumentfilm.ru,doramy.net,drevnie-online.net,dterod.com,dugtor.org,dugtor.ru,egdz.net,electroandi.ru,emusic.me,epravda.com.ua,ex-fs.com,facenews.ua,fargo-online.net,fast-film.ru,fast-torrent.club,fast-torrent.co,fast-torrent.ru,fast-torrent.su,favoritemovies.at.ua,filin.tv,film-torrent.ru,film-ua.com,film4ik.tv,filmengine.club,filmitorrent.net,filmitorrent.xyz,filmitorrentom.org,filmix.cc,filmix.co,filmix.co.ua,filmix.fun,filmix.icu,filmix.info,filmix.nl,filmix.site,filmix.today,filmon.in.ua,filmopotok.ru,filmotrend.net,filmovmir.xyz,filmpotok.ru,filmsegodnya.club,filmshd1080.net,filmy-smotret.online,filmzguru.ru,fimlru.ru,firebit.info,fizrukoff.net,flymix.net,forum.rarib.ag,freebfg.org,freehd.com.ua,freetorg.com.ua,friends-online.me,friends-online.tv,funtik.tv,gethdrezka.com,gidfilm.ru,gidonline.co.ua,gidonline.in.ua,gidonline.net.ua,gidonline.one,gidonlinehd.ru,glavnoe.ua,goblin-film.ru,goblins-online.ru,hd-1080.online,hd-720.com,hd-720.ucoz.ru,hd-rezka.xyz,hd1080.info,hd720p.net,hdclub.org,hdfilm-serial.com,hdfilms.tv,hdkino.vip,hdkinoclub.info,hdlava.me,hdlostfilm.online,hdnora.ru,hdreactor.red,hdreactor.su,hdrezka-ag.com,hdrezka.asia,hdrezka.buzz,hdrezka.casa,hdrezka.city,hdrezka.club,hdrezka.co,hdrezka.cx,hdrezka.fail,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.live,hdrezka.loan,hdrezka.lol,hdrezka.mba,hdrezka.name,hdrezka.net.ua,hdrezka.ooo,hdrezka.rest,hdrezka.run,hdrezka.su,hdrezka.today,hdrezka.top,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezka.wtf,hdrezka.zone,hdron.tv,hdseason.ru,hdseria.net,hdserial.cc,hdtochka.club,history.vn.ua,hlamer.ru,hronika.info,igra-prestoloff.cx,ihdrezka.com,itechua.com,journal-off.info,kinazona.ru,kino-1080hd.com,kino-dom.org,kino-dom.tv,kino-filmi.net,kino-fs.ucoz.net,kino-go.club,kino-hd.in,kino-hit.online,kino-klub.net,kino-krad.com,kino-live2.info,kino-live2.org,kino-na-xati.com,kino-nada.net,kino50.com,kinoalfa.club,kinoangel.club,kinoangel.net,kinobar.cc,kinoboevik.com,kinoboom.net,kinobos.net,kinobro.org,kinocccp.ru,kinoclips.net,kinoclips.tv,kinoclub.biz,kinodub.tv,kinoflux.org,kinofrost.net,kinogb.mobi,kinogo-2016-net.ru,kinogo-2017.com,kinogo-co-2016.ru,kinogo-net.tv,kinogo-x.ru,kinogo.cc,kinogo.eu,kinogo.net.ua,kinogo1.club,kinogo222.club,kinogol.biz,kinogou.club,kinograd.tv,kinoha.xyz,kinohabr.net,kinokot.biz,kinokrad.com.ua,kinokrad.fun,kinoliza.net,kinoly.me,kinoly.net,kinoly.ru,kinoly.su,kinomaxpro.com,kinopirat.club,kinoplen.ru,kinoprofi.vip,kinoprostor.com,kinorai.net,kinorai.org,kinorai.tv,kinorip.net,kinoriver.org,kinoron.co,kinoroom.biz,kinosezon.tv,kinosklad.biz,kinoslave.ru,kinosled.com,kinostark.com,kinosvit.tv,kinotan.ru,kinotaun.ru,kinotravel.co,kinotrek.co,kinotwserial.ru,kinovhod.online,kinovip.online,kinoxa.net,kinozloy.net,kinozona.online,kinozoom.org,klipzona.cc,knigavuhe.ru,knijky.ru,korp.tv,kp.ua,kriminal.tv,kurufin.ru,lawbook.online,lib.ink,lib.sale,linecinema.org,livehdrezka.com,losslessclub.com,lostfilm-720.ru,lostfilm-hd720.ru,lostfilmhd.net,lostfilmhd.org,lostfilmhd.ru,maccentre.ru,magicfilm.net,many-books.org,math-helper.net,math-helper.ru,megaclips.net,megaserial.me,megatfile.cc,megogo-hd.net,mehdrezka.com,metahdrezka.com,mir-kin.com,mir-kino.com,mnogohd.com,mnogokino.club,molbuk.ua,molodegka.xyz,moviebuster.tv,moviestape.net,mskd-ru.net,mult-online.net,multfilmy-dlya-ditey.org.ua,multikonline.ru,musico.cc,mygid.org,myhdrezka.com,myrutor.org,myvimir.ru,myzooplanet.ru,narodna-pravda.ua,natural.edu-lib.net,navkolonas.com,new-team.org,newsua.one,newsyou.info,nnovosti.info,nowa.cc,nuhdrezka.com,ok-tv.org,okino.cc,oko-planet.su,olga-online.com,onlainfilm.co,online-freebee.club,online-kinohd.info,online-kinopokaz.ru,online-knigi.com,onlinefilm-hd.club,onlinelife.club,onlinemultfilmy.ru,only-tv.org,onser.info,orutor.org,ostfilm.tv,patrioty.org.ua,peeroff.net,pgcity.net,pickfilm.ru,pkfnpo.ru,planetatain.ru,plus-music.org,pod-kupolom.net,poiskm.co,prestolov.me,real-vin.com,rezka.ag,rishd.com,rosserial.net,ru-serial.com,ruashow.com,rubooks.org,rulit.me,rus24.tv,rusbitor.ru,ruserialy.net,russ-kino.net,russfilm.net,russiapost.su,russkieserialy.ru,rutorgames.info,rutorka.net,scibook.net,scicenter.online,scribble.su,seasonvar.be,seasonvar.cc,seasonvar.re,seasonvar.ru,seasonvar.website,seetv.tv,seria-z.info,serialbox.org,serialguru.ru,serialis.net,serialost.cc,serialtime.net,serialytut.tv,seriatop.cc,sezon-hd.ru,show-online.tv,simpsonsua.com.ua,sinoptik.com.ru,sinoptik.ua,sitandwatch.org,skidows.com,skycinema.cc,smotri-filmi.cc,socportal.info,srubirubli.ru,sserial.net,stereotraker.ru,strela-online.net,studiohd.net,subject.com.ua,svatoff.net,sverhestestvennoe.me,swordmaster.org,tabfilm.online,tambovnet.org,tapochek.net,teledidar.net,textbook.news,texts.news,the-cinema.fun,the-cinema.info,the-cinema.top,thehdrezka.com,timehd.org,tivix.co,today.ua,topasnew.org,tophdrezka.com,topigr.com,torrent-gaza.top,torrent-soft.net,torrentinka.net,torrentline.net,torrentom.com,torseed.net,tracker.hdclub.com.ua,tracktor.tv,travaonline.net,trialeset.ru,trialnod.com,tuchkatv.ru,tuchkatvsport.com,turboserial.net,turkcinema.org,tushkan.club,tushkan.net,tv-300.ru,tv-novosti.ru,tv-torrent.me,tvbook.tv,tvcok.ru,tvgid.ua,tvhdrezka.com,tvseason.net,tvtw.ru,uahd.com.ua,uainfo.org,ubr.ua,ukr-online.com,ukrefs.com.ua,ukrlit.net,uniondht.org,uniongang.net,univeroff.net,uphdrezka.com,uti-puti.com.ua,veleto.ru,velikolepnyivek.com,verawatches.ru,videotyt.club,videotyt.net,videozal.club,vinnitsa.info,vnx.su,vo-vse-tyazhkie.ru,vsedoramy.ru,vseseriipodriad.ru,vuzlib.su,w3.voroniny-online.pw,wehdrezka.com,wordgdz.ru,wow-show.ru,www.semestr.ru,xdrezka.com,xn--80ahc0abogjs.com,yangteacher.ru,ymka.tv,youmult.net,youtubetv.com.ua,ytra.ru,zagonka.tv,zalipv.online,zarlit.com,zerofilm.ru,zfilm-hd.club,zfilm-hd.net,zhd.life,zorgoff.top,zserials.cc,zserials.tv,медпортал.com##div[id^="bn_"]
+11serial.club,123hd.tv,1news.com.ua,1torrent.net,2018.pp.ua,2baksa.net,37.220.38.66,4book.org,4watching.club,5litra.ru,abook.fm,adultmult.be,adultmult.net,adultmult.ru,adultmult.xyz,aghdrezka.com,agrimpasa.com,ahdrezka.com,ahs-online.net,ahs-online.xyz,allday2.com,allkino.me,allserial.tv,allsofts2009.ru,amovies.cc,anamvseravno.ru,anidub.net,artfile.ru,asiakino.net,aspekty.net,audioboo.info,audioboo.ru,ava-avto.ru,avtovod.com.ua,avtovod.org.ua,baskino-z720.com,baskino.fun,baskino.info,baskino.ooo,besstidniki.com,besthdrezka.com,bigbang-tv.net,bigbangtv.ru,bigbangtv.space,bigfangroup.org,bigkiev.com.ua,bitva-ex.ru,bo-em.com,bobfilm.me,bokino.tv,borodachtv.ru,br-ba.net,brextkino.ru,brodim.com,chop-online.com,cinema-24.tv,cinozone.com,clubhdrezka.com,comedyportal.org,compendium.su,coollib.net,cosmohd.com,cvid.kiev.ua,cwer.me,cwer.ru,cwer.su,cwer.ws,dead-online.net,deviloff.net,dextv.net,diagnoz.net.ua,dnevniki-vampira.net,dochronika.ru,dokpro.club,dokumentfilm.ru,doramy.net,drevnie-online.net,dterod.com,dugtor.org,dugtor.ru,egdz.net,electroandi.ru,emusic.me,epravda.com.ua,ex-fs.com,facenews.ua,fargo-online.net,fast-film.ru,fast-torrent.club,fast-torrent.co,fast-torrent.ru,fast-torrent.su,favoritemovies.at.ua,filin.tv,film-torrent.ru,film-ua.com,film4ik.tv,filmengine.club,filmitorrent.net,filmitorrent.xyz,filmitorrentom.org,filmix.cc,filmix.co,filmix.co.ua,filmix.fun,filmix.icu,filmix.info,filmix.nl,filmix.site,filmix.today,filmon.in.ua,filmopotok.ru,filmotrend.net,filmovmir.xyz,filmpotok.ru,filmsegodnya.club,filmshd1080.net,filmy-smotret.online,filmzguru.ru,fimlru.ru,firebit.info,fizrukoff.net,flymix.net,forum.rarib.ag,freebfg.org,freehd.com.ua,freetorg.com.ua,friends-online.me,friends-online.tv,funtik.tv,gethdrezka.com,gidfilm.ru,gidonline.co.ua,gidonline.in.ua,gidonline.net.ua,gidonline.one,gidonlinehd.ru,glavnoe.ua,goblin-film.ru,goblins-online.ru,hd-1080.online,hd-720.com,hd-720.ucoz.ru,hd-rezka.xyz,hd1080.info,hd720p.net,hdclub.org,hdfilm-serial.com,hdfilms.tv,hdkino.vip,hdkinoclub.info,hdlava.me,hdlostfilm.online,hdnora.ru,hdreactor.red,hdreactor.su,hdrezka-ag.com,hdrezka.asia,hdrezka.buzz,hdrezka.casa,hdrezka.city,hdrezka.club,hdrezka.co,hdrezka.cx,hdrezka.fail,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.live,hdrezka.loan,hdrezka.lol,hdrezka.mba,hdrezka.name,hdrezka.net.ua,hdrezka.ooo,hdrezka.rest,hdrezka.run,hdrezka.su,hdrezka.today,hdrezka.top,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezka.wtf,hdrezka.zone,hdron.tv,hdseason.ru,hdseria.net,hdserial.cc,hdtochka.club,history.vn.ua,hlamer.ru,hronika.info,igra-prestoloff.cx,ihdrezka.com,itechua.com,journal-off.info,kinazona.ru,kino-1080hd.com,kino-dom.org,kino-dom.tv,kino-filmi.net,kino-fs.ucoz.net,kino-go.club,kino-hd.in,kino-hit.online,kino-klub.net,kino-krad.com,kino-live2.info,kino-live2.org,kino-na-xati.com,kino-nada.net,kino50.com,kinoalfa.club,kinoangel.club,kinoangel.net,kinobar.cc,kinoboevik.com,kinoboom.net,kinobos.net,kinobro.org,kinocccp.ru,kinoclips.net,kinoclips.tv,kinoclub.biz,kinodub.tv,kinoflux.org,kinofrost.net,kinogb.mobi,kinogo-2016-net.ru,kinogo-2017.com,kinogo-co-2016.ru,kinogo-net.tv,kinogo-x.ru,kinogo.cc,kinogo.eu,kinogo.net.ua,kinogo1.club,kinogo222.club,kinogol.biz,kinogou.club,kinograd.tv,kinoha.xyz,kinohabr.net,kinokot.biz,kinokrad.com.ua,kinokrad.fun,kinoliza.net,kinoly.me,kinoly.net,kinoly.ru,kinoly.su,kinomaxpro.com,kinopirat.club,kinoplen.ru,kinoprofi.vip,kinoprostor.com,kinorai.net,kinorai.org,kinorai.tv,kinorip.net,kinoriver.org,kinoron.co,kinoroom.biz,kinosezon.tv,kinosklad.biz,kinoslave.ru,kinosled.com,kinostark.com,kinosvit.tv,kinotan.ru,kinotaun.ru,kinotravel.co,kinotrek.co,kinotwserial.ru,kinovhod.online,kinovip.online,kinoxa.net,kinoyou.com,kinozloy.net,kinozona.online,kinozoom.org,klipzona.cc,knigavuhe.ru,knijky.ru,korp.tv,kp.ua,kriminal.tv,kurufin.ru,lawbook.online,lib.ink,lib.sale,linecinema.org,livehdrezka.com,losslessclub.com,lostfilm-720.ru,lostfilm-hd720.ru,lostfilmhd.net,lostfilmhd.org,lostfilmhd.ru,maccentre.ru,magicfilm.net,many-books.org,math-helper.net,math-helper.ru,megaclips.net,megaserial.me,megatfile.cc,megogo-hd.net,mehdrezka.com,metahdrezka.com,mir-kin.com,mir-kino.com,mnogohd.com,mnogokino.club,molbuk.ua,molodegka.xyz,moviebuster.tv,moviestape.net,mskd-ru.net,mult-online.net,multfilmy-dlya-ditey.org.ua,multikonline.ru,musico.cc,mygid.org,myhdrezka.com,myrutor.org,myvimir.ru,myzooplanet.ru,narodna-pravda.ua,natural.edu-lib.net,navkolonas.com,new-team.org,newsua.one,newsyou.info,nnovosti.info,nowa.cc,nuhdrezka.com,ok-tv.org,okino.cc,oko-planet.su,olga-online.com,onlainfilm.co,online-freebee.club,online-kinohd.info,online-kinopokaz.ru,online-knigi.com,onlinefilm-hd.club,onlinelife.club,onlinemultfilmy.ru,only-tv.org,onser.info,orutor.org,ostfilm.tv,patrioty.org.ua,peeroff.net,pgcity.net,pickfilm.ru,pkfnpo.ru,planetatain.ru,plus-music.org,pod-kupolom.net,poiskm.co,prestolov.me,real-vin.com,rezka.ag,rishd.com,rosserial.net,ru-serial.com,ruashow.com,rubooks.org,rulit.me,rus24.tv,rusbitor.ru,ruserialy.net,russ-kino.net,russfilm.net,russiapost.su,russkieserialy.ru,rutorgames.info,rutorka.net,scibook.net,scicenter.online,scribble.su,seasonvar.be,seasonvar.cc,seasonvar.re,seasonvar.ru,seasonvar.website,seetv.tv,seria-z.info,serialbox.org,serialguru.ru,serialis.net,serialost.cc,serialtime.net,serialytut.tv,seriatop.cc,sezon-hd.ru,show-online.tv,simpsonsua.com.ua,sinoptik.com.ru,sinoptik.ua,sitandwatch.org,skidows.com,skycinema.cc,smotri-filmi.cc,socportal.info,srubirubli.ru,sserial.net,stereotraker.ru,strela-online.net,studiohd.net,subject.com.ua,svatoff.net,sverhestestvennoe.me,swordmaster.org,tabfilm.online,tambovnet.org,tapochek.net,teledidar.net,textbook.news,texts.news,the-cinema.fun,the-cinema.info,the-cinema.top,thehdrezka.com,timehd.org,tivix.co,today.ua,topasnew.org,tophdrezka.com,topigr.com,torrent-gaza.top,torrent-soft.net,torrentinka.net,torrentline.net,torrentom.com,torseed.net,tracker.hdclub.com.ua,tracktor.tv,travaonline.net,trialeset.ru,trialnod.com,tuchkatv.ru,tuchkatvsport.com,turboserial.net,turkcinema.org,tushkan.club,tushkan.net,tv-300.ru,tv-novosti.ru,tv-torrent.me,tvbook.tv,tvcok.ru,tvgid.ua,tvhdrezka.com,tvseason.net,tvtw.ru,uahd.com.ua,uainfo.org,ubr.ua,ukr-online.com,ukrefs.com.ua,ukrlit.net,uniondht.org,uniongang.net,univeroff.net,uphdrezka.com,uti-puti.com.ua,veleto.ru,velikolepnyivek.com,verawatches.ru,videotyt.club,videotyt.net,videozal.club,vinnitsa.info,vnx.su,vo-vse-tyazhkie.ru,vsedoramy.ru,vseseriipodriad.ru,vuzlib.su,w3.voroniny-online.pw,wehdrezka.com,wordgdz.ru,wow-show.ru,www.semestr.ru,xdrezka.com,xn--80ahc0abogjs.com,yangteacher.ru,ymka.tv,youmult.net,youtubetv.com.ua,ytra.ru,zagonka.tv,zalipv.online,zarlit.com,zerofilm.ru,zfilm-hd.club,zfilm-hd.net,zhd.life,zorgoff.top,zserials.cc,zserials.tv,медпортал.com##div[id^="bn_"]
 newdeaf.online##div[id^="bn_"]:not([class]):not([style])
 prk.city##div[id^="bnr-"]
 businessmens.ru##div[id^="bnr_"]
@@ -15277,6 +15285,7 @@ bashinform.ru##div[id^="fixed_bottom"]
 esoreiter.ru##div[id^="getContent_esoreiter"]
 propochemu.ru##div[id^="gruptiz_"]
 lostfilm.info##div[id^="heraplper"] > a[href]
+newsomsk.ru##div[id^="hitsadv"]
 ru-an.info##div[id^="hme_ad_news"]
 korrespondent.net##div[id^="holder_"]
 zhukvesti.ru##div[id^="interesting"] > *
@@ -16273,7 +16282,7 @@ $xmlhttprequest,domain=happy-block.info|howto-news.info|kinohome.biz|kinoplanet.
 /gorod24popup/$domain=feo.ua|xn--e1asq.xn--p1ai
 /https?://(?!(mc\.yandex\.ru|www\.google-analytics\.com)/)/$third-party,script,subdocument,domain=massivmebel.by
 /iframe/$domain=cccp-rutracker.org|rutracker-org.appspot.com|rutracker.net|rutracker.nl|rutracker.org
-/images/banners/*$domain=19rus.info|1tvnet.ru|33strausa.ru|agroxxi.ru|alfa-form.ru|aniplay.tv|antimuh.ru|archiportal-crimea.ru|arendator.ru|avtoblog.org.ua|bitpump.ru|biwork.ru|bryansktoday.ru|buzday.ru|bvedomosti.ru|cars.ru|coil32.ru|cryptoff.org|csmania.ru|domain=19rus.info|dtpptz.ru|erotix-tv.com|express-prigorod.ru|fermagid.ru|fitsport.ru|fuzz-magazine.ru|gamemag.ru|hd-systems.com.ua|hv-info.ru|infokam.su|irr.ua|itexpert.org.ua|izmacity.com|kaluga.ru|kamchatinfo.com|karelia.ru|kazfootball.kz|kids.to-var.com|km.ru|ko44.ru|lifetambov.ru|manutd.ru|mebelminsk.by|media.nakanune.ru|medicalj.ru|memstatus.ru|mirnov.ru|mklat.lv|moscow-post.com|motoforum.ru|motovibor.ru|moya-semya.ru|mycity.by|nakanune.ru|nashdisk.ru|naurfo.ru|newgdz.com|newgubakha.ru|newizv.ru|news.soundex.ru|ng.kz|ngregion.ru|numama.ru|ok-inform.ru|osvita.ua|out-club.ru|planet-today.ru|planetaskazok.ru|poiskvps.ru|pretenziy.ru|prosports.kz|rabota-kovrov.ru|rabota.kharkov.ua|rbc.ru|ria-m.tv|ria56.ru|ridna.ua|rtr24.ru|ruslife.eu|sevastopol.su|sevkavportal.ru|shans.com.ua|skoda-club.org.ua|softsalad.ru|sostav.ua|sp.tomica.ru|starkosino.ru|tenstars.ru|trisosny.ru|ua-independent.com|uff.uz|valetudo.ru|vdv-kavkaz.ru|vjazhi.ru|vp-news.ru|vsatke.ru|vseprosport.ru|xn--80adkt7ah.xn--p1ai|zamena-podshipnikov.ru|zrenue.com|zvid.org
+/images/banners/*$domain=19rus.info|1tvnet.ru|33strausa.ru|agroxxi.ru|alfa-form.ru|aniplay.tv|antimuh.ru|archiportal-crimea.ru|arendator.ru|avtoblog.org.ua|bitpump.ru|biwork.ru|bryansktoday.ru|buzday.ru|bvedomosti.ru|cars.ru|coil32.ru|cryptoff.org|csmania.ru|domain=19rus.info|dtpptz.ru|erotix-tv.com|express-prigorod.ru|fermagid.ru|fitsport.ru|fuzz-magazine.ru|hd-systems.com.ua|hv-info.ru|infokam.su|irr.ua|itexpert.org.ua|izmacity.com|kaluga.ru|kamchatinfo.com|karelia.ru|kazfootball.kz|kids.to-var.com|km.ru|ko44.ru|lifetambov.ru|manutd.ru|mebelminsk.by|media.nakanune.ru|medicalj.ru|memstatus.ru|mirnov.ru|mklat.lv|moscow-post.com|motoforum.ru|motovibor.ru|moya-semya.ru|mycity.by|nakanune.ru|nashdisk.ru|naurfo.ru|newgdz.com|newgubakha.ru|newizv.ru|news.soundex.ru|ng.kz|ngregion.ru|numama.ru|ok-inform.ru|osvita.ua|out-club.ru|planet-today.ru|planetaskazok.ru|poiskvps.ru|pretenziy.ru|prosports.kz|rabota-kovrov.ru|rabota.kharkov.ua|rbc.ru|ria-m.tv|ria56.ru|ridna.ua|rtr24.ru|ruslife.eu|sevastopol.su|sevkavportal.ru|shans.com.ua|skoda-club.org.ua|softsalad.ru|sostav.ua|sp.tomica.ru|starkosino.ru|tenstars.ru|trisosny.ru|ua-independent.com|uff.uz|valetudo.ru|vdv-kavkaz.ru|vjazhi.ru|vp-news.ru|vsatke.ru|vseprosport.ru|xn--80adkt7ah.xn--p1ai|zamena-podshipnikov.ru|zrenue.com|zvid.org
 /images/banners_$domain=agronews.ru
 /images/brand/*$domain=amuzic.ru|emuzic.ru
 /images/brandings/$image,domain=sc2tv.ru
@@ -16333,6 +16342,7 @@ $xmlhttprequest,domain=happy-block.info|howto-news.info|kinohome.biz|kinoplanet.
 /wp-content/plugins/custom-blocks/$domain=alladvices.ru|boleznikrovi.com|diabet-med.com|oprostatit.ru|parazity.com|rodinkam.net|sdelalremont.ru|sustav.info|uroki-pitaniya.ru
 /wp-content/plugins/wbounce/*$domain=glaza.guru
 /www/base/*&cb=$domain=namba.kg|namba.tj
+/xvideo.js$domain=nnm-club.lib|nnm-club.me|nnm-club.ws|nnmclub.ro|nnmclub.to
 /yaimg/$domain=rg-mechanics.org|xatab-repack.net
 /zvooq.css$domain=moskva.fm|piter.fm
 =http%3A%2F%2Fazaza.torent-telik.
@@ -16524,6 +16534,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||altai4u.com/wp-content/themes/$object
 ||am.cdnmob.org/_/img/youtube-bg$image
 ||amazonaws.com^$domain=1istochnik.ru|coinvesti.ru|e-bookua.org.ua|inform-ua.info|real-vin.com|sovetremont.com
+||americandad.fox-fan.tv/images/fonRightBlock.jpg
 ||amic.ru/publib/getbbg.php
 ||anadyr.org/system/$~image
 ||anadyr.org/system/banners/
@@ -16829,6 +16840,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||coads.akipress.org^
 ||cobra.com.ua/_banners/
 ||code-br.kcdn.kz/js/client.min.js$script,domain=kolesa.kz
+||com/|$script,domain=nnm-club.lib|nnm-club.me|nnmclub.ro|nnmclub.to
 ||comfysoft.ru/images/programmes/
 ||comics-online.ru/mangaonlinebanner$image
 ||comicsbook.ru/promo/
@@ -17910,6 +17922,8 @@ igdz1.ru^$script,domain=igdz.ru
 ||newsland.com/banner_frame/
 ||newsland.com/public/img/branding/
 ||newsmaker.md^*/banners/
+||newsomsk.ru/ajax/hitsadv.php?
+||newsomsk.ru/design/new/js/banner_new.js
 ||newstube.ru^*/zfcd.js
 ||newstudio.tv/menu.swf
 ||nezhatin.com.ua/*.html$subdocument
@@ -18714,6 +18728,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||track24.ru/img/bnrs
 ||trackitonline.*/pics/$object
 ||trademaster.ua/im/banera/
+||traffilm.net/img/brand
 ||trailer.allatv.online/*.mp4|$domain=trailer.allatv.online
 ||traktorist.ua/media/banner/
 ||transinfo.by/files/transinfo/media/bnrscr/$object
@@ -19036,7 +19051,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||yodnews.ru/wp-content/uploads/banner$script,stylesheet
 ||youhack.ru^$object
 ||yourlink.in^$third-party,script
-||youtube.com/embed/$domain=4put.ru|anime-365.ru|compendium.su|kinotochka.club|kinotochka.me|mister-robot.tv|smotret-anime-365.ru|subject.com.ua|ukrlit.net|zarlit.com
+||youtube.com/embed/$domain=4put.ru|anime-365.ru|compendium.su|kinotochka.club|kinotochka.me|mister-robot.tv|newstudio-online.tv|smotret-anime-365.ru|subject.com.ua|ukrlit.net|zarlit.com
 ||youtube.com^*modestbranding$subdocument,domain=moevideo.net|playreplay.me|playreplay.net|playvideolink.com|thesame.tv|tjournal.ru|videochart.net
 ||yp.ru/content/Banners/
 ||yp.ru/content/Slider/
@@ -19174,17 +19189,17 @@ beta.gismeteo.ru,gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ua,www.gismeteo.ru
 $third-party,other,xmlhttprequest,domain=pandastream.cc|streamguard.cc|streamtojupiter.me
 @@$other,~third-party,xmlhttprequest,domain=37.220.36.15|blackoctopus.cc|cdn.720hd.club|cdn.ex-fs.net|cdn.ivvi.online|cdn.kinogo-hq.ru|cdn.kinosky.net|cdn.profilms.top|cdnapponline.com|kino-stream.online|moon.hdkinoteatr.com|moonwalk.cc|moonwalk.center|mov.hiex.ru|online.1kinobig.ru|pandastream.cc|s1.kino-kingdom.com|serpens.nl|staticnlcdn.com|streamguard.cc|streamstorm.online|streamtomars.me|video.palevo.stream|video.showfilm.club
 @@||actelecup.com^$other,xmlhttprequest,domain=streamguard.cc
-@@||buchome.com^$other,xmlhttprequest
+@@||palespe.com^$other,xmlhttprequest
+@@||rostoci.com^$other,xmlhttprequest
 @@||streamformular.cc^$other,xmlhttprequest,domain=alforenao.com|mastarti.com|pandastream.cc|streamguard.cc|streamstorm.online|streamtomars.me
 @@||streamguard.cc^$other,xmlhttprequest,domain=alforenao.com|mastarti.com|pandastream.cc|streamstorm.online|streamtojupiter.me|streamtomars.me
-@@||unmuncong.com^$other,xmlhttprequest
 ||ed98512111bb19e5.in.net^
 ||in.net^$domain=mastarti.com
 !
 ! Mail.ru
 ! Скрытие по-разделам
 ! Главная
-~3igames.mail.ru,~auto.mail.ru,~biz.mail.ru,~bonus.mail.ru,~calendar.mail.ru,~cloud.mail.ru,~deti.mail.ru,~dobro.mail.ru,~e.mail.ru,~esports.mail.ru,~games.mail.ru,~gibdd.mail.ru,~go.mail.ru,~health.mail.ru,~help.mail.ru,~hi-tech.mail.ru,~horo.mail.ru,~kino.mail.ru,~lady.mail.ru,~love.mail.ru,mail.ru,~mailblog.mail.ru,~mcs.mail.ru,~minigames.mail.ru,~my.mail.ru,~news.mail.ru,~octavius.mail.ru,~okminigames.mail.ru,~otvet.mail.ru,~pets.mail.ru,~pogoda.mail.ru,~realty.mail.ru,~top.mail.ru,~touch.mail.ru,~tv.mail.ru##.grid .tgb
+~3igames.mail.ru,~auto.mail.ru,~biz.mail.ru,~bonus.mail.ru,~calendar.mail.ru,~cloud.mail.ru,~deti.mail.ru,~dobro.mail.ru,~e.mail.ru,~esports.mail.ru,~games.mail.ru,~gibdd.mail.ru,~go.mail.ru,~health.mail.ru,~help.mail.ru,~hi-tech.mail.ru,~horo.mail.ru,~kino.mail.ru,~lady.mail.ru,~love.mail.ru,mail.ru,~mailblog.mail.ru,~mcs.mail.ru,~minigames.mail.ru,~my.mail.ru,~news.mail.ru,~octavius.mail.ru,~okminigames.mail.ru,~otvet.mail.ru,~pets.mail.ru,~pogoda.mail.ru,~realty.mail.ru,~top.mail.ru,~touch.mail.ru,~tv.mail.ru##.grid__main-col div .news-item_tgb
 ~3igames.mail.ru,~auto.mail.ru,~biz.mail.ru,~bonus.mail.ru,~calendar.mail.ru,~cloud.mail.ru,~deti.mail.ru,~dobro.mail.ru,~e.mail.ru,~esports.mail.ru,~games.mail.ru,~gibdd.mail.ru,~go.mail.ru,~health.mail.ru,~help.mail.ru,~hi-tech.mail.ru,~horo.mail.ru,~kino.mail.ru,~lady.mail.ru,~love.mail.ru,mail.ru,~mailblog.mail.ru,~mcs.mail.ru,~minigames.mail.ru,~my.mail.ru,~news.mail.ru,~octavius.mail.ru,~okminigames.mail.ru,~otvet.mail.ru,~pets.mail.ru,~pogoda.mail.ru,~realty.mail.ru,~top.mail.ru,~touch.mail.ru,~tv.mail.ru##div[id^="grid"] .i-pull-right.grid__rcol_aside > [class*="rect"]
 ||mail.ru/res/$script,domain=~3igames.mail.ru|~auto.mail.ru|~biz.mail.ru|~bonus.mail.ru|~calendar.mail.ru|~cloud.mail.ru|~deti.mail.ru|~dobro.mail.ru|~e.mail.ru|~esports.mail.ru|~games.mail.ru|~gibdd.mail.ru|~go.mail.ru|~health.mail.ru|~hi-tech.mail.ru|~horo.mail.ru|~kino.mail.ru|~lady.mail.ru|~love.mail.ru|mail.ru|~mailblog.mail.ru|~mcs.mail.ru|~minigames.mail.ru|~my.mail.ru|~news.mail.ru|~octavius.mail.ru|~okminigames.mail.ru|~otvet.mail.ru|~pets.mail.ru|~pogoda.mail.ru|~realty.mail.ru|~top-fwz1.mail.ru|~top.mail.ru|~touch.mail.ru|~tv.mail.ru
 ! Auto
@@ -19628,16 +19643,18 @@ pg11.ru,pg12.ru,pg13.ru,pg21.ru,prochepetsk.ru,progorod33.ru,progorod43.ru,progo
 @@||ssp.rambler.ru^$domain=kinoteatr.ru
 @@||st.championat.com/shared/advertise.js|$script,domain=championat.com
 @@||static.gazeta.ru/nm2015/js/advertising.js$script,domain=www.gazeta.ru
+championat.com###plista_block
 championat.com##.partners-content
 championat.com,gazeta.ru##div.banner[class*=" "]
 gazeta.ru###mediametrics
+gazeta.ru###news-left > script + div[id]
 gazeta.ru###news-pants > noindex
+gazeta.ru###news-right noindex > script + div[id]
 gazeta.ru##.mb20.b-white[aria-hidden="true"]:empty
 gazeta.ru##.pb
 gazeta.ru##.wuho.block.left + #actions > noindex
 gazeta.ru##[id*="rnet_gazeta_dzen"]
 gazeta.ru##div[id^="unit_"]
-gazeta.ru#?#.sausage:-abp-contains(Новости партнеров)
 gazeta.ru#?#.sausage:-abp-has([src*="/partner"])
 lenta.ru##.b-header-inner__banner
 lenta.ru##.okko
@@ -19886,9 +19903,9 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua##.article__body > div[cl
 zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua##.article__body div[style*="min-height:"][style*="min-width:"][style*="max-width:"]
 zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua##.floating-links
 ! Яндекс.Здоровье (yandex.*/health)
-yandex.by,yandex.kz,yandex.ru,yandex.ua###root .AdsColumn
-yandex.by,yandex.kz,yandex.ru,yandex.ua###root .bottom-banner
-yandex.by,yandex.kz,yandex.ru,yandex.ua###root .top-banner
+yandex.ru##.advert-sticks
+yandex.ru##.turbo-advert
+yandex.ru##div[id^="R-I-"]
 ! Яндекс.Картинки
 /^https?://yandex\.(by|kz|ru|ua)/images/(?!(search\?rpt=\imageview)|(search\?callback\=jQuery)|(search\?exp_flags=)|(search\?serpid=)|(touch/search?))[^\s]{80,}/$subdocument,~third-party,xmlhttprequest
 ! Яндекс.Музыка
@@ -20564,7 +20581,6 @@ inforesist.org##tqwidget[style^="position: fixed"]
 @@/images/ads/*$domain=xn--80aqkgfb3b1a0a.xn--p1ai|пышмаинфо.рф
 @@/images/google-play-clear$domain=context.reverso.net
 @@/images/star_share.png|$image,domain=agorov.org|animevost.org|animevost1.org|animevost2.org|animevost3.org
-@@/img/banner/*$domain=imhonet.ru
 @@/informer.php$image,domain=day-x.narod.ru
 @@/jquery.min.js$script,domain=cars.mail.ru
 @@/js/player/adv_dist/videojs.ads.$script,stylesheet,domain=smotri.com|video.reset.ru
@@ -20714,7 +20730,6 @@ inforesist.org##tqwidget[style^="position: fixed"]
 @@||beeline.ru/media/banners/$domain=beeline.ru
 @@||begun.ru/video.jsp?$domain=vidin.ru
 @@||begun.ru/vpaid_lib.swf|$domain=vidin.ru
-@@||belby.by/img/banner/$image,domain=belby.by
 @@||beseed.ru/advertiser$domain=beseed.ru
 @@||bestru.ru*/advertisements/$domain=bestru.ru
 @@||bestru.ru^*/advert_$domain=bestru.ru
@@ -20820,7 +20835,6 @@ inforesist.org##tqwidget[style^="position: fixed"]
 @@||googleapis.com/customsearch/$third-party,script,xmlhttprequest
 @@||googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=forum.niiot.net|mmoaddict.ru
 @@||googlesyndication.com/pagead/show_ads.js$domain=forum.niiot.net|mmoaddict.ru
-@@||gostas-klimat.ru/templates/planets/img/banner/$image,domain=gostas-klimat.ru
 @@||grant2009.ru/images/adv$domain=grant2009.ru
 @@||gruzevak.by^*informer$script
 @@||gstatic.com/ads/external/images/logo_google_ads_$image,domain=support.google.com
@@ -20872,7 +20886,6 @@ inforesist.org##tqwidget[style^="position: fixed"]
 @@||krutilka.net^$domain=24smile.net
 @@||ktozvonit.com.ua/src/js/ads.js$script,domain=ktozvonit.com.ua
 @@||kufar.by/api/search/$xmlhttprequest,domain=kufar.by
-@@||la-milano.ru*/img/banner/$domain=la-milano.ru
 @@||lafa.tv/static/player$script,stylesheet,xmlhttprequest
 @@||latitu.ru^*/advert_$domain=latitu.ru
 @@||legobox.ru/theme/legobox/images/adv*.$image,domain=legobox.ru
@@ -20915,8 +20928,6 @@ inforesist.org##tqwidget[style^="position: fixed"]
 @@||mp3ix.com^*.mp3|$domain=mp3co.co|mp3no.com
 @@||msads.net^*/dapmsn.js^$domain=msn.com
 @@||mts.ru/upload/images/$domain=mts.ru
-@@||mts.ru^*/img/banner/$domain=mts.ru
-@@||mtsbank.ru/img/banner/$domain=mtsbank.ru
 @@||my-comfort.com.ua/Files/Banner/$domain=my-comfort.com.ua
 @@||my.south.rt.ru^$document
 @@||myband.info/advert/$~third-party
@@ -21021,7 +21032,6 @@ inforesist.org##tqwidget[style^="position: fixed"]
 @@||rostov-vershina.ru/assets/cache_image/resources/$image,domain=rostov-vershina.ru
 @@||rotapost.ru/*advertisers/$script,stylesheet,xmlhttprequest,domain=rotapost.ru
 @@||ru/banner$domain=rzd.ru|sandesh-spb.ru|svyaznoy.ru|whiskas.ru
-@@||ru/banners/$image,domain=animespirit.ru|citilink.ru|e96.ru|furfurmag.ru|killot.ru|mrtexpert.ru|onlime.ru|rosbank.ru|toptracker.ru|webnames.ru|wildberries.ru|zalivalka.ru
 @@||rublacklist.net/media/*/RKS-banner-$image
 @@||rus-wars.*/img/$domain=rus-wars.com|rus-wars.ru
 @@||ruspor.ru^$~third-party
@@ -21077,7 +21087,6 @@ inforesist.org##tqwidget[style^="position: fixed"]
 @@||static.probirka.org/forum/images/context_advert/$image,domain=probirka.org
 @@||static.videonow.ru/crossdomain.xml$object-subrequest,domain=filmz.ru
 @@||static.videonow.ru/players_plugins/$object-subrequest,domain=filmz.ru
-@@||stavsalut.hostcrm.ru^*/img/banner/$domain=stavsalut.hostcrm.ru
 @@||stopgame.ru/www/delivery/afr.php?*&target=_top&$subdocument,domain=stopgame.ru
 @@||stopgame.ru/www/delivery/ck.php?$subdocument,domain=stopgame.ru
 @@||stopgame.ru/www/images/$image,domain=stopgame.ru
@@ -21446,7 +21455,6 @@ mail.ru#@#.text-banner
 @@||adserver.juicyads.com/js/jads.js|$script,domain=stasyan.ga
 @@||adservice.google.*/adsid/integrator.js$domain=izzylaif.com|maxpark.com|newsland.com|okino.ua|yapx.ru
 @@||adtrackers.net^$script,domain=spec-komp.com
-@@||advert.popunder.ru/banners/advert.php?type=banner_img|$image,subdocument,domain=rutracker.org.ua
 @@||ak-ns.sascdn.com/diff/js/smart.js|$script,domain=www.deezer.com
 @@||aka-cdn-ns.adtechus.com^$image,domain=football.kulichki.net|football.ua
 @@||alhimika.net/images/$image,domain=alhimika.net
@@ -21515,6 +21523,7 @@ mail.ru#@#.text-banner
 @@||kttc.ru/ad/banner/$xmlhttprequest,domain=kttc.ru
 @@||kttc.ru^*_adview_$xmlhttprequest,domain=kttc.ru
 @@||lamcdn.net/www.the-village.ru/gui/advert-$script,domain=the-village.ru
+@@||list-org.com^$xmlhttprequest,domain=list-org.com
 @@||liverail.com/?LR_$object-subrequest,domain=moevideo.net
 @@||liverail.com^*/admanager.swf|$domain=own3d.tv
 @@||loadercdn.com^
@@ -21629,6 +21638,7 @@ mail.ru#@#.text-banner
 math.semestr.ru#@#[id^="aswift_"]
 kinomafia.tv#@#div[id^="PC_Teaser_Block"]
 aqa.ru#@#div[id^="div-gpt-ad-"]
+cc-fan.tv,cn-fan.tv,fox-fan.tv,nf-fan.tv#@#iframe[width="240"][height="400"]
 !
 ! - hide & block
 delfi.ee###ab-top-bar
@@ -21660,7 +21670,7 @@ joyreactor.cc,pornreactor.cc,reactor.cc##div[style="background:none!important"]
 !#infiload.bookmark
 @@/getCodeTest?$script,domain=auto.vesti.ru|gubernia.com
 @@/prepareCode?$script,domain=auto.vesti.ru|gubernia.com
-@@||a.republer.com^$third-party,script,domain=~paparazzi.ru|~zvezdi.ru
+@@||a.republer.com^$third-party,script,domain=~cc-fan.tv|~cn-fan.tv|~fox-fan.tv|~nf-fan.tv|~paparazzi.ru|~zvezdi.ru
 @@||adfox.ru/crossdomain.xml$object,domain=sportbox.ru
 @@||admelon.ru^$script,domain=anekdot.ru|hotcharts.ru|myzuka.club|russian7.ru
 @@||adriver.ru/cgi-bin/erle.cgi?$script,domain=bel.ru|forum.tatfish.com|izhevsk.ru|meta.ua|ozon.ru|reutov-tv.2x2tv.ru|thg.ru

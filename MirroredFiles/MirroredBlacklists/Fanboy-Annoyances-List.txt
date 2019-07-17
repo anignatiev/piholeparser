@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SYJwlnzP1g00ePrNtoUHng
-! Version: 201907150011
+! Checksum: Fvqbp56Ad+im0A3TBFUOAw
+! Version: 201907170011
 ! Title: Fanboy's Annoyance List
-! Last modified: 15 Jul 2019 00:11 UTC
+! Last modified: 17 Jul 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -16,8 +16,6 @@
 -christmasification-
 -copy-paste-blocker/
 -job-widget.
--taboola-article.
--taboola-loader.
 /1pixel.
 /1pxtransparent.
 /1x1.trans.
@@ -37,9 +35,7 @@
 /btnGigpark.
 /btnMobile.
 /cdn-cgi/pe/bag2?*addthis.com
-/cdn-cgi/pe/bag2?*odb.outbrain.com
 /christmas-snow.js
-/components/taboola/*
 /conversional-popup.
 /cx-scrolldepth.js
 /dealsaver/widget/*
@@ -77,7 +73,6 @@
 /mailchimp-iframe/*
 /mobile-welcome-overlay/*$script
 /mobile_top_icon.
-/modulo/taboola/*
 /navicon_ap.gif
 /navigation_scroll_
 /newsgator.gif
@@ -89,8 +84,6 @@
 /Opinion8.min.js
 /opinionlab/*
 /opinionstage-
-/outbrain.js
-/outbrain?
 /pixel_transparent.
 /pixel_trasp.gif?
 /plugins/advanced-browser-check/*$~stylesheet
@@ -119,15 +112,6 @@
 /snowstorm.js
 /snowstorm.min.js
 /surveyShower.
-/taboola-iframe/*
-/taboola.js
-/taboola/footer.
-/taboola/head.
-/taboola_header.
-/taboolaArticleFooter.
-/taboolaArticleHead.
-/taboolaBottomBody.
-/taboolaHead.
 /tapatalkdetect.
 /tellafriend32.
 /thedaywefightback.js
@@ -148,6 +132,26 @@
 /wp-content/plugins/vto_plus/*
 /wp-snow-effect/*
 /yammer_16.
+! Taboola
+-taboola-article.
+-taboola-loader.
+/components/taboola/*
+/modulo/taboola/*
+/taboola-iframe/*
+/taboola.js
+/taboola/footer.
+/taboola/head.
+/taboola_header.
+/taboolaArticleFooter.
+/taboolaArticleHead.
+/taboolaBottomBody.
+/taboolaHead.
+! Outbrain
+/cdn-cgi/pe/bag2?*odb.outbrain.com
+/outbrain-load-
+/outbrain.js
+/outbrain/base?
+/outbrain?
 ! Push Notifications
 -push-notification.
 -push-notification/
@@ -5523,6 +5527,7 @@ _site_cookie_
 ###sendpress_signup
 ###series-newsletter-signup
 ###share-newsletter
+###shortSignup
 ###sib_embed_signup
 ###side-newsletter-signup
 ###sidebar-block-newsletters
@@ -6015,6 +6020,7 @@ _site_cookie_
 ##.inline-newsletter-module
 ##.inline-signup
 ##.inline-subscribe
+##.inline-subscription-module
 ##.inlineNewsletterSubscription
 ##.inlineNewsletter__wrapper
 ##.inline_sign_up_box
@@ -22066,6 +22072,7 @@ _site_cookie_
 ###cookie-policy-block
 ###cookie-policy-box
 ###cookie-policy-consent
+###cookie-policy-consent-bar
 ###cookie-policy-container
 ###cookie-policy-dialog
 ###cookie-policy-disclaimer
@@ -22849,6 +22856,7 @@ _site_cookie_
 ###cookie_notice
 ###cookie_notice_bar
 ###cookie_notice_desktop
+###cookie_notice_wrapper
 ###cookie_notif
 ###cookie_notification
 ###cookie_notification_bar
@@ -25512,6 +25520,8 @@ _site_cookie_
 ###privacy_cookie
 ###privacy_cookiepolicy
 ###privacy_cookies
+###privacy_info_content
+###privacy_info_overlay
 ###privacy_law
 ###privacy_modal
 ###privacy_notice
@@ -30857,7 +30867,6 @@ _site_cookie_
 ||amazonaws.com/fby/
 ||amazonaws.com/mailmunch/$script
 ||amazonaws.com^*/feedback-v2.js
-||amplify.outbrain.com^$third-party
 ||antenna.is^$third-party
 ||anyclip.com^$third-party
 ||apester.com^$third-party
@@ -30993,7 +31002,6 @@ _site_cookie_
 ||hnlike.com^$third-party
 ||honcode.ch^$third-party
 ||hoodline.com^$third-party
-||hpr.outbrain.com^$third-party
 ||hsleadflows.net^$third-party
 ||httpschecker.net^$third-party
 ||identi.ca/js/identica-badge.js$third-party
@@ -31050,7 +31058,6 @@ _site_cookie_
 ||myeffecto.com^$third-party
 ||myvoicenation.com^$third-party
 ||newsgator.com^$third-party
-||newsletter.outbrain.com^$third-party
 ||newsletter2go.com^$third-party
 ||newswhip.com^$third-party
 ||nextdoor.com^$third-party
@@ -31058,7 +31065,6 @@ _site_cookie_
 ||notifyon.com^$third-party
 ||nrcdn.com/custom-script/$third-party
 ||nrelate.com^$third-party
-||odb.outbrain.com^$third-party
 ||oovvuu.com^$third-party
 ||opinary.com^$third-party
 ||opiniac.com^$third-party
@@ -31072,7 +31078,6 @@ _site_cookie_
 ||optnmnstr.com^$third-party
 ||optnmstr.com^$third-party
 ||os.tc^$third-party
-||outbrainimg.com^$third-party
 ||page2rss.com^$third-party
 ||parse.ly^$third-party
 ||partner.dw.com^$third-party
@@ -31152,7 +31157,6 @@ _site_cookie_
 ||socialtwist.com^$third-party
 ||socialvibe.com^$third-party
 ||sodahead.com^$third-party
-||sphere.outbrain.com^$third-party
 ||statictapcdn-a.akamaihd.net^$third-party
 ||storystack.com^$third-party
 ||styld-by.com^$third-party
@@ -31166,8 +31170,6 @@ _site_cookie_
 ||swiftypecdn.com^$third-party
 ||swishu.com^$third-party
 ||synapsys.us^$third-party
-||taboola.com^$third-party
-||taboolasyndication.com^$third-party
 ||tapcdn.com/mosaic/tap_button.js
 ||teamautofollow.com/modules/mod_jtwitter/
 ||techbeat.com/wp-content/custom-php/$third-party
@@ -31196,8 +31198,6 @@ _site_cookie_
 ||vhmengine.com^$third-party
 ||vicomi.com^$third-party
 ||vk.com/images/$third-party
-||vrp.outbrain.com^$third-party
-||vrt.outbrain.com^$third-party
 ||wahwahnetworks.com^$third-party
 ||weebly.com/*_signup.php$third-party
 ||weworkremotely.com^$third-party
@@ -31213,7 +31213,6 @@ _site_cookie_
 ||widgets.backtype.com^$third-party
 ||widgets.dzone.com^$third-party
 ||widgets.itunes.apple.com^$third-party
-||widgets.outbrain.com^$third-party
 ||widgets.seekitlocal.com^$third-party
 ||widgets.sprinkletxt.com^
 ||widgets.tapcdn.com^$third-party
@@ -31238,6 +31237,19 @@ _site_cookie_
 ||ziprecruiter.com/jobs-widget/$third-party
 ||zoomanalytics.co^$third-party
 ||zotabox.com^*/widgets.js$third-party
+! Taboola
+||taboola.com^$third-party
+||taboolasyndication.com^$third-party
+! Outbrain servers
+||amplify.outbrain.com^$third-party
+||hpr.outbrain.com^$third-party
+||newsletter.outbrain.com^$third-party
+||odb.outbrain.com^$third-party
+||outbrainimg.com^$third-party
+||sphere.outbrain.com^$third-party
+||vrp.outbrain.com^$third-party
+||vrt.outbrain.com^$third-party
+||widgets.outbrain.com^$third-party
 ! Push Notifications
 ||accengage.net^$third-party
 ||aimtell.com^$third-party
@@ -35393,6 +35405,7 @@ westmonster.com###rock-services-hot-topic
 downeast.com###royal_sidebutton_tab
 todayonline.com###sb-just-in
 elie.net###scrollbox_popup
+craftsman.com###sfmc-modal__overlay
 asianjournal.com###sgpb-popup-dialog-main-div-wrapper
 si.com###si-com-newsletter-widget
 clarionproject.org###sign-up
@@ -35413,6 +35426,7 @@ amd.com,legalsportsreport.com###slidebox
 auctionzip.com###sliderEmailCapture
 auctionzip.com###sliderOverlay
 humanresourcesonline.net,marketing-interactive.com###smallSubBox
+craftsman.com###smfc-modal-body
 sojo.net###splash_ajax_page
 ianvisits.co.uk###spopup
 groupon.co.uk,groupon.com,groupon.ie###spotlight
@@ -37849,7 +37863,7 @@ ambulance-photos.com,bus-and-coach-photos.com,campervan-photos.com,classic-and-v
 nymity.com###CookieAcceptSubLayout1_cookiesmessageshown
 aberdeenplumberservices.co.uk,firstcallmotorbreakdown.co.uk,pattheduck.com###FISLCC
 megabus.com###GB_overlay
-pratt.edu###GDPR
+bit-tech.net,pratt.edu###GDPR
 mappy.com###IndexView-first-visit
 uk.yahoo.com###Main > .windowshade:first-child
 tecnalia.com###NLC_textLayer
@@ -40331,6 +40345,8 @@ bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,ruhrbarone.de,shop-apoth
 bambergfacts.de###cookiebar-007
 abload.de,autoampel.de,cewe-print.de,dynamo-fanshop.de,elegant.be,livetrakway.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
 start-nrw.de###cpopup
+ruegenwalder.de###csdialogbd
+ruegenwalder.de###csdialogmd2
 rentalens.ch###dabar
 interhyp.de###data-protection__layer
 sovd.de###datenschutzfenster
@@ -41451,6 +41467,7 @@ ohtuleht.ee##.ntf-container
 ||cookie.wieni.be^
 ||cookies.nos.nl^
 ||cookiesv2.publiekeomroep.nl/light/
+||tmgonlinemedia.nl/cc$script
 ||tol.postnl.nl/content/toljs/$script
 !
 ! ---------- Finnish ----------
@@ -42022,7 +42039,7 @@ linkis.com#@#.social-panel
 techspot.com,tuba.pl#@#.social-popup
 chrisblattman.com#@#.social-post
 infox.ru#@#.social-section
-howtogeek.com#@#.social-share
+daenischesbettenlager.at,daenischesbettenlager.de,howtogeek.com,jysk-ks.com,jysk.al,jysk.am,jysk.ba,jysk.be,jysk.bg,jysk.by,jysk.ca,jysk.ch,jysk.co.id,jysk.co.uk,jysk.com,jysk.com.cy,jysk.com.kw,jysk.com.mt,jysk.cz,jysk.dk,jysk.ee,jysk.es,jysk.fi,jysk.fr,jysk.ge,jysk.gr,jysk.hr,jysk.hu,jysk.ie,jysk.it,jysk.kz,jysk.lt,jysk.lv,jysk.md,jysk.me,jysk.mk,jysk.nl,jysk.no,jysk.pl,jysk.pt,jysk.ro,jysk.rs,jysk.se,jysk.si,jysk.sk,jysk.ua,jysk.vn,jyskthailand.com,pisiffik.gl,rumfatalagerinn.is,skemman.fo#@#.social-share
 cuisineactuelle.fr,femmeactuelle.fr,matvpratique.com#@#.social-share-count
 last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,songkick.com#@#.social-sharing
 golem.de#@#.social-sidebar
@@ -42499,6 +42516,7 @@ timeout.com#@#div[data-module="cookie_banner"]
 @@||universumglobal.com/wp-content/plugins/cookie-law-info/
 @@||virginmedia.com^*/cookie-disclaimer.
 @@||washingtonpost.com/gdpr-consent/$subdocument,xmlhttprequest
+@@||xmind.net/www/assets/vendor/js/js-cookie-
 ! international
 @@.php?f=js/*.js,js$script,domain=undicom.pl
 @@||4ka.sk/js/cookiebar.min.js
@@ -42873,6 +42891,7 @@ timeout.com#@#div[data-module="cookie_banner"]
 @@||livescience.com/images/site/social/footer_*.gif
 @@||login.kataweb.it^*/sprite-social.png
 @@||login.mos.ru^$image
+@@||lublin112.pl/wp-content/uploads/$image
 @@||lurkmo.re/images/*/Twitter-$~third-party
 @@||lurkmo.re/images/*YouTube.png$~third-party
 @@||lurkmore.*/images/FB_small.png$~third-party
