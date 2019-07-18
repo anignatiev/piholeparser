@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 8778
+! Version: 8786
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -93,6 +93,7 @@
 ||afnrmofoljod.com^
 ||afpisdddjik.bid^
 ||afqvtomlqjioeo.com^
+||afruetdxrbxz.com^
 ||afxtcajgtzcugb.com^
 ||afyqzjxzuupmz.bid^
 ||afzkqajwcbub.com^
@@ -119,6 +120,7 @@
 ||ahjljmxfxuet.com^
 ||ahjwkwugxvznxv.com^
 ||ahkilcrublxn.bid^
+||ahllgtevqrsh.com^
 ||ahstrelgnh.com^
 ||ahtkajcs.com^
 ||ahuivddkvrrebo.com^
@@ -738,6 +740,7 @@
 ||budyxjttmjkf.com^
 ||bufqrxzyrecf.com^
 ||bugwiqivdqotjk.com^
+||buhlhkkvljt.com^
 ||buhxsaifjxupaj.com^
 ||buitxcrnucyi.com^
 ||bukpsslm.com^
@@ -3617,6 +3620,7 @@
 ||jdbovkzjtuup.com^
 ||jdbzloynedpylr.bid^
 ||jdcwnccdx.com^
+||jddghmkf.com^
 ||jdgilrlyqtrly.com^
 ||jdhhehwkvl.com^
 ||jdhnfbmrhwkn.com^
@@ -5438,6 +5442,7 @@
 ||npzlzsxkq.bid^
 ||nqbhezlm.com^
 ||nqcqwnvazq.com^
+||nqiabjxpcsea.com^
 ||nqkttgrapot.bid^
 ||nqlrewsfmywgbx.com^
 ||nqmwfddfwogbhw.com^
@@ -6440,6 +6445,7 @@
 ||qgslgwfxar.com^
 ||qgtbxtex.com^
 ||qguirbzulwmdm.bid^
+||qgwazwmlx.com^
 ||qgxrmkbzpm.com^
 ||qhaavcekkhckzi.com^
 ||qhdjyxcggzkm.com^
@@ -7510,6 +7516,7 @@
 ||tamrczjeedauh.com^
 ||taoclfxgf.com^
 ||taodggarfrmd.com^
+||tapffdskgjr.com^
 ||taqesyqne.com^
 ||taqyljgaqsaz.com^
 ||tarxjwdkx.com^
@@ -8575,6 +8582,7 @@
 ||yjtdbdnhcu.com^
 ||yjwtxskmswcjc.com^
 ||yjxtuwpbgzwc.com^
+||ykhozkljfpdtd.com^
 ||ykombouoo.com^
 ||ykykbowk.com^
 ||yleztmobykox.com^
