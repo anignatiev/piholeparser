@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: 567SVZFIErKXOhORdx0hJQ
+! Checksum: hF77bc05/QKAWbJBLoBSzQ
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
-! Last modified: Thu, 18 Jul 2019, 00:00 UTC+02
-! Version: 2019.7.18.1
+! Last modified: Fri, 19 Jul 2019, 00:00 UTC+02
+! Version: 2019.7.19.1
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -15,7 +15,7 @@
 !   Reddit => https://www.reddit.com/r/PolishFiltersTeam/
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2019 Polish Filters Team
-! Aktualizacja: czw, 18 lip 2019, 00:00 UTC+02
+! Aktualizacja: pią, 19 lip 2019, 00:00 UTC+02
 !
 !
 ! Newslettery (nie popupy)
@@ -1629,6 +1629,7 @@ poscielone.pl###tk_popup
 poznaj-swiat.pl###popup, #overlay
 pracatobie.pl###Ankieta1PopupContent, #Ankieta1PopupBackground
 pracujwsprzedazy.pl###modal-social
+pracuj.pl##.onboarding--opened.onboarding
 prettyone.pl##.modal-backdrop, .pwebbox-modal
 prezeska.pl##.pum
 prezi.com#?##full-screen-overlay:-abp-has(#email-capture-modal)
@@ -2113,7 +2114,7 @@ budujzdrewna.pl,cnc.info.pl,forum-bron.pl##.scroll-btn
 ccpartners.pl,diagnozainternetu.pl,mojlask.pl##.top
 cedynia.pl,napisy24.pl,wegemaluch.pl###smoothtop
 cena33.pl##.shop-social > ul > li > a[href="#"]
-cena33.pl,sklep.yasumi.pl,etroniks.pl,terazteatr.pl,rebelelectro.com,pmi.org.pl,dompolpro.pl###to_top
+cena33.pl,sklep.yasumi.pl,etroniks.pl,terazteatr.pl,rebelelectro.com,pmi.org.pl,dompolpro.pl,staypoland.com###to_top
 centrumdialogu.com,rynek.de,ets2mods.com##.bd-backtotop-1
 centrummaraton.com,hotelpegaz.eu,morele.net,setcomp.net,skiparkmagura.eu,djoles.com,jagiellonia.org,baronphotography.eu###back_to_top
 centrumxp.pl##.OnTop
@@ -3103,6 +3104,7 @@ bankier.pl##.btnPitArticle
 bankier.pl###pit2017_explorer, #boxInsFlyfooter
 bank-wbs.pl###wrapperSectionMainPagePilneAktualnosciBox
 bank-wbs.pl###wrapperSectionStickyIcon
+beskidlive.pl###dj-suggester-in
 beskidzka24.pl##.page-preloader-cover
 bgsw.pl##.left.ltr.a11y-toolbar.a11y-non-responsive
 bieganieuskrzydla.pl##.c-card--dock
@@ -3515,6 +3517,7 @@ puplegnica.pl,pup.gliwice.pl###accessKeys
 pytamy.pl##.fixFooter
 pzw.org.pl###body_google_play
 raiffeisenpolbank.com###pomocne_menu > ul > li:nth-child(-n+2)
+rallypl.com###check-also-box
 rankomat.pl##.searching-cheap-oc
 raportdrogowy.interia.pl##.articleObjectSeeAlso
 rc.fm###rconline
