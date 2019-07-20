@@ -280,7 +280,6 @@ profilepictures4.ml
 promocaodeinverno.ml
 protection-block.ml
 proxy.mineshaft.ml
-przejdz.ml
 qo-zeesel.ml
 quickvids.ml
 qvalibest.ml

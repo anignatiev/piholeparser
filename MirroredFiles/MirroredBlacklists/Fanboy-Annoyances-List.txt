@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QHAi8Q3XJIu37cNVX3Cc4w
-! Version: 201907190011
+! Checksum: KOY57Z0CdOtRC/zeuV2t4Q
+! Version: 201907200011
 ! Title: Fanboy's Annoyance List
-! Last modified: 19 Jul 2019 00:11 UTC
+! Last modified: 20 Jul 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5513,6 +5513,7 @@ _site_cookie_
 ###rb-newsletter
 ###rdc-newsletter
 ###react_wrapper_edition_newsletter_signup
+###react_wrapper_home_newsletter_large
 ###registerNlArticle
 ###related-newsletter
 ###relatedNavNewsletter
@@ -6005,6 +6006,7 @@ _site_cookie_
 ##.header__social--email
 ##.header__subscribe-btn
 ##.hellobar-signup
+##.home-newsletter-widget
 ##.homepage-bottom-email-signup
 ##.homepage-newsletter
 ##.homepg-newsletter-sign-up-form
@@ -36203,6 +36205,7 @@ wmf.com###top-scroller
 mufg.jp###topBackArea
 earthcam.com,glamour.com###topScroll
 firstbanknigeria.com###topbottom_arr
+mytalk1071.com###toplink
 gen14.com###topofpage
 routard.com,thespinoff.co.nz###topscroll
 listnerd.com###topscroller
@@ -36923,7 +36926,7 @@ forward.com##.fa-facebook-f
 kashmirobserver.net,southerntimesafrica.com##.fa-google
 channelstv.com,designboom.com,livescience.com,pbtech.co.nz,space.com##.fa-google-plus
 slashgear.com##.fa-google-plus-square
-channelstv.com,dataleeks.com,forward.com,jazzinchicago.org,structurae.net,washingtoncitypaper.com##.fa-instagram
+channelstv.com,dataleeks.com,forward.com,jazzinchicago.org,kslnewsradio.com,structurae.net,washingtoncitypaper.com##.fa-instagram
 livescience.com,southerntimesafrica.com,washingtonexaminer.com##.fa-linkedin
 nzdoctor.co.nz##.fa-print
 aquarius.org.uk##.fa-square
