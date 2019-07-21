@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 8811
+! Version: 8828
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -98,6 +98,7 @@
 ||afyqzjxzuupmz.bid^
 ||afzkqajwcbub.com^
 ||afzoyaquhjltdd.com^
+||agdvemtd.com^
 ||agegefpkbll.bid^
 ||agffpcpi.bid^
 ||agfqcndiugnr.com^
@@ -571,6 +572,7 @@
 ||biwjfwhxoy.bid^
 ||bixolsoqluvzpu.com^
 ||bjceodmwesmbth.com^
+||bjcpcnhssg.com^
 ||bjcunwelpd.com^
 ||bjdfckchzsa.bid^
 ||bjenzpojtgvo.club^
@@ -1430,6 +1432,7 @@
 ||dodahirwudrhv.com^
 ||dodegomxh.bid^
 ||dodwnkpzaned.com^
+||dogwuyrspt.com^
 ||dohhehsgnxfl.com^
 ||doiljgzpurycgx.bid^
 ||dojmlztmbrvp.com^
@@ -2718,6 +2721,7 @@
 ||gvyliqny.bid^
 ||gvzphwswtv.com^
 ||gwasavfgelbuah.bid^
+||gwjmznxk.com^
 ||gwohimtyhbthg.com^
 ||gwovohvkzay.com^
 ||gwqkliacsn.bid^
@@ -2993,6 +2997,7 @@
 ||hokehntutt.bid^
 ||hopafrmwpckj.com^
 ||hoqqzlvwukpo.com^
+||horvmygebyg.com^
 ||horylaht.bid^
 ||hosiioyx.com^
 ||hosqkmnjt.com^
@@ -3035,6 +3040,7 @@
 ||hqtvvfqmfykcrs.com^
 ||hquijlndtd.com^
 ||hqupjfmq.com^
+||hqvdkbap.com^
 ||hqwlpexoywbc.com^
 ||hqxtsqwpvort.com^
 ||hqyenmzgxk.com^
@@ -3431,6 +3437,7 @@
 ||ipzjwnbhgymuw.com^
 ||iqagrsach.com^
 ||iqbfctebbzh.com^
+||iqjajyjbnaqieu.com^
 ||iqmjedevvojm.com^
 ||iqopeoufjul.com^
 ||iqpfextjfphjnn.com^
@@ -4413,6 +4420,7 @@
 ||lamwiadakwa.com^
 ||lanktydm.com^
 ||lapbekessbozpx.bid^
+||lapdqegtp.com^
 ||laqiccblmxfewa.bid^
 ||lauzlpyl.com^
 ||lavmeebdxwc.com^
@@ -4717,6 +4725,7 @@
 ||ltwlxoedrydz.com^
 ||ltxltqtwpj.bid^
 ||ltzjkjxx.com^
+||luagrcmjnovjp.com^
 ||lubjqiebnayctz.bid^
 ||ludwmwca.bid^
 ||lugknllg.bid^
@@ -5662,6 +5671,7 @@
 ||odyoudvaar.bid^
 ||oebdarcqsqcdk.com^
 ||oeevatisopdl.com^
+||oehivgounhm.com^
 ||oehjxqhiasrk.com^
 ||oeidusggzj.com^
 ||oeoogwkwm.bid^
@@ -5805,6 +5815,7 @@
 ||onvhilwrqdgd.com^
 ||ooaihyyrvflmz.com^
 ||ooakwpvbxym.com^
+||oobywbdeveuodd.com^
 ||oocoeevre.com^
 ||ooczhygehw.com^
 ||ooecgdeq.com^
@@ -5856,6 +5867,7 @@
 ||osewuwcdgfb.bid^
 ||osfipdgo.bid^
 ||osfxxqoy.com^
+||ostyfayab.com^
 ||osunrrhwhf.com^
 ||oszelwsbb.bid^
 ||otarrxci.bid^
@@ -6795,6 +6807,7 @@
 ||rcdmxfpefz.bid^
 ||rcemsoiyil.com^
 ||rcjthosmxldl.com^
+||rckpwmhqz.com^
 ||rckxwyowygef.com^
 ||rcnbjxcrkn.bid^
 ||rcnkflgtxspr.com^
@@ -7054,6 +7067,7 @@
 ||rsvxipjqyvfs.com^
 ||rswgoccwzs.com^
 ||rszzpjttufuw.bid^
+||rtaofgamnnfh.com^
 ||rtctxxxvdq.com^
 ||rtdogcdkovndho.com^
 ||rtgngrwtngms.com^
@@ -7591,6 +7605,7 @@
 ||tehkvecryl.com^
 ||teipgupp.com^
 ||tektbzadrceqje.com^
+||tentekuzi.com^
 ||tepazmynhvo.com^
 ||teqceeivmpvv.com^
 ||tevrzjuymzxpk.bid^
@@ -7754,6 +7769,7 @@
 ||tnxiuvjtplhhdy.com^
 ||tnyomnyezzz.bid^
 ||tnznswilqtni.com^
+||toarqsglo.com^
 ||tocotlkfjo.bid^
 ||toenwwsmam.com^
 ||toflvbkpwxcr.com^
@@ -8511,6 +8527,7 @@
 ||xnfwhndl.com^
 ||xnmwxndqhyt.com^
 ||xnqfpnszqwpijd.com^
+||xnrjtqmud.com^
 ||xnwqhydt.com^
 ||xocecytufu.com^
 ||xoekgcscpnipb.com^

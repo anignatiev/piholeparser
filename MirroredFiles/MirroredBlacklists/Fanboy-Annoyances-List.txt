@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KOY57Z0CdOtRC/zeuV2t4Q
-! Version: 201907200011
+! Checksum: 3ynd+zZghmkXUBud+wYrtA
+! Version: 201907210011
 ! Title: Fanboy's Annoyance List
-! Last modified: 20 Jul 2019 00:11 UTC
+! Last modified: 21 Jul 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -210,6 +210,7 @@
 /wordpress-fire-push/*
 _push_sw.
 ! Newsletter/Subscribe
+-email-newsletter-
 -footer-newsletter.
 -icon-newsletter.
 -newsletter-300x120.
@@ -253,7 +254,7 @@ _push_sw.
 /esnewsletterad.
 /f_newsletter.
 /footer-newsletter.
-/footer/newsletter_
+/footer/newsletter
 /getnewsletter.
 /ico-subscribe-
 /ico_newsletter.
@@ -595,7 +596,7 @@ _subscribe_button
 /rssblusmall.
 /rssBtn.
 /rssbutton.
-/rssfeed-85.
+/rssfeed-
 /rssfeed.
 /rssfeed32.
 /rssfeedIcon.
@@ -4356,6 +4357,7 @@ _youtube_social_
 /plugins/gdpr/*
 /pm_assets/privacy/*$script
 /policy_cookie.
+/policy_cookieCMP.
 /policyaccept.
 /PopupCookie.
 /popupcookieinit.
@@ -5653,6 +5655,7 @@ _site_cookie_
 ##.ALS_IL_Holder
 ##.CheatNewsletter
 ##.DFNewsletterSignup
+##.DivNewsLetter
 ##.DnnModule-eps-NewsletterOptInv2
 ##.HB-Takeover
 ##.Homepage-newsletter
@@ -5663,6 +5666,7 @@ _site_cookie_
 ##.MultiColorSubscribeWidget
 ##.NewsLetterForMobile
 ##.NewsLetterLeftSide
+##.NewsLetterSource
 ##.Newsletter-Overlay
 ##.Newsletter-shortcode
 ##.NewsletterBanner
@@ -7029,6 +7033,7 @@ _site_cookie_
 ##.listRss
 ##.m-global-header__rss
 ##.m-rss
+##.main-icon--rss
 ##.menu-rss
 ##.msc-rss
 ##.msm_icon_rss
@@ -7078,6 +7083,7 @@ _site_cookie_
 ##.rssbar
 ##.rssdef
 ##.rssfeeds
+##.rssicn
 ##.rssicon
 ##.rsslink
 ##.rsstop
@@ -7528,6 +7534,7 @@ _site_cookie_
 ##.m-go-top
 ##.m-scroll-top
 ##.main-footer__btn-backtotop
+##.main-icon--pagetop
 ##.material-scrolltop
 ##.menu-back-to-top
 ##.mh-back-to-top
@@ -10517,6 +10524,7 @@ _site_cookie_
 ##.Custom_Facebook_Page
 ##.DP-ShareBox
 ##.DiggThisButton
+##.DivShareNews
 ##.EE-social
 ##.Entry-infoSocial
 ##.EntryShare
@@ -10533,6 +10541,7 @@ _site_cookie_
 ##.FacebookShareButton
 ##.FacebookTwitter
 ##.Facebook_like
+##.FbShare
 ##.FeatureShare
 ##.FeatureSocial
 ##.FollowButton
@@ -10609,6 +10618,7 @@ _site_cookie_
 ##.NnSocialMediaContainer
 ##.ObsShare
 ##.PIN-share-button
+##.PNShare
 ##.PageSharingMenu
 ##.PartilhasVertical
 ##.PinItButton
@@ -10640,6 +10650,9 @@ _site_cookie_
 ##.ShareButtons
 ##.ShareButtons__link
 ##.ShareCta
+##.ShareFloat
+##.ShareIcons
+##.ShareImage
 ##.ShareIt
 ##.ShareLinks
 ##.ShareLinksContainer
@@ -10652,6 +10665,7 @@ _site_cookie_
 ##.ShareRow
 ##.ShareSocialFB
 ##.ShareSocialWrap
+##.ShareSource
 ##.ShareTab
 ##.ShareThis
 ##.ShareThisButton1
@@ -10671,6 +10685,7 @@ _site_cookie_
 ##.Sharer_inner
 ##.Sharer_link
 ##.Shariff
+##.SharingContainer
 ##.SidebarBox--facebook
 ##.SidebarBox--social
 ##.SidebarBox--twitter
@@ -10738,6 +10753,7 @@ _site_cookie_
 ##.StoryShareBottom
 ##.SynFacebookLike
 ##.SynTwitterShare
+##.TWShare
 ##.Teaser-info-shares
 ##.Tfacebook
 ##.Trend-social
@@ -16426,6 +16442,7 @@ _site_cookie_
 ##.shareGPlus
 ##.shareGroup
 ##.shareGrp
+##.shareH
 ##.shareIcon
 ##.shareIconBottom
 ##.shareIconDigg
@@ -16504,6 +16521,7 @@ _site_cookie_
 ##.shareUsOn
 ##.shareVideo
 ##.shareWidget
+##.shareWidth1
 ##.shareWrap
 ##.share_Danger
 ##.share__back-to-top
@@ -18416,6 +18434,7 @@ _site_cookie_
 ##.socialdigg
 ##.socialdiv
 ##.sociale_media
+##.socialem
 ##.socialfancysliderCenterInner
 ##.socialfancysliderCenterOuter
 ##.socialfancysliderFixed
@@ -24938,6 +24957,7 @@ _site_cookie_
 ###macchiato_cookies_wrapper
 ###machete_cookie_container
 ###macookie
+###mad-client-gdpr-consent-banner
 ###main-cookie-banner
 ###main-cookies-info
 ###main-privacy
@@ -29318,6 +29338,7 @@ _site_cookie_
 ##.js-disclaimer
 ##.js-disclaimer-dismiss
 ##.js-eu-cookie-notice
+##.js-footer-cookie-banner
 ##.js-ft-cookies
 ##.js-g-cookie
 ##.js-gdpr-banner
@@ -30092,6 +30113,7 @@ _site_cookie_
 ##.rdm-daac-notice-template
 ##.react-cookie-banner
 ##.readcookie
+##.recurly-gdpr
 ##.region-cookie-ban
 ##.region-disclaimer-component
 ##.region-disclaimer[data-cookie_name="cookiedisclaimer"]
@@ -30918,7 +30940,6 @@ _site_cookie_
 ||blogsmithmedia.com^*facebook$image
 ||blogtopsites.com^$third-party
 ||bookmrk.us^$third-party
-||bounceexchange.com^$third-party
 ||brightinfo.com^$third-party
 ||browser-update.org^$third-party
 ||browser-updater.yandex.net^$third-party
@@ -38089,7 +38110,7 @@ tapatalk.com###pp_b
 pacsun.com###pptou-sticky
 autoevolution.com###prajiturele
 fxstreet.com###prestitial-handle
-3q.video,mondaq.co.uk,prevac.eu,vindy.com###privacy
+3q.video,mondaq.co.uk,mondaq.com,prevac.eu,vindy.com###privacy
 playstation.com###privacy-header
 islamicfinder.org###privacy-modal
 cbronline.com###privacy_content
@@ -39108,6 +39129,7 @@ yahoo.co.jp###RSAB
 tv-tokyo.co.jp###bangumi_page_top
 jti.co.jp###footer-pagetop
 meiji.com###ftr-pagetop
+suumo.jp###js-pageTop
 biglobe.ne.jp,keisei.co.jp###page-top
 tabelog.com###page-up
 girlsheaven-job.net,gnavi.co.jp,harpersbazaar.jp,news24.jp###pageTop
@@ -39150,6 +39172,7 @@ bloomberg.co.jp##BB-MINI-PLAYER
 ||okjapan.jp^*_gotop_
 ||radionikkei.jp^*/pagetop.
 ||share.gree.jp^$third-party
+||suumo.jp^*/pagetop.
 ||takashimaya.co.jp^*/pagetop.
 ||tweetbuzz.jp^$third-party
 !
@@ -39712,6 +39735,7 @@ oricon.co.jp##.block-sub-sns
 bayfm.co.jp,ironna.jp##.facebook
 ismedia.jp##.header-fb
 ismedia.jp##.header-tw
+suumo.jp##.headlinks
 zaikei.co.jp##.ninja_onebutton
 nikkei-cnbc.co.jp##.officialAccount
 tokyo-np.co.jp##.print
@@ -42565,6 +42589,7 @@ timeout.com#@#div[data-module="cookie_banner"]
 @@||iubenda.com/cookie_solution/$script,domain=iphoneitalia.com
 @@||kalaydo.de^*/cookie-consent.jsc.js$domain=kalaydo.de
 @@||kjellmann.no^*/cookielaw/css/cookielaw.css$stylesheet
+@@||meine.postbank.de/translations/*-cookieDisclaimer-*.json$~third-party,xmlhttprequest
 @@||mymuesli.com/assets/js/cookiespopup.js$script
 @@||nowegumy.pl/cookiecuttr.js
 @@||polenka.pl/wp-content/plugins/cookie-law-info/js/cookielawinfo.js$script

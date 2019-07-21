@@ -1611,8 +1611,8 @@ jg-tc.com,stltoday.com,trib.com##+js(abort-current-inline-script.js, Array, goog
 @@||poststar.com^$generichide
 poststar.com##.dfp-ad
 ||fundingchoicesmessages.google.com^$domain=billingsgazette.com|bismarcktribune.com|jg-tc.com|poststar.com|rapidcityjournal.com|stltoday.com|thesouthern.com|trib.com|tucson.com
-accuweather.com,androidpolice.com,beliefnet.com,businessinsider.com,champions.co,comicbook.com,eurogamer.net,givemesport.com,grubstreet.com,hotair.com,madison.com,magicvalley.com,moviepilot.com,notalwaysright.com,nowloading.co,parkers.co.uk,patheos.com,popculture.com,rawstory.com,thestudentroom.co.uk,townhall.com,trendblog.net,tvtropes.org,twitchy.com,vancouversun.com,watoday.com.au##+js(abort-on-property-read.js, stop)
-||0mme.com^$script,domain=comicbook.com|popculture.com
+accuweather.com,androidpolice.com,beliefnet.com,businessinsider.com,champions.co,eurogamer.net,givemesport.com,grubstreet.com,hotair.com,madison.com,magicvalley.com,moviepilot.com,notalwaysright.com,nowloading.co,parkers.co.uk,patheos.com,popculture.com,rawstory.com,thestudentroom.co.uk,townhall.com,trendblog.net,tvtropes.org,twitchy.com,vancouversun.com,watoday.com.au##+js(abort-on-property-read.js, stop)
+||0mme.com^$script,domain=popculture.com
 ||1emn.com^$script,domain=hotair.com|moviepilot.com|notalwaysright.com
 ||1enm.com^$script,domain=champions.co|parkers.co.uk
 ||2enm.com^$domain=androidpolice.com|beliefnet.com
@@ -2749,7 +2749,7 @@ play.anghami.com##.sideBox:has(.adsbox)
 anghami.com##+js(setTimeout-defuser.js, isDesktopApp, 1000)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5952
-player.glomex.com##+js(abort-on-property-read.js, XDomainRequest)
+player.glomex.com##+js(set-constant.js, parseInt, noopFunc)
 
 ! https://github.com/reek/anti-adblock-killer/issues/3673
 pasteca.sh##+js(abort-on-property-read.js, blockAdBlock)
@@ -9957,8 +9957,11 @@ indoxx1.com##+js(abort-current-inline-script.js, parseInt, tabunder)
 sigma4pc.com##+js(addEventListener-defuser.js, load, nextFunction)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2843
-forumcoin.win##+js(bab-defuser.js)
 forumcoin.win##+js(abort-current-inline-script.js, document.getElementById, adblock)
+forumcoin.win##+js(abort-on-property-write.js, _pop)
+forumcoin.win##+js(abort-on-property-write.js, adBlockDetected)
+forumcoin.win##+js(bab-defuser.js)
+||adop.pw^$3p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2844
 @@||mssl.fwmrm.net/p/MTG_Brightcove_HTML5/AdManager.js$script,domain=tv3sport.dk
@@ -12346,10 +12349,6 @@ mirrorace.com##+js(popads-dummy.js)
 mirrorace.com##[href^="https://fastspeedtest.ml/search/"]
 /invoke.js$script,domain=mirrorace.com
 ||7hor9gul4s.com^$3p
-
-! https://github.com/uBlockOrigin/uAssets/issues/3647
-||ewa.ac^$csp=script-src 'self' 'unsafe-inline' *.googleapis.com
-*$subdocument,domain=ewa.ac
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3648
 @@||getty.link^$generichide
@@ -18424,7 +18423,8 @@ cut1.cf##.banner-inner
 nulled.eu###overly
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/b4wz1h/seeing_ads_on_gfycat/
-gfycat.com##+js(set-constant.js, setInterval, noopFunc)
+! https://github.com/uBlockOrigin/uAssets/pull/5983
+gfycat.com##+js(abort-current-inline-script.js, Math, ='\x)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5221
 converto.io##+js(abort-current-inline-script.js, Math, zfgloaded)
@@ -22108,3 +22108,28 @@ myvidis.top##.jw-vast-nonlinear-close-button
 ! https://github.com/NanoAdblocker/NanoFilters/issues/373
 egy.best##+js(set-constant.js, _AdBlock, noopFunc)
 egy.best##+js(setTimeout-defuser.js, '0x)
+
+! https://github.com/uBlockOrigin/uAssets/issues/5980
+! https://github.com/uBlockOrigin/uAssets/issues/5981
+caizhiqi.com,eg-job.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+
+! https://github.com/NanoMeow/QuickReports/issues/1537
+@@||polskieszlaki.pl/js/ads.js$script,1p
+
+! https://github.com/NanoMeow/QuickReports/issues/1538
+watchgameofthrones.*,zidiplay.com##+js(abort-on-property-read.js, AaDetector)
+watchgameofthrones.*##+js(bab-defuser.js)
+watchgameofthrones.*###keeper2
+||nhpfvdlbjg.com^$3p
+
+! https://github.com/uBlockOrigin/uAssets/issues/5982
+thenekodark.com##+js(set-constant.js, $tieE3, true)
+
+! https://www.reddit.com/r/uBlockOrigin/comments/cfnizw/
+@@||animefrenzy.net^$generichide
+
+! https://github.com/uBlockOrigin/uAssets/issues/5987
+mad4wheels.com##+js(abort-on-property-read.js, adblock)
+
+! https://github.com/NanoMeow/QuickReports/issues/1543
+dailylocal.com##+js(set-constant.js, CnnXt.Event.fire, noopFunc)
