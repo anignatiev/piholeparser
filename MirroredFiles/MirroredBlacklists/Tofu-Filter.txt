@@ -2,7 +2,7 @@
 ! Title: 豆腐フィルタ
 ! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-! 最終更新 16:29 2019/06/18
+! 最終更新 15:36 2019/07/23
 !
 !--------通販サイト--------!
 	!amazon.co$third-party,~xmlhttprequest,domain=~amazon.co.jp|~amazon.com|~amazon.co.uk|~amazon.de|~aucfan.com|~book.akahoshitakuya.com|~book.asahi.com|~booklog.jp|~bookmeter.com|~bookvinegar.jp|~google.com|~javari.jp|~kakaku.com|~nicovideo.jp|~comic.pixiv.net|~novel.pixiv.net|~outlook.live.com
@@ -592,6 +592,7 @@ _ads.php
 ||phncdn.com/www-static/js/htmlPauseRoll/
 pornhub.com###main-container > [id] > [class]:first-child
 pornhub.com##.video-wrapper > #player + [class]
+pornhub.com##script:inject(set-constant.js, page_params.holiday_promo, true)
 	!redtube
 ||redtube.com/_status/
 redtube.com###content_container > .show_page_modals + div
@@ -1544,6 +1545,8 @@ parupunte.net##DIV[style="background-color: #F0E0D6; width: 700; text-align: lef
 ppp.atbbs.jp##td[style="width:800px;border:solid 0px #000;text-align:center;padding:5px;"]
 projectdesign.jp###base-register
 pya.cc##.netaMain__banner
+	!https://hobbyjapan.co.jp/comic/series/
+r.binb.jp###adp
 rbbtoday.com###adHeader
 rbbtoday.com###headerMiddleRight
 rbbtoday.com##.adArticleSidetile
@@ -1578,6 +1581,7 @@ tsumanne.net###rakutenac
 twitter.com##.modal-overlay
 twitter.com##.promoted-tweet
 twitter.com##.promoted-tweet-heading
+twitter.com##div:not([class]):not([style]) div:has-text(プロモーション)
 uta-net.com###banner_original
 uta-net.com###recommend
 uta-net.com###view_amazon
@@ -1675,7 +1679,7 @@ kissanime.*##+js(set-constant.js, check_adblock, true)
 animeflv.ru##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 animeflv.ru##+js(setInterval-defuser.js, (), 500)
 animeflv.ru##+js(set-constant.js, check_adblock, true)
-||animeflv.ru^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.google.com *.facebook.com *.google-analytics.com *.googleapis.com *.gstatic.com *.facebook.net *.disquscdn.com https://disqus.com *.disqus.com
+||animeflv.ru^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 
 
 !------------alphapolis------------!

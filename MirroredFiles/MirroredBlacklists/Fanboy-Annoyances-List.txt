@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gmgSIjna5oIl4bABnuS4/g
-! Version: 201907230011
+! Checksum: WLwYX4F6mBWnF2mi59vcFg
+! Version: 201907240011
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Jul 2019 00:11 UTC
+! Last modified: 24 Jul 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -648,7 +648,9 @@ _rssicon.
 _s_rss_
 _social_rss.
 _xmlrss.
+!
 ! ---------- Scroll To Top Buttons ----------
+!
 -scroll-to-top/
 .ui.totop.
 /avada-to-top.
@@ -7506,6 +7508,7 @@ _site_cookie_
 ##.gpe_movetop
 ##.gr-footer-back-top
 ##.greatwp-scroll-top
+##.gs18-GoTop
 ##.header-bottom-totop-button
 ##.hestia-scroll-to-top
 ##.hh-button-scroll-top__wrapper

@@ -3528,8 +3528,6 @@ pwvita.pl
 px.wp.pl
 pynio.pl
 pz21.pl
-qai-ir.quartic.pl
-qai.quartic.pl
 qbingoextrafestival.pl
 qbonusextrafestival.pl
 qbonuswestbetday.pl

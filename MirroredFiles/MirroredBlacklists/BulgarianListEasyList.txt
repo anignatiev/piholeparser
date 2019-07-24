@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201907222335
+! Version: 201907240006
 ! Title: EasyPrivacy
-! Last modified: 22 Jul 2019 23:35 UTC
+! Last modified: 24 Jul 2019 00:06 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8605,6 +8605,7 @@ _mongo_stats/
 ||accessi.it^$third-party
 ||avstat.it^$third-party
 ||contatoreaccessi.com^$third-party
+||cpmktg.com^$third-party
 ||cuntador.com^$third-party
 ||digital-metric.com^$third-party
 ||distribeo.com^$third-party
@@ -11815,9 +11816,9 @@ _mongo_stats/
 ||pixel.homebook.pl^
 ||ppstatic.pl^*/track.js
 ||px.wp.pl^
-||qai-ir.quartic.pl^
-||qai.quartic.pl^
-||rec.quartic.pl^
+||qai-ir.quartic.pl^$third-party
+||qai.quartic.pl^$third-party
+||rec.quartic.pl^$third-party
 ||scontent.services.tvn.pl^
 ||stats.asp24.pl^
 ||stats.media.onet.pl^
