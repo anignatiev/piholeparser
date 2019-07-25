@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WLwYX4F6mBWnF2mi59vcFg
-! Version: 201907240011
+! Checksum: CGjx8lYTZlMjwc3D+vA7Yw
+! Version: 201907250011
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 Jul 2019 00:11 UTC
+! Last modified: 25 Jul 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5356,6 +5356,7 @@ _site_cookie_
 ###newsletter-notification
 ###newsletter-overlay
 ###newsletter-panel
+###newsletter-popin
 ###newsletter-popup
 ###newsletter-popup-cont
 ###newsletter-popup-container
@@ -5756,6 +5757,7 @@ _site_cookie_
 ##.be-newsletter-widget
 ##.bg-emailshare
 ##.bg-newsletter-signup
+##.bk-newsletter
 ##.bk-section-subscribe
 ##.bk-subscribe
 ##.bk-subscribe-email
@@ -6093,6 +6095,7 @@ _site_cookie_
 ##.klaviyo_flyout
 ##.l-footer__newsletter
 ##.lien-newsletter
+##.link-newsletter
 ##.listbuilder-popup-embedded
 ##.lnk-newsletter
 ##.lon-newsletter-tout
@@ -8058,6 +8061,7 @@ _site_cookie_
 ###block-social
 ###block-social_badges-0
 ###block-social_badges-1
+###block-socialfooter
 ###block-sociallinks
 ###block-socialmedia
 ###block-socialmedialinks
@@ -30445,6 +30449,7 @@ _site_cookie_
 ##.truste_box_overlay
 ##.truste_overlay
 ##.ts_privacy_adv
+##.tsccb-banner-container
 ##.tsl-cookiebanner
 ##.tt-bsh-cookiebar
 ##.tt-cookie-bar
@@ -40106,7 +40111,7 @@ europe1.fr,lemonde.fr##.partage
 jeuxvideo.fr,jeuxvideopc.com##.pictos
 leparisien.fr##.plusRecommande
 madagascar-tribune.com##.rezo_sociaux
-autoline-eu.fr,autoline.be,autoline.lu,buzzmoica.fr,diningcity.be,ecoaustral.com,epochtimes.fr,franceinter.fr,francetvinfo.fr,gamekult.com,gettyimages.be,gettyimages.fr,la-croix.com,landrover.be,landrover.ch,landrover.fr##.share
+autoline-eu.fr,autoline.be,autoline.lu,buzzmoica.fr,diningcity.be,ecoaustral.com,epochtimes.fr,franceinter.fr,francetvinfo.fr,gamekult.com,gettyimages.be,gettyimages.fr,la-croix.com,landrover.be,landrover.ch,landrover.fr,valeursactuelles.com##.share
 rtl.fr##.shared-logo
 fracademic.com##.smm
 lepoint.fr##.snlinks
