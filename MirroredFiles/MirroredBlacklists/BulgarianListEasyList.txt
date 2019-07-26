@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201907240006
+! Version: 201907251616
 ! Title: EasyPrivacy
-! Last modified: 24 Jul 2019 00:06 UTC
+! Last modified: 25 Jul 2019 16:16 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -557,6 +557,7 @@
 /analysis-logger/*
 /analysis/ga_
 /analysis/gtm_
+/analytic-client.
 /analytic/count.
 /analytic?publisher
 /analytic_data_
@@ -5474,6 +5475,7 @@ _mongo_stats/
 ||dynatrace.com^$third-party
 ||dynatracesaas.com^$third-party
 ||dyntrk.com^$third-party
+||e-contenta.com^$third-party
 ||e-goi.com^$third-party,domain=~e-goi.com.br|~e-goi.pt
 ||e-pagerank.net^$third-party
 ||e-referrer.com^$third-party
@@ -5833,6 +5835,7 @@ _mongo_stats/
 ||hurterkranach.net^$third-party
 ||hwpub.com^$third-party
 ||hxtrack.com^$third-party
+||hybrid.ai^$third-party
 ||hyfntrak.com^$third-party
 ||hyperactivate.com^$third-party
 ||hypestat.com^$third-party
@@ -7256,11 +7259,11 @@ _mongo_stats/
 ||wildxtraffic.com^$third-party
 ||wiredminds.de^$third-party
 ||wisetrack.net^$third-party
-||wishabi.net^$third-party
 ||wishloop.com^$third-party
 ||womtp.com^$third-party
 ||woopra-ns.com^$third-party
 ||woopra.com^$third-party
+||wootric.com^$third-party
 ||worldflagcounter.com^$third-party
 ||worldlogger.com^$third-party
 ||wowanalytics.co.uk^$third-party
@@ -7992,6 +7995,7 @@ _mongo_stats/
 ||balancebreath.com^$third-party
 ||bh8yx.xyz^$third-party
 ||broaddoor.com^$third-party
+||carscannon.com^$third-party
 ||consciouscabbage.com^$third-party
 ||consciouschairs.com^$third-party
 ||coordinatedcub.com^$third-party
@@ -10668,6 +10672,7 @@ _mongo_stats/
 ||sharethis.com/pageviews?
 ||shopify.com/*/page?*&eventType=
 ||shoplocal.com/it.ashx?
+||shopnetic.com^$third-party
 ||shoprunner.com^*/record?
 ||sig.atdmt.com^
 ||sig.gamerdna.com^$third-party
@@ -11204,6 +11209,7 @@ _mongo_stats/
 ||wikinvest.com/plugin/*=metricpv
 ||wikinvest.com^*/errorlogger.php?
 ||win.staticstuff.net^
+||wishabi.net/attribution.js
 ||wn.com/count.js
 ||wondershare.es/jslibs/track.js
 ||woolik.com/__el.gif?
@@ -12999,7 +13005,6 @@ _mongo_stats/
 ||iafrica.com/php-bin/iac/readcnt.php?
 ||ibeat.indiatimes.com^
 ||iberia.com^*/ga/ga.js
-||ibm.com/analytics/
 ||ibm.com/common/stats/
 ||ibm.com/gateway/?
 ||ibs.indiatimes.com^
@@ -13319,6 +13324,7 @@ _mongo_stats/
 ||mozilla.org/includes/min/*=js_stats
 ||mp.twitch.tv^
 ||mp3lyrics.org^*/cnt.php?
+||mql5.com/tr?
 ||msecnd.net^*/wt.js?
 ||msn.com/ro.aspx?
 ||msn.com/script/tracking*.js
@@ -14454,6 +14460,7 @@ _mongo_stats/
 ||webmonkey.com/js/stats/
 ||webring.com/cgi-bin/logit?
 ||webstats.perfectworld.com^
+||webstats.thesoul-publishing.com^
 ||webyclip.com/WebyClipAnalytics.html
 ||weeklyblitz.net/tracker.js
 ||wego.com/farmer/
