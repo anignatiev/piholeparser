@@ -575,6 +575,8 @@ m.economictimes.com###appBanner,#stickyBanner
 4players.de,bento.de,brigitte.de,buffed.de,chip.de,desired.de,gamesaktuell.de,gamezone.de,gamona.de,giga.de,golem.de,kicker.de,kino.de,myspass.de,pcgames.de,pcgameshardware.de,spiegel.de,spiegel.tv,spielaffe.de,spieletipps.de,t-online.de,tele5.de,thrashermagazine.com,videogameszone.de,welt.de##+js(golem.de.js)
 ||svonm.com/www.t-online.de/config.json$xmlhttprequest,redirect=nooptext,domain=t-online.de
 ! https://github.com/uBlockOrigin/uBlock-issues/issues/630
+! https://github.com/uBlockOrigin/uAssets/issues/6002
+golem.de##+js(set-constant.js, rmp3pi, noopFunc)
 ||video.golem.de/*/scripts/radiant/homad$xhr,redirect=nooptext,domain=golem.de
 
 ! https://adblockplus.org/forum/viewtopic.php?f=10&t=45273&start=15#p156427
@@ -13817,7 +13819,8 @@ agar.pro##+js(addEventListener-defuser.js, load, onload)
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=42181
 ! https://github.com/uBlockOrigin/uAssets/issues/4202
-consoletarget.com,gamecopyworld.*##+js(abort-on-property-read.js, loadTool)
+gamecopyworld.*##+js(abort-current-inline-script.js, document.createElement, Tool)
+consoletarget.com##+js(abort-on-property-read.js, loadTool)
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/9xn570/trueachievementscom_with_adchoices_on_pc/
 ! https://www.reddit.com/r/uBlockOrigin/comments/a3t758/ublock_did_not_work_pchcom/
@@ -18624,7 +18627,11 @@ intporn.org##+js(abort-on-property-read.js, jsm_reruntime)
 
 ! https://github.com/NanoMeow/QuickReports/issues/891
 ! https://github.com/NanoMeow/QuickReports/issues/1458#issuecomment-508324990
+! https://github.com/uBlockOrigin/uAssets/issues/6001
 @@||ratemyprofessors.com/assets/libs/oas.js$script,1p
+!#if env_chromium
+ratemyprofessors.com##+js(set-constant.js, JSON.parse, trueFunc)
+!#endif
 ratemyprofessors.com##.slide.sticky-wrapper
 
 ! https://github.com/NanoMeow/QuickReports/issues/894
@@ -18782,8 +18789,10 @@ dpstream.info###clickfakeplayer
 fuckdy.com##+js(abort-on-property-read.js, Popunder)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5275
-solarmoviefree.net##+js(abort-current-inline-script.js, Math, zfgloaded)
-solarmoviefree.net##center
+! https://github.com/NanoMeow/QuickReports/issues/1572
+solarmoviefree.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+solarmoviefree.*##+js(set-constant.js, check_adblock, true)
+solarmoviefree.*##center
 
 ! spellchecker.net ad-reinsertion
 spellchecker.net##+js(abort-on-property-read.js, gPartners)
@@ -22058,6 +22067,7 @@ el3id.site,elkhbrelyoumy.com,link48.net,txtgen.bid##+js(abort-on-property-read.j
 ! https://github.com/uBlockOrigin/uAssets/issues/5958
 smwebs.xyz##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 smwebs.xyz##+js(abort-on-property-read.js, open)
+@@||smwebs.xyz^$generichide
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5959
 ceblog.me##+js(addEventListener-defuser.js, load, 2000)
@@ -22236,3 +22246,30 @@ a7hl-am.com##+js(window.open-defuser.js)
 
 ! popups protect-mylinks .com/ f?i=5512b6236217778
 protect-mylinks.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+
+! https://github.com/NanoMeow/QuickReports/issues/1570
+@@||novelgo.id^$generichide
+novelgo.id##.adsbygoogle
+
+! https://github.com/NanoMeow/QuickReports/issues/1573
+@@||myfreecourses.com^$generichide
+myfreecourses.com##.adsbygoogle
+
+! https://github.com/uBlockOrigin/uAssets/issues/6004
+knilife.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+knilife.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+knilife.com##+js(abort-on-property-write.js, open)
+knilife.com##.blog-content
+knilife.com##.banner
+||knilife.com/sw.js$script,1p
+||hecheckbabronref.info^
+
+! https://github.com/abp-filters/abp-filters-anti-cv/issues/229
+streaming-vostfr.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+streaming-vostfr.com##+js(window.open-defuser.js)
+||streaming-vostfr.com/sw.js$script,1p
+||rusinlepading.pro^
+||mancegrative.info^
+
+! https://www.reddit.com/r/uBlockOrigin/comments/ci5vky/antiadblocker_dailymailcouk/
+dailymail.co.uk#@#.adHolder

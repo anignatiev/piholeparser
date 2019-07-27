@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20190720
+! Version: 20190726
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -1321,7 +1321,6 @@
 ||m.humoruniv.com/tad_iframe.html^$domain=m.humoruniv.com
 ||m.humoruniv.com/uad_iframe.html^$domain=m.humoruniv.com
 ||m.hungryapp.co.kr/bbs/js/jquery.blockUI.js^$domain=m.hungryapp.co.kr
-||m.joyninfo.com/yna/yna_m_new.asp^$domain=m.yna.co.kr
 ||m.joyninfo.com/yna/yna_w1.asp^$domain=yna.co.kr|yonhapnews.co.kr
 ||m.joyninfo.com/yna/yna_w2.asp^$domain=yna.co.kr|yonhapnews.co.kr
 ||m.kmib.co.kr/banner/
@@ -1926,6 +1925,8 @@ aagag.com##div#c_main>div[rel="aa_content_center"]
 aagag.com##div#c_main>div[rel="list2"]
 aagag.com##div#listArr>div[rel="aalist2"]
 aagag.com##div#r_menu>div[rel="menu3"]
+accessonline.com##div.ads-wrapper
+accessonline.com##div.floating-ads
 adp.issuepoll.net##ul>li[onclick^="javascript:goAd("]
 ads1.issuepoll.co.kr##ul>li[onclick^="javascript:goAd("]
 afbbs.afreecatv.com##div#div_video_ad_banner
@@ -2240,6 +2241,9 @@ cdn.ampproject.org##div.advertisement
 cdn.ampproject.org##div.amp_view_ad
 cdn.ampproject.org##div.band_ad_middle
 cdn.ampproject.org##div.band_ad_top
+chefkoch.de##div.gujAd
+chefkoch.de##div.responsive-ad
+chefkoch.de##div.top-banner-container
 chicagotribune.com##div.trb_ar_rail_ad
 chicagotribune.com##div.trb_gptAd
 chicagotribune.com##div.trb_masthead_adBanner
@@ -3908,10 +3912,9 @@ m.news1.kr##p.ads_article2
 m.news1.kr##p.ads_article3
 m.news1.kr##p.ads_text_banner
 m.news1.kr##ul.text_ad_list
-m.newspim.com##div#container>div[style="text-align: center; width: 100%; background-color: #171310; margin-top:5px; margin-bottom: 5px"]
-m.newspim.com##div#container>header>div[style="margin-bottom: 20px;"]
-m.newspim.com##div#container>section:first-of-type>div[style="height:320px; margin-top:20px"]
-m.newspim.com##div#container>section:first-of-type>div[style="text-align: center"]
+m.newspim.com##div#container>div[style="text-align: center; margin-top:10px; margin-bottom:20px"]
+m.newspim.com##div#container>div[style="width: 300px; margin:auto"]
+m.newspim.com##div#slideshow
 m.newswave.kr##div#bottom_src
 m.newswave.kr##div#top_src
 m.newsway.co.kr##div.ad_area
@@ -4114,20 +4117,16 @@ m.yeongnam.com##ins[data-ad-slot="6066499044"]
 m.yeongnam.com##ins[data-ad-slot="9019965446"]
 m.yeongnam.com##span.c_art1>table[style="border:1px solid #dfdfdf; margin-bottom:10px; margin-right:10px;"]
 m.yna.co.kr##aside.amp-ad-container
-m.yna.co.kr##aside.section-article-add>div.section-ad
-m.yna.co.kr##button.btn-close-fixed
-m.yna.co.kr##div#change-inner
-m.yna.co.kr##div#tx_insert
-m.yna.co.kr##div.ad-Cauly-wrap
+m.yna.co.kr##aside.aside-bnr02
+m.yna.co.kr##aside.aside-box02
+m.yna.co.kr##aside.aside-box03
+m.yna.co.kr##aside.aside-box04
+m.yna.co.kr##aside.aside-box05
+m.yna.co.kr##aside.aside-box06
+m.yna.co.kr##aside.aside-text01
+m.yna.co.kr##aside.aside-text02
+m.yna.co.kr##aside.aside-text03
 m.yna.co.kr##div.amp-ad-container
-m.yna.co.kr##div.section-txt>span.article-boxad
-m.yna.co.kr##div.wrap-ticker4
-m.yna.co.kr##iframe[src^="http://m.joyninfo.com/yna/yna_m_new.asp"]
-m.yna.co.kr##section.section-ad-adtive
-m.yna.co.kr##section.section-ad-hi
-m.yna.co.kr##section.section-ad-joyinfo
-m.yna.co.kr##section.section-add
-m.yna.co.kr##section.section-add-fixbt
 m.yonhapnewstv.co.kr##div#main_banner
 m.ytn.co.kr##div.newsview_ad
 m.ytn.co.kr##div.newsview_ad_bnr
@@ -4214,6 +4213,7 @@ media.daum.net##div.aside_shopping
 media.daum.net##div.box_ad
 media.naver.com##div._da_banner
 media.naver.com##div.ad_box
+mediacategory.com##div#mobon_type01>div.main_txt_box>ul.news_img>li.mark
 mediafire.com##iframe#ads
 mediafire.com##iframe[src^="/templates/linkto/ads.php"]
 mediapen.com##div#adshow
@@ -4270,6 +4270,8 @@ mk.co.kr##div.ad_viewad_box
 mk.co.kr##div.art_txt>div[style="padding:15px 15px 15px 0; text-align:left; float:left; margin-right:5px; margin-bottom:15px;"]
 mk.co.kr##div.art_txt>div[style="text-align:center; border:0; width:100%; margin:0 auto"]
 mk.co.kr##div.bn_sec
+mk.co.kr##div.view_txt>div[style="padding:15px 15px 15px 0; text-align:left; float:left; margin-right:5px; margin-bottom:15px;"]
+mk.co.kr##div.view_txt>div[style="text-align:center; border:0; width:100%; margin:0 auto"]
 mlbpark.donga.com##div.left_cont>div[style="width:670px; margin:10px 0;background:#fff; padding:10px 20px 0 20px;overflow:hidden;border:1px solid #dbdbdb;"]
 mlbpark.donga.com##div.left_cont>div[style="width:670px; margin:10px 0;background:#fff; padding:10px 20px 0 20px;overflow:hidden;border:1px solid #dbdbdb;}"]
 mmboxru.net##div.banner
@@ -4625,7 +4627,17 @@ newscientist.com##div.article-footer-ad-container
 newscj.com##div#article-view-content-div>div[style="float:right; width:200px !important; height:200px !important; padding:0 0 15px 15px;"]
 newscj.com##div.user-snb-wrapper>div[style="margin:15px auto; width:320px;"]
 newscj.com##div[data-widget_id="GokBYvXv"]
+newsen.com##div#CLtag>div[style="float:right; width:310px; height:250px; margin:0 !important; padding:0 !important;"]
+newsen.com##div#CLtag>div[style="width:468px;margin:0 auto;"]
 newsen.com##div#ad250
+newsen.com##div#news_banner
+newsen.com##div[id^="mobonDivBanner_"]
+newsen.com##ins[data-ad-slot="2189317187"]
+newsen.com##ins[data-ad-slot="4519820470"]
+newsen.com##ins[data-ad-slot="6619516784"]
+newsen.com##ins[data-ad-slot="9712583988"]
+newsen.com##ins[data-ad-slot="9827607745"]
+newsen.com##ins[data-ad-slot="9967208540"]
 newshankuk.com##div.bannerBottomR
 newshankuk.com##div.bannerTopR
 newsis.com##div#detail1-1
