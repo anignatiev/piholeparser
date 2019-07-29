@@ -194,7 +194,7 @@ reuters.com###spacerElement
 wallstreet-online.de##+js(setTimeout-defuser.js, userHasAdblocker)
 modhoster.de,play3.de,quotenmeter.de##+js(setTimeout-defuser.js, ())return)
 modhoster.de,play3.de,quotenmeter.de##+js(setTimeout-defuser.js, )&&)
-modhoster.de,play3.de,quotenmeter.de,##+js(setTimeout-defuser.js, 0&&)
+modhoster.de,play3.de,quotenmeter.de##+js(setTimeout-defuser.js, 0&&)
 aachener-nachrichten.de,aachener-zeitung.de,fussballdaten.de##+js(abort-current-inline-script.js, Number.isNaN)
 inside-handy.de,play3.de##+js(set-constant.js, String.prototype.slice, noopFunc)
 hifi-forum.de,pff.de,meinestadt.de,modhoster.de##+js(abort-on-property-read.js, document.cookie)
@@ -219,7 +219,7 @@ gamepro.de,gamestar.de##+js(abort-on-property-write.js, uabInject)
 ! https://www.reddit.com/r/uBlockOrigin/comments/7cgb7h/pjmediacom_has_a_right_sidebar_that_is_labeled/
 ! https://github.com/uBlockOrigin/uAssets/issues/1589
 threepercenternation.com##[id*="ScriptRoot"]
-||pagead2.googlesyndication.com/pagead/$script,redirect=noopjs,domain=activistpost.com|addictinginfo.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americanewshub.com|americasfreedomfighters.com|appleeats.com|barbwire.com|bb4sp.com|bestfunnyjokes4u.com|bighealthreport.com|bigleaguepolitics.com|bizpacreview.com|boomsbeat.com|breakingfirst.com|bugout.news|bulletsfirst.net|buzzlamp.com|canadafreepress.com|celebrity-gossip.net|cheapism.com|cheatsheet.com|chicksonright.com|clashamerica.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|constitution.com|craigjames.com|creepybasement.com|cyberwar.news|dailyheadlines.net|dailysurge.com|damnlol.com|deneenborelli.com|designbump.com|directexpose.com|eaglerising.com|enstarz.com|evil.news|faithit.com|firstinfreedomdaily.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|funnyand.com|gamer4k.com|glitch.news|godfatherpolitics.com|gopocalypse.org|grammarist.com|greatamericanrepublic.com|guardianlv.com|guns.news|hackspirit.com|hautereport.com|hispolitica.com|hngn.com|icepop.com|ifyouonlynews.com|infowars.com|instigatornews.com|intellectualconservative.com|itechpost.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|knowledgedish.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyunyielding.com|lidblog.com|lifebuzz.com|madworldnews.com|millionpictures.co|moneyversed.com|musictimes.com|natural.news|naturalblaze.com|naturalsociety.com|natureworldnews.com|o4anews.com|opednews.com|patriotoutdoornews.com|pjmedia.com|politicalcowboy.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|readysethealth.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|reverbpress.com|reviveusa.com|rightwingtribune.com|rollingout.com|sciencetimes.com|shark-tank.com|shedthoselbs.com|slender.news|sonsoflibertymedia.com|sportsworldnews.com|sportsworldreport.com|stupid.news|supercheats.com|survivalnation.com|sweepstakesfanatics.com|techconsumer.com|telexplorer.com.ar|terezowens.com|thealternativedaily.com|theblacksphere.net|theboredmind.com|thedesigninspiration.com|thefreethoughtproject.com|thegatewaypundit.com|thehayride.com|thelastlineofdefense.org|thelibertydaily.com|themattwalshblog.com|thepoke.co.uk|thepolitistick.com|therealside.com|threepercenternation.com|tiebreaker.com|tosavealife.com|twisted.news|universityherald.com|vcpost.com|videogamesblogger.com|viralnova.com|visiontoamerica.com|wakingtimes.com|westernjournalism.com|worldlifestyle.com|xtribune.com|youngcons.com|youthhealthmag.com
+||pagead2.googlesyndication.com/pagead/$script,redirect=noopjs,domain=activistpost.com|addictinginfo.com|addictinginfo.org|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americanewshub.com|americasfreedomfighters.com|appleeats.com|barbwire.com|bb4sp.com|bestfunnyjokes4u.com|bighealthreport.com|bigleaguepolitics.com|bizpacreview.com|boomsbeat.com|breakingfirst.com|bugout.news|bulletsfirst.net|buzzlamp.com|canadafreepress.com|celebrity-gossip.net|cheapism.com|cheatsheet.com|chicksonright.com|clashamerica.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|conservativefiringline.com|constitution.com|craigjames.com|creepybasement.com|cyberwar.news|dailyheadlines.net|dailysurge.com|damnlol.com|deneenborelli.com|designbump.com|directexpose.com|eaglerising.com|enstarz.com|evil.news|faithit.com|firstinfreedomdaily.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|funnyand.com|gamer4k.com|glitch.news|godfatherpolitics.com|gopocalypse.org|grammarist.com|greatamericanrepublic.com|guardianlv.com|guns.news|hackspirit.com|hautereport.com|hispolitica.com|hngn.com|icepop.com|ifyouonlynews.com|infowars.com|instigatornews.com|intellectualconservative.com|itechpost.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|knowledgedish.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyunyielding.com|lidblog.com|lifebuzz.com|madworldnews.com|millionpictures.co|moneyversed.com|musictimes.com|natural.news|naturalblaze.com|naturalsociety.com|natureworldnews.com|o4anews.com|opednews.com|patriotoutdoornews.com|pjmedia.com|politicalcowboy.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|readysethealth.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|reverbpress.com|reviveusa.com|rightwingtribune.com|rollingout.com|sciencetimes.com|shark-tank.com|shedthoselbs.com|slender.news|sonsoflibertymedia.com|sportsworldnews.com|sportsworldreport.com|stupid.news|supercheats.com|survivalnation.com|sweepstakesfanatics.com|techconsumer.com|telexplorer.com.ar|terezowens.com|thealternativedaily.com|theblacksphere.net|theboredmind.com|thedesigninspiration.com|thefreethoughtproject.com|thegatewaypundit.com|thehayride.com|thelastlineofdefense.org|thelibertydaily.com|themattwalshblog.com|thepoke.co.uk|thepolitistick.com|therealside.com|threepercenternation.com|tiebreaker.com|tosavealife.com|twisted.news|universityherald.com|vcpost.com|videogamesblogger.com|viralnova.com|visiontoamerica.com|wakingtimes.com|westernjournalism.com|worldlifestyle.com|xtribune.com|youngcons.com|youthhealthmag.com
 whatfinger.com##+js(set-constant.js, oeo, noopFunc)
 @@||galaxant.com^$image,domain=viralnova.com
 @@||stackpathdns.com/static/*$script,domain=enstarz.com|itechpost.com|kdramastars.com|kpopstarz.com|musictimes.com|natureworldnews.com|realtytoday.com
@@ -1065,10 +1065,11 @@ criminalcasetools.com##+js(bab-defuser.js)
 ! https://github.com/gorhill/uBlock/issues/2172
 ! https://forums.lanik.us/viewtopic.php?f=62&t=34856
 ! https://github.com/uBlockOrigin/uAssets/issues/4159#issuecomment-511174170
+! https://github.com/NanoMeow/QuickReports/issues/1577
 vidtodo.com##+js(abort-current-inline-script.js, parseInt, tabunder)
 vidstodo.me,vidtod.me,vidtodu.com,vidtudu.com##+js(abort-on-property-write.js, _pop)
 vidto.me,vidtod.me##+js(abort-on-property-write.js, adcashMacros)
-vidstodo.me,vidto.me,vidtod.me,vidtodo.com,vidtudu.com##+js(abort-on-property-write.js, Fingerprint2)
+vidstodo.me,vidto.me,vidtod.me,vidtodo.com,vidtodu.com,vidtudu.com##+js(abort-on-property-write.js, Fingerprint2)
 vidstodo.me,vidtod.me##+js(abort-on-property-write.js, n3zz)
 vidto.me##+js(addEventListener-defuser.js, /^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/, system.popunder)
 vidtodo.com,vidtod.me,vidtodu.com,vidtudu.com##+js(nowebrtc.js)
@@ -1811,7 +1812,7 @@ vidnow.to##+js(abort-on-property-read.js, BetterJsPop)
 vshare.eu##+js(abort-on-property-read.js, BetterJsPop)
 ||vshare.eu/sw.js$script,first-party
 vshare.eu##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
-vidup.me##+js(abort-on-property-read.js, adsShowPopup)
+vidup.*##+js(abort-on-property-read.js, adsShowPopup)
 
 ! https://adblockplus.org/forum/viewtopic.php?f=1&t=53362
 hdfree.se###advPlayer
@@ -4452,10 +4453,11 @@ ur.ly##+js(popads-dummy.js)
 ur.ly##a[href^="http://ur.ly/cnt.php"]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1204
-@@||hubturkey.net/*/ads.js$script,first-party
+hubturkey.net##+js(set-constant.js, $tieE3, true)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1196
 webcheats.com.br##+js(set-constant.js, can_run_ads, true)
+webcheats.com.br##+js(setTimeout-defuser.js, test, 0)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1198
 bro.adca.st##+js(nowebrtc.js)
@@ -4479,13 +4481,6 @@ ceesty.com,clkmein.com,corneey.com,destyy.com,festyy.com,gestyy.com,sh.st,skiip.
 @@||skipp.io^$generichide
 @@||viid.me^$generichide
 ceesty.com,clkmein.com,corneey.com,destyy.com,festyy.com,gestyy.com,sh.st,skiip.me,skipp.io,viid.me##.skip-advert
-
-! https://github.com/uBlockOrigin/uAssets/issues/1193
-vidup.me##+js(abort-on-property-read.js, miner)
-vidup.me##+js(popads-dummy.js)
-$websocket,domain=vidup.me
-! https://github.com/uBlockOrigin/uAssets/issues/1620
-vidup.me^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.facebook.com *.facebook.net
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1205
 dir50.*##+js(bab-defuser.js)
@@ -4559,6 +4554,7 @@ empflix.com##.padAdvx
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1229
 hotclips24.com##+js(abort-on-property-write.js, ExoLoader)
+hotclips24.com##+js(addEventListener-defuser.js, getexoloader)
 hotclips24.com##+js(popads-dummy.js)
 hotclips24.com###playerOverlay
 
@@ -5167,6 +5163,10 @@ anibatch.id##+js(abort-on-property-read.js, anOptions)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1402
 movie4k.is##+js(abort-on-property-read.js, urlToShow)
+streamty.com##+js(abort-on-property-read.js, open)
+streamty.com##.video_adp3
+movie4k.is,onlystream.tv##+js(nowebrtc.js)
+||newtueads.com^
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=39824
 ||beinsports.com/*/adbw/
@@ -5277,6 +5277,7 @@ boxasian.com##.inside-video
 boxasian.com##.inside-video-before
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1419
+pornqd.com##+js(set-constant.js, absda, noopFunc)
 *.gif$domain=pornqd.com,image
 pornqd.com###preroll
 pornqd.com##a[href*="redirect"]
@@ -6312,6 +6313,13 @@ xmovies8.*##+js(abort-on-property-write.js, Fingerprint2)
 xmovies8.*##+js(addEventListener-defuser.js, /^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/, system.popunder)
 xmovies8.*##+js(set-constant.js, check_adblock, true)
 xmovies8.*##+js(setInterval-defuser.js, (), 500)
+||xmovies8.is/sw.js$script,1p
+||xmovies8.is/sw-vodlocker.to.js$script,1p
+! https://github.com/uBlockOrigin/uAssets/issues/4458#issuecomment-515734650
+xmovies08.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+xmovies08.org##+js(addEventListener-defuser.js, , '0x)
+||doghoust.net^$3p
+||hackesie.net^$3p
 
 ! https://forums.lanik.us/viewtopic.php?p=146916#p146916
 ! https://github.com/uBlockOrigin/uAssets/issues/811#issuecomment-480633956
@@ -6686,6 +6694,7 @@ world4ufree.to##a[href*="/redirect"]
 desiupload.in##+js(abort-on-property-write.js, encodeURIComponent)
 desiupload.in##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
 desiupload.in##+js(abort-current-inline-script.js, Math.sin, vocabulary)
+desiupload.in##+js(abort-current-inline-script, Math.tan, vocabulary)
 desiupload.in##center
 desiupload.in##[href="http://www.healthcaremanagement.info/"]
 uploadbaz.net##[href^="http://www.simpleforus.com"]
@@ -7532,7 +7541,7 @@ tfc.tv##+js(abort-on-property-write.js, adBlockDetected)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5148
 ! https://github.com/uBlockOrigin/uAssets/issues/5458
-pluspremieres.*##+js(setTimeout-defuser.js, /_0x|adb|getElementsByClassName|parentNode/)
+pluspremieres.*##+js(setTimeout-defuser.js, /0x|width|adb|getElementsByClassName|parentNode/)
 pluspremieres.*##+js(setInterval-defuser.js)
 pluspremieres.*##+js(noeval.js)
 intoupload.net##+js(nowebrtc.js)
@@ -8721,6 +8730,7 @@ gofilms4u.*,hubfiles.ws,watchvideo17.us##+js(abort-current-inline-script.js, dec
 123movies.ph##+js(abort-current-inline-script.js, decodeURI, getScriptFromCss)
 moviescounterhd.com,moviefishers.org##+js(abort-on-property-write.js, encodeURIComponent)
 fullywatchonline.com,myvidmate.*##+js(abort-current-inline-script.js, atob, decodeURIComponent)
+thevideobee.to##+js(abort-on-property-write.js, _pop)
 thevideobee.to##+js(popads-dummy.js)
 moviefishers.org,moviescouch.*,movizland.org,prozik.net##+js(abort-on-property-write.js, Fingerprint2)
 hubfiles.ws##+js(window.open-defuser.js)
@@ -9905,6 +9915,8 @@ macbed.com##.adsbygoogle
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2824
 ! https://www.reddit.com/r/uBlockOrigin/comments/9013un/ublock_blocks_the_episode_list_from_this_site/
+! https://github.com/NanoMeow/QuickReports/issues/1575
+turkanime.tv##+js(abort-current-inline-script.js, Math.round, zonefile)
 @@||turkanime.tv^$generichide
 @@||turkanime.tv/ad/$xmlhttprequest,first-party
 
@@ -10991,6 +11003,7 @@ duellinksmeta.com##+js(noeval.js)
 ||googletagmanager.com/gtag/js$script,redirect=noopjs,domain=duellinksmeta.com
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=duellinksmeta.com
 @@||duellinksmeta.com^$1p
+@@||duellinksmeta.com^$generichide
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3202
 $popunder,domain=ah.pe
@@ -11432,15 +11445,6 @@ newswatan.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 ! sawlive.tv popups
 sawlive.tv##+js(abort-on-property-write.js, Fingerprint2)
 sawlive.tv##+js(window.open-defuser.js)
-
-! https://github.com/uBlockOrigin/uAssets/issues/3366
-! https://github.com/uBlockOrigin/uAssets/issues/3774
-vidup.*##+js(abort-on-property-read.js, __INITIAL_STATE__.ads.pops)
-vidup.*##+js(addEventListener-defuser.js, /^(click|mousedown)$/, ||)
-vidup.*##+js(window.open-defuser.js)
-||popunders.bid^$3p
-@@||vidup.*^$generichide
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=vidup.io
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/9bk0es
 converto.io##+js(abort-current-inline-script.js, atob, decodeURIComponent)
@@ -14213,6 +14217,7 @@ mywatchseries.*##+js(nowebrtc.js)
 mywatchseries.*##+js(abort-on-property-write.js, Fingerprint2)
 ||d19f0dp1dh77jq.cloudfront.net^
 ||viral782.com^$script,third-party
+||mywatchseries.stream/sw.js$script,1p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4217
 ! https://www.reddit.com/r/uBlockOrigin/comments/a5qcmw/ubo_is_allowing_ads_and_popups_through/
@@ -14770,8 +14775,14 @@ freepremium4all.com##+js(set-constant.js, $tieE3, true)
 yesmovies.*##+js(abort-on-property-read.js, AaDetector)
 yesmovies.*##+js(abort-on-property-write.js, Fingerprint2)
 yesmovies.*##+js(abort-current-inline-script.js, Math, zfgloaded)
-yesmovies.gg##+js(abort-on-property-read.js, Date.prototype.toUTCString)
-yesmovies.cloud##+js(abort-on-property-read.js, zfgloadedpopup)
+yesmovies.*##+js(abort-on-property-read.js, Date.prototype.toUTCString)
+yesmovies.*##+js(abort-on-property-read.js, zfgloadedpopup)
+rainierland.is,xmovies8.is,yesmovies.*##+js(nowebrtc.js)
+||jussithepherhers.info^
+||yesmovies.*/sw$script,1p
+||rainierland.is/sw.js$script,1p
+||flixtor.life/sw.js$script,1p
+/sw-vodlocker.to.js$script
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2031#issuecomment-447593153
 solarmovie.*##+js(abort-current-inline-script.js, Math, zfgloaded)
@@ -14798,12 +14809,14 @@ overlordfree.web.id##+js(set-constant.js, showAds, true)
 @@||korenlovers.us^$generichide
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4326
+hindilinks4u.to##+js(abort-current-inline-script.js, Math, zfgloaded)
 hindilinks4u.to##+js(abort-on-property-write.js, Fingerprint2)
 hindilinks4u.to##+js(nowebrtc.js)
+hindilinks4u.to##+js(popads-dummy.js)
 *$xmlhttprequest,domain=mycoolmoviez.mobi,third-party
 ||mycoolmoviez.mobi/sw.js
 mycoolmoviez.mobi##a[href^="http://azmobilestore.co/"]
-mycoolmoviez.mobi##[href="javascript:void(0);"]
+mycoolmoviez.*##[href="javascript:void(0);"]
 moviespur.com##+js(abort-on-property-read.js, Date.prototype.toUTCString)
 freeload.co##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 zeefiles.*##+js(remove-attr.js, onclick, [onclick^="window.open"])
@@ -14815,6 +14828,8 @@ todaypkfree.com##[href^="/watchfree.php"]
 worldfree2u.com##+js(abort-on-property-read.js, Date.prototype.toUTCString)
 movie25com.com,movie2kfree.com,movie2khd.org,xmovies8net.org##+js(abort-on-property-write.js, Fingerprint2)
 moviezxo.com##+js(abort-on-property-read.js, decodeURIComponent)
+moviespur.org##+js(abort-current-inline-script.js, Math.sin, vocabulary)
+mycoolmoviez.xyz##+js(nowebrtc.js)
 ||kaunairu.net^
 ##a[href^="https://downloadplayer.xyz/"]
 mycoolmoviez.com##+js(abort-current-inline-script.js, atob, decodeURIComponent)
@@ -17708,7 +17723,9 @@ z2i.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 z2i.com##+js(abort-on-property-write.js, _pop)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5019
+! https://github.com/NanoMeow/QuickReports/issues/1579
 turkdown.com##+js(abort-on-property-read.js, AaDetector)
+@@||cbox.turkdown.com/*/advertisement.js$script,1p
 ||parentelement.cf^$3p
 
 ! https://github.com/NanoMeow/QuickReports/issues/726
@@ -17758,7 +17775,7 @@ urlgalleries.net##+js(bab-defuser.js)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5029
 watchputlocker.net##+js(window.open-defuser.js)
-watchputlocker.net,xmovies08.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+watchputlocker.net##+js(abort-current-inline-script.js, Math, zfgloaded)
 ||asiatravel2017.com/ads
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/30290
@@ -19488,9 +19505,8 @@ vw-page.com##+js(set-constant.js, $easyadvtblock, false)
 sek-einsatz.de##+js(set-constant.js, $tieE3, true)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5399
-! https://github.com/NanoMeow/QuickReports/issues/1062
 ! https://github.com/NanoMeow/QuickReports/issues/1500
-mediaite.com##+js(set-constant.js, AM.Master.prototype.detectAdBlocker, trueFunc)
+@@||mediaite.com^$script,1p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5405
 dump.xxx##+js(abort-on-property-read.js, ExoLoader.serve)
@@ -20716,7 +20732,9 @@ variety.com##+js(abort-on-property-read.js, pmc_admanager.show_interrupt_ads)
 @@||janjua.*^$generichide
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5652
-cmovieshd.bz##+js(abort-current-inline-script.js, Math, zfgloaded)
+cmovieshd.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+cmovieshd.*##+js(nowebrtc.js)
+||cmovieshd.*/sw$script,1p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5653
 punjabimoviesonline.org##+js(abort-current-inline-script.js, Math, zfgloaded)
@@ -21070,6 +21088,7 @@ deltabit.co##+js(abort-on-property-read.js, popjs)
 ! https://github.com/uBlockOrigin/uAssets/issues/5723
 watchseries.video##+js(abort-current-inline-script.js, Math, zfgloaded)
 watchseries.video##+js(abort-on-property-write.js, Fingerprint2)
+||watchseries.video/sw.js$script,1p
 ||hosoojat.net^
 
 ! https://github.com/NanoMeow/QuickReports/issues/1322
@@ -22256,16 +22275,19 @@ novelgo.id##.adsbygoogle
 myfreecourses.com##.adsbygoogle
 
 ! https://github.com/uBlockOrigin/uAssets/issues/6004
-knilife.com##+js(abort-current-inline-script.js, Math, zfgloaded)
-knilife.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-knilife.com##+js(abort-on-property-write.js, open)
-knilife.com##.blog-content
-knilife.com##.banner
+knilife.com,tenttom.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+knilife.com,tenttom.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+knilife.com,tenttom.com##+js(abort-on-property-write.js, open)
+knilife.com,tenttom.com##.blog-content
+knilife.com,tenttom.com##.banner
 ||knilife.com/sw.js$script,1p
+||tenttom.com/sw.js$script,1p
 ||hecheckbabronref.info^
+||nsevermatold.info^$3p
 
 ! https://github.com/abp-filters/abp-filters-anti-cv/issues/229
 streaming-vostfr.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+streaming-vostfr.com##+js(abort-on-property-write.js, Fingerprint2)
 streaming-vostfr.com##+js(window.open-defuser.js)
 ||streaming-vostfr.com/sw.js$script,1p
 ||rusinlepading.pro^
@@ -22273,3 +22295,64 @@ streaming-vostfr.com##+js(window.open-defuser.js)
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/ci5vky/antiadblocker_dailymailcouk/
 dailymail.co.uk#@#.adHolder
+
+! cscscholarships.net anti adb
+@@||cscscholarships.net^$generichide
+cscscholarships.net##.adsbygoogle
+
+! filmandseries.com anti adb
+filmandseries.com##+js(setTimeout-defuser.js, _0x)
+
+! https://github.com/NanoMeow/QuickReports/issues/1576
+lyricsongation.com##+js(bab-defuser.js)
+
+! https://github.com/NanoMeow/QuickReports/issues/1578
+@@||finalboss.io^$generichide
+finalboss.io##.adsbygoogle
+
+! https://github.com/uBlockOrigin/uAssets/issues/5140#issuecomment-515653809
+vev.*,vidop.*,vidup.*##+js(addEventListener-defuser.js, /^(?:click|mousedown|mouseup)$/, di())
+vev.*,vidop.*,vidup.*##+js(set-constant, console.clear, trueFunc)
+@@||vev.*^$generichide
+@@||vidop.*^$generichide
+@@||vidup.*^$generichide
+*$frame,3p,domain=vev.io|vev.red|vidop.icu|vidup.io
+||vev.*/sw.js$script,1p
+||vidop.*/sw.js$script,1p
+||vidup.*/sw.js$script,1p
+||popunders.bid^$3p
+
+! https://github.com/uBlockOrigin/uAssets/issues/5739#issuecomment-515682069
+youtube.com##ytd-promoted-sparkles-web-renderer
+
+! https://github.com/uBlockOrigin/uAssets/issues/6005
+shareappscrack.com##+js(abort-on-property-read.js, canRunAds)
+
+! https://github.com/uBlockOrigin/uAssets/issues/6007
+@@||okanime.com/ads.js$script,1p
+okanime.com##+js(nowebrtc.js)
+okanime.com##+js(window.open-defuser.js)
+
+! https://github.com/uBlockOrigin/uAssets/issues/6009
+besthugecocks.com##+js(abort-on-property-read.js, document.dispatchEvent)
+
+! https://github.com/NanoMeow/QuickReports/issues/1582
+pipocamoderna.com.br##+js(abort-on-property-write.js, adBlockDetected)
+
+! https://www.reddit.com/r/uBlockOrigin/comments/cirjrx/how_to_block_popup_and_redirect_from_site/
+streamloverx.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+
+! https://github.com/uBlockOrigin/uAssets/issues/6010
+3movierulz.com##+js(abort-current-inline-script.js, Math, zfgloaded)
+
+! https://github.com/uBlockOrigin/uAssets/issues/6011
+watchmovie.io##+js(abort-current-inline-script.js, Math, zfgloaded)
+
+! https://github.com/uBlockOrigin/uAssets/issues/6012
+watchmovies.*##+js(abort-current-inline-script.js, Math, zfgloaded)
+
+! https://github.com/jspenguin2017/uBlockProtector/issues/1073
+textograto.com##+js(setTimeout-defuser.js)
+
+! https://github.com/NanoMeow/QuickReports/issues/1591
+mundodonghua.com##+js(set-constant.js, loadingAds, true)

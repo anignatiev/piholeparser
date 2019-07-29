@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fEv9aEqgpiYZtIbRuemD3g
-! Version: 201907260011
+! Checksum: UDic9DZ4VHIp7oYmeSEh8A
+! Version: 201907290011
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Jul 2019 00:11 UTC
+! Last modified: 29 Jul 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -35564,6 +35564,7 @@ beverlyhillsmagazine.com,pqube.co.uk###text-8
 beverlyhillsmagazine.com,theplaylist.net###text-9
 azcapitoltimes.com###text-html-widget-17
 thefiscaltimes.com###tft-subscription-inline-block
+theintercept.com###third-party--viewport-takeover
 filmaffinity.com###top-anch
 zcomm.org###topbar
 news-medical.net###topic-notification-signup-box
@@ -38489,6 +38490,7 @@ pli-petronas.com,swatch.com##.reveal-modal-bg
 marsh.com##.reveal-modal-bg-white
 islamicfinder.org##.reveal-overlay
 ricola.com##.ricola-cookie-info
+totalserversolutions.com##.rplm-alert
 jeffs.com,scandinaviansoul.com##.rstboxes
 reddit.com##.s1pfx7qz-2
 welcometothejungle.co##.s1u7oiza-0

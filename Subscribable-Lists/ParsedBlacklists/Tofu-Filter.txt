@@ -7,7 +7,6 @@ adcdn.goo.ne.jp
 adm.shinobi.jp
 adqy6rzwcs.com
 adserver-apne.tidaltv.com
-aff.jskyservices.com
 aimg.fc2.com
 analysis1.sbs-blog.com
 analytics.cocolog-nifty.com
@@ -69,7 +68,6 @@ omt.shinobi.jp
 ov.yahoo.co.jp
 pagead2.googlesyndication.com
 pixel.wp.com
-pop-ad.link
 pvcnt.okwave.jp
 pzd.rakuten.co.jp
 rd.rakuten.co.jp
