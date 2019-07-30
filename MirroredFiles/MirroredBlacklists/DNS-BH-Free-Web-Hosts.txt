@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: MCkW2pNig2P/r2XEhkJLsA
-! Version: 201907260010
+! Checksum: qtiCP+l+G8jiasalFrfbaQ
+! Version: 201907300010
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -34,6 +34,7 @@
 .net.ar/ads/
 .org.eg/ads/
 .ps/adds/
+.ps/ads/
 /%d8%a5%d8%b9%d9%84%d8%a7%d9%86-
 /%D8%A7%D8%B9%D9%84%D8%A7%D9%86-
 /%D8%A7%D8%B9%D9%84%D8%A7%D9%86.
@@ -123,6 +124,7 @@
 /ScriptAds.
 /show_i.php?b=$subdocument,third-party
 /side-adds-
+/side-ads|
 /slider.*&pub=
 /tabliq/banner/*
 /ufxaffiliates.js
@@ -267,6 +269,9 @@ _New_Ads.
 ##.fixedMpu
 ##.header_add
 ##.hidden_pub
+##.homepage_ad_half
+##.homepage_ad_lower_leaderboard
+##.homepage_ads_topspot
 ##.i3lan
 ##.la-ads-a-wide
 ##.la-ads-b-rec
@@ -393,6 +398,7 @@ _New_Ads.
 ||ilovemobi.com^$third-party
 ||kaprila.com^$third-party
 ||kimia.es^$third-party
+||mpi.ps^$third-party
 ||ornaki.com^$third-party
 ||popupplus.ir^$third-party
 ||postquare.com^$third-party
@@ -1125,6 +1131,9 @@ $popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|arabincest
 ||adv.mmnon.com^
 ||advs.akhbarelyom.com/Images/adwekala.swf
 ||advs.akhbarelyom.com/OutDoor/Images/aclk.gif
+||afedmag.com/uploaded/images/banner-
+||afedmag.com/uploaded/images/MiddleImage_11b9c0bc-3bf1-40d4-8b2e-54ead7333563_.jpg
+||afedmag.com/web/banner/
 ||aff.kooora.com/images/aff_
 ||afriqa-sat.com/vb/images/library.gif
 ||agadir24.info/flash.swf
@@ -1167,6 +1176,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|arabincest
 ||algerianhome.com/mountada/adv/
 ||algomhuria.net.eg^*/adv/
 ||aliahmedali.com/almohasben.js
+||aliqtisadi.ps^*/nbc_banner/
 ||aljazairalyoum.com/ooredoo/
 ||aljazairalyoum.com/wp-content/uploads/2017/05/ngaous1.jpg
 ||alkhabar.tv/pub/
@@ -1183,6 +1193,11 @@ $popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|arabincest
 ||almountakhab.com^*/img/pub/
 ||almstba.com/Pic/Alexa.gif
 ||alnaddy.com^*.php?$popup
+||alnafiza.ps/img/0lWTq.jpg
+||alnafiza.ps/img/DOqDi.jpg
+||alnafiza.ps/img/gn6l4.jpg
+||alnafiza.ps/img/TOtNV.png
+||alnafiza.ps/img/X3R4c.jpg
 ||alnda.com/13.gif
 ||alquds.co.uk/fx1.htm
 ||alquds.co.uk/fx2.htm
@@ -1311,6 +1326,8 @@ $popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|arabincest
 ||dotmsr.com/images/pod320x100.jpg
 ||dramacafe.tv/dramacafe.js
 ||dreambox-tunisie.com/vb/500.gif
+||dzair-tube.com/wp-content/uploads/2019/07/DT.gif
+||dzair-tube.com/wp-content/uploads/2019/07/sss.gif
 ||dzairfoot.tv/wp-content/uploads/2018/05/32508759_10216321451693362_3637876070381780992_n.gif
 ||dzayerinfo.com/ar/wp-content/uploads/*/AvaTrade.jpg
 ||dzayerinfo.com/ar/wp-content/uploads/*/publ.jpg
@@ -1875,7 +1892,7 @@ souq.com##.ad1
 souq.com##.ad2
 egy4up.net,gornalak.com##.ad_left
 egy4up.net,gornalak.com##.ad_right
-arabictorrent.net,bein-koora.net,cima4u.tv,informatique-phone.com,mrabuali.com,nilemotors.net,proteachin.com##.ads
+alnafiza.ps,arabictorrent.net,bein-koora.net,cima4u.tv,informatique-phone.com,mrabuali.com,nilemotors.net,proteachin.com##.ads
 arab-eng.org##.adsensarab2
 linkat-online.com##.adss_left
 ahram.org.eg,ashwagi.com,fll2.com,mobdi3ine.net,op-arab.com,shofha.com,silkroad4arab.com,swarih.com,y4yy.com,yallabina.com##.adv
@@ -1892,8 +1909,9 @@ bokra.net##.aside-banner
 marocannonces.com##.baner
 games-flash.be##.bann
 3-tp.com,ta7a.com##.bannbox
-7chaterz.com,akhbarona.com,alayam.com,alwafd.news,alwafd.org,app-6taat.com,arabchaterz.com,darendeal.com,ounousa.com##.banner
+7chaterz.com,akhbarona.com,alayam.com,alwafd.news,alwafd.org,app-6taat.com,arabchaterz.com,darendeal.com,ounousa.com,shasha.ps##.banner
 mediamasr.tv##.banner-area
+wattan.tv##.banner-box
 bokra.net##.banner-desktop
 makkahnews.net##.banner-home
 aljazeerasport.tv##.banner-leaderboard
@@ -1974,6 +1992,7 @@ dardarkom.com##.notbar
 masr140.com##.om_ad
 chat-alriyadh.com##.paner
 tech-wd.com##.partners
+wattan.tv##.popup-banner
 hao123.com##.pr
 aljazair1.com##.pub
 hawaaweb.com##.right-banner
@@ -2015,6 +2034,7 @@ bokra.net##.twoBanners
 almountakhab.com##.wallpaper-link
 ylla.net##.warpbun
 akhbarelyom.com##.widget div[style$=";top: 100px;width: 120px;"]
+shasha.ps##.widget-banner
 dzjobs.net##.wiki
 arabia.com##.ykaleader
 dreambox-tunisie.com##.yourcolor-main
@@ -2038,7 +2058,7 @@ dzayerinfo.com,masrawysat.com##a > img[width="728"][height="90"]
 m-4u.net##a[class^="hcne_ads"]
 ibda3gate.com##a[href*="/Direct Link.html"]
 ckfu.org##a[href*="/ads.php?"]
-arabseed.co,arabseed.com,arabseed.tv,arbcinema.com,ce4arab.com,edlibre.com##a[href*="://bit.ly/"]
+arabseed.co,arabseed.com,arabseed.tv,arbcinema.com,ce4arab.com,edlibre.com,wattan.tv##a[href*="://bit.ly/"]
 202020.net,algareda.com,arabseed.co,arabseed.com,arabseed.tv,cima4u.tv,sawasport.com##a[href*="://goo.gl/"]
 lakii.com##a[href*="ads-redirect.php?i="]
 egyfitness.com##a[href*="leadpages.co"]
@@ -2192,7 +2212,7 @@ badrsat.com##img[width="620"][height="300"]
 silkroad4arab.com##img[width="625"]
 jo-sharing.com##img[width="700"][height="120"]
 silkroad4arab.com##img[width="720"]
-202020.net,alamelarab.com,arablionz.online,arabseed.co,arabseed.com,arabseed.tv,foxpic.com,mye.gy,myegy.cc,myegy.tv,myegy.xyz,novriko.com,zi-m.com##img[width="728"][height="90"]
+202020.net,alamelarab.com,arablionz.online,arabseed.co,arabseed.com,arabseed.tv,dzair-tube.com,foxpic.com,mye.gy,myegy.cc,myegy.tv,myegy.xyz,novriko.com,zi-m.com##img[width="728"][height="90"]
 chtoukapress.com##img[width="728px"][height="100px"]
 qatarshares.com##img[width="804"][height="80"]
 ech-chaab.net##img[width="820"][height="159"]

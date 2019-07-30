@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 8971
+! Version: 8984
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1339,6 +1339,7 @@
 ||dgowzelhoaqqb.com^
 ||dgqktjmxtlp.com^
 ||dgrvnlhz.com^
+||dgtnoyoud.com^
 ||dgucunmuibx.com^
 ||dgufzszbsk.bid^
 ||dgulomuzgkyjhe.bid^
@@ -1638,6 +1639,7 @@
 ||easmdmxps.com^
 ||easnviytengk.com^
 ||easygatepr.bid^
+||eatxurmf.com^
 ||eayyegrkujxcw.com^
 ||ebbhjxspf.com^
 ||ebbldazyvt.com^
@@ -3946,6 +3948,7 @@
 ||jrikmexrknmxy.com^
 ||jrlnmyorquny.bid^
 ||jrlsithadutpm.com^
+||jroxkqhin.com^
 ||jrrekpskc.com^
 ||jrrmwjybfaztct.com^
 ||jrtawlpbusyg.com^
@@ -4288,6 +4291,7 @@
 ||kpgjogkbwjpmz.com^
 ||kpjrmmfrxbrw.com^
 ||kplzvizvsqrh.com^
+||kpmsziomojkuv.com^
 ||kpoplhjnhlagy.com^
 ||kprbvmfb.com^
 ||kprkrbatuob.com^
@@ -4309,6 +4313,7 @@
 ||kquthdppub.com^
 ||kqvpjbau.com^
 ||kqyckxlnll.bid^
+||kraruzatefci.com^
 ||krdvzahyr.com^
 ||krezqajxv.bid^
 ||krfbhbhal.com^
@@ -4969,6 +4974,7 @@
 ||megpacokjce.bid^
 ||meguanha.com^
 ||mehcpazsnzh.com^
+||meinlnim.com^
 ||mekmrcgtmuvv.bid^
 ||melfljypjydxta.com^
 ||melqdjqiekcv.com^
@@ -6155,6 +6161,7 @@
 ||phskaieua.com^
 ||phxwwaznm.club^
 ||phyhggbk.com^
+||phywyzpugswttb.com^
 ||pibizrfgsrkji.bid^
 ||pidbbdxixp.com^
 ||pifaojvaiofw.com^
@@ -6504,6 +6511,7 @@
 ||qefjdsfny.bid^
 ||qefyaspzyhcb.com^
 ||qegndwekwc.com^
+||qeivncvk.com^
 ||qekmxaimxkok.com^
 ||qenprsuoashu.com^
 ||qeobhjit.com^
@@ -6754,6 +6762,7 @@
 ||qtczaglj.bid^
 ||qteoslcm.bid^
 ||qtgarolvaigptk.com^
+||qtiyntsp.com^
 ||qtjxalkllc.com^
 ||qtkluwmebrtbrt.com^
 ||qtsyxyakun.com^
@@ -7213,6 +7222,7 @@
 ||rwgvulisul.com^
 ||rwkxvess.com^
 ||rwlzbswwmmh.com^
+||rwmttawspapqcy.com^
 ||rwphwhdoktfq.com^
 ||rwtvvdspsbll.com^
 ||rwugdvqdpxfz.com^
@@ -8305,6 +8315,7 @@
 ||uwkwhedvie.com^
 ||uwxldrvqyk.com^
 ||uxkkltrrxlowzo.com^
+||uxzbsinjyld.com^
 ||uydeapvmmlvdp.com^
 ||uyeluxauiq.com^
 ||uymxsbbh.com^
@@ -8499,6 +8510,7 @@
 ||wfzpkmduyvx.com^
 ||wfzvjbdicihe.com^
 ||wgaycnmfz.com^
+||wghmgbjpxmlxa.com^
 ||wglbucuhxxxj.com^
 ||whgvyswets.com^
 ||whjibbprhng.com^
@@ -8655,6 +8667,7 @@
 ||xnrjtqmud.com^
 ||xnwqhydt.com^
 ||xnydasvpdqn.com^
+||xnyiljkfdwgu.com^
 ||xocecytufu.com^
 ||xoekgcscpnipb.com^
 ||xoqkhbtpnzblh.com^

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ySbuujmb/EvURLARlL0wCA
-! Version: 201907250010
+! Checksum: 5uOPpSZ5HFVjLE3rp9QY+Q
+! Version: 201907300020
 ! Title: RU AdList: Counters
-! Last modified: 25 Jul 2019 00:10 UTC
+! Last modified: 30 Jul 2019 00:20 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -677,6 +677,7 @@ _pagespeed_beacon?
 ||ucounter.ucoz.net^
 ||ukr.net/track.js?
 ||ukrnationalism.org.ua/get/img.cgi?n=
+||ulogin-stats.ru^$third-party
 ||ulogin.ru^*stats.
 ||ulogix.ru^$third-party
 ||uptime.ru^$third-party
