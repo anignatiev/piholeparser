@@ -1286,7 +1286,7 @@ quora.com##:xpath(//div[not(@class="ui_qtext_para") and contains(text(), 'Quora'
 quora.com##.FeedStory.feed_item > div > div:has-text(/by Quora for Business/i)
 quora.com##.Toggle.SimpleToggle.ToggleAnswerFooterWrapper > div:has-text(/Promoted/i)
 quora.com##:xpath(//span[contains(text(), 'by')]/ancestor::*[contains(concat(' ', @class, ' '), ' external_link ')]/../../..)
-quora.com##:xpath(//*[(text()='d')]/../../../../..)
+quora.com##:xpath(//p[(text()='d')]/../../../../..)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/291
 ! https://github.com/uBlockOrigin/uAssets/issues/831
@@ -3073,7 +3073,7 @@ adyou.co###bannerUrl
 
 ! https://github.com/uBlockOrigin/uAssets/issues/883
 ! AdFly
-activeation.com,activetect.net,adf.ly,atabencot.net,atomcurve.com,atominik.com,auto-login-xxx.com,ay.gy,babblecase.com,baymaleti.net,bitigee.com,bluenik.com,brightvar.bid,briskgram.net,brisktopia.com,casualient.com,cinebo.net,clearload.bid,coginator.com,cogismith.com,dl.android-zone.org,dl.underclassblog.com,dataurbia.com,download.replaymod.com,gloyah.net,go.awanpc.me,j.gs,kaitect.com,kializer.com,kibuilder.com,kimechanic.com,microify.com,mmoity.com,picocurl.com,pintient.com,q.gs,quainator.com,quamiller.com,queuecosm.bid,rd.consoletarget.com,riffhold.com,simizer.com,skamaker.com,skamason.com,sostieni.ilwebmaster21.com,special.picons.eu,swiftviz.net,thouth.net,threadsphere.bid,tinyical.com,tinyium.com,twineer.com,uclaut.net,viahold.com,vializer.com,viwright.com,yabuilder.com,yamechanic.com,yoalizer.com,yobuilder.com,yoineer.com,yoitect.com,zo.ee##+js(adfly-defuser.js)
+activeation.com,activetect.net,adf.ly,atabencot.net,atomcurve.com,atominik.com,auto-login-xxx.com,ay.gy,babblecase.com,baymaleti.net,bitigee.com,bluenik.com,brightvar.bid,briskgram.net,brisktopia.com,casualient.com,cinebo.net,clearload.bid,coginator.com,cogismith.com,dl.android-zone.org,dl.underclassblog.com,dataurbia.com,download.replaymod.com,gloyah.net,go.awanpc.me,j.gs,kaitect.com,kializer.com,kibuilder.com,kimechanic.com,microify.com,mmoity.com,picocurl.com,pintient.com,q.gs,quainator.com,quamiller.com,queuecosm.bid,rd.consoletarget.com,riffhold.com,simizer.com,skamaker.com,skamason.com,sostieni.ilwebmaster21.com,special.picons.eu,swiftviz.net,thouth.net,threadsphere.bid,tinyical.com,tinyium.com,twineer.com,uclaut.net,viahold.com,vializer.com,viwright.com,xterca.net,yabuilder.com,yamechanic.com,yoalizer.com,yobuilder.com,yoineer.com,yoitect.com,zo.ee##+js(adfly-defuser.js)
 ! https://github.com/uBlockOrigin/uAssets/issues/1009#issuecomment-352160776
 ! https://github.com/jspenguin2017/uBlockProtector/issues/791
 ! https://github.com/jspenguin2017/uBlockProtector/issues/792
@@ -6169,6 +6169,8 @@ animeflv.ru##+js(setInterval-defuser.js, (), 500)
 @@||animeflv.ru/assets/vast/videojs$script,first-party
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=animeflv.ru
 animeflv.ru##+js(set-constant.js, check_adblock, true)
+! https://github.com/uBlockOrigin/uAssets/issues/1953#issuecomment-516219786
+@@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*$script,css,domain=embed.streamx.live
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1690
 jkanime.net##+js(abort-on-property-write.js, adcashMacros)
@@ -16083,7 +16085,7 @@ sehtkmhma.com##.adsbygoogle
 ! https://github.com/uBlockOrigin/uAssets/issues/4605
 ! https://github.com/uBlockOrigin/uAssets/issues/4607
 ! https://github.com/uBlockOrigin/uAssets/issues/4609
-givelinks.win,i-nfo-treasure.com,link-rise.net,lutmoney.com,olxfy.com,shirty.fun,short-adz.com,shrink.vip,tatkalincome.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+givelinks.win,i-nfo-treasure.com,link-rise.net,lutmoney.com,olxfy.com,shirty.fun,short-adz.com,shrink.*,tatkalincome.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4595
 egyshort.info##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
@@ -22357,7 +22359,16 @@ textograto.com##+js(setTimeout-defuser.js)
 mundodonghua.com##+js(set-constant.js, loadingAds, true)
 
 ! https://github.com/jspenguin2017/uBlockProtector/issues/1074
-onlystream.tv##+js(set-constant.js, xRds, false)
+! https://github.com/NanoMeow/QuickReports/issues/1595
+@@||onlystream.tv/js/pop.js$script,1p
 
 ! https://forums.lanik.us/viewtopic.php?f=103&t=43326
 rainanime.net##+js(abort-on-property-read.js, loadRunative)
+
+! https://github.com/uBlockOrigin/uAssets/issues/6022
+shrink.*##+js(nowebrtc.js)
+shrink.*##+js(set-constant.js, blurred, false)
+@@||shrink.*^$generichide
+
+! https://github.com/uBlockOrigin/uAssets/issues/6021
+||watson.de/js/tisoomi.js$script,1p
