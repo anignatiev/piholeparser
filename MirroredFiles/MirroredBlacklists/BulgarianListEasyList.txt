@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201908012356
+! Version: 201908030019
 ! Title: EasyPrivacy
-! Last modified: 01 Aug 2019 23:56 UTC
+! Last modified: 03 Aug 2019 00:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -90,6 +90,7 @@
 -stats/imr.
 -stats/metrica.
 -track-ati.
+-track-inview.
 -tracker-geoip.
 -tracking-pixel.
 -tracking.gtm.
@@ -660,6 +661,7 @@
 /analytics/track.
 /analytics/track/*
 /analytics/track?
+/analytics/track_
 /analytics/tracker.
 /analytics/trackers?
 /Analytics/Tracking.
@@ -797,6 +799,7 @@
 /audsci.js
 /autotag.
 /autotrack.carbon.js
+/autotrack.custom.min.js
 /autotrack.js
 /AutoTracker.js
 /aux/collect?
@@ -4964,6 +4967,7 @@ _mongo_stats/
 ||amavalet.com^$third-party
 ||amazingcounters.com^$third-party
 ||ambercrow.com^$third-party
+||ambienetics.com^$third-party
 ||amctp.net^$third-party
 ||amikay.com^$third-party
 ||amilliamilli.com^$third-party
@@ -6771,7 +6775,6 @@ _mongo_stats/
 ||smartocto.com^$third-party
 ||smartology.co^$third-party
 ||smartracker.net^$third-party
-||smartsuppchat.com^$third-party
 ||smartzonessva.com^$third-party
 ||smct.co^$third-party
 ||smfsvc.com^$third-party
@@ -8082,6 +8085,7 @@ _mongo_stats/
 ||adtriba.com^$third-party
 ||adzoe.de^$third-party
 ||amunx.de^$third-party
+||analysis.fi^$third-party
 ||analytics.rechtslupe.org^
 ||andyhoppe.com^$third-party
 ||anormal-tracker.de^$third-party
@@ -8300,6 +8304,7 @@ _mongo_stats/
 ||ranking-links.de^$third-party
 ||rankings24.de^$third-party
 ||ranklink.de^$third-party
+||rawr.at^$third-party
 ||redretarget.com^$third-party
 ||refinedads.com^$third-party
 ||research.de.com^$third-party
@@ -8353,6 +8358,7 @@ _mongo_stats/
 ||trendcounter.de^$third-party
 ||trkme.net^$third-party
 ||txt.eu^$third-party
+||uniconsent.com^$third-party
 ||universaltrackingcontainer.com^$third-party
 ||up-rank.com^$third-party
 ||urstats.de^$third-party
@@ -9784,6 +9790,7 @@ _mongo_stats/
 ||datacollect*.abtasty.com^$third-party
 ||datam8.co.nz^$third-party
 ||daumcdn.net/tiara/
+||daxab.com/logger/
 ||daylogs.com/counter/
 ||dc8na2hxrj29i.cloudfront.net^
 ||dc8xl0ndzn2cb.cloudfront.net^
@@ -11740,6 +11747,7 @@ _mongo_stats/
 ||quinet.it/counter/
 ||rcsmetrics.it^
 ||rd.alice.it^
+||sem.triboomedia.it^
 ||sembox.it/js/sembox-tracking.js
 ||shinystat.lvlar.com^
 ||stat.acca.it^
@@ -15518,7 +15526,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||yahoo.co.jp/s?s=
 ||yjtag.yahoo.co.jp^
 ! Korean
-||211.106.66.62^*/statistics/$domain=yonhapnews.co.kr
 ||chosun.com/hitlog/
 ||count.munhwa.com^
 ||gather.hankyung.com^
@@ -16921,12 +16928,13 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||imrworldwide.com/novms/*/ggcm*.js$domain=la7.it|sky.it|video.corriere.it
 @@||imrworldwide.com/v60.js$domain=corriereadriatico.it|fanpage.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|leggo.it|quotidianodipuglia.it
-@@||kataweb.it/wt/wt.js?http$domain=video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it
+@@||kataweb.it/wt/wt.js?http$domain=gelocal.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it
 @@||omtrdc.net^*/mbox/json?$xmlhttprequest,domain=vodafone.it
 @@||paginegialle.it/js/shinystat.js
 @@||panorama.it/wp-content/themes/panorama/js/google-nielsen-analytics.js?
 @@||repstatic.it^*/Nielsen.js
-@@||repubblica.it/pw/pw.js?deskurl=$domain=lastampa.it|messaggeroveneto.gelocal.it
+@@||repubblica.it/pw/pw.js?deskurl=$domain=gelocal.it|lastampa.it
+@@||thron.com/shared/plugins/tracking/current/tracking-library-min.js$domain=dainese.com
 @@||timvision.it/libs/fingerprint/fingerprint.js
 @@||tiscali.it/js/webtrends/$script,domain=mail.tiscali.it
 @@||track.adform.net/serving/scripts/trackpoint$script,domain=sky.it|ubibanca.com

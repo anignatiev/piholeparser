@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 4HeU1JUDGU4Hvz6pAHIOJw
-! Version: 201906260011
+! Checksum: YEl+Z+h3RkSTmsPaRZft4w
+! Version: 201908030011
 ! Title: EasyList Italy
-! Last modified: 26 Jun 2019 00:11 UTC
+! Last modified: 03 Aug 2019 00:11 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html
@@ -286,7 +286,6 @@ brocardi.it#@#.with-background-ads
 ||24network.it^$third-party
 ||2mdn.net^$object-subrequest,third-party,domain=beppegrillo.it|calciomercato.com|corriereadriatico.it|corrieredellosport.it|forbiciate.com|foxsports.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|ilmeteo.it|italiaoggi.it|lapresse.it|lastampa.it|leggo.it|leonardo.it|mediapason.it|mffashion.com|milanofinanza.it|pianetadonna.it|quotidianodipuglia.it|tiscali.it|tripadvisor.it|tuttomercatoweb.com|violachannel.tv|vvvvid.it|youreporter.it|youreporternews.it
 ||4strokemedia.com^$third-party
-||4wnetwork.com^$third-party
 ||ad4mat.it^$third-party
 ||adagionet.com^$third-party
 ||adbrawl.com^$third-party
@@ -389,6 +388,7 @@ brocardi.it#@#.with-background-ads
 ||spicciolo.com^$third-party
 ||sunaffiliation.com^$third-party
 ||superbanner.org^$third-party
+||tagvideo.eu^$third-party
 ||tekno4advertising.com^$third-party
 ||tgadv.it^$third-party
 ||tgadvcdn.it^$third-party
@@ -2683,6 +2683,7 @@ shippingonline.ilsecoloxix.it###zona_181
 ttmweb.it###zona_245
 avvisatore.ilsecoloxix.it###zona_266
 arezzoweb.it###zurich_connect
+lifegate.it##.-presentato
 lifegate.it##.-sponsor
 gnoccaforum.com,tiscali.it##.ADV
 ludomedia.it##.AmazonBox
@@ -2721,6 +2722,7 @@ rietinvetrina.it##.a-single
 player.it##.aalb-259-product-carousel-unit
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 repubblica.it##.aas_whole_wrapper
+ilsole24ore.com##.abox
 4risate.com,7per24.it,allrecipes.it,ilprimatonazionale.it,ilsole24ore.com,jugo.it,lacrocequotidiano.it,mesagne.me,milanlive.it,mondoplay.it,mondoxbox.com,ridble.com,servizioallerta.it,smartbuildingitalia.it,trend-online.com,tripadvisor.it##.ad
 tusciaweb.eu##.ad-article
 corriereitaliano.com##.ad-box
@@ -2957,6 +2959,7 @@ comingsoon.it,lifegate.it##.box-adv
 ilquotidiano.it,parmasera.it,piacenzasera.it,rsvn.it##.box-attico
 tempoitalia.it##.box-banner
 europa-in.it,gazzettadelladda.it,giornaledidesio.it,notiziaoggi.it,nuovaperiferia.it,settegiorni.it##.box-banner-menu
+lifegate.it##.box-presentato
 ilgiornaledivicenza.it##.box-skyscrapers
 omniauto.it##.box.gradient[style="height:270px!important; min-height:270px"]
 tiscali.it##.boxBanner
@@ -3263,7 +3266,7 @@ finanzaonline.com,tgcom24.mediaset.it##.spaceBanner
 pmi.it##.special-widget
 ciao.it##.specialOfferMod
 quimamme.it##.specials
-europages.it,gazzetta.it,gds.it,ilgiornale.it,ilmonferrato.it,portaportese.it,pubblicitaitalia.it,repubblica.it,stickmangames.altervista.org,violanews.com##.sponsor
+europages.it,gazzetta.it,gds.it,ilgiornale.it,ilmonferrato.it,lifegate.it,portaportese.it,pubblicitaitalia.it,repubblica.it,stickmangames.altervista.org,violanews.com##.sponsor
 fcparma.com##.sponsor-group
 ansa.it##.sponsor-menu
 milanofinanza.it##.sponsor-red
@@ -3271,6 +3274,7 @@ erbanotizie.com,lecconotizie.com##.sponsor-rubrica
 viterbopost.it##.sponsorA
 treccani.it##.sponsorLogo
 lnd.it##.sponsorPage
+facciabuco.com##.sponsor_box
 tuttosport.com##.sponsor_peroni
 dday.it,gazzetta.it,wired.it##.sponsored
 agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,avellinotoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,brindisireport.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,lecceprima.it,leccotoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,ravennatoday.it,riminitoday.it,romatoday.it,salernotoday.it,sondriotoday.it,sportpiacenza.it,today.it,torinotoday.it,trentotoday.it,trevisotoday.it,triesteprima.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.sponsored-story
@@ -3285,6 +3289,7 @@ mostraip.com##.spot1
 a-realestate.it##.spot_banner
 ilsole24ore.com##.spot_footer
 ilsecoloxix.it##.square-banner
+ilsole24ore.com##.srel
 applemobile.it##.store
 ravennaedintorni.it##.strillo
 affaritaliani.it##.strillo-speciale3
@@ -3414,6 +3419,7 @@ piratestreaming.news##a[href^="/4k1/"]
 comprovendolibri.it##a[href^="/conta.asp?"]
 italia-film.co##a[href^="/hd2/"]
 cb01.best,filmsenzalimiti.ws##a[href^="/player/"]
+facciabuco.com##a[href^="/sprclick/"]
 bdc-forum.it##a[href^="http://ad.zanox.com/"]
 mmorpgitalia.it##a[href^="http://ad2games.com/slave.php?"]
 multiplayer.it##a[href^="http://adv.multiplayer.it/"]
@@ -3448,7 +3454,7 @@ infotelematico.com,techzilla.it##a[href^="https://amzn.to/"]
 mentelocale.it##a[href^="https://clk.tradedoubler.com/"]
 autobusweb.com,corrieredellacalabria.it,lasposatv.it##a[href^="https://goo.gl/"]
 italia-film.pro##a[href^="https://iptvstreaming.org/"]
-badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,comingsoon.it,consigli.it,eurogamer.it,everyeye.it,frasicelebri.it,game-experience.it,giardiniblog.it,gizchina.it,greenme.it,hdblog.it,hwupgrade.it,mangaforever.net,ridble.com,rifaidate.it,spaziogames.it,surface-phone.it,techzilla.it##a[href^="https://www.amazon."][href*="tag="]
+badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,comingsoon.it,consigli.it,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,giardiniblog.it,gizchina.it,greenme.it,hdblog.it,hwupgrade.it,mangaforever.net,ridble.com,rifaidate.it,spaziogames.it,surface-phone.it,techzilla.it##a[href^="https://www.amazon."][href*="tag="]
 traderlink.it##a[style="display: block; width: 100%; height: 1080px; filter:alpha(opacity=0); -moz-opacity: 0; opacity: 0; background-color: rgb(255, 255, 255);"]
 notebookcheck.it##div[id][class] > div[id] > img:first-child
 eurostreaming.watch##div[style="    position: relative;\a width: 468px;\a height: 60px;\a border: none !important;\a background: none;\a margin: auto;\a clear: both;"]
