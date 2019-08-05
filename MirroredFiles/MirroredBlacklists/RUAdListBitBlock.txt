@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Jc2dXQceoIXzg1r/UXWGeA
-! Version: 201908040010
+! Checksum: 9Mw+mZVjb5UjXjOq4mZ7EQ
+! Version: 201908050010
 ! Title: RU AdList: BitBlock
-! Last modified: 04 Aug 2019 00:10 UTC
+! Last modified: 05 Aug 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -2954,6 +2954,7 @@ sports.ru#@#.link-instagram
 sports.ru#@#.link-tumblr
 sports.ru#@#.link-twitter
 sports.ru#@#.link-youtube
+ok.ru#@#.media-share
 my.kaspersky.com#@#.modal-signup
 miuru.ru#@#.plusone
 money.yandex.ru,news.yandex.by,news.yandex.kz,news.yandex.ru,news.yandex.ua,realty.yandex.ru,travel.yandex.ru,tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua#@#.popup__under_type_paranja:not([class*="zindex"]):not([class*="offer"])
@@ -3027,6 +3028,7 @@ myshared.ru#@#.ya-share2_inited
 @@/sharebox.$domain=vk.me
 @@/social-buttons$script,domain=my.mail.ru
 @@/twitter.svg$domain=ctv7.ru
+@@/videojs-share.$domain=jut.su
 @@/wp-content/plugins/wp-minify/min/?f=$stylesheet,~third-party
 @@/youtube.png$domain=metalarea.org|samforum.org
 @@_facebook.png$domain=antivirus.ua
@@ -11675,6 +11677,7 @@ _youtube_social_
 ##.footer-social
 ##.footer-social--icon
 ##.footer-social-area
+##.footer-social-bar
 ##.footer-social-block
 ##.footer-social-button
 ##.footer-social-buttons
@@ -17058,6 +17061,7 @@ _youtube_social_
 ##.socialsidebar
 ##.socialsidehed
 ##.socialsider
+##.socialsnap-social-followers-widget
 ##.socialstuff
 ##.socialtab
 ##.socialtab_container
@@ -17160,6 +17164,8 @@ _youtube_social_
 ##.srg-share-icon
 ##.srg-share-icon-container
 ##.ss-facebook
+##.ss-follow-network
+##.ss-inline-share-content
 ##.ss-instagram
 ##.ss-share
 ##.ss-sharing-container
@@ -19782,6 +19788,7 @@ _subscribe_button
 /icon-rss-
 /icon-rss.
 /icon-rss2.
+/icon.rss.
 /icon/rss-
 /icon/rss.
 /icon_16_rss.
@@ -21732,6 +21739,7 @@ _backToTop.
 ##.newsletter-mini-banner
 ##.newsletter-mod
 ##.newsletter-modal
+##.newsletter-modal-background
 ##.newsletter-modal-overlay
 ##.newsletter-nav-btn
 ##.newsletter-notification-box
@@ -21939,6 +21947,7 @@ _backToTop.
 ##.openNewsletter
 ##.opt-in-email-signup-drawer
 ##.optin-monster
+##.optin-monster-api
 ##.optin-monster-overlay
 ##.optin-monster-saas-overlay
 ##.optin-overlay
@@ -23060,6 +23069,7 @@ _backToTop.
 ##.mvp-to-top
 ##.mypresta_scrollup
 ##.nav--back-to-top
+##.news-back-to-top__top-link
 ##.o-backtop
 ##.os-back-to-top
 ##.p-pagetop-btn
@@ -23799,6 +23809,7 @@ thehunt.com#@##signup-popup
 vivoplay.net#@##subscriptionModal
 blaklader.se,blaklader.uk,chansluts.com#@##to-the-top
 57reshotel.it,radiogra.pl#@##to-top
+bezahlen.de#@##toTop
 uservoice.com#@##uservoice-feedback
 uservoice.com#@##uservoice-feedback-tab
 cnn.com#@#.OUTBRAIN
@@ -24021,6 +24032,7 @@ adme.ru,pomponik.pl#@#.article-social
 niedziela.pl#@#.article-social-btn
 pomponik.pl#@#.article-social-buttons
 drive.ru#@#.article-social-container
+wylecz.to#@#.article__social
 nbcnews.com#@#.article_share
 thetoc.gr#@#.authorSocial
 mos.ru#@#.b-social
@@ -24175,6 +24187,7 @@ darudar.org,fimfiction.net,modworkshop.net#@#.like_button
 busqueda.com.uy,linkedin.com,peerlyst.com#@#.linkedin.icon
 pan.baidu.com#@#.list-share
 theverge.com#@#.m-article__share-buttons
+fider.io,jellyfin.org#@#.m-social
 iab.org.pl#@#.menu-social
 arkansasmatters.com,kark.com#@#.meta-share
 adobe.com#@#.mod-facebook
@@ -24563,7 +24576,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
 @@||aolcdn.com/aboutme/*/icons/socialmedia/$domain=about.me
-@@||apis.google.com/js/platform.js$domain=9gag.com|jakdojade.pl|passeidireto.com|sato.fi
+@@||apis.google.com/js/platform.js$domain=9gag.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
 @@||app.hrlab.de/assets/icons/$image,domain=app.hrlab.de
 @@||apple.com/kb/resources/images/i_facebook.png
 @@||archiveteam.org^$generichide
@@ -24685,6 +24698,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||elliegoulding.com/images/home/tweetButton.png
 @@||enfamil.pl^*/pl-sticky-social-$image
 @@||envoy.com/images/*/reddit.png
+@@||europa.eu/webtools/*/share.png$image
 @@||evasionjailbreak.com/wp-content/plugins/*/social_widget.css$stylesheet
 @@||explainxkcd.com/wiki/images/$image,domain=explainxkcd.com
 @@||eyeo.com/dist/img/svg/$domain=help.eyeo.com
