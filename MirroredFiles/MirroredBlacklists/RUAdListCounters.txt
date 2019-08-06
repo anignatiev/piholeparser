@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: y4ooglCDoimDXe31XHoHhg
-! Version: 201907310010
+! Checksum: pWTBY2Vif6VtvDNIUFcTbg
+! Version: 201908060010
 ! Title: RU AdList: Counters
-! Last modified: 31 Jul 2019 00:10 UTC
+! Last modified: 06 Aug 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -23,6 +23,7 @@
 !
 ! = Ложные срабатывания (исключения) ==========================================
 @@/counter^$domain=krsk2019.net|krsk2019.ru
+@@||ads.adfox.ru/*/getBulkTest/$xmlhttprequest,domain=www.kinopoisk.ru
 @@||alcogolizm.com/addons/counter/$script,stylesheet,domain=alcogolizm.com
 @@||amazonaws.com/tsm-images/global/1x1.gif$domain=arcadesushi.com
 @@||aprtx.com/code/decathlonRU/$script,domain=decathlon.ru

@@ -1,5 +1,6 @@
 bars.funportal.info
 boom.mail.ru
+browser-updater.yandex.net
 calendar.rodim.ru
 card.mmos.com
 d15r06k2ko210l.cloudfront.net

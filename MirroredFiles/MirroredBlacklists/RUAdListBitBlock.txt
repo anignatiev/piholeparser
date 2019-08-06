@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9Mw+mZVjb5UjXjOq4mZ7EQ
-! Version: 201908050010
+! Checksum: Dec82foCZR73nGUCnMVPSQ
+! Version: 201908060010
 ! Title: RU AdList: BitBlock
-! Last modified: 05 Aug 2019 00:10 UTC
+! Last modified: 06 Aug 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -7106,6 +7106,7 @@ _youtube_social_
 ###footer-social-networks
 ###footer-social-popup
 ###footer-social-universal
+###footer-social_share
 ###footer-socials
 ###footer-title-social
 ###footer-tumblr-icon
@@ -7648,6 +7649,7 @@ _youtube_social_
 ###prisna-social-counter-4
 ###product_social_widgets_wrapper
 ###prog-functionbar-social
+###promo_social_follow-font_w_effects
 ###pshare
 ###puget-footer_social
 ###qoate_social_bookmark
@@ -8268,6 +8270,7 @@ _youtube_social_
 ###social-module-container
 ###social-nav
 ###social-nav-links
+###social-navbar
 ###social-navigation
 ###social-nella-sidebar
 ###social-network
@@ -10451,6 +10454,7 @@ _youtube_social_
 ##.companyBarSocial
 ##.compartir-social
 ##.component-facebook-like
+##.component-pinterest
 ##.component-social-feeds-v1
 ##.component-social-follow
 ##.component-social-network-icons
@@ -14059,6 +14063,7 @@ _youtube_social_
 ##.pinterest-share-button
 ##.pinterest-sharetool
 ##.pinterest-top-button
+##.pinterest-wrapper
 ##.pinterest1
 ##.pinterestButton
 ##.pinterestComponentShare
@@ -22732,6 +22737,7 @@ _backToTop.
 ###float-btn-backtotop
 ###footer-0-BackToTop
 ###footer-back-to-top
+###footer-to_top_button
 ###footer_scroll_top
 ###g1-back-to-top
 ###gh-bt
@@ -23347,7 +23353,7 @@ _backToTop.
 ||bookmrk.us^$third-party
 ||brightinfo.com^$third-party
 ||browser-update.org^$third-party
-||browser-updater.yandex.net^$third-party
+||browser-updater.yandex.net^
 ||btn.createsend1.com^$third-party
 ||bufferapp.com/js/button.js$third-party
 ||bumpin.com^$third-party
@@ -24065,6 +24071,7 @@ terravision.eu#@#.button-share
 slideshare.net#@#.button-social
 pinterest.com#@#.clk-pinit
 smzdm.com#@#.comment_share
+pinterest.com#@#.component-pinterest
 vidcloud.co#@#.content-share
 vidcloud.co#@#.content-share-wrap
 echo.msk.ru#@#.contentshare
@@ -24207,6 +24214,7 @@ llbean.com#@#.pinit-overlay
 pinterest.com#@#.pinit_btn
 hemmings.com,hollywoodreporter.com#@#.pinterest-button
 pinterest.com#@#.pinterest-share-button
+pinterest.com#@#.pinterest-wrapper
 needlenthread.com#@#.pinterest1
 pinterest.com#@#.pinterestComponentShare
 google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.plusone
