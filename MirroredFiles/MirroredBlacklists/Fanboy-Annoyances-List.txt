@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: v8OhOFzNgGSB5JtaXL+WSA
-! Version: 201908060011
+! Checksum: o3u3thrwL2Rlu93kUKj51g
+! Version: 201908080011
 ! Title: Fanboy's Annoyance List
-! Last modified: 06 Aug 2019 00:11 UTC
+! Last modified: 08 Aug 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -155,6 +155,7 @@
 ! Push Notifications
 -push-notification.
 -push-notification/
+/av/push-
 /build/push.js
 /checkPush.js
 /flying_push.
@@ -173,6 +174,7 @@
 /OneSignalSDKWorker.
 /openpushwoosh_
 /plugins/wp-notification-bars/*
+/push-notification.
 /push-notification/*
 /push-notifications.
 /push-notifications/*
@@ -6990,6 +6992,7 @@ _site_cookie_
 ##.art-rss-tag-icon
 ##.article-open_shere-feed
 ##.author-rss
+##.av-icon-rss
 ##.b-article__header-rss-ico
 ##.b-icon__rss
 ##.bg-button-rss
@@ -11313,6 +11316,7 @@ _site_cookie_
 ##.author_socs
 ##.authorbox-social
 ##.av-share-box
+##.av-social-share
 ##.av_content_facebook
 ##.av_content_twitter
 ##.avia_fb_likebox
@@ -17231,6 +17235,7 @@ _site_cookie_
 ##.slinkedin
 ##.sm-marketing-social
 ##.sm-page-widget-sociallinks
+##.sm-share-social-buttons
 ##.sm-social
 ##.sm-social-links-horizontal
 ##.sm4-article-share
@@ -19657,6 +19662,7 @@ _site_cookie_
 ##.whoShare
 ##.whtapp-web
 ##.widget--twitter
+##.widget-altervista-social
 ##.widget-article-follow
 ##.widget-cardoza-fb-like
 ##.widget-easy-twitter-feed-widget-container
@@ -38805,6 +38811,7 @@ baike.com##.li-top
 am730.com.hk##.news-pagination
 metrodaily.hk##.rss
 4gtv.tv##.scrollUP
+mtime.com##.topbar
 am730.com.hk##.topic-pagination
 ||4gtv.tv^*/scriptUP.
 !
@@ -39818,6 +39825,7 @@ stheadline.com##.follow
 localpresshk.com##.gp-top-icons
 cw.com.tw##.linefriend
 cna.com.tw,landrover.com.cn,ltn.com.tw,newhua.com,ulifestyle.com.hk##.share
+mtime.com##.sina
 europages.cn,europages.hk,ntdtv.com##.social
 mingpao.com##.ssm
 takungpao.com.hk##.tkp_con_share
@@ -39827,6 +39835,7 @@ udn.com##.udn_line
 pearvideo.com##.video-tt-box > .box-right > .qr-code
 linghit.com##.weChat
 linghit.com##.weibo
+mtime.com##.weixin
 vapee.com##a[href^="http://e.weibo.com/"]
 vapee.com##a[href^="http://t.qq.com/"]
 !
