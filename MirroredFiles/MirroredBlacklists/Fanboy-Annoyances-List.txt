@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: o3u3thrwL2Rlu93kUKj51g
-! Version: 201908080011
+! Checksum: Vt34olkGv3IDeUyYEyFzHw
+! Version: 201908090012
 ! Title: Fanboy's Annoyance List
-! Last modified: 08 Aug 2019 00:11 UTC
+! Last modified: 09 Aug 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -23,6 +23,7 @@
 /?spu_action=*spu_load&
 /alerte_tracking.
 /altClickToSearch.
+/amp-apester-
 /antirightclick.$script
 /app-banner/*$xmlhttprequest
 /arscode-ninja-popups/*$~stylesheet
@@ -155,6 +156,7 @@
 ! Push Notifications
 -push-notification.
 -push-notification/
+/amp-user-notification-
 /av/push-
 /build/push.js
 /checkPush.js
@@ -537,6 +539,7 @@ _subscribe_button
 /podcast-rss1.
 /public/*/rss_
 /Redes_RSS.
+/rm-rss.
 /Rss-128.
 /rss-16x
 /rss-24.
@@ -2269,6 +2272,7 @@ _backToTop.
 /navtumblr.
 /nc-follow1.
 /needsharebutton.
+/news_share_
 /newshare/*
 /newsharecounts.
 /newSideShare/*
@@ -4172,6 +4176,7 @@ _youtube_social_
 /cookies_acceptance.
 /cookies_auto-
 /cookies_bar.
+/Cookies_button_
 /cookies_directive.
 /cookies_gdpr.
 /cookies_it.
@@ -4184,6 +4189,7 @@ _youtube_social_
 /CookiesAcception.
 /CookiesAgreement/*
 /cookiesbanner/*
+/CookiesBanner_
 /cookiesConsent.
 /cookiescontrol-
 /cookiesCSS.
@@ -7154,6 +7160,7 @@ _site_cookie_
 ##.td-icon-rss
 ##.term-rss
 ##.topbar-rss
+##.toprow_rss
 ##.track-action-RSS
 ##.trtrss
 ##.uk-icon-rss
@@ -13417,6 +13424,7 @@ _site_cookie_
 ##.ft-pinterest
 ##.ft-sfacebook
 ##.ft-share
+##.ft-share-icon
 ##.ft-social
 ##.ft-social-links
 ##.ft-tumblr
@@ -13863,6 +13871,7 @@ _site_cookie_
 ##.ho-co-social
 ##.home-about-shareButton
 ##.home-follow-us-buttons
+##.home-hot-news-03-share
 ##.home-page__social-logo
 ##.home-social-callout
 ##.home-social-links
@@ -37004,6 +37013,7 @@ indiatimes.com##.commonlistwrap
 elpais.com##.compartir
 inyminy.com##.confess
 allafrica.com,callofduty.com,ctvnews.ca,dailysignal.com,environmentalgraffiti.com,epicurious.com,gap.com,hopetv.org,nymag.com,statescoop.com,timesnews.net,wolverhamptonhomes.org.uk##.connect
+utexas.edu##.connect-links
 grubstreet.com,nymag.com,vulture.com##.connect-list
 abc.net.au##.connect-with-abc
 ppdi.com##.connected
@@ -38808,6 +38818,7 @@ baidu.com##.gotop-button
 sogou.com##.index-top
 hisense.com##.js-return-top
 baike.com##.li-top
+cyberctm.com##.news-control
 am730.com.hk##.news-pagination
 metrodaily.hk##.rss
 4gtv.tv##.scrollUP
@@ -39814,6 +39825,8 @@ privatbankar.hu##.utilities
 !---------- Chinese Site Specific Hiding Rules ----------
 !
 appledaily.com###RHSfacebook
+exmoo.com###fixed-wechat
+exmoo.com###footer-wechat-container
 china.org.cn###rightNav
 sputniknews.cn###share
 hitoradio.com###socialogo
@@ -39821,20 +39834,25 @@ on.cc###toolBar
 cw.com.tw##.control
 ulifestyle.com.hk##.fa-facebook-official
 ulifestyle.com.hk##.fa-instagram
+ettoday.net##.fb
 stheadline.com##.follow
 localpresshk.com##.gp-top-icons
+ettoday.net##.ig
+ettoday.net##.line
 cw.com.tw##.linefriend
+chicv.com##.menu-socials
 cna.com.tw,landrover.com.cn,ltn.com.tw,newhua.com,ulifestyle.com.hk##.share
 mtime.com##.sina
 europages.cn,europages.hk,ntdtv.com##.social
 mingpao.com##.ssm
 takungpao.com.hk##.tkp_con_share
-cw.com.tw##.twitter
+udn.com##.toprow_fb
+cw.com.tw,ettoday.net##.twitter
 udn.com##.udn_facebook
 udn.com##.udn_line
 pearvideo.com##.video-tt-box > .box-right > .qr-code
 linghit.com##.weChat
-linghit.com##.weibo
+ettoday.net,linghit.com##.weibo
 mtime.com##.weixin
 vapee.com##a[href^="http://e.weibo.com/"]
 vapee.com##a[href^="http://t.qq.com/"]
@@ -40810,6 +40828,7 @@ lexus-bulgaria.bg##.disclaimer
 !
 4gtv.tv###Allow
 on.cc###acceptDisclaimer
+ctm.net###portalheader\:cookiepanel
 drweb.cn##.SHOWIT-msg_showed
 infiniti.com.tw##.c_128
 !

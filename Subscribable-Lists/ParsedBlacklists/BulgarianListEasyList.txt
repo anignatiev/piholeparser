@@ -685,7 +685,6 @@ d16fk4ms6rqz1v.cloudfront.net
 d17m68fovwmgxj.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
-d1aqhv4sn5kxtx.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
 d1cerpgff739r9.cloudfront.net
 d1clfvuu2240eh.cloudfront.net
@@ -1315,6 +1314,8 @@ logs.vmixcore.com
 logsbin.dantri.com.vn
 logssl.enquisite.com
 logstat.caixin.com
+logx.mtime.cn
+logx.mtime.com
 loxodo-analytics.ext.nile.works
 lp.vadio.com
 lsam.research.microsoft.com
@@ -1514,6 +1515,7 @@ partner.worldoftanks.com
 partners.badongo.com
 partners.mysavings.com
 partners.thefilter.com
+pass.1688.com
 passport.pfn.bz
 passul.t-online.de
 pb.i.sogou.com
@@ -2269,6 +2271,7 @@ target.smi2.ru
 target.ukr.net
 targeting.wpdigital.net
 tbe.tom.ru
+tbskip.taobao.com
 tc.airfrance.com
 tce.alicdn.com
 tcheck.outbrainimg.com
@@ -2654,6 +2657,7 @@ ubt.berlingskemedia.net
 ucounter.ucoz.net
 uestat.video.qiyi.com
 ugmfvqsu.ru
+uid.mavencoalition.io
 uim.tifbs.net
 unid.go.com
 uoldid.ru
@@ -2761,6 +2765,8 @@ worker.salon.com
 wrmwb.7val.com
 ws.yellowpages.ca
 wsb.aracert.com
+wssgmstats.vibbo.com
+wsstats.coches.net
 wstat.wibiya.com
 wstats.e-wok.tv
 wtk.db.com
