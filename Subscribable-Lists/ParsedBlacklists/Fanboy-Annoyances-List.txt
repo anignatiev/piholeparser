@@ -9,6 +9,7 @@ cmp.nextday.media
 cnil.links-lab.fr
 consent.23g.io
 consent.cmp.oath.com
+consent.prismamedia.com
 consent.subscriptions.archant.co.uk
 consent.theneweuropean.co.uk
 cookie.aerostatonet.it
