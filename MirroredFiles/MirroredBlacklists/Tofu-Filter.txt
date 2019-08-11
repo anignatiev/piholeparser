@@ -523,6 +523,7 @@ _ads.php
 ||sexart.com^$third-party
 ||slendastic.com^$third-party
 ||speednetwork14.com^$third-party
+||spotxchange.com^$third-party
 ||superfastcdn.com^$third-party
 ||teads.tv^$third-party
 ||toponclick.com^$third-party
@@ -570,6 +571,7 @@ _ads.php
 ||gunosy.com/adnet/
 ||idea-unlimited.com/adsimg/
 ||imagefreak*.com^
+||imasdk.googleapis.com^$third-party
 ||javhd.com/sb/$third-party
 ||mgstage.com/afscript/
 ||mkd777.net/pd/
@@ -2387,6 +2389,8 @@ inoreader.com#@#[id^="ad_"]:not(html):not(body):not(#ad_table)
 ixquick.com#@#[class^="ads_"]:not(html):not(body)
 	!本文
 jp.wsj.com#@#[id$="_ads"]:not(html):not(body)
+	!実行ボタン
+lab.kiki-verb.com#@#[id^="ads_"]:not(html):not(body)
 	!top body直下
 linguee.jp#@#[class^="ad_"]:not(html):not(body)
 linguee.jp#@#[class*=" ad_"]:not(html):not(body):not(.ad_distance)
