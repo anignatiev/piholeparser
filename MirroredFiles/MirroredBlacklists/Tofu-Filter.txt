@@ -2256,6 +2256,9 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT 
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 @@||fwmrm.net^*/AdManager.swf?
 @@||fwmrm.net/crossdomain.xml$object_subrequest
+	!遅延読み込み回避
+@@||google-analytics.com/analytics.js$domain=alphapolis.co.jp
+@@||google-analytics.com/gtm/js?$domain=alphapolis.co.jp
 	!カード画像
 @@||hearthstone.exp.jp/ads/*/*.png$domain=hs-exp.jp
 @@||hs-exp.jp/ads/*/*.png$domain=hs-exp.jp
