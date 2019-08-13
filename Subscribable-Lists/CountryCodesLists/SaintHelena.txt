@@ -33,7 +33,6 @@ sxcdn3.now.sh
 sxcdn4.now.sh
 sxcdn6.now.sh
 turnsocial.now.sh
-unknow.now.sh
 urht.sh
 vani.sh
 windows-defender.con.sh

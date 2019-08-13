@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201908120007
+! Version: 201908122329
 ! Title: EasyPrivacy
-! Last modified: 12 Aug 2019 00:07 UTC
+! Last modified: 12 Aug 2019 23:29 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6234,6 +6234,7 @@ _mongo_stats/
 ||mplxtms.com^$third-party
 ||mppapi.io^$third-party
 ||mpstat.us^$third-party
+||mql5.com^$third-party
 ||msecure108.com^$third-party
 ||msgapp.com^$third-party
 ||msgtag.com^$third-party
@@ -11190,6 +11191,7 @@ _mongo_stats/
 ||vertical-stats.huffpost.com^
 ||verticalacuity.com/varw/sendEvent?
 ||verticalacuity.com/vat/
+||vidazoo.com/aggregate?
 ||vidazoo.com/event/
 ||video-ad-stats.googlesyndication.com^
 ||video-cdn.net/event?
@@ -12175,6 +12177,7 @@ _mongo_stats/
 ||affiliates.londonmarketing.com^
 ||affiliates.mozy.com^
 ||affiliates.myfax.com^
+||affiliates.purevpn.com^
 ||affiliates.treasureisland.com^
 ||affiliates.vpn.ht^
 ||afterdawn.com/views.cfm?
@@ -12642,7 +12645,6 @@ _mongo_stats/
 ||dailymotion.com^*/tag.gif?
 ||dainikbhaskar.com/tracking/
 ||data.mic.com^
-||data.msn.com/collect/
 ||data.ninemsn.com.au/*GetAdCalls
 ||data.ryanair.com^
 ||data.younow.com^
@@ -13396,6 +13398,7 @@ _mongo_stats/
 ||mp3lyrics.org^*/cnt.php?
 ||mql5.com/tr?
 ||msecnd.net^*/wt.js?
+||msn.com/collect/
 ||msn.com/ro.aspx?
 ||msn.com/script/tracking*.js
 ||msn.com/tracker/
@@ -13676,6 +13679,7 @@ _mongo_stats/
 ||pubarticles.com/add_hits_by_user_click.php
 ||pulsar.ebay.$script
 ||pulse-analytics-beacon.reutersmedia.net^
+||purevpn.com/api/setCookies
 ||puritan.com/images/pixels/
 ||pvstat.china.cn^
 ||pw.org/sites/all/*/ga.js
@@ -14021,6 +14025,7 @@ _mongo_stats/
 ||spanids.thesaurus.com^
 ||spankbang.com/api?
 ||spankbang.com/api|
+||spankbang.com^*.d-ai.js
 ||spankbang.com^*.ping.js
 ||speakertext.com/analytics/
 ||speed.wikia.net^

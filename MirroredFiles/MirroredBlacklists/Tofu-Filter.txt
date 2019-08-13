@@ -841,7 +841,6 @@ drtuber.com,nuvid.com,proporn.com,viptube.com###puFloatDiv
 ||p.dmm.co*/p/*/bnr
 ||padotown.net/js/set_keywords.js
 ||padotown.net/js/show_keywords
-||pandora.tv/_adv_img/
 ||phileweb.com/js/top_banner.js
 ||phileweb.com/count/
 ||photozou.jp/script/ad_sticky.js?
@@ -1714,10 +1713,13 @@ tok2.com###meerkat-wrap
 tok2.com###tok2_footer
 
 !------------yahoo------------!
+
+!ジオシティーズ消滅
+!||bc.geocities.yahoo.co.jp^
+!||bc-geocities.yahoo.co.jp^
+
 !お礼コメントが出来なくなる
 /yads.$domain=~okwave.jp
-||bc.geocities.yahoo.co.jp^
-||bc-geocities.yahoo.co.jp^
 ||ov.yahoo.co.jp^
 ||yads.yahoo.co.jp^
 ||yeas.yahoo.co.jp^
@@ -1949,6 +1951,8 @@ novel.pixiv.net##.info.related-books
 
 @@||melonbooks.com/api/pixiv/get_promotion_ads.php?$domain=pixiv.net
 
+
+
 !------------fc2------------!
 ||affiliate.fc2.com/afftag
 ||affiliate.fc2.com/cgi-bin/banner.cgi?
@@ -2041,6 +2045,14 @@ youtube.com##.pyv-afc-ads-inner
 !×ボタン押さないと1分しか見れない
 !###addivwrapper_0
 ||byzoo.org^$third-party
+
+!------------pandora---------------!
+
+||pandora.tv/_adv_img/
+
+||prism.pandora.tv^
+||pandora.tv/viewChk2?
+channel.pandora.tv##.pm_wrap
 
 
 !------------dtiblog------------!
@@ -2256,9 +2268,6 @@ blog.livedoor.jp##[src="http://blog.livedoor.jp/darkm/settings/ad.js"] + SCRIPT 
 @@||ec.sofmap.tyrellsys.com^$domain=used.sofmap.com
 @@||fwmrm.net^*/AdManager.swf?
 @@||fwmrm.net/crossdomain.xml$object_subrequest
-	!遅延読み込み回避
-@@||google-analytics.com/analytics.js$domain=alphapolis.co.jp
-@@||google-analytics.com/gtm/js?$domain=alphapolis.co.jp
 	!カード画像
 @@||hearthstone.exp.jp/ads/*/*.png$domain=hs-exp.jp
 @@||hs-exp.jp/ads/*/*.png$domain=hs-exp.jp
@@ -2550,8 +2559,7 @@ vidoza.net##script:contains($('.pvr'))
 xvideos.com##script:contains(checkVideoAds)
 youporn.com##script:contains(ChromePopMouseDownHandler)
 
-
-
-	!待ち時間回避
-nikkansports.com##script:contains(async-hide)
-
+	!遅延対策
+alphapolis.co.jp##^script:has-text(a,s,y,n,c,h,i,d,e)
+mangabox.me##^script:has-text(a,s,y,n,c,h,i,d,e)
+nikkansports.com##^script:has-text(a,s,y,n,c,h,i,d,e)
