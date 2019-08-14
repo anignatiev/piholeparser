@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201908122329
+! Version: 201908132357
 ! Title: EasyPrivacy
-! Last modified: 12 Aug 2019 23:29 UTC
+! Last modified: 13 Aug 2019 23:57 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6705,7 +6705,6 @@ _mongo_stats/
 ||script.ag^$third-party
 ||scripts21.com^$third-party
 ||scriptshead.com^$third-party
-||scroll.com^$third-party
 ||sddan.com^$third-party
 ||sea-nov-1.com^$third-party
 ||searchfeed.com^$third-party
@@ -11307,7 +11306,6 @@ _mongo_stats/
 ||yimg.com^*/l?ig=$image
 ||ypcdn.com/*/webyp?
 ||ys.ddns.me^
-||ywxi.net/meter/
 ||z.opmnstr.com^$xmlhttprequest
 ||zapcdn.space/zapret.js
 ||zdlogs.sphereup.com^
@@ -15997,7 +15995,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||boxberry.ru/local/templates/site-boxberry/js/tracking_service.js$xmlhttprequest
 @@||boxtops4education.com^*/ntpagetag.js
 @@||britishairways.com/cms/global/scripts/applications/tracking/visualsciences.js
-@@||browser.sentry-cdn.com^$script,domain=sliver.tv
+@@||browser.sentry-cdn.com^$script,domain=sliver.tv|wearegifted.co.uk
 @@||browserscope.org/user/beacon/*?callback=$script,domain=jsperf.com
 @@||bt.com^*/touchclarity/homepage/omtr_tc.js
 @@||btstatic.com/tag.js$domain=macys.com
@@ -16685,6 +16683,8 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||zillowstatic.com/c/*/linktrack.js$domain=zillow.com
 @@||zylom.com/images/site/zylom/scripts/google-analytics.js
 @@||zynga.com/current/iframe/track.php?$domain=apps.facebook.com
+! Expedia search breakage
+@@||travel-assets.com/platform-analytics-prime/$script
 ! Mining-related whitelists
 @@||alltube.tv/jsverify.php$~third-party,xmlhttprequest
 @@||api.nyda.pro^$websocket
@@ -16986,7 +16986,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||ilsole24ore.com^*/fingerprint2.min.js?
 @@||imrworldwide.com/novms/*/ggcm*.js$domain=la7.it|sky.it|video.corriere.it
 @@||imrworldwide.com/v60.js$domain=corriereadriatico.it|fanpage.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|leggo.it|quotidianodipuglia.it
-@@||kataweb.it/wt/wt.js?http$domain=gelocal.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it
+@@||kataweb.it/wt/wt.js?http$domain=gelocal.it|video.huffingtonpost.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it
 @@||omtrdc.net^*/mbox/json?$xmlhttprequest,domain=vodafone.it
 @@||paginegialle.it/js/shinystat.js
 @@||panorama.it/wp-content/themes/panorama/js/google-nielsen-analytics.js?
