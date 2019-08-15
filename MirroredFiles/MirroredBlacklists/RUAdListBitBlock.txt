@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6zihVhkODo0qbaAML11/8A
-! Version: 201908140010
+! Checksum: anwr7zfPte7QhqPNeVWgPg
+! Version: 201908150010
 ! Title: RU AdList: BitBlock
-! Last modified: 14 Aug 2019 00:10 UTC
+! Last modified: 15 Aug 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -2350,7 +2350,7 @@ www.qrz.ru##.partners_box
 viva64.com##.personal-data-confirm
 pleer.ru##.pie.mainBlock[style^="margin-bottom: 15px"]:not([class*="search"])
 football.sport-express.ru##.place_ratingAnnounce
-720hd.club,animevost.club,avitube.ru,hdkinorip.net,hdnora.ru,kinoera.cc,kinogo-720.net,kinogo.life,kinosky.net,kinospot.me,kinozver.club,kinozz-hd.ru,kinozz.film,lostfilm-720.ru,megahead.org,wikimovies.ru,ymka.tv,zyx.watch##.player-warning
+720hd.club,animevost.club,avitube.ru,hdkinorip.net,hdnora.ru,kinoera.cc,kinogo-720.net,kinogo.life,kinosky.net,kinoslitok.net,kinospot.me,kinozver.club,kinozz-hd.ru,kinozz.film,lostfilm-720.ru,megahead.org,wikimovies.ru,ymka.tv,zyx.watch##.player-warning
 sports.ru,tribuna.com##.plistaList > a[data-campaign]
 sports.ru,tribuna.com##.plistaList > a[data-category="Акция"]
 kinogb.mobi##.plz-norec
@@ -2813,6 +2813,7 @@ sportmail.ru##div[data-module="LazyLoad.PromoPopup"] .js-module
 news.mail.ru##div[data-module="LazyLoad.PromoPopup"] .js-module.block
 ~e.mail.ru,mail.ru##div[data-module="LazyLoad.PromoPopup"] .link-hdr
 ~e.mail.ru,mail.ru##div[data-module="LazyLoad.PromoPopup"] .link-hdr ~ *
+sportmail.ru##div[data-module="StickyPanel.TopButton"]
 news.mail.ru##div[data-module="TrackBlocks"] table > tbody > tr > td > div:not(.daynews__item)
 ~e.mail.ru,mail.ru,sportmail.ru##div[id^="rb"][id$="notify"]
 pogoda.mail.ru##footer > div:not(:last-child)
@@ -10316,6 +10317,7 @@ _youtube_social_
 ##.c-redes-sociais
 ##.c-share
 ##.c-share-box-social-item
+##.c-share-tools
 ##.c-share_link
 ##.c-sharebar
 ##.c-sharebtn
@@ -21355,6 +21357,7 @@ _backToTop.
 ##.c-newsletter--default
 ##.c-newsletter--footer
 ##.c-newsletter-context
+##.c-newsletter-form
 ##.c-newsletter-promo
 ##.c-newsletter-section
 ##.c-newsletter-widget
@@ -21959,6 +21962,7 @@ _backToTop.
 ##.newsletter_widget
 ##.newsletter_wrapper
 ##.newsletterbg
+##.newsletterbottom
 ##.newsletterbox
 ##.newsletterdiv
 ##.newslettermodal

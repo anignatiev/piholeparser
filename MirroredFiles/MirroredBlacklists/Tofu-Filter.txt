@@ -1480,7 +1480,7 @@ inside-games.jp##.adRecommend
 inside-games.jp##.adRecommendRight
 inside-games.jp##.newslistItem-ad
 irasutoya.com##[class^="entryadwrapper"]
-!ねとらぼ nlab.itmedia.co.jp
+	!ねとらぼ nlab.itmedia.co.jp
 itmedia.co.jp###amazon-item
 itmedia.co.jp##.colBoxAmazon
 jp-xvideos.info##div.waku
@@ -1497,6 +1497,8 @@ kakaku.com##.prBn
 kakaku.com##.prTitle
 kemono-friendsch.com##.tax_wrap.clearfix
 kemono-friendsch.com##.tax_wrap.clearfix + .buttons
+kidslink.jp##[name="CM_FRM"]
+kidslink.jp##[name="clubmenu"]
 kotobank.jp##[class^="ss_"]
 horne.red###main-right > .left_column > .tieup_rand_block
 lifehacker.jp##.amazonSec01
