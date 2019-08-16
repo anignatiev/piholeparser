@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q8a0ERilgZqNH2PgcUK06w
-! Version: 201908150011
+! Checksum: jtHdX/RCQTI5dkRrfTBm8Q
+! Version: 201908160011
 ! Title: Fanboy's Annoyance List
-! Last modified: 15 Aug 2019 00:11 UTC
+! Last modified: 16 Aug 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -35448,13 +35448,13 @@ iafrica.com,marijuanamoment.net,thebaffler.com###boxzilla-overlay
 telesurenglish.net###bulletin
 euractiv.com###capitals_banner
 geekwire.com###category-heading-subscribe
-ibtimes.com.au,sciencenews.org###cboxOverlay
+ibtimes.com.au,sciencenews.org,sinya.com.tw###cboxOverlay
 breitbart.com###cin_footer
 breitbart.com###cin_header
 breitbart.com###cin_ps_in_article
 breitbart.com###cin_sidebar
 breitbart.com###cin_slideup_w
-sciencenews.org###colorbox
+sciencenews.org,sinya.com.tw###colorbox
 monthlyreview.org###connect
 thewrap.com###content-bottom-sidebar
 telecompaper.com###ctl00_MainPlaceHolder_HeadlineRegistersMain1_Update1
@@ -41854,7 +41854,7 @@ uservoice.com#@##uservoice-feedback
 uservoice.com#@##uservoice-feedback-tab
 cnn.com#@#.OUTBRAIN
 japantimes.co.jp#@#.back-to-top
-forum.qscservice.com,kvraudio.com,minetest.net#@#.back2top
+forum.qscservice.com,forums.mozillazine.org,kvraudio.com,minetest.net#@#.back2top
 thefirefly.com#@#.block-subscribe
 novojornal.co.ao#@#.box-newsletter
 azcentral.com#@#.close-wrap > .close-overlay

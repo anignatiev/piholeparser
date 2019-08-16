@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201908142245
+! Version: 201908152347
 ! Title: EasyPrivacy
-! Last modified: 14 Aug 2019 22:45 UTC
+! Last modified: 15 Aug 2019 23:47 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4202,6 +4202,7 @@
 /VisitSite.js
 /VisitTracking?
 /visitWebPage?_
+/visscore.
 /visual_revenue.
 /visualdna-
 /visualdna.
@@ -5255,6 +5256,7 @@ _mongo_stats/
 ||christmalicious.com^$third-party
 ||chrumedia.com^$third-party
 ||cint.com^$third-party
+||cintnetworks.com^$third-party
 ||circular-counters.com^$third-party
 ||ck-cdn.com^$third-party
 ||clarifyingquack.com^$third-party
@@ -5530,6 +5532,7 @@ _mongo_stats/
 ||ecustomeropinions.com^$third-party
 ||edgeadx.net^$third-party
 ||edigitalsurvey.com^$third-party
+||eggplant.cloud^$third-party
 ||ekmpinpoint.co.uk^$third-party
 ||ekmpinpoint.com^$third-party
 ||ela-3-tnk.com^$third-party
@@ -7113,6 +7116,7 @@ _mongo_stats/
 ||tstlabs.co.uk^$third-party
 ||tsw0.com^$third-party
 ||tubetrafficcash.com^$third-party
+||tuinfra.com^$third-party
 ||tunnl.com^$third-party
 ||tw.cx^$third-party
 ||twcount.com^$third-party
@@ -7301,6 +7305,7 @@ _mongo_stats/
 ||wiredminds.de^$third-party
 ||wisetrack.net^$third-party
 ||wishloop.com^$third-party
+||withcubed.com^$third-party
 ||womtp.com^$third-party
 ||woopra-ns.com^$third-party
 ||woopra.com^$third-party
@@ -12960,6 +12965,7 @@ _mongo_stats/
 ||glassmoni.researchgate.net^
 ||glean.pop6.com^
 ||global.canon^*/analytics.js
+||global.ssl.fastly.net^$script,domain=sainsburys.co.uk
 ||globes.co.il/ga.asp
 ||globes.co.il/shared/s.ashx?
 ||globester.com^*/track.js
@@ -14502,6 +14508,7 @@ _mongo_stats/
 ||vzaar.com/libs/stats/
 ||w88.espn.com^
 ||w88.go.com^
+||wa.gmx.net/gmx/gmx/s?$image
 ||wa.metro.co.uk^
 ||wa.ui-portal.de^
 ||wachovia.com^*/stats.js

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: anwr7zfPte7QhqPNeVWgPg
-! Version: 201908150010
+! Checksum: RJ8VnNV9LSeJxa1rXjb7mg
+! Version: 201908160010
 ! Title: RU AdList: BitBlock
-! Last modified: 15 Aug 2019 00:10 UTC
+! Last modified: 16 Aug 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -986,6 +986,8 @@ html-template.ru,rustreams.ru###vk_comments
 ru-skript.ru###vk_groups
 echo.msk.ru##.addthis_toolbox
 ria.ru##.article__sharebar
+www.gismeteo.ru##.btn-facebook
+www.gismeteo.ru##.btn-instagram
 by.tribuna.com,sports.ru##.btn-social
 by.tribuna.com,sports.ru##.btn-social-share
 gismeteo.ru##.btn_facebook
@@ -1004,6 +1006,7 @@ axd.semestr.ru,math.semestr.ru##.share42init
 onlinemschool.com##.share_buttons
 rafkino.com##.social
 gtavicecity.ru##.social-block
+www.gismeteo.ru##.social-buttons
 autonews.ru,rbcplus.ru,sportrbc.ru##.social-likes
 by.tribuna.com,sports.ru##.social-links
 by.tribuna.com,sports.ru##.social-share
@@ -1154,6 +1157,7 @@ _userbar_$image
 ##.cc-window[aria-label="cookieconsent"]
 ##.clearfy-cookie
 ##.cookie-agreement
+##.cookie-bar:not(body):not(html)
 ##.cookie-consent:not(html):not(body)
 ##.cookie-message
 ##.cookie-notify
@@ -23878,7 +23882,7 @@ uservoice.com#@##uservoice-feedback
 uservoice.com#@##uservoice-feedback-tab
 cnn.com#@#.OUTBRAIN
 japantimes.co.jp#@#.back-to-top
-forum.qscservice.com,kvraudio.com,minetest.net#@#.back2top
+forum.qscservice.com,forums.mozillazine.org,kvraudio.com,minetest.net#@#.back2top
 thefirefly.com#@#.block-subscribe
 novojornal.co.ao#@#.box-newsletter
 azcentral.com#@#.close-wrap > .close-overlay
