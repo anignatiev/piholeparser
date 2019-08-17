@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RJ8VnNV9LSeJxa1rXjb7mg
-! Version: 201908160010
+! Checksum: Zw/uHnKpE2IeecxMPcyZ+w
+! Version: 201908170010
 ! Title: RU AdList: BitBlock
-! Last modified: 16 Aug 2019 00:10 UTC
+! Last modified: 17 Aug 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -417,6 +417,7 @@ tut.by##.b-article-share
 gmbox.ru,vc.ru##.b-article__shares
 siliconrus.com##.b-article__social
 tut.by##.b-articleshare
+auto.vesti.ru##.b-doc__share
 sports.ru##.b-forced-registration
 sibdepo.ru##.b-icons-social
 disk.yandex.ru##.b-item-upload__actions > .b-item-upload__share
@@ -1302,7 +1303,6 @@ _userbar_$image
 ||messagefeed.support^$third-party
 ||mortypush.com^$third-party
 ||nativesubscribe.pro^$third-party
-||newsadsppush.com^$third-party
 ||panaur.com^$third-party
 ||propushka.com^$third-party
 ||push-house.net^$third-party
@@ -1626,6 +1626,7 @@ _userbar_$image
 ||champion.com.ua/get_battle_list$xmlhttprequest
 ||chastnik-m.ru/images/bg/
 ||chat.top-torrent.ws/widget.js?
+||chita.ru/common/*/subscription_news.php?action=check&
 ||cinema-hd.tv/fon/
 ||clocklink.com/clocks/
 ||club-nobles.ru/players/
@@ -24647,7 +24648,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
 @@||aolcdn.com/aboutme/*/icons/socialmedia/$domain=about.me
-@@||apis.google.com/js/platform.js$domain=9gag.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
+@@||apis.google.com/js/platform.js$domain=9gag.com|febbit.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
 @@||app.hrlab.de/assets/icons/$image,domain=app.hrlab.de
 @@||apple.com/kb/resources/images/i_facebook.png
 @@||archiveteam.org^$generichide
@@ -24785,6 +24786,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||fark.net/images/*/links/
 @@||fbcdn.net/connect.php/js/FB.Share$domain=jamendo.com
 @@||fdcdn.co.uk/img/icons/
+@@||febbit.com/img/googleButtons/
 @@||feedburner.google.com^$image,domain=feeds.feedburner.com
 @@||feedly.com/feedburner/feedly.png$domain=feeds.feedburner.com
 @@||filmstarts.de^*/picto_social.png
