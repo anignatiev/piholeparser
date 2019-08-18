@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: K9bzIarC5JvKqXzviK2oQQ
-! Version: 201908170011
+! Checksum: 3RVKebMYNh2tPxaPOlMhBQ
+! Version: 201908180011
 ! Title: Fanboy's Annoyance List
-! Last modified: 17 Aug 2019 00:11 UTC
+! Last modified: 18 Aug 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4019,6 +4019,7 @@ _youtube_social_
 /cookie_alert*.js
 /cookie_banner-
 /cookie_banner.
+/cookie_banner/*
 /cookie_bar.
 /cookie_consent.
 /cookie_consent/*
@@ -5931,6 +5932,7 @@ _site_cookie_
 ##.email-signup-lightbox
 ##.email-signup-module
 ##.email-sub__iframe
+##.email-submit-article-footer
 ##.email-subscribe
 ##.email-subscribe-box-large
 ##.email-subscription-div
@@ -5938,6 +5940,7 @@ _site_cookie_
 ##.email-subscription-wrap
 ##.email-subscription-wrap-sidebar
 ##.email-to-a-friend
+##.email-widget-container
 ##.emailCapture
 ##.emailSignup
 ##.emailSubscribe
@@ -6453,6 +6456,7 @@ _site_cookie_
 ##.newssignup
 ##.ng-newsletter
 ##.nl-newsletter_signup
+##.nl-signup-scrollbox
 ##.nlSubscribe
 ##.nlWidgetMain2
 ##.nls-subscribe
@@ -10929,6 +10933,8 @@ _site_cookie_
 ##.actions_twitter
 ##.actnbr-has-follow
 ##.acx-social-icons-desc
+##.ad-sharing
+##.ad-sharing__link
 ##.ad-social
 ##.adSocial
 ##.adb-footer-social
@@ -19016,6 +19022,7 @@ _site_cookie_
 ##.tb-social-buttons
 ##.tbr-social
 ##.tbt_social
+##.tc-sharing-controls
 ##.tcArticleSocialShare
 ##.tcsn_widget_social_network
 ##.td-float-sharing
@@ -29358,7 +29365,6 @@ _site_cookie_
 ##.iv-ui-website-cookie-compliance
 ##.ixi_accept_cookies
 ##.izee-cookie-alert
-##.iziToast-capsule
 ##.j-cookie
 ##.j-cookie-disclaimer
 ##.j-cookie-message
@@ -29558,6 +29564,7 @@ _site_cookie_
 ##.komunikat-panel[data-tytul*="cookies"]
 ##.koning-cookie-control
 ##.kontener_cookie
+##.kraken-cookie-warning
 ##.kth-toast--bottom
 ##.kue-cookie-notification
 ##.l-cookie-law
@@ -29801,6 +29808,8 @@ _site_cookie_
 ##.mt-cookie-consent-bar
 ##.mtvcookienotificationscontainer
 ##.mu-cookie-box
+##.mui-cookie-banner
+##.mui-js-cookie-banner
 ##.must_show_cookie
 ##.mw-cookiewarning-container
 ##.mw-notification-tag-cookiePolicy
@@ -31233,6 +31242,7 @@ _site_cookie_
 ||madmimi.com/signups/$third-party
 ||magimg.com/random?$third-party
 ||mail.advantagebusinessmedia.com^$third-party
+||mail.bonnier-subscriptions.com^$subdocument
 ||mailerlite.com^$third-party
 ||mailjet.com/statics/js/widget.modal.js$third-party
 ||mailjet.com/widget/$third-party
@@ -34802,6 +34812,7 @@ mail.com##.promo-tabs
 abc.net.au##.promoBox
 thinkprogress.org##.promoCard
 democracynow.org##.promoImage
+vibbo.com##.promoLayerCont
 news.cnet.com##.promoModuleCNET
 ipvm.com##.promo_spacier
 msn.com##.promoappcntnr
@@ -42180,7 +42191,7 @@ pinterest.com#@#.pinterestComponentShare
 google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.plusone
 privatecore.com#@#.post-fb
 facebook.com#@#.post-fb-like
-kliknijwzdrowie.pl,pokoleniesmart.pl,truepundit.com#@#.post-share-container
+kliknijwzdrowie.pl,pokoleniesmart.pl,truepundit.com,velodaily.ru#@#.post-share-container
 imgur.com#@#.post-share-panel
 reddit.com#@#.post-sharing
 guildwars2.com#@#.post-social
@@ -42269,7 +42280,7 @@ tvp.info#@#.social-article
 dallascowboys.com,golem.de,patriots.com,prk24.pl,top.de#@#.social-bar
 funnyordie.com#@#.social-bar-container
 wat.tv#@#.social-block
-adgully.com,chillitorun.pl,flyertalk.com,onovini.com,rta24.eu,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
+adgully.com,chillitorun.pl,flyertalk.com,galaxydata.ru,onovini.com,rta24.eu,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 chess.com#@#.social-btns
@@ -42672,6 +42683,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||config.parsely.com/config/$script,domain=dailystar.co.uk|express.co.uk
 @@||connatix.com/min/connatix.renderer.infeed.min.js$domain=collider.com|gamepress.gg|salon.com
 @@||disqus.com^*/social-icons.png
+@@||dollartree.com^*/backToTop.min.js
 @@||drivek.it^*/jquery.cookiecuttr.min.js
 @@||ebuddy.com/website/*social-icons.png
 @@||ecache.vzw.com/imageFiles/Myacct/*/onlineopinionV5/
@@ -42898,7 +42910,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
 @@||aolcdn.com/aboutme/*/icons/socialmedia/$domain=about.me
-@@||apis.google.com/js/platform.js$domain=9gag.com|febbit.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
+@@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|febbit.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
 @@||app.hrlab.de/assets/icons/$image,domain=app.hrlab.de
 @@||apple.com/kb/resources/images/i_facebook.png
 @@||archiveteam.org^$generichide

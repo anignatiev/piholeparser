@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Zw/uHnKpE2IeecxMPcyZ+w
-! Version: 201908170010
+! Checksum: gjveYNrWf9MSk/5BjFEhJQ
+! Version: 201908180010
 ! Title: RU AdList: BitBlock
-! Last modified: 17 Aug 2019 00:10 UTC
+! Last modified: 18 Aug 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -9372,6 +9372,8 @@ _youtube_social_
 ##.actions_twitter
 ##.actnbr-has-follow
 ##.acx-social-icons-desc
+##.ad-sharing
+##.ad-sharing__link
 ##.ad-social
 ##.adSocial
 ##.adb-footer-social
@@ -17459,6 +17461,7 @@ _youtube_social_
 ##.tb-social-buttons
 ##.tbr-social
 ##.tbt_social
+##.tc-sharing-controls
 ##.tcArticleSocialShare
 ##.tcsn_widget_social_network
 ##.td-float-sharing
@@ -21463,6 +21466,7 @@ _backToTop.
 ##.email-signup-lightbox
 ##.email-signup-module
 ##.email-sub__iframe
+##.email-submit-article-footer
 ##.email-subscribe
 ##.email-subscribe-box-large
 ##.email-subscription-div
@@ -21470,6 +21474,7 @@ _backToTop.
 ##.email-subscription-wrap
 ##.email-subscription-wrap-sidebar
 ##.email-to-a-friend
+##.email-widget-container
 ##.emailCapture
 ##.emailSignup
 ##.emailSubscribe
@@ -21985,6 +21990,7 @@ _backToTop.
 ##.newssignup
 ##.ng-newsletter
 ##.nl-newsletter_signup
+##.nl-signup-scrollbox
 ##.nlSubscribe
 ##.nlWidgetMain2
 ##.nls-subscribe
@@ -23556,6 +23562,7 @@ _backToTop.
 ||madmimi.com/signups/$third-party
 ||magimg.com/random?$third-party
 ||mail.advantagebusinessmedia.com^$third-party
+||mail.bonnier-subscriptions.com^$subdocument
 ||mailerlite.com^$third-party
 ||mailjet.com/statics/js/widget.modal.js$third-party
 ||mailjet.com/widget/$third-party
@@ -23954,6 +23961,7 @@ reddit.com#@#img[alt="submit to reddit"]
 @@||config.parsely.com/config/$script,domain=dailystar.co.uk|express.co.uk
 @@||connatix.com/min/connatix.renderer.infeed.min.js$domain=collider.com|gamepress.gg|salon.com
 @@||disqus.com^*/social-icons.png
+@@||dollartree.com^*/backToTop.min.js
 @@||drivek.it^*/jquery.cookiecuttr.min.js
 @@||ebuddy.com/website/*social-icons.png
 @@||ecache.vzw.com/imageFiles/Myacct/*/onlineopinionV5/
@@ -24284,7 +24292,7 @@ pinterest.com#@#.pinterestComponentShare
 google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.plusone
 privatecore.com#@#.post-fb
 facebook.com#@#.post-fb-like
-kliknijwzdrowie.pl,pokoleniesmart.pl,truepundit.com#@#.post-share-container
+kliknijwzdrowie.pl,pokoleniesmart.pl,truepundit.com,velodaily.ru#@#.post-share-container
 imgur.com#@#.post-share-panel
 reddit.com#@#.post-sharing
 guildwars2.com#@#.post-social
@@ -24373,7 +24381,7 @@ tvp.info#@#.social-article
 dallascowboys.com,golem.de,patriots.com,prk24.pl,top.de#@#.social-bar
 funnyordie.com#@#.social-bar-container
 wat.tv#@#.social-block
-adgully.com,chillitorun.pl,flyertalk.com,onovini.com,rta24.eu,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
+adgully.com,chillitorun.pl,flyertalk.com,galaxydata.ru,onovini.com,rta24.eu,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 chess.com#@#.social-btns
@@ -24648,7 +24656,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
 @@||aolcdn.com/aboutme/*/icons/socialmedia/$domain=about.me
-@@||apis.google.com/js/platform.js$domain=9gag.com|febbit.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
+@@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|febbit.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
 @@||app.hrlab.de/assets/icons/$image,domain=app.hrlab.de
 @@||apple.com/kb/resources/images/i_facebook.png
 @@||archiveteam.org^$generichide
