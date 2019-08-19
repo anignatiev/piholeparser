@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9101
+! Version: 9117
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -125,6 +125,7 @@
 ||ahjwkwugxvznxv.com^
 ||ahkilcrublxn.bid^
 ||ahllgtevqrsh.com^
+||ahneiwkpsnxign.com^
 ||ahstrelgnh.com^
 ||ahtkajcs.com^
 ||ahuivddkvrrebo.com^
@@ -313,6 +314,7 @@
 ||arxerlxllv.bid^
 ||asbqyhrpty.com^
 ||asdtwttky.com^
+||aseabnyw.com^
 ||asecxggulyrf.com^
 ||ashwlrtiazee.com^
 ||asiinbyu.com^
@@ -3503,6 +3505,7 @@
 ||ioupfmge.com^
 ||ioyixcprbghm.com^
 ||iozpujvmlojzhp.com^
+||iozsmwjezobro.com^
 ||ipacpdxmvwyi.com^
 ||ipadxqhm.bid^
 ||ipcouosurtdqc.bid^
@@ -3812,6 +3815,7 @@
 ||jhpceldehkofgj.com^
 ||jhrmgusalkdu.com^
 ||jhutqqddwi.com^
+||jhvgvihirzj.com^
 ||jhwkypuhrw.com^
 ||jhwqdpyo.bid^
 ||jhxpbihkucrq.com^
@@ -4842,6 +4846,7 @@
 ||ltcvpgyouvxya.bid^
 ||ltedbswmryh.com^
 ||ltendtxpnss.bid^
+||ltfdyyixhkshhu.com^
 ||ltffxzmjazabn.bid^
 ||ltfroezjyyhv.com^
 ||ltfxlxze.com^
@@ -5256,6 +5261,7 @@
 ||mspaimzv.com^
 ||mspgkbvxtl.com^
 ||mspnlttfp.com^
+||msrigkqkdd.com^
 ||msrwoxdkffcl.com^
 ||mstmrspnqqevsu.com^
 ||msvgmziu.bid^
@@ -5479,6 +5485,7 @@
 ||nhbklvpswckx.com^
 ||nheanvabodkw.com^
 ||nhkhxvnhfdkn.com^
+||nhndzbmnkps.com^
 ||nhqmomir.com^
 ||niaqaltky.com^
 ||nicmtzkucd.com^
@@ -5846,6 +5853,7 @@
 ||ofjpzeoygigtlq.com^
 ||ofmeapowymywx.bid^
 ||ofmuojegzbxo.com^
+||ofnpjpvxtjfx.com^
 ||ofpwdoovxs.bid^
 ||ofrducrisy.com^
 ||ofslaskeujwn.com^
@@ -6149,6 +6157,7 @@
 ||pbhletstiooizj.com^
 ||pbixcuapo.com^
 ||pbjnssfvatrhc.com^
+||pbnusnsr.com^
 ||pbofytmakvye.com^
 ||pbpdgojwzfdc.com^
 ||pbsmzzxrmu.bid^
@@ -7432,6 +7441,7 @@
 ||sepyqhipq.com^
 ||setrtcjfhreqg.com^
 ||seuojaesymeriv.com^
+||sexilbbpnc.com^
 ||seympfgeyrew.com^
 ||sfaprgtgcguh.com^
 ||sfawiner.com^
@@ -7718,6 +7728,7 @@
 ||syiwwswcbxk.bid^
 ||symydvmqjjp.com^
 ||syrnujjldljl.com^
+||sywwplqqumjgm.com^
 ||sywyknkojoj.bid^
 ||syxcbevp.com^
 ||syxojpztar.com^
@@ -7892,6 +7903,7 @@
 ||tizbmrknb.com^
 ||tjaqsjnrvmt.com^
 ||tjblfqwtdatag.bid^
+||tjcorfsynjppv.com^
 ||tjdrxdsto.com^
 ||tjdvqkis.com^
 ||tjhcjhvzbto.bid^
@@ -8110,6 +8122,7 @@
 ||twjboytcwutbrt.com^
 ||twmeccosyivi.com^
 ||twmvjfatla.com^
+||twmykwjrpr.com^
 ||twngyyzvhzaqtj.com^
 ||twnkpjhbgcp.com^
 ||twnrkedqefhv.com^
@@ -8366,6 +8379,7 @@
 ||uoommnucvua.com^
 ||uopayiycy.com^
 ||uoyznzsggodnl.com^
+||uozfvskaqrgm.com^
 ||upckrtagwpwk.com^
 ||upogbpseso.com^
 ||uppybbhxbblxa.com^
@@ -8640,6 +8654,7 @@
 ||wlezfkwtv.com^
 ||wlhbgwzgep.com^
 ||wlhgopaqpmwah.com^
+||wlrzptntiqez.com^
 ||wlszodcfwqk.com^
 ||wlvjwquv.com^
 ||wmrlljpj.com^
@@ -8783,6 +8798,7 @@
 ||xpywzbxjwbxafv.com^
 ||xpyyrkwpcpwf.com^
 ||xqkqkfszveqvm.com^
+||xqngocao.com^
 ||xqtymopje.com^
 ||xquhrikrq.com^
 ||xrapmkrsqa.com^
