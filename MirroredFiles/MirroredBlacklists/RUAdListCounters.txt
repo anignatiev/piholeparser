@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TLBGbS32VaVBqXR89fxe5Q
-! Version: 201908190010
+! Checksum: Gb8kkh1MLtk8n08wLj16Aw
+! Version: 201908200010
 ! Title: RU AdList: Counters
-! Last modified: 19 Aug 2019 00:10 UTC
+! Last modified: 20 Aug 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -103,6 +103,7 @@ pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net##footer > a
 ||google-analytics.com^$domain=checkadblock.ru
 ||googletagmanager.com/gtm.js$domain=echo.msk.ru|tjournal.ru|vc.ru
 ||livejournal.com^*&callback=*=$script,domain=livejournal.com
+||strm.yandex.ru/get/$script,domain=yastatic.net
 !
 ! = Общие фильтры (блокировка по маске) ==================================================
 .com/a.gif?

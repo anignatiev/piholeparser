@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zFqM8+SfS+ODqWN+V0icqw
-! Version: 201908190010
+! Checksum: AO1HR6EOnVdB9FEc9NRE3A
+! Version: 201908200010
 ! Title: RU AdList: BitBlock
-! Last modified: 19 Aug 2019 00:10 UTC
+! Last modified: 20 Aug 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -20597,6 +20597,10 @@ _backToTop.
 ##.taboola_v8
 ##.taboolaloader
 ##.theme-block--taboola
+##.trc-first-recommendation
+##.trc-spotlight-first-recommendation
+##.trc_excludable
+##.trc_spotlight_item
 ##.widget_am_taboola_main_widget
 ##.widget_ione-taboola
 ! nbc websites app element
@@ -21538,6 +21542,7 @@ _backToTop.
 ##.footer-social-email
 ##.footer-subscrabe-box
 ##.footer-subscribe
+##.footer-subscribe-widget
 ##.footerEmail
 ##.footer__action-media--newsletter
 ##.footer__column--newsletter
@@ -22210,6 +22215,7 @@ _backToTop.
 ##.subscribe-top
 ##.subscribe-top-page
 ##.subscribe-widget-container
+##.subscribe-widget-sidebar
 ##.subscribe-wrapper
 ##.subscribe2
 ##.subscribeBox
