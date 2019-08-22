@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9149
+! Version: 9162
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -18,6 +18,7 @@
 ||aapxtnrhq.bid^
 ||aaqpajztftqw.com^
 ||aariczayhpo.com^
+||aarqdivjxstu.com^
 ||aarwxotc.com^
 ||aaslmqzce.bid^
 ||aatfnptblbxpuy.bid^
@@ -1318,6 +1319,7 @@
 ||ddjodgzhxyjtaa.bid^
 ||ddljcvtxfjtc.com^
 ||ddmlzfwsb.com^
+||ddnmzrpp.com^
 ||debuackedhkvu.bid^
 ||deebwmbbytr.com^
 ||degitlwfezpe.com^
@@ -1560,6 +1562,7 @@
 ||dtusmzjdycvk.com^
 ||dtvlalitvg.com^
 ||dtzlgtmqoj.bid^
+||duamuprs.com^
 ||dubijsirwtwq.com^
 ||dubzmzpdkddi.com^
 ||duchmcmpmqqu.com^
@@ -3277,6 +3280,7 @@
 ||hywwsavdydy.bid^
 ||hyxhxnlqeppn.com^
 ||hyzncftkveum.com^
+||hzcrhwmi.com^
 ||hzivfezfltago.com^
 ||hztjenzlrrwinq.com^
 ||hzulgipdcbgwad.com^
@@ -4007,6 +4011,7 @@
 ||jrikmexrknmxy.com^
 ||jrlnmyorquny.bid^
 ||jrlsithadutpm.com^
+||jrltmnxpj.com^
 ||jroxkqhin.com^
 ||jrrekpskc.com^
 ||jrrmwjybfaztct.com^
@@ -4112,6 +4117,7 @@
 ||jzbutifk.com^
 ||jzckyzvlxetror.com^
 ||jzfzgkepkjcf.com^
+||jzgskqccroqg.com^
 ||jzgtnetghdc.com^
 ||jzigsobgsmxdmr.bid^
 ||jzjhcpdf.com^
@@ -4802,6 +4808,7 @@
 ||lpxxafsupgsho.com^
 ||lpzltglosmbqul.bid^
 ||lpzsxemf.com^
+||lqagwvarq.com^
 ||lqaqfklrgnr.bid^
 ||lqbyqjap.com^
 ||lqdqjkzfhijx.com^
@@ -4959,6 +4966,7 @@
 ||lyovvtevsu.bid^
 ||lyssmgbr.com^
 ||lytaxbxen.bid^
+||lyukxxwfqdn.com^
 ||lyuoaxruaqdo.com^
 ||lyuswpdanr.com^
 ||lyvnduow.bid^
@@ -4969,6 +4977,7 @@
 ||lzblbcsemihk.com^
 ||lzbzwpmozwfy.com^
 ||lzfvonzwjzhz.com^
+||lzfyahjavcik.com^
 ||lzkuqbptcjqta.com^
 ||lzopoqzlihfbc.com^
 ||lzpqpstowpvz.bid^
@@ -5036,6 +5045,7 @@
 ||mdgupvvdjpafyl.bid^
 ||mdjtqsamfeodp.bid^
 ||mdlhzknv.com^
+||mdmupsmel.com^
 ||mdpjnppsbjv.bid^
 ||mdpmgoitzaotk.com^
 ||mdrkqbsirbry.com^
@@ -7820,6 +7830,7 @@
 ||tcxygxdrv.com^
 ||tcyeyccspxod.com^
 ||tczvikamowfjte.com^
+||tddjcdzra.com^
 ||tdgysmmdru.bid^
 ||tdjfxeavusdpci.com^
 ||tdjoaosibes.com^
@@ -8349,6 +8360,7 @@
 ||ukjsibgu.com^
 ||ukjzdydnveuc.com^
 ||ukksghzwxha.com^
+||uklvebsp.com^
 ||ukngpcuyc.com^
 ||uknlxuxflvlw.com^
 ||ukolwxqopahb.com^
@@ -9026,6 +9038,7 @@
 ||zavlamhx.com^
 ||zayhipbcxig.com^
 ||zbbqhdnef.com^
+||zbtffdiu.com^
 ||zbulsymgpbjv.com^
 ||zbvrqrjecs.com^
 ||zcauvwmfevhox.com^
