@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AO1HR6EOnVdB9FEc9NRE3A
-! Version: 201908200010
+! Checksum: rNqGPRYN1lu0Es7Db0BgiQ
+! Version: 201908230010
 ! Title: RU AdList: BitBlock
-! Last modified: 20 Aug 2019 00:10 UTC
+! Last modified: 23 Aug 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -240,7 +240,6 @@ _vkontakte.png
 ||tchkcdn.com/www/social-widgets/
 ||telegrafcom.api.oneall.com/socialize/
 ||thevista.ru/*/img/soc/
-||torrent-filmi.net/js/tvlend.js
 ||twitter.com/widgets.js$domain=hdrezka.tv
 ||tyt.by/i/socialBlock/
 ||umovies.club/flowplayer/src/assets/bg*jpg|$image
@@ -288,7 +287,7 @@ hitfm.ru###footer a[target="_blank"][class*="fa-"]
 lgz.ru###header-soc-block
 lifenews.ru,lifenews78.ru###header-socials
 ok.ru###hook_Block_SocialFriendsMenuRB
-torrent-filmi.net###infoBlockCont
+torrent-filmi.net,torrent-filmi.xyz###infoBlockCont
 adme.ru###js-dialog-social-overlay-1
 anidub.me,anidub.tv,anime.anidub.com,online.anidub.com###lcol > .lblockcon
 anidub.me,anidub.tv,anime.anidub.com,online.anidub.com###lcol > .lblockhead
@@ -853,6 +852,7 @@ obozrevatel.com##.widget-instagram
 it-tehnik.ru##.widget-soc
 ecology.md#?#.widget:-abp-has(#socialcarousel)
 russkiiyazyk.ru##.widget_custom_html
+zrada.today#?#.widget_custom_html:-abp-has(> .widget-title:-abp-contains(Ми у Фейсбук))
 ain.ua##.widget_like
 theins.ru##.widget_smt_widget
 jpgazeta.ru##.widget_vk
@@ -903,7 +903,7 @@ anistar.org,anistar1.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,ani
 kommersant.ru##a[href][title="Поделиться"]
 youla.ru##a[href][title^="Поделиться"]
 livecars.ru,livesport.ru##a[href^="https://share.yandex.ru/"]
-agronews.ua,animedub.ru,apostrophe.ua,app2top.ru,censor.net.ua,computerra.ru,depo.ua,game2day.ru,livesport.ws,maanimo.com,mk.ru,myslo.ru,pravda.com.ua,privatfinance.com,rbc.ua,segodnya.ua,softportal.com,soundpark.best##a[href^="https://t.me/"]
+agronews.ua,animedub.ru,apostrophe.ua,app2top.ru,censor.net.ua,computerra.ru,depo.ua,game2day.ru,livesport.ws,maanimo.com,mk.ru,myslo.ru,pravda.com.ua,privatfinance.com,rbc.ua,segodnya.ua,softportal.com,soundpark.best,zrada.today##a[href^="https://t.me/"]
 66.ru,mma-today.ru,tproger.ru##a[href^="tg://resolve"]
 toptracker.ru##a[onclick^="content_share"]
 qiq.ws##a[onclick^="return addSoc"]
@@ -1155,6 +1155,7 @@ _userbar_$image
 ##.b-policy-info
 ##.banner-policy-wrap
 ##.blocking-subscribe
+##.c-cookies
 ##.cc-window[aria-label="cookieconsent"]
 ##.clearfy-cookie
 ##.cookie-agreement
@@ -1905,7 +1906,7 @@ ok.ru###hook_Block_PostingMotivatorBlock
 ok.ru###hook_Block_ProLink
 ok.ru###hook_Block_ThemesControlRB
 7dneyleta.ru###html-header
-torrent-filmi.net###infoBlockFilm
+torrent-filmi.net,torrent-filmi.xyz###infoBlockFilm
 agronews.ru,vpsite.ru###informer
 miformat.info###inner-content > #sidebar
 forum.sibnet.ru###ipbwrapper > table > tbody > tr > td[style="width: 240px;"]
@@ -2034,6 +2035,7 @@ pb.wtf,piratbit.org,piratbit.pw,piratbit.top#?##topocs_maine > [id^="post"]:-abp
 pb.wtf,piratbit.org,piratbit.pw,piratbit.top###topocs_maine > thead > tr ~ tr
 kriminal.tv###tvfooter
 lenta.ru###up
+free-tor.info,korsars.info###upbutton
 nowa.cc###usac
 moscatalogue.net###user_disclaimer
 riafan.ru###videodigest__yt-container
@@ -2217,6 +2219,7 @@ fb.ru##.feature--inner
 kinopoisk.ru##.feature_promo
 ok.ru#?#.feed-list > .feed-w:-abp-has(.feed_label:-abp-contains(Промо))
 dtf.ru,tjournal.ru,vc.ru##.feed:not([data-feed-more-url*="/promo/"]) .entry-wrapper--promo
+tjournal.ru#?#.feed__chunk > .feed__item:-abp-has(> .content-feed--promo)
 vk.com##.feed_friends_recomm
 drive.ru##.feedsub
 cont.ws##.fill
@@ -2379,7 +2382,6 @@ nevasport.ru##.post-tags > [class^="post-tags__"]
 mind.ua##.post__menu
 cont.ws##.post_toolbar__meta
 cont.ws##.post_toolbar__promo
-newstudio.tv##.post_wrap > span[id] > a[href]:not([href*="imdb"]):not([href*="tv.com"])[class="postLink"][target="_blank"]:last-of-type
 rustrek.ru,tapochek.net##.poster
 kinoafisha.ua##.privacy-modal
 obozrevatel.com,rbc.ua,telegraf.com.ua##.privasypolicy-info
@@ -2437,9 +2439,11 @@ torrent-club.net##.sidebar-primary
 habr.com##.sidebar_right > #companies_rating
 teplica-exp.ru##.similar-info > .title_for_corousel
 topgir.com.ua##.singing
+kfund-media.com##.site__policy-banner
 minfin.com.ua##.skySanta
 gamelendi.ru##.snow
 porodakoshki.ru##.socialer-popup-overlay
+tabfilm.ru##.sorry-rek
 europaplustv.com##.spec-box[onclick*="europaplustv.com"]
 3dnews.ru##.spec-proj-btn
 eda.ru##.special-projects
@@ -2672,7 +2676,6 @@ relizua.com##noindex > center > a[href][target="_blank"]
 overclockers.ru#?#noindex:-abp-has(> .an-link-list)
 online-kassa.ru##ok-callback
 benzin-price.ru##p:first-child + p > table[align="center"]
-newstudio.tv#?#span[class^="post"]:-abp-contains(При поддержке:)
 goha.ru##span[id^="scrollto"]
 streamzone.org##span[style*="3.0em;"]
 vz.ru##table[width="100%"] > tbody > tr > td > div:not([id]):not([class]):not([style])
@@ -10848,6 +10851,9 @@ _youtube_social_
 ##.entry-socials
 ##.entry-top-share
 ##.entryShare
+##.entry__meta__share
+##.entry__meta__share--facebook
+##.entry__meta__share--twitter
 ##.entry__share
 ##.entry_share
 ##.entry_share-trigger
@@ -14695,8 +14701,12 @@ _youtube_social_
 ##.share-filled
 ##.share-fixed-desktop
 ##.share-flat
+##.share-float--visible
 ##.share-float-overlay
 ##.share-float-panel
+##.share-float__facebook
+##.share-float__title
+##.share-float__twitter
 ##.share-floating
 ##.share-follow-tab
 ##.share-footer
@@ -15077,6 +15087,7 @@ _youtube_social_
 ##.shareWrap
 ##.share_Danger
 ##.share__back-to-top
+##.share__btn--js
 ##.share__button
 ##.share__buttons
 ##.share__call-to-action
