@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9173
+! Version: 9181
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1589,6 +1589,7 @@
 ||dvgvwatnnqsmll.com^
 ||dvhznawcuacblo.com^
 ||dviavwhykcdp.com^
+||dvjhdodvcu.com^
 ||dvlhwokr.bid^
 ||dvokgydenwaksi.com^
 ||dvpgijdm.com^
@@ -2017,6 +2018,7 @@
 ||eyrqubnodswlkw.com^
 ||eytoshab.com^
 ||eytqtjpjnmeas.com^
+||eyvcjtoiwbrt.com^
 ||eywirvfupvo.com^
 ||ezbbxqocxnto.com^
 ||ezbtpdjeimlv.com^
@@ -2198,6 +2200,7 @@
 ||fkpbbmgqa.bid^
 ||fkphqtgqrfixl.com^
 ||fkrgfktdvta.com^
+||fkrisjefbx.com^
 ||fkrrvhoierty.com^
 ||fktrlckpmsxx.com^
 ||fkvjntfj.com^
@@ -4782,6 +4785,7 @@
 ||lnwqvhcqw.com^
 ||loakfiiggz.bid^
 ||locjzfoh.com^
+||lodqycbq.com^
 ||lofipgeld.bid^
 ||logkzudhrg.com^
 ||lohxvwjpvl.com^
@@ -5330,6 +5334,7 @@
 ||musighkm.com^
 ||muwjxxvovtb.com^
 ||muxtpvixahawy.com^
+||mvbemeggnodty.com^
 ||mvdbdtwicgw.bid^
 ||mvddovmyeh.bid^
 ||mvdnsrgolwgru.com^
@@ -6816,6 +6821,7 @@
 ||qpbaammdcwu.com^
 ||qpcyafunjtir.com^
 ||qpeczlqvv.com^
+||qpfzpcsknvt.com^
 ||qpganepbkw.com^
 ||qpianhkxxuc.com^
 ||qpjowolqlpg.com^
@@ -8842,6 +8848,7 @@
 ||xocecytufu.com^
 ||xoekgcscpnipb.com^
 ||xoqkhbtpnzblh.com^
+||xoyoijhp.com^
 ||xpahdmitqadqda.com^
 ||xpgcrmxejlgig.com^
 ||xprurfeoarxz.com^
@@ -8864,6 +8871,7 @@
 ||xsnfmaxicj.com^
 ||xsnqhzbiqdmqw.com^
 ||xsqylzml.com^
+||xsrzmhriydfcqx.com^
 ||xtccyvimdr.com^
 ||xtcfsrxmz.com^
 ||xtivbxvndnv.com^

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zDH4Cc0PoSz4P971mlV4Sg
-! Version: 201908230011
+! Checksum: bA9tgqc2PhDw/arPvRO7ag
+! Version: 201908240011
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Aug 2019 00:11 UTC
+! Last modified: 24 Aug 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4418,6 +4418,7 @@ _youtube_social_
 /rodo/messages-
 /rodo/rodo.js
 /rodo_rmf.
+/rodoinfo/*/remodal.js
 /rtiCookieLaw.
 /script-rodo.
 /script_cookie.
@@ -15303,6 +15304,7 @@ _site_cookie_
 ##.nav--share
 ##.nav--social
 ##.nav--social-box
+##.nav--socials
 ##.nav--stay-connected
 ##.nav-bar-facebook
 ##.nav-button-facebook
@@ -36259,6 +36261,7 @@ smashingmagazine.com##.product-panel--book
 jamf.com##.promo-box
 eonline.com##.promo_dialog
 propublica.org##.promotion
+time.com##.promotional-banner
 irishtimes.com##.pull-out-cta_dark
 portseurope.com##.pum-container
 guidingtech.com##.push-line-top
@@ -40852,6 +40855,7 @@ playboy.de##.as-oil-content-overlay
 urbia.de##.banner
 anibis.ch##.banner-wrapper
 bkw.ch##.bkw-snackbar
+marktguru.de##.bottom-alert
 envivas.de##.box-hint-layer
 hey.car##.btDhtn
 gamblejoe.com##.c-area
@@ -42715,6 +42719,7 @@ techopital.com#@##cookieConsentContainer
 indebuurt.nl,tweakers.net#@##cookieContainer
 brieftip.pl,britishairways.com,fotofairsicherung.de,kaliber.pl,naszwybir.pl,onsbrabantnet.nl,tropicana.fr,woolworth.de#@##cookieModal
 dhbbank.nl#@##cookieModalCenter
+krefting.de#@##cookieNote
 tweakers.net#@##cookieOverlay
 milliman.com#@##cookieSection
 postnl.be#@##cookiebar-container
@@ -42945,7 +42950,9 @@ unicode.org#@#div[data-nconvert-cookie]
 @@/cookie_law/plugin.js$script,~third-party
 @@/zig_cookiepolicybar/*/CookieBar.js$script,~third-party
 ! https://github.com/ryanbr/fanboy-adblock/issues/721#issuecomment-443395851
-@@/wp-content/plugins/wp-minify/min/?*,wp-content$stylesheet
+! https://github.com/ryanbr/fanboy-adblock/issues/1133
+@@/wp-content/plugins/bwp-minify/min/?*,wp-content$script,stylesheet,~third-party
+@@/wp-content/plugins/wp-minify/min/?*,wp-content$script,stylesheet,~third-party
 !
 @@||adobe.com/downloadcenter/*/cookies/cookies.js
 @@||alicdn.com/js/*/cookie-info.js$script
@@ -43389,6 +43396,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||maroelamedia.co.za^*/ultimate-social-deux/*/jquery.tooltipster-min.js
 @@||media-cache*.pinimg.com^$image,third-party
 @@||media-imdb.com/images/navbar/navbar_sprite_social.png$domain=imdb.com
+@@||mediaexpert.pl/common2/images/$image
 @@||mediafirerepack.net^*/facebook-page-promoter-lightbox/$script
 @@||meetmecdna.com/images/Connect/btn_facebook_custom_text.png$domain=meetme.com
 @@||megabus.com/images/megabus-socialmedia-
