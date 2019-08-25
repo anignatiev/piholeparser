@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201908232252
+! Version: 201908242238
 ! Title: EasyPrivacy
-! Last modified: 23 Aug 2019 22:52 UTC
+! Last modified: 24 Aug 2019 22:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2083,6 +2083,8 @@
 /inpl.measure.
 /insales_counter.
 /insert_impressions.
+/insights-emitter.
+/insights-emitter/*
 /InsightTrk/*
 /insightXe.js
 /insitemetrics/*
@@ -2572,6 +2574,7 @@
 /newlog.php?
 /newrelic-gpt.
 /newrelic.js
+/newrelic.min.js
 /newrelicKpis-
 /newrelicKpisFooter-
 /newscount/*
@@ -2760,6 +2763,7 @@
 /pageviews_counter.
 /PageviewsTracker.
 /pap.swf?
+/parsely.js
 /particles/analytics.
 /partner/transparent_pixel-$image
 /partner_tracking_
@@ -3552,6 +3556,7 @@
 /stracking.js
 /sTrackStats.
 /stream/log.html?
+/streamsense.min.js
 /stt/track.
 /stt/track/*
 /stwc-counter/*
@@ -3601,7 +3606,6 @@
 /tagx.js
 /tailtarget.js
 /targetemsecure.
-/targeting/render.
 /taxtag.js
 /tblz_sailthru/*
 /tbuy/tracker/*
@@ -4655,6 +4659,12 @@ _xiti_js-
 _zag_cookie.
 cgi-bin/counter
 ||meetrics.netbb-
+! washingtonpost
+/feature-loader/render.
+/magnet/render.
+/re-engage/render.
+/targeting/render.
+/vissense.js
 ! Mining
 -coin-hive.js
 -coin-hive/$script
@@ -5743,6 +5753,7 @@ _mongo_stats/
 ||geni.us^$third-party
 ||genieesspv.jp^$third-party
 ||geobytes.com^$third-party
+||geoedge.be^$third-party
 ||geoip-db.com^$third-party
 ||geoplugin.net^$third-party
 ||georiot.com^$third-party
@@ -6851,6 +6862,7 @@ _mongo_stats/
 ||spectate.com^$third-party
 ||speed-trap.com^$third-party
 ||speedcurve.com^$third-party
+||sphereup.com^$third-party
 ||spklw.com^$third-party
 ||splittag.com^$third-party
 ||splurgi.com^$third-party
@@ -10566,6 +10578,7 @@ _mongo_stats/
 ||pix.speedbit.com^$third-party
 ||pixel-a.basis.net^
 ||pixel-xpanama.netdna-ssl.com^
+||pixel.blivenyc.com^
 ||pixel.cdnwidget.com^
 ||pixel.colorupmedia.com^
 ||pixel.condenastdigital.com^
@@ -11140,6 +11153,7 @@ _mongo_stats/
 ||traffic.prod.cobaltgroup.com^
 ||traffic.shareaholic.com^
 ||trafficfuelpixel.s3-us-west-2.amazonaws.com^
+||trafficmanager.anyclip.com^
 ||trakksocial.googlecode.com^$third-party
 ||traq.li/tracker/
 ||travel-assets.com/datacapture/
@@ -11329,6 +11343,7 @@ _mongo_stats/
 ||yellowbrix.com/images/content/cimage.gif?
 ||yellowpages.com^*.gif?tid$third-party
 ||yext.com/plpixel?
+||yimg.com/ss/vops.js
 ||yimg.com/wi/ytc.js
 ||yimg.com^*/l?ig=$image
 ||ypcdn.com/*/webyp?
@@ -13508,6 +13523,7 @@ _mongo_stats/
 ||nexon.net/tagging/
 ||next.co.uk/log.php
 ||nfl.com/imp?
+||nfltags.com/omniture/atm/$domain=nfl.com
 ||nhk.jp^*/bc.gif?
 ||nih.gov/medlineplus/images/mplus_en_survey.js
 ||nih.gov/share/scripts/survey.js
@@ -15956,6 +15972,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||amazonaws.com/visitorsegment/shared/resources/$script,domain=washingtonpost.com
 @@||amctv.com^*/comscore.js
 @@||amctv.com^*/google-analytics.js$domain=amctv.com
+@@||ampproject.org/v0/amp-geo-$script,domain=tasty.co
 @@||ampush.io/js/tracker.js$domain=tunein.com
 @@||analytics.atomiconline.com/services/jquery.js
 @@||analytics.edgekey.net/js/brightcove-csma.js$domain=news.com.au
@@ -16248,7 +16265,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||google.com/js/gweb/analytics/$domain=google.com
 @@||google.com/js/gweb/analytics/autotrack.js$domain=gradleplease.appspot.com
 @@||google.com/js/gweb/analytics/doubletrack.js$domain=android.com
-@@||googletagmanager.com/gtm.js?$domain=action.com|adsoup.com|airasia.com|asus.com|bhaskar.com|broadcom.com|complex.com|computerworlduk.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|gamepix.com|git-tower.com|google.com|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsy.com|onesignal.com|optus.com.au|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|sixflags.com|support.amd.com|talktalk.co.uk|techradar.com|toto.co.jp|trademe.nz|usmagazine.com
+@@||googletagmanager.com/gtm.js?$domain=action.com|adsoup.com|airasia.com|asus.com|bhaskar.com|broadcom.com|complex.com|computerworlduk.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|gamepix.com|git-tower.com|google.com|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsy.com|nfl.com|onesignal.com|optus.com.au|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|sixflags.com|support.amd.com|talktalk.co.uk|techradar.com|toto.co.jp|trademe.nz|usmagazine.com
 @@||googletagmanager.com/gtm.js?id=GTM-5D256R&l=aedataLayer^
 @@||googletagservices.com/tag/js/gpt.js$domain=speedtest.net
 @@||gorillanation.com/js/triggertag.js$domain=comingsoon.net|playstationlifestyle.net
