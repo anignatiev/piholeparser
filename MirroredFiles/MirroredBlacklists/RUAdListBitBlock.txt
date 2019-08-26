@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QowdrXgvom0+AqzBiSFjxg
-! Version: 201908250010
+! Checksum: byJnfCxHlBsW+cvjkZDOuA
+! Version: 201908260010
 ! Title: RU AdList: BitBlock
-! Last modified: 25 Aug 2019 00:10 UTC
+! Last modified: 26 Aug 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1986,6 +1986,7 @@ tproger.ru###related-posts
 rg.ru###rgb_subs-ads_three
 3dnews.ru###right-sidebar > #youtube-chunk-wrapper
 3dnews.ru###right-sidebar > center > a[href][target="_blank"]
+3dnews.ru###right-sidebar > img[src*="banner"]
 kino-teatr.ua###rightContent a[href^="https://play.google.com/"]
 bugaga.ru###right_col
 9111.ru###robot_chat
@@ -5039,11 +5040,13 @@ prom.ua#@#img[alt="facebook"]
 /share/yahoomyweb.
 /share/youtube_
 /share001btn.
+/share1.
 /share2-
-/share2.png
+/share2.
 /share2/*$~stylesheet
 /share24.
 /share2_
+/share3.
 /share4.
 /share42.js
 /share42_
@@ -6314,6 +6317,7 @@ _youtube_social_
 ###FollowUs
 ###Follow_Buttons
 ###Followers1
+###FooterSocialList
 ###GooglePlusTab
 ###HTsocial
 ###HeadSocials
@@ -7561,6 +7565,7 @@ _youtube_social_
 ###multiplesocialwidget-id
 ###multix_icons_facebook
 ###mvp-author-box-soc-wrap
+###mvp-fly-soc-wrap
 ###mvp-foot-soc
 ###mvp-nav-soc
 ###mvp-nav-soc-list
@@ -13722,6 +13727,9 @@ _youtube_social_
 ##.mvp-post-soc-pin
 ##.mvp-post-soc-twit
 ##.mvp-post-soc-wrap
+##.mvp-soc-mob-email
+##.mvp-soc-mob-list
+##.mvp-soc-mob-pin
 ##.mvp_facebook_widget
 ##.mvp_social_widget
 ##.my-fa-share-alt
@@ -13853,6 +13861,7 @@ _youtube_social_
 ##.news-header-social
 ##.news-item-sharing
 ##.news-share
+##.news-share-button-down
 ##.news-sharing
 ##.newsDetailSocialMediaBox
 ##.newsItemSharer
@@ -18616,6 +18625,7 @@ _youtube_social_
 ##a[href^="//www.reddit.com/submit?"]
 ##a[href^="/gp/socialmedia/share/"]
 ##a[href^="fb-messenger://share/?"]
+##a[href^="fb-messenger://share?link="]
 ##a[href^="http://add.my.yahoo.com/content?"]
 ##a[href^="http://b.hatena.ne.jp/add"]
 ##a[href^="http://b.hatena.ne.jp/add?url="]
@@ -18671,6 +18681,7 @@ _youtube_social_
 ##a[href^="http://www.livejournal.com/update.bml?"]
 ##a[href^="http://www.meneame.net/submit.php?url="]
 ##a[href^="http://www.pinterest.com/pin/create/button/?"]
+##a[href^="http://www.pinterest.com/pin/find/?"]
 ##a[href^="http://www.plurk.com/?qualifier=shares&"]
 ##a[href^="http://www.reddit.com/submit"]
 ##a[href^="http://www.sharethis.com/share/?publisher="]
@@ -21150,6 +21161,8 @@ _backToTop.
 ###sidebarnewsletter
 ###sidebarnewsletter_wrapper
 ###sidenewsletter
+###sign-up-newsletter
+###sign-up-newsletter__form
 ###signUpPromoFooter
 ###signup-box-rr
 ###signup-in-sidebar-newsletter
@@ -22807,6 +22820,7 @@ _backToTop.
 ###backTop
 ###back_to_top
 ###back_to_top_now
+###back_to_top_seaocore_button_common_21813
 ###backtoTop
 ###backtop
 ###backtotop

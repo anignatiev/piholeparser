@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9181
+! Version: 9192
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -671,6 +671,7 @@
 ||bnstnhto.com^
 ||bnwjoqkudmh.bid^
 ||boaawvdg.com^
+||bobwjhcuavqklk.com^
 ||bocksnabswdq.com^
 ||bocqmlgslzoo.com^
 ||boevznvrllm.bid^
@@ -1176,6 +1177,7 @@
 ||cujsutkdbz.com^
 ||cukabtvyl.com^
 ||cukwbpne.com^
+||cuortwomnr.com^
 ||cupzwcxgx.com^
 ||curnkiosk.com^
 ||cuvbcwgenwytrk.bid^
@@ -1510,6 +1512,7 @@
 ||dpwmloknxtuw.com^
 ||dpwrhdzeqw.com^
 ||dpwsvrkmfxrt.com^
+||dpxjvfdtufp.com^
 ||dqcqavgqk.bid^
 ||dqdnwhyxeblt.com^
 ||dqdwvmpez.com^
@@ -1962,6 +1965,7 @@
 ||euuikdao.com^
 ||euwyhbib.com^
 ||euxisszoyader.com^
+||evaffwmdjgtn.com^
 ||evdveuys.com^
 ||evepcynlxks.com^
 ||evfatcuv.com^
@@ -2252,6 +2256,7 @@
 ||foguumjql.com^
 ||fojgpvkhu.com^
 ||foovyagf.com^
+||foqbcgpwrq.com^
 ||foqzposfvmk.com^
 ||fosclhrsdhhn.com^
 ||foswrohqoadp.com^
@@ -3900,6 +3905,7 @@
 ||jlarmqbypyku.com^
 ||jldnphwwu.bid^
 ||jldstutlnz.com^
+||jlehwynpwadmq.com^
 ||jlgtjteei.com^
 ||jlhkteiqgvafic.com^
 ||jlkadizug.com^
@@ -5714,6 +5720,7 @@
 ||ntnmliatmtk.com^
 ||ntoyqqrwrmzr.com^
 ||ntpawkfea.com^
+||ntpmhryl.com^
 ||ntwhbuqmel.com^
 ||nuaycqtaluwha.com^
 ||nubarwcziykx.bid^
@@ -5755,6 +5762,7 @@
 ||nwjabizlgseab.com^
 ||nwkwefhpjohlor.bid^
 ||nwooatwtmhfdh.bid^
+||nwqcvbyznx.com^
 ||nwqgyaxazz.com^
 ||nwrgqhjtullyjs.com^
 ||nwrkyuftlnbzuh.bid^
@@ -5914,6 +5922,7 @@
 ||ogulzxfxrmow.com^
 ||oguorftbvegb.com^
 ||ogvrdxjcgzst.com^
+||ogwykjkqbhf.com^
 ||ogyhsyuhczvjg.com^
 ||ogzivkwjhrs.com^
 ||ohdoxowrbkyd.com^
@@ -8738,6 +8747,7 @@
 ||wstvcgfkvc.com^
 ||wsucuzkmnd.com^
 ||wtrzjadunrzx.com^
+||wtyruwwvjloyk.com^
 ||wuaefxberbqcv.com^
 ||wubdkryfkr.com^
 ||wucbuvitibyiy.com^
@@ -9171,6 +9181,7 @@
 ||zvswmofga.com^
 ||zweigciinmslan.com^
 ||zwfvzxmc.com^
+||zwmauyerfotyh.com^
 ||zwpaujzg.com^
 ||zwsyqdnhnyzckt.com^
 ||zxaoudwcljrtig.com^
