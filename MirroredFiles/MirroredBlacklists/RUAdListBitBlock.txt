@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: byJnfCxHlBsW+cvjkZDOuA
-! Version: 201908260010
+! Checksum: j+bNZ/UiPU5f9T/D/Ze+Lg
+! Version: 201908270010
 ! Title: RU AdList: BitBlock
-! Last modified: 26 Aug 2019 00:10 UTC
+! Last modified: 27 Aug 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -19553,6 +19553,7 @@ _youtube_social_
 /notifications_lazy.
 /one-signal.
 /onesignal-modal.
+/onesignal.js
 /onesignal.min.
 /onesignal/manifest.
 /onesignalfix.
@@ -22209,6 +22210,7 @@ _backToTop.
 ##.ssb-subscribe-box
 ##.sticky-signup
 ##.stickyNewsletterBar
+##.sticky_newsletter
 ##.story-follow-module
 ##.str-inline-subscription-block
 ##.sub_newsletter
@@ -22345,6 +22347,7 @@ _backToTop.
 ##.widget-newsletter
 ##.widget-newsletter-block
 ##.widget-newsletter-form-style
+##.widget-newsletter-newsletter
 ##.widget-newsletter-sign-up
 ##.widget-newsletter-sign-up__form
 ##.widget-ngs-subscribe

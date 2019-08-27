@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3715TeE0ANBVbcPzXFm3uA
-! Version: 201908260011
+! Checksum: zlpgUfQoxtbvjMzqaSYjbg
+! Version: 201908270011
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Aug 2019 00:11 UTC
+! Last modified: 27 Aug 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -170,6 +170,7 @@
 /notifications_lazy.
 /one-signal.
 /onesignal-modal.
+/onesignal.js
 /onesignal.min.
 /onesignal/manifest.
 /onesignalfix.
@@ -6649,6 +6650,7 @@ _site_cookie_
 ##.ssb-subscribe-box
 ##.sticky-signup
 ##.stickyNewsletterBar
+##.sticky_newsletter
 ##.story-follow-module
 ##.str-inline-subscription-block
 ##.sub_newsletter
@@ -6785,6 +6787,7 @@ _site_cookie_
 ##.widget-newsletter
 ##.widget-newsletter-block
 ##.widget-newsletter-form-style
+##.widget-newsletter-newsletter
 ##.widget-newsletter-sign-up
 ##.widget-newsletter-sign-up__form
 ##.widget-ngs-subscribe
@@ -35961,6 +35964,7 @@ worldreligionnews.com###text-18
 worthynews.com###text-19
 tubefilter.com###text-24
 therightscoop.com###text-25
+theshaderoom.com###text-28
 franklincounty-news.com###text-3
 propertywheel.co.za###text-37
 fightthenewdrug.org###text-39
