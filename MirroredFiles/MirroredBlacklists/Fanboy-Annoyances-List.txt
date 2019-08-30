@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zlpgUfQoxtbvjMzqaSYjbg
-! Version: 201908270011
+! Checksum: nuGfUCO4kroG3Z9xOCkCyg
+! Version: 201908300011
 ! Title: Fanboy's Annoyance List
-! Last modified: 27 Aug 2019 00:11 UTC
+! Last modified: 30 Aug 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7598,7 +7598,7 @@ _site_cookie_
 ##.js-go-to
 ##.js-pageTop
 ##.js-persistent-nav-top
-##.js-scroll-event.on--totop
+##.js-s-f-back-to-top
 ##.js-scroll-to-top
 ##.js-scroll-top
 ##.js-scrollTop
@@ -7635,6 +7635,7 @@ _site_cookie_
 ##.nav--back-to-top
 ##.news-back-to-top__top-link
 ##.o-backtop
+##.on--totop
 ##.os-back-to-top
 ##.p-pagetop-btn
 ##.pagetop-btn
@@ -7654,6 +7655,7 @@ _site_cookie_
 ##.rtp-back-to-top
 ##.ruby-back-top
 ##.s-btn-gotop
+##.s-f-back-to-top
 ##.s-gotop-wrap
 ##.s5_scrolltotop
 ##.scroll-back-to-top-wrapper
@@ -16045,6 +16047,7 @@ _site_cookie_
 ##.rui-social
 ##.ryot_share
 ##.s-btns
+##.s-f__social
 ##.s-facebook
 ##.s-googleplus
 ##.s-instagram
@@ -36673,6 +36676,7 @@ cnet.com,macromill.com,mhi.com,oki.com,smbc.co.jp,smfg.co.jp,smth.jp###pageTop
 chugai-pharm.co.jp###pagetop
 saudigazette.com.sa###pageup
 bingplaces.com###pagination_Arrow
+accessoires-asus.com###retourHaut
 focustaiwan.tw###returnTop
 penthouse.com###scroll
 baystatebanner.com###scroll-back
@@ -38624,7 +38628,7 @@ eumostwanted.eu###sortingPreference
 ffonts.net,whatfontis.com###sticky-popup
 firefoxosdevices.org###storage-notice
 cars.co.za###terms-and-conditions
-classicalradio.com,di.fm,jazzradio.com,radiotunes.com,rockradio.com###terms-message-region
+classicalradio.com,di.fm,jazzradio.com,radiotunes.com,rockradio.com,zenradio.com###terms-message-region
 bpsa.co.uk###terms_container
 bitzarium.com###textBox
 fixedbyvonnie.com###tfade
@@ -39936,7 +39940,7 @@ infobuildenergia.it##.box_dem
 wuerth.it##.btn-scroll-top
 liquiriziacalabrese.it##.btn-top
 lastampa.it##.call-iscrizione
-calendario-365.it,cdt.ch,consumer.bz.it,dmail.it,epochtimes.it,maximitalia.it,mondoconv.it,paginesi.it,ridble.com,saras.it,vinusta.com,vog.it##.cd-top
+calendario-365.it,cdt.ch,consumer.bz.it,dmail.it,epochtimes.it,kellergrigliati.it,maximitalia.it,mondoconv.it,paginesi.it,ridble.com,saras.it,vinusta.com,vog.it##.cd-top
 primaonline.it##.col-nl
 lastampa.it##.conferma_reg_nl
 ilfarmacistaonline.it##.containerBannerBox
@@ -43089,6 +43093,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||st.mycdn.me/static/*/WebPush.js$script,domain=ok.ru
 @@||static.bbci.co.uk/modules/*/sharetools.js$domain=bbc.co.uk
 @@||static.lci.fr/assets/scripts/modules/outbrain.js?$script,~third-party
+@@||static.parastorage.com^*/ScrollToPlugin.min.js$domain=wix.com|wixsite.com
 @@||statictapcdn-a.akamaihd.net^$domain=tapiture.com
 @@||surveygizmo.com^*/runtime/$script,stylesheet
 @@||surveygizmo.com^*/runtimejs/$script,stylesheet
