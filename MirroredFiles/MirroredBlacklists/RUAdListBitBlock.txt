@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: A6oRue8JB6zzVXPR3tiOuA
-! Version: 201908300010
+! Checksum: 0I2LDiA9LBR+4w0ihveLGA
+! Version: 201908310010
 ! Title: RU AdList: BitBlock
-! Last modified: 30 Aug 2019 00:10 UTC
+! Last modified: 31 Aug 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1237,7 +1237,7 @@ _userbar_$image
 ||clicktex.ru^$third-party
 ||client-caller.com^$third-party
 ||clientcaller.com^$third-party
-||comagic.ru^$third-party
+||comagic.ru^$third-party,domain=~cdek.ru
 ||consultsystems.ru^$third-party
 ||driveback.ru^$third-party
 ||envybox.io^$third-party
@@ -1805,6 +1805,7 @@ _userbar_$image
 ||ya.ru/design/$domain=ya.ru
 ||yandex.*/distr-popup.html$subdocument
 ||yandex.*/search/recommendation?yu=
+||yastatic.net^*/widget_ya.js
 ||yatv.ru/storage/userdata/*/banner_
 ||yatv.ru/storage/userdata/*/page_background_
 ||youhack.ru/reyo/
@@ -22318,6 +22319,7 @@ _backToTop.
 ##.today-newsletter-wrap
 ##.toolbox-newsletter
 ##.topic-newsletter
+##.topnav-newsletter-container
 ##.tout_subscribe
 ##.transformer__newsletter
 ##.traqli-subscribe
