@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 39+/dDY5IzeRjm8l8SBSUA
-! Version: 201908310011
+! Checksum: f+qbADC6nLXms4m+BdEwsg
+! Version: 201909010011
 ! Title: Fanboy's Annoyance List
-! Last modified: 31 Aug 2019 00:11 UTC
+! Last modified: 01 Sep 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4275,6 +4275,7 @@ _youtube_social_
 /fp_cookie.
 /g4cookies.
 /gdpr-banner.
+/gdpr-banner/*
 /gdpr-bundle.
 /gdpr-cmp-
 /gdpr-consent.
@@ -5715,6 +5716,7 @@ _site_cookie_
 ##.MembershipCTAs__newsletters
 ##.ModepsNewsletterOptInv2C
 ##.MultiColorSubscribeWidget
+##.NavMainDesktop__newsletters
 ##.NewsLetterForMobile
 ##.NewsLetterLeftSide
 ##.NewsLetterSource
@@ -7651,6 +7653,7 @@ _site_cookie_
 ##.qw-scrollbutton-top
 ##.remonter-la-page
 ##.retour_haut
+##.return-to-top
 ##.rh-footer-back-to-top
 ##.rlx-back-top
 ##.rtp-back-to-top
@@ -9180,6 +9183,7 @@ _site_cookie_
 ###newfacebookpanel
 ###news-detail-social-top
 ###news-social-share
+###news_share_bottom
 ###newsharebar
 ###newsocial
 ###newstweetbar
@@ -10845,6 +10849,8 @@ _site_cookie_
 ##.SocialMediaLinks
 ##.SocialMediaShareButton
 ##.SocialNetwork
+##.SocialNetworkItem
+##.SocialNetworkLinks
 ##.SocialPluginsWidget
 ##.SocialRibbon
 ##.SocialRing_Widget
@@ -15282,6 +15288,7 @@ _site_cookie_
 ##.mps-social
 ##.mr_shareLabel
 ##.mr_social_sharing_wrapper
+##.ms-footer_socials
 ##.ms-share-container
 ##.ms-share_inline
 ##.ms-social-bar
@@ -20997,6 +21004,7 @@ _site_cookie_
 ###Gdpr
 ###GdprCookieBanner
 ###GdprCookieMessage
+###GdprEyebrow
 ###Generictopmenu1_ServiceMenu1_PnlCookie
 ###GibsonPrivacy
 ###GlobalCookieBanner
@@ -27262,7 +27270,6 @@ _site_cookie_
 ##.ccwrap
 ##.cczcook_banner-wrapper
 ##.cd__cookie
-##.cdk-overlay-pane
 ##.cdp-cookies-alerta
 ##.ce-banner
 ##.ce-banner-html
@@ -32324,6 +32331,7 @@ _site_cookie_
 ||5movies.to/share.php
 ||76.my/Auc/
 ||abc.net.au^*/news-podcasts-
+||alwaght.com/upload/logo/case/
 ||amazingbeautifulworld.net^*/images/face.png
 ||ana.net/contentimage/genicon/facebook.png
 ||ana.net/contentimage/genicon/twitter.png
@@ -35953,6 +35961,7 @@ mediapost.com,weta.org###subscribe_form
 diabetesforecast.org###subscribe_main
 nytimes.com###subscribe_mobile_cont
 creation.com###subscribe_options
+novinite.com###subscribe_smn
 moneysavingmom.com,unz.com###subscribeform
 bizjournals.com###subscriber
 forexpeacearmy.com,musictimes.com###subscription
@@ -36306,6 +36315,7 @@ xconfessions.com##.modal__overlay
 biznews.com##.module-cta
 ibtimes.com##.morning-insights
 rare.us##.move-social__inner
+motorsport.com##.ms-footer_top
 ft.com##.n-sliding-popup
 nature.com##.nature-briefing
 njtvonline.org##.nav-signup
@@ -37089,6 +37099,7 @@ ctnewsjunkie.com###nj-soc-bar-left
 produktywnie.pl###olussierfsp_likebox-3
 therichest.com###openFollow
 lyricsmania.com###overlay
+fia.com###page-pre-footer
 mondediplo.com###partage
 toofab.com###photo-sharing
 dw.com###pictureteaser_43842080
@@ -37242,11 +37253,13 @@ aboutamazon.co.uk,aboutamazon.com,latimes.com,sandiegouniontribune.com##.ActionB
 washingtonexaminer.com,weeklystandard.com,wgbh.org##.ArticlePage-actions
 yahoo.com##.Btn-t
 comicbookmovie.com##.CBMFollow
+alwaght.com##.FollowLinks
 techimperia.com##.FooterLeft.paddingright0
 quora.com##.FooterSignupForm
 cnn.com##.Footer__aside
 socialblade.com##.GoogleButton
 thegrio.com##.Modal
+alwaght.com##.NewSoial
 weeklystandard.com##.Page-social
 forbesafrica.com##.Post-metaHead--right
 apartmenttherapy.com,thekitchn.com##.Post__action
@@ -40099,6 +40112,7 @@ epochtimes.com.ua###scroll_house
 !
 !---------- Non-English Social Media Elements ----------
 !
+novinite.bg###article_options
 armeniasputnik.am,blic.rs,rtvslo.si,sputnik-abkhazia.info,sputnik-georgia.com,sputnik-news.ee,sputnik-ossetia.com,sputnik-tj.com,sputnik.az,sputnik.by,sputnik.kg,sputniknews-uz.com,sputniknews.kz,sputniknews.lt###share
 meteovista.si,tvsa.ba###social
 delfi.ee##.article__info
@@ -40107,6 +40121,7 @@ autoline-eu.rs,autoline.lt,autoline.mk,autoline.si,autoline.sk,blic.rs,gettyimag
 europages.ee,europages.eu,europages.fi,europages.lt,europages.si,football.ir,rts.rs,sanook.com##.social
 irinn.ir##.social-network
 yle.fi##.yle__article__header__shareButtons
+||probook.bg/like?$third-party
 !
 !---------- Danish Specific Social Media Elements ----------
 !
@@ -42154,6 +42169,11 @@ linnaleht.ee,ohtuleht.ee##.ntf-container
 !
 ||4hifi.pl/scripts/jquery.cookie.js
 ||animesub.info/skrypty/pierdolecookie.js
+||cmp.computerworld.pl^$script
+||cmp.cxo.pl^$script
+||cmp.idg.pl^$script
+||cmp.internetstandard.pl^$script
+||cmp.pcworld.pl^$script
 ||cookie.gazeta.pl^
 ||cookies.fakt.pl^
 ||cookies.forbes.pl^
@@ -42520,6 +42540,7 @@ community.imgur.com#@#.icons
 upworthy.com#@#.image-share
 24h.com.vn,dailymail.co.uk,eva.vn,thisismoney.co.uk#@#.img-share
 instagram.com#@#.instagram-follow
+fandom.com#@#.is-social
 thenewamerican.com#@#.itemSocialSharing
 sap.com#@#.j-social-actions
 sap.com#@#.j-social-button
