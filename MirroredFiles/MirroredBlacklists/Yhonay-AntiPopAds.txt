@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9284
+! Version: 9296
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -213,6 +213,7 @@
 ||amdhlyqfy.bid^
 ||amgkkjgjktml.com^
 ||amhpbhyxfgvd.com^
+||amifgpprfrbsm.com^
 ||amjbzzicysu.bid^
 ||amjrfmhtmoyan.com^
 ||amkwvxhw.com^
@@ -1648,6 +1649,7 @@
 ||dymzcxgdvf.com^
 ||dyoyiydbwdcr.com^
 ||dypmzetaj.com^
+||dyucosivnycndc.com^
 ||dywqwrtnhegyz.com^
 ||dyykxositkqt.bid^
 ||dyzstwcqbgjk.com^
@@ -4125,6 +4127,7 @@
 ||jwjztdbakqqk.com^
 ||jwmnryeoc.com^
 ||jwnlqtdvnm.bid^
+||jwofadcwpocm.com^
 ||jwuvfovjzwe.com^
 ||jwwlyiicjkuh.com^
 ||jwwotfckxcyv.bid^
@@ -4365,6 +4368,7 @@
 ||klxteeltivy.com^
 ||klzvkrzluqnx.com^
 ||kmalnsqvyygwe.com^
+||kmbbqmrnso.com^
 ||kmcebwjulu.com^
 ||kmclwuukyffyjf.com^
 ||kmdqjdktf.bid^
@@ -4920,6 +4924,7 @@
 ||lsslotuojpud.com^
 ||lstkchbeoey.com^
 ||lstkfdmmxbmv.com^
+||lsvmpewlo.com^
 ||ltaporjivped.com^
 ||ltbnvsfzevox.com^
 ||ltcvpgyouvxya.bid^
@@ -5289,6 +5294,7 @@
 ||moquxotvyuoo.com^
 ||mosdqxsgjhes.com^
 ||mousvowpfso.com^
+||mouuhrprxixwrw.com^
 ||moxdmkdzvkgxow.bid^
 ||moxvufgh.com^
 ||moyeluljrail.com^
@@ -5991,6 +5997,7 @@
 ||ohprlushvz.com^
 ||ohrdpvkzhzbg.com^
 ||ohrkrzvndwitaa.com^
+||ohscoczrnhzd.com^
 ||ohwlwlus.com^
 ||oiahzjhwpsokt.com^
 ||oicbwkyjsyxjgj.bid^
@@ -8163,6 +8170,7 @@
 ||trvposbevwxvo.bid^
 ||trwbkkxk.com^
 ||tsdzmkpewrdxyl.com^
+||tsfgnmyhi.com^
 ||tsjnzilsuzoxm.bid^
 ||tskctmvpwjdb.com^
 ||tskdngwznw.bid^
@@ -8615,6 +8623,7 @@
 ||vgbvsduys.com^
 ||vgjwkjinwkud.com^
 ||vglpukrekfij.com^
+||vgodvvcwrshk.com^
 ||vgogzrukn.com^
 ||vgyakiejafjjj.com^
 ||vhbyakilp.com^
@@ -8674,6 +8683,7 @@
 ||vptkyunlzfy.com^
 ||vpyrfomwel.com^
 ||vqaizaukh.com^
+||vqfoxxxnunqkgm.com^
 ||vqkkbbivznoso.com^
 ||vqmcyhsi.com^
 ||vqmdezgkkklcc.com^
@@ -8956,6 +8966,7 @@
 ||xruuohzpxmmw.com^
 ||xrvyetdriwzp.com^
 ||xsgcobwd.com^
+||xsgpzbipelo.com^
 ||xskbsyssik.com^
 ||xsmafckigsdnij.com^
 ||xsnfmaxicj.com^
@@ -9010,6 +9021,7 @@
 ||yczdebjfskegsd.com^
 ||ydfntydegmdbk.com^
 ||ydkhkjmefxy.com^
+||ydkrabhtgci.com^
 ||ydoksieuml.com^
 ||ydutvhtw.com^
 ||ydwjfuhuiesrhp.com^
