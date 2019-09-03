@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fnirDMD7GY1FPCYUa0Bhjw
-! Version: 201909020011
+! Checksum: fAQWqqiKzX2g03DGx0QVpg
+! Version: 201909030011
 ! Title: Fanboy's Annoyance List
-! Last modified: 02 Sep 2019 00:11 UTC
+! Last modified: 03 Sep 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7584,6 +7584,7 @@ _site_cookie_
 ##.hestia-scroll-to-top
 ##.hh-button-scroll-top__wrapper
 ##.hse-scrolltotop
+##.icon--totop
 ##.icon-back-to-top
 ##.icon-buffett-backtotop
 ##.icons-scrolltop-black
@@ -7722,6 +7723,7 @@ _site_cookie_
 ##.sunfw-scrollup
 ##.ta_back-to-top
 ##.tab-to-top
+##.tb-scroll-to-top
 ##.tc-back-to-top
 ##.td-scroll-up
 ##.tdr-backtop
@@ -8365,6 +8367,7 @@ _site_cookie_
 ###ea-social-footer-links
 ###ea-social-header-links
 ###ej-plugin-socialslideout
+###em-sharer
 ###embed-share
 ###embed-share-button
 ###entry-social-float
@@ -14735,6 +14738,7 @@ _site_cookie_
 ##.kiwi-nw-twitter
 ##.kiwi-share-bar-wrapper
 ##.kl-share
+##.kl-social-link
 ##.klasSideSocialLinks
 ##.klicked-see-first
 ##.kmd_social_widget
@@ -15211,6 +15215,8 @@ _site_cookie_
 ##.mk-header-social
 ##.mkd-blog-single-share
 ##.mkd-share-link
+##.mkdf-blog-share
+##.mkdf-single-tags-share-holder
 ##.mks_social_widget
 ##.ml-footer-social-links
 ##.ml-share
@@ -35954,6 +35960,7 @@ mentalfloss.com###su-300x150
 neonnettle.com###subBox
 freshome.com###submit_newsletter
 appstorm.net,artnet.com,beforeitsnews.com,biographile.com,celebrity.red,dailygood.org,digg.com,doctortipster.com,dumblittleman.com,freemake.com,freshtechweb.com,fuelsandlubes.com,heavy.com,leftturn.org,lifehack.org,marineelectronics.com,maximumpc.com,michigandaily.com,nexustabletcentral.com,sfgate.com,stoppress.co.nz,techieapps.com,technostall.com,techsplurge.com,the-scientist.com,theamericanscholar.org,theatlantic.com,thinkprogress.org,tv.com,wakoopa.com,worldwatchmonitor.org,yahoo.com,yibada.com###subscribe
+awr.org###subscribe-front-page
 abovethelaw.com###subscribe-main
 gossipcop.com###subscribe-message
 cloudcomputingadmin.com,insideaws.com,isaserver.org,msexchange.org,virtualizationadmin.com,windowsecurity.com###subscribe-modal
@@ -36213,6 +36220,7 @@ mygaming.co.za##.form-container
 algemeiner.com##.formnews
 examine.com##.free_hacks
 politico.com##.friday-cover-sign-up
+adventistworld.org##.frm_form_fields
 fansided.com,lastnighton.com,netflixlife.com,winteriscoming.net##.fs-daily
 fitbit.com##.ftr-mail-me
 fundable.com##.fundable_newsletter_signup
@@ -36735,6 +36743,7 @@ denso.com##.Pagetop
 mercedes-benz.com.au##.aem--return-to-viewport-top__link
 analdin.com,reverbpress.com##.arrow-up
 goafricaonline.com##.arrow-up-container
+thenassauguardian.com##.arrow_carrot-2up
 sputniknews.com##.arrowup
 gadgetreview.com##.back-top
 zte.com.cn##.back_top
@@ -37728,6 +37737,7 @@ odt.co.nz##.pane-odt-social-odt-social-rsb
 ivillage.com##.pane-top-repins
 ibb.co##.panel-sh-networks
 mondediplo.com##.partage
+michiganradio.org##.partner-logos
 whoer.net##.partners
 patreon.com##.patreon-footer-component--link
 post-gazette.com##.pgevoke-story-socialbuttons-facebook
@@ -38075,7 +38085,6 @@ commandandconquer.com##[title="Facebook"]
 afterdawn.com##[title="Follow AfterDawn at Facebook"]
 cosmosmagazine.com##[title="Follow COSMOSmagazine on Twitter"]
 nytimes.com##a[aria-label="Email"]
-time.com##a[class][href="#"]
 tweaktown.com##a[class^="s-header-icon-"]
 engadget.com##a[data-engadget-popname="engadget_share"]
 time.com##a[href*="social-share-article"]
@@ -40335,6 +40344,7 @@ onlinewelten.com##.action-initiator
 butenunbinnen.de##.article-addons
 manager-magazin.de,wienerzeitung.at##.article-toolbar
 infosat.de##.artikeltools
+ahk.de##.b-footer__icons
 provinz.bz.it##.banner_facebook
 chip.de##.bookmark
 fnp.de,sport1.de,winfuture.de##.bookmarks
