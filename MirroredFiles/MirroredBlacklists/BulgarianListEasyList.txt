@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201909012326
+! Version: 201909032019
 ! Title: EasyPrivacy
-! Last modified: 01 Sep 2019 23:26 UTC
+! Last modified: 03 Sep 2019 20:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5968,6 +5968,7 @@ _mongo_stats/
 ||inspectlet.com^$third-party
 ||instadia.net^$third-party
 ||instana.io^$third-party
+||instant.page^$third-party
 ||instapage.com^$third-party,domain=~pagedemo.co
 ||instore.biz^$third-party
 ||integritystat.com^$third-party
@@ -9542,7 +9543,6 @@ _mongo_stats/
 ||breakingburner.com/stats.html?
 ||breakmedia.com/track.jpg?
 ||bright.bncnt.com^
-||browser.sentry-cdn.com^
 ||browserscope.org/user/beacon/
 ||bs.yandex.ru^
 ||btn.clickability.com^
@@ -14632,6 +14632,7 @@ _mongo_stats/
 ||wikihow.com/visit_info
 ||wikihow.com/x/collect?
 ||wikimedia.org/wiki/Special:RecordImpression?
+||wikimonde.com/h.php
 ||wikinvest.com/plugin/api.php?*=metricld&
 ||wikio.com/shopping/tracking/hit.jsp?
 ||wikipedia.org/beacon/
@@ -16080,7 +16081,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||boxberry.ru/local/templates/site-boxberry/js/tracking_service.js$xmlhttprequest
 @@||boxtops4education.com^*/ntpagetag.js
 @@||britishairways.com/cms/global/scripts/applications/tracking/visualsciences.js
-@@||browser.sentry-cdn.com^$script,domain=mtnspirit.nz|sailwanaka.nz|sliver.tv|wearegifted.co.uk|wix.com|wixsite.com
 @@||browserscope.org/user/beacon/*?callback=$script,domain=jsperf.com
 @@||bt.com^*/touchclarity/homepage/omtr_tc.js
 @@||btstatic.com/tag.js$domain=macys.com
@@ -16116,6 +16116,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||chartbeat.com/*/chartbeat/$~third-party
 @@||chartbeat.com/js/chartbeat.js$domain=indiatimes.com|m.tmz.com|salon.com|zap2it.com
 @@||chatzy.com/?jsonp:$script
+@@||chessfriends.com/js/live/GoogleAnalytics.js?$~third-party
 @@||chobani.com/js/tracking.js
 @@||cincinnatibell.net/images/track/track.gif?$xmlhttprequest
 @@||cio.com/js/demandbase.js?
@@ -16465,6 +16466,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||newyorker.com^*/cn-fe-stats/$script
 @@||next.co.uk/Scripts/GoogleAnalytics.js?
 @@||nfltags.com/omniture/$script,domain=nfl.com
+@@||nhl.com/components/shared/omniture-tracking-scripts/newRelic.js
 @@||nike.com/checkout/analytics/js/analyticFunctions.js$domain=nike.com
 @@||nintendo.com/nclood/*/bundles/analytics.min.js$domain=nintendo.com
 @@||nokia.com/b/ss/$image,domain=here.com

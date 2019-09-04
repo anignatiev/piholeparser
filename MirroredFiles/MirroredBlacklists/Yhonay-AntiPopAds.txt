@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9302
+! Version: 9308
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1283,6 +1283,7 @@
 ||dajlkvplxyzbsa.com^
 ||dajoetsja.com^
 ||daljntupdaoejb.com^
+||dalqybwdy.com^
 ||damihyugqet.com^
 ||danunnpvy.com^
 ||daohvygdwvj.bid^
@@ -1493,6 +1494,7 @@
 ||dntlpwpjwcfu.com^
 ||dnvndngbn.bid^
 ||dnzevkqpk.com^
+||dnzwjlbknhe.com^
 ||docqacvwhgbxv.com^
 ||dodahirwudrhv.com^
 ||dodegomxh.bid^
@@ -5118,6 +5120,7 @@
 ||mdulmrphzsnvw.com^
 ||mdurqeiydegwzy.com^
 ||mdvrxmzofurvkm.com^
+||mdxzmatcc.com^
 ||meagjivconqt.com^
 ||mecounxmawn.bid^
 ||mecsjjkomehyv.com^
@@ -6239,6 +6242,7 @@
 ||oznuyyxtqqj.bid^
 ||ozoltyqcnwmu.com^
 ||ozpigvtnn.bid^
+||ozsriqitazi.com^
 ||ozssctuyet.com^
 ||oztzipze.com^
 ||ozugzufdxniu.com^
@@ -8464,6 +8468,7 @@
 ||ukjzdydnveuc.com^
 ||ukksghzwxha.com^
 ||uklvebsp.com^
+||uklyolpqnt.com^
 ||ukngpcuyc.com^
 ||uknlxuxflvlw.com^
 ||ukolwxqopahb.com^
@@ -9109,6 +9114,7 @@
 ||yrcpupgqtn.com^
 ||yrkozodemantj.com^
 ||yrpjklwly.com^
+||yrsjqzfku.com^
 ||yrtyflmurngv.com^
 ||ysaloykchjyxg.com^
 ||ysmbdnavqsbcl.com^

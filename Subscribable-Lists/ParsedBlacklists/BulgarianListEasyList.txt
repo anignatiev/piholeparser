@@ -411,7 +411,6 @@ boss.berlinonline.de
 brain.foresee.com
 bravo.israelweather.co.il
 bright.bncnt.com
-browser.sentry-cdn.com
 bs.yandex.ru
 bstracker.blogspirit.net
 bsyauqwerd.party
