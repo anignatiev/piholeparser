@@ -517,7 +517,6 @@ etehnika.com.ua
 eth.pp.ua
 etmedic.pl.ua
 etofirma36.pp.ua
-eurotrading.com.ua
 evening-barb.net.ua
 evidentthrust.pl.ua
 ewmedic.pl.ua
@@ -807,7 +806,6 @@ htmedic.pl.ua
 hurero.com.ua
 i-robot.kiev.ua
 i.io.com.ua
-i24.com.ua
 iadoctor.pl.ua
 iam-waiteyou.net.ua
 iam.best.lt.ua
@@ -923,7 +921,6 @@ klopknm.com.ua
 kluhow.com.ua
 klumba.io.com.ua
 klyuchev.in.ua
-kokliko.com.ua
 koktebel.com.ua
 koleso24.com.ua
 komukc.com.ua
@@ -990,6 +987,7 @@ lovefoto.io.com.ua
 lovemeds.com.ua
 loveplanet.io.com.ua
 lovi-moment.com.ua
+loxx.zzz.com.ua
 lpedmre.com.ua
 lpokji.com.ua
 lubitel.io.com.ua
@@ -1702,6 +1700,7 @@ niuerc.com.ua
 nkmedic.pl.ua
 nomedic.pl.ua
 non-stop.com.ua
+noobyot.zzz.com.ua
 nopenmi.com.ua
 nord.adr.com.ua
 noregetnores.com.ua
@@ -1747,7 +1746,6 @@ opskins.pp.ua
 orbit.lun.ua
 ordoctor.pl.ua
 orenthe.com.ua
-osvitaportal.com.ua
 otdoctor.pl.ua
 otmedic.pl.ua
 otrdlya.com.ua
@@ -1841,6 +1839,7 @@ purpleapprehension.pl.ua
 putana.com.ua
 pydoctor.pl.ua
 qazportn.com.ua
+qe.zzz.com.ua
 qmeruop.com.ua
 qoldut.com.ua
 qwebom.com.ua
@@ -2037,6 +2036,7 @@ spacedrugspharmacy.com.ua
 spaghtu.com.ua
 sql.eth.pp.ua
 srepli.com.ua
+ssdclearlogs.kl.com.ua
 ssdoctor.pl.ua
 sssex.io.com.ua
 stage.lviv.ua
@@ -2080,7 +2080,6 @@ svidanka.org.ua
 sweetlady4u.kiev.ua
 swmedics.com.ua
 system2018.at.ua
-t.ks.ua
 takelifesure.com.ua
 tauhaue.com.ua
 team.klookva.com.ua
@@ -2092,6 +2091,7 @@ temedic.pl.ua
 tender-woman.net.ua
 teodiarie.com.ua
 test.eth.pp.ua
+testieng.kl.com.ua
 tetki.com.ua
 texnika.com.ua
 thdoctor.pl.ua
@@ -2105,6 +2105,7 @@ tikitak.com.ua
 time4nails.com.ua
 timeatt.com.ua
 tinhip.com.ua
+tinor.zzz.com.ua
 tlydoctors.com.ua
 today-celeste.net.ua
 today-child.net.ua

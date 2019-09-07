@@ -47,6 +47,7 @@ chase.com.us.talkshatel.ir
 cityshop.ir
 classiccarparts.ir
 classified38.ir
+clickbux.ir
 clicknew.ir
 coding.1100011.ir
 crdu.shmu.ac.ir
@@ -151,6 +152,7 @@ pnnet.ir
 pnudamghan.ac.ir
 pop.naminews.ir
 popbox.skinak.ir
+popfa.ir
 popup.smusic.ir
 popupplus.ir
 poushaketabriz.ir
@@ -159,7 +161,6 @@ psarta.ir
 puppet.ir
 quicklearn.ir
 radar.bayan.ir
-rapidnet.ir
 roshanhesab.ir
 rostham.ir
 rotosh.ir
@@ -170,7 +171,6 @@ salamatiancar.ir
 salehat.ir
 samangara.ir
 sanjesh.estrazavi.ir
-serajeadine.ir
 servebook.ir
 server2014.ir
 server7000.ir
