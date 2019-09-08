@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: r5zvxHNA/HJHafctxH6xNg
-! Version: 201909050011
+! Checksum: XN0NWuK79X3zwIwQfxbSgg
+! Version: 201909080011
 ! Title: Fanboy's Annoyance List
-! Last modified: 05 Sep 2019 00:11 UTC
+! Last modified: 08 Sep 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4390,7 +4390,7 @@ _youtube_social_
 /optInCookieGdprSSR.
 /oupcookiepolicy_
 /plugin_cookie/*
-/plugins/cookie-$~script
+/plugins/cookie-$~script,~stylesheet
 /plugins/gdpr/*
 /pm_assets/privacy/*$script
 /policy_cookie.
@@ -4532,6 +4532,7 @@ _eucookie_compliance_
 _europecookielaw.
 _gdpr_callback_
 _gdpr_consent.
+_gdpr_cookie_
 _js__cookie_functions.
 _logikamentecookielaw/
 _site_cookie_
@@ -5688,6 +5689,7 @@ _site_cookie_
 ###subscriptionModal
 ###subscription_box
 ###subscription_digest_hypepanel
+###subscription_head_banner
 ###subsribe_right
 ###sw-noty-email
 ###tc_newsletter
@@ -13608,6 +13610,7 @@ _site_cookie_
 ##.gigyaShareDirectApi
 ##.gizmo-fb-mini
 ##.gizmo-twitter
+##.glide-slide-sharebar
 ##.global--social--share-menu
 ##.global-fb-like
 ##.global-follow_us
@@ -15285,6 +15288,9 @@ _site_cookie_
 ##.moreShareIcons
 ##.more_btn_soc
 ##.moretweetsmsg
+##.most-shared
+##.most-shared--container
+##.most-shared--placeholder
 ##.motherboard-widget-social
 ##.motogpSocial
 ##.move-social
@@ -15718,6 +15724,7 @@ _site_cookie_
 ##.pinterest-share-button
 ##.pinterest-sharetool
 ##.pinterest-top-button
+##.pinterest-transparent
 ##.pinterest-wrapper
 ##.pinterest1
 ##.pinterestButton
@@ -31162,6 +31169,7 @@ _site_cookie_
 ##div[class$="BandeauCookies"]
 ##div[class$="UpdatePanelCookie"]
 ##div[class*="-CookiesBar-"]
+##div[class*="CookieBannerContainer"]
 ##div[class*="CookieBarStyled"]
 ##div[class*="CookieWrapper"]
 ##div[class*="CookiesBanner_"]
@@ -33984,6 +33992,7 @@ filmannex.com###votes
 digitaljournal.com###vtart
 tvnz.co.nz###want-news
 billingsgazette.com###wc-form-container
+metro.co.uk###we-need-monies
 wired.com###we-recommend
 fool.com###webTwoPointOh
 webmd.com###webmd-overlay
@@ -36476,6 +36485,7 @@ thenation.com##.siderail__item
 theaustralian.com.au##.sign-me-up
 ozy.com,politico.com,theatlantic.com##.sign-up
 viralnova.com##.sign-up-box
+monocle.com##.sign-up-container
 dailysurge.com,therealside.com##.sign-up-form
 jpost.com##.sign-up-wrap
 americamagazine.org,cnet.com##.signUp
@@ -36522,7 +36532,7 @@ fansided.com,lastnighton.com,netflixlife.com,winteriscoming.net##.sub-footer-con
 irishtimes.com##.sub-prompt
 investmentnews.com##.subPopupTop
 stlucianewsonline.com##.subscr
-al-shabaka.org,android.gs,attn.com,bamargera.com,bet.com,bizjournals.com,blackagendareport.com,boardingarea.com,briefly.co.za,businesstech.co.za,caloriesecrets.net,catonmat.net,cbn.com,cheeserank.com,chicagomag.com,classicalite.com,cnet.com,dailycaller.com,dailyfeed.co.uk,devicemag.com,ebayinkblog.com,ehow.com,foxnews.com,freshersworld.com,fromthegrapevine.com,gellerreport.com,gimmesomeoven.com,gizmag.com,gotquestions.org,greece-is.com,hpcwire.com,huffingtonpost.com,indiatimes.com,infowars.com,intoday.in,intomobile.com,irishpost.com,labnol.org,lamag.com,laweekly.com,list25.com,livescience.com,messynessychic.com,miaminewtimes.com,mumbrella.com.au,mybroadband.co.za,mygaming.co.za,naij.com,naija.ng,nationalgeographic.com,ndtv.com,newatlas.com,news.usc.edu,newsarama.com,newsclick.in,newsroom.co.nz,nymag.com,outerplaces.com,pando.com,pandodaily.com,parentherald.com,pba.org,pedestrian.tv,people.com,petapixel.com,phonearena.com,politicsweb.co.za,poundsterlinglive.com,propertyobserver.com.au,rabble.ca,rbth.com,readwriteweb.com,recipetineats.com,savedelete.com,searchengineland.com,seroundtable.com,skiptomylou.org,snopes.com,space.com,spacenews.com,spoonuniversity.com,statescoop.com,stream.org,svpino.com,techeye.net,ted.com,teenchatdecoder.com,theaircurrent.com,theatlantic.com,thecollegefix.com,thefinancialbrand.com,themoscowtimes.com,therichest.org,thinq.co.uk,tourismupdate.co.za,trust.org,tuko.co.ke,tutsplus.com,tv.com,twice.com,udreview.com,upworthy.com,usatoday.com,usnews.com,vagabomb.com,variety.com,wackymania.com,wccftech.com,westword.com,windows7news.com,winhelponline.com,wired.co.uk##.subscribe
+al-shabaka.org,android.gs,attn.com,bamargera.com,bet.com,bizjournals.com,blackagendareport.com,boardingarea.com,briefly.co.za,broadwayworld.com,businesstech.co.za,caloriesecrets.net,catonmat.net,cbn.com,cheeserank.com,chicagomag.com,classicalite.com,cnet.com,dailycaller.com,dailyfeed.co.uk,devicemag.com,ebayinkblog.com,ehow.com,foxnews.com,freshersworld.com,fromthegrapevine.com,gellerreport.com,gimmesomeoven.com,gizmag.com,gotquestions.org,greece-is.com,hpcwire.com,huffingtonpost.com,indiatimes.com,infowars.com,intoday.in,intomobile.com,irishpost.com,labnol.org,lamag.com,laweekly.com,list25.com,livescience.com,messynessychic.com,miaminewtimes.com,mumbrella.com.au,mybroadband.co.za,mygaming.co.za,naij.com,naija.ng,nationalgeographic.com,ndtv.com,newatlas.com,news.usc.edu,newsarama.com,newsclick.in,newsroom.co.nz,nymag.com,outerplaces.com,pando.com,pandodaily.com,parentherald.com,pba.org,pedestrian.tv,people.com,petapixel.com,phonearena.com,politicsweb.co.za,poundsterlinglive.com,propertyobserver.com.au,rabble.ca,rbth.com,readwriteweb.com,recipetineats.com,savedelete.com,searchengineland.com,seroundtable.com,skiptomylou.org,snopes.com,space.com,spacenews.com,spoonuniversity.com,statescoop.com,stream.org,svpino.com,techeye.net,ted.com,teenchatdecoder.com,theaircurrent.com,theatlantic.com,thecollegefix.com,thefinancialbrand.com,themoscowtimes.com,therichest.org,thinq.co.uk,tourismupdate.co.za,trust.org,tuko.co.ke,tutsplus.com,tv.com,twice.com,udreview.com,upworthy.com,usatoday.com,usnews.com,vagabomb.com,variety.com,wackymania.com,wccftech.com,westword.com,windows7news.com,winhelponline.com,wired.co.uk##.subscribe
 breakingnews.ie##.subscribe-box-articles
 albawaba.com,rt.com,sport360.com##.subscribe-btn
 middleeastmonitor.com##.subscribe-container
@@ -37299,6 +37309,7 @@ buzzfeed.com,marriott.com##.action-bar
 slideshare.net##.action-btns-container
 linkfm.co.za,proactiveinvestors.co.uk,rfi.fr##.actions
 goodnet.org##.activity
+metro.co.uk##.ada-banner-container
 askmen.com##.addThis
 christiannews.net##.adrand
 internationalsocialist.org##.adv-icon-wrap
@@ -37929,6 +37940,7 @@ msn.com##.stbp-topWidget
 urbanghostsmedia.com,wegotserved.com##.stf
 droid-life.com##.sticky
 upworthy.com##.sticky-bar--bottom
+broadway.com##.sticky-footer
 nmpoliticalreport.com##.sticky-footer-holder
 metro.us,newtimes.co.rw##.sticky-media
 hellou.co.uk##.sticky-nav
@@ -41683,6 +41695,7 @@ email.it##script + div[style^="background: #000000;"]
 drweb.co.jp##.SHOWIT-msg_showed
 ads.nipr.ac.jp##.backdrop
 jaguar.co.jp##.notificationBars
+techbang.com##.notify_stickie
 sponichi.co.jp##.toast-info
 !
 ! ---------- Korean ----------
@@ -41705,6 +41718,7 @@ go4pro.lt##.wu_container
 seher.no,sol.no,start.no###__next > div[class^="css"]
 kube.no###cookie
 homenet.no###toast-container
+nettavisen.no##.active > div
 netonnet.no##.alert
 nextgentel.no##.blocker
 lexus.no##.disclaimer
