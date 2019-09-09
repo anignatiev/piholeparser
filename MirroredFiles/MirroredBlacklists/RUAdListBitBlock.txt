@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Z7bagyHI2ApCyiEa16zQkw
-! Version: 201909080020
+! Checksum: Q/rD0XQ+rouUrzL1tqP6VA
+! Version: 201909090010
 ! Title: RU AdList: BitBlock
-! Last modified: 08 Sep 2019 00:20 UTC
+! Last modified: 09 Sep 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1185,6 +1185,7 @@ _userbar_$image
 ##.cookiesBlock
 ##.cookies__container
 ##.ds2-cookie-disclaimer
+##.ds2-cookiedisclaimer
 ##.forum-user-signature img
 ##.gdprPopup
 ##.gpm-cookie-accepted
@@ -2581,6 +2582,7 @@ sports.ru#?#article > .news-item__content > p:-abp-has(a[href^="https://trbna.co
 sports.ru#?#article.piwikTrackContent:-abp-has(a[href^="https://trbna.co/"])
 sports.ru#?#article.piwikTrackContent:-abp-has(span:-abp-contains(Спецпроект))
 eg.ru##aside > noindex
+www.kinopoisk.ru##aside.dialog
 nur.kz##aside.groups--vk
 games.rambler.ru#?#body > #app > div[class*=" "]:-abp-has(a[href*="yabrowser"])
 ntv.ru##body > #bg250

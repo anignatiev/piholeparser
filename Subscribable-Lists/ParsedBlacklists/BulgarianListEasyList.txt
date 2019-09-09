@@ -980,6 +980,7 @@ flightzy.bid
 flightzy.date
 flightzy.win
 flowplayer.space
+fog.pixual.co
 footprint.anetwork.ir
 fourmtagservices.appspot.com
 freecontent.bid
