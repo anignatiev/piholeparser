@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q/rD0XQ+rouUrzL1tqP6VA
-! Version: 201909090010
+! Checksum: 2Iu/Ro4hpGYuwnA+o0jzIA
+! Version: 201909100010
 ! Title: RU AdList: BitBlock
-! Last modified: 09 Sep 2019 00:10 UTC
+! Last modified: 10 Sep 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -323,6 +323,7 @@ ru-an.info###sgtabs
 goblin-film.ru,goblins-online.ru,kino-teatr.ru,satsis.info###share
 molodejj.ru###sharePanel
 pogoda.com###shared
+kontrakty.ua###sideRight > .shadow
 miped.ru###side_right > noindex
 naruto-base.su#?##sidebar > .block:-abp-has(.title:-abp-contains(Мы в Вконтакте))
 tvcok.ru###sidebar > .left_ad_block
@@ -464,6 +465,7 @@ intv.ru##.bookmarks-container
 fmates.ru##.bookmarkz
 game2day.org##.bottom_share
 obozrevatel.com##.btn-fblikes-counter
+playground.ru##.btn-vkontakte
 gismeteo.ru##.btn_instagram
 zik.ua##.button_social_like
 qiq.ws##.buttonbox
@@ -3383,8 +3385,8 @@ prom.ua#@#img[alt="facebook"]
 -social-instagram.
 -social-linked-
 -social-linkedin.
--social-media-$~script,~stylesheet,~xmlhttprequest
--social-media.
+-social-media-$~document,~script,~stylesheet,~xmlhttprequest
+-social-media.$~document,~script,~stylesheet,~xmlhttprequest
 -social-panel.
 -social-panel/
 -social-pinterest-
@@ -16246,16 +16248,15 @@ _youtube_social_
 ##.social-links__container
 ##.social-links__list
 ##.social-linksnbt
-##.social-list
 ##.social-list-art
 ##.social-list-bubble
 ##.social-list-container
 ##.social-list-icon
-##.social-listing
+##.social-list:not(html):not(body)
+##.social-listing:not(html):not(body)
 ##.social-mail
 ##.social-main-footer
 ##.social-meadia-share
-##.social-media
 ##.social-media--container
 ##.social-media-16x16
 ##.social-media-banner
@@ -16274,7 +16275,7 @@ _youtube_social_
 ##.social-media-connect
 ##.social-media-connect--readonly
 ##.social-media-container
-##.social-media-div
+##.social-media-div:not(html):not(body)
 ##.social-media-facebook
 ##.social-media-fixed
 ##.social-media-follow
@@ -16308,6 +16309,7 @@ _youtube_social_
 ##.social-media-widget
 ##.social-media-widget-icon-bar
 ##.social-media3
+##.social-media:not(html):not(body)
 ##.social-media__link
 ##.social-medias
 ##.social-menu
@@ -16917,7 +16919,7 @@ _youtube_social_
 ##.social_logos
 ##.social_m
 ##.social_m_a
-##.social_media
+##.social_media:not(html):not(body)
 ##.social_media_block
 ##.social_media_btns
 ##.social_media_bttn
@@ -17047,7 +17049,7 @@ _youtube_social_
 ##.socialcount
 ##.socialdigg
 ##.socialdiv
-##.sociale_media
+##.sociale_media:not(html):not(body)
 ##.socialem
 ##.socialfancysliderCenterInner
 ##.socialfancysliderCenterOuter
@@ -17089,13 +17091,13 @@ _youtube_social_
 ##.sociallinks
 ##.sociallist
 ##.socialmain
-##.socialmedia
 ##.socialmedia--ArticleFacebook
 ##.socialmedia--ArticleTwitter
 ##.socialmedia-article
 ##.socialmedia-buttons
 ##.socialmedia-container
 ##.socialmedia-side
+##.socialmedia:not(html):not(body)
 ##.socialmedia_article_linkbox
 ##.socialmedia_float
 ##.socialmedia_link
@@ -23728,6 +23730,7 @@ _backToTop.
 ||reftagger.com^$third-party
 ||repost.us^$third-party
 ||research.net^$third-party
+||rightmessage.com^$third-party
 ||rokt.com^$third-party
 ||roost.me^$third-party
 ||royapp.com^$third-party
@@ -24506,6 +24509,7 @@ wykop.pl#@#.social-list
 coeffee.com,flipboard.com,getyounity.com,howdoyou.do#@#.social-login
 ethias.be,technorati.com#@#.social-media
 f-secure.com,howtogeek.com#@#.social-media-buttons
+chorus.co.nz#@#.social-media-links
 schuermann.eu#@#.social-media-list
 insideover.com#@#.social-menu
 nvidia.pl#@#.social-newsletter

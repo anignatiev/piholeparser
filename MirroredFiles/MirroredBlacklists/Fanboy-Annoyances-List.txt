@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dTOf/t1OoM1ORDzqmv0v5A
-! Version: 201909090011
+! Checksum: JXNYwookvfkc2MW3rmqv5g
+! Version: 201909100011
 ! Title: Fanboy's Annoyance List
-! Last modified: 09 Sep 2019 00:11 UTC
+! Last modified: 10 Sep 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -881,8 +881,8 @@ _backToTop.
 -social-instagram.
 -social-linked-
 -social-linkedin.
--social-media-$~script,~stylesheet,~xmlhttprequest
--social-media.
+-social-media-$~document,~script,~stylesheet,~xmlhttprequest
+-social-media.$~document,~script,~stylesheet,~xmlhttprequest
 -social-panel.
 -social-panel/
 -social-pinterest-
@@ -17815,16 +17815,15 @@ _site_cookie_
 ##.social-links__container
 ##.social-links__list
 ##.social-linksnbt
-##.social-list
 ##.social-list-art
 ##.social-list-bubble
 ##.social-list-container
 ##.social-list-icon
-##.social-listing
+##.social-list:not(html):not(body)
+##.social-listing:not(html):not(body)
 ##.social-mail
 ##.social-main-footer
 ##.social-meadia-share
-##.social-media
 ##.social-media--container
 ##.social-media-16x16
 ##.social-media-banner
@@ -17843,7 +17842,7 @@ _site_cookie_
 ##.social-media-connect
 ##.social-media-connect--readonly
 ##.social-media-container
-##.social-media-div
+##.social-media-div:not(html):not(body)
 ##.social-media-facebook
 ##.social-media-fixed
 ##.social-media-follow
@@ -17877,6 +17876,7 @@ _site_cookie_
 ##.social-media-widget
 ##.social-media-widget-icon-bar
 ##.social-media3
+##.social-media:not(html):not(body)
 ##.social-media__link
 ##.social-medias
 ##.social-menu
@@ -18486,7 +18486,7 @@ _site_cookie_
 ##.social_logos
 ##.social_m
 ##.social_m_a
-##.social_media
+##.social_media:not(html):not(body)
 ##.social_media_block
 ##.social_media_btns
 ##.social_media_bttn
@@ -18616,7 +18616,7 @@ _site_cookie_
 ##.socialcount
 ##.socialdigg
 ##.socialdiv
-##.sociale_media
+##.sociale_media:not(html):not(body)
 ##.socialem
 ##.socialfancysliderCenterInner
 ##.socialfancysliderCenterOuter
@@ -18658,13 +18658,13 @@ _site_cookie_
 ##.sociallinks
 ##.sociallist
 ##.socialmain
-##.socialmedia
 ##.socialmedia--ArticleFacebook
 ##.socialmedia--ArticleTwitter
 ##.socialmedia-article
 ##.socialmedia-buttons
 ##.socialmedia-container
 ##.socialmedia-side
+##.socialmedia:not(html):not(body)
 ##.socialmedia_article_linkbox
 ##.socialmedia_float
 ##.socialmedia_link
@@ -31629,6 +31629,7 @@ _site_cookie_
 ||reftagger.com^$third-party
 ||repost.us^$third-party
 ||research.net^$third-party
+||rightmessage.com^$third-party
 ||rokt.com^$third-party
 ||roost.me^$third-party
 ||royapp.com^$third-party
@@ -35501,7 +35502,6 @@ adotas.com,al-monitor.com,audioholics.com,boldprogressives.org,daniweb.com,drsin
 health.harvard.edu,squawkfox.com##.ui-dialog-overlay
 aliexpress.com##.ui-fixed-panel
 aliexpress.com##.ui-mask
-aliexpress.com##.ui-newuser-layer-dialog
 boldprogressives.org,daniweb.com,drsinatra.com,halfhourmeals.com,hotscripts.com,mac-forums.com,mercola.com,motorauthority.com,nomorerack.com,pangeatoday.com,pier1.com,rottentomatoes.com,thebolditalic.com,underarmour.com,warrior.com##.ui-widget-overlay
 searchenginewatch.com##.ukn-email-signup
 webcodegeeks.com##.ulp-inline-window
@@ -42733,6 +42733,7 @@ wykop.pl#@#.social-list
 coeffee.com,flipboard.com,getyounity.com,howdoyou.do#@#.social-login
 ethias.be,technorati.com#@#.social-media
 f-secure.com,howtogeek.com#@#.social-media-buttons
+chorus.co.nz#@#.social-media-links
 schuermann.eu#@#.social-media-list
 insideover.com#@#.social-menu
 nvidia.pl#@#.social-newsletter
@@ -43065,7 +43066,7 @@ bosch-mobility-solutions.com#@#.m-cookie
 bosch-mobility-solutions.com#@#.m-cookie-intro
 makelaarsland.nl#@#.m-cookie-notice
 theverge.com#@#.m-privacy-consent
-gct.com,oattravel.com,piaggiogroup.com#@#.mod_cookies
+gct.com,oattravel.com,pentestpartners.com,piaggiogroup.com#@#.mod_cookies
 multimediago.pl#@#.modal-cookie
 betway.it#@#.module-cookie
 ramics-conference.org#@#.nf-form-content

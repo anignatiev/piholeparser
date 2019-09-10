@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8myv2htumaEGRMDR4q/GSA
-! Version: 201909070010
+! Checksum: mAh+cwUt1CUtsPzZ0DpD4Q
+! Version: 201909100010
 ! Title: RU AdList: Counters
-! Last modified: 07 Sep 2019 00:10 UTC
+! Last modified: 10 Sep 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -90,15 +90,16 @@ ok.ru#?#.feed-list > .feed-w:-abp-has(.feed_ava ~ div div > [class] ~ [class] ~ 
 @@/^https?://[a-z]+\.com/+[^\s]{4,15}/$other,xmlhttprequest,domain=alforenao.com|clastarti.cc|mastarti.com|pandastream.cc|streamguard.cc|streamtojupiter.me
 @@||www.inoreader.com/adv/$domain=www.inoreader.com
 pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net##[id*="adbloc"]
-championat.com,gazeta.ru,lenta.ru,quto.ru,rambler.ru,rns.online#?#body * *:-abp-has(> * > * > [href*="visit-monitor.yandex.ru/count/"])
-championat.com,gazeta.ru,lenta.ru,quto.ru,rambler.ru,rns.online#?#body * *:-abp-has(> * > [href^="https://direct.yandex.ru/"])
 mail.ru##body > .zeropixel ~ * .i-clearfix.feed-generic__container
 mail.ru##body > .zeropixel ~ * .search__container ~ [class] > .tabs + div[class] ~ div > div:first-child:not([name])
 mail.ru##body > .zeropixel ~ * .search__container ~ [class] > .tabs + div[class] ~ div > div:first-child:not([name]) ~ div
 mail.ru##body > .zeropixel ~ * .search__container ~ [class] ~ [class] > :first-child
+championat.com,gazeta.ru,lenta.ru,quto.ru,rambler.*,rns.online,eda.ru#?#+js(set-constant.js, Object.prototype.getPrefixes, undefined)
 pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net##footer
 pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net##footer > a
 4pda.ru##tbody > tr[valign="top"] > td[width="20%"] + td[class]
+yandex.*#?#+js(abort-on-property-read.js, Ya.loaderVer)
+yandex.*#?#+js(abort-on-property-read.js, yaads.adRenderedCount)
 ||browserleaks.com/js/proxy_ab.js
 ||fun/assets/vendor*.xml?$third-party,other,xmlhttprequest
 ||google-analytics.com^$domain=checkadblock.ru
@@ -214,7 +215,7 @@ _pagespeed_beacon?
 ##img[src^="/stat/"][width="88"][height="31"]
 !
 ! = Общие блокировки (и с использованием имени доменов) =========================
-/^https?://mail\.yandex\.(by|kz|ru|ua)/[^\s]{200,}/$script,domain=mail.yandex.by|mail.yandex.kz|mail.yandex.ru|mail.yandex.ua
+/^https?://mail\.yandex\.(by|kz|ru|ua)/[^\s]{180,}/$script,domain=mail.yandex.by|mail.yandex.kz|mail.yandex.ru|mail.yandex.ua
 /redir/stat/*$domain=autonews.ru|rbc.ru|sportrbc.ru
 |http://li.ru^$third-party,~subdocument
 |http://pr-cy.$third-party
@@ -718,6 +719,7 @@ _pagespeed_beacon?
 ||ws.md/c.png?
 ||wtools.biz/sample2.php?
 ||xiti.com^$third-party
+||xray.mail.ru^
 ||xxxx.re^$third-party
 ||xxxxx.re^$third-party
 ||y-track.com^$third-party
