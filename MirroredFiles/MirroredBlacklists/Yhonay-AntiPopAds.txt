@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9407
+! Version: 9421
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1217,6 +1217,7 @@
 ||cvvwaepygjzczp.com^
 ||cvwipkjyu.bid^
 ||cvwrspsdr.com^
+||cvypzafq.com^
 ||cvzixxiesyjkha.com^
 ||cwbbqhgtjbvtzi.com^
 ||cwdnbhhmdnm.com^
@@ -1359,6 +1360,7 @@
 ||dergevqzqi.com^
 ||derpqpyvym.bid^
 ||derqboxqca.com^
+||deuqpxrht.com^
 ||dewltdgzgtt.com^
 ||dexxxrggi.com^
 ||deyzjaiggwz.com^
@@ -1430,6 +1432,7 @@
 ||diuiyzhao.com^
 ||diwiosqupuecg.com^
 ||diwkemnk.bid^
+||diwsvdnmpn.com^
 ||diwtbtakcu.com^
 ||djagrjpaoek.com^
 ||djavljmti.com^
@@ -1462,6 +1465,7 @@
 ||dkvzpqcqan.com^
 ||dkxeorhjmua.com^
 ||dlahijuwjsv.com^
+||dlcgxmentykv.com^
 ||dlemeyrkjy.com^
 ||dlfdvyfn.com^
 ||dlganxfc.bid^
@@ -2362,6 +2366,7 @@
 ||frereadayobq.com^
 ||frezshmura.bid^
 ||frfgfhzxtfvsp.com^
+||frfnlvnpzeju.com^
 ||frkohfqkpwvvq.com^
 ||frlzxwxictmg.com^
 ||frmavvtkhi.bid^
@@ -2916,6 +2921,7 @@
 ||gydlzimosfnz.com^
 ||gyhujxbptum.com^
 ||gyinmxpztbgf.com^
+||gykmfqxeolnne.com^
 ||gynhbuspeiud.bid^
 ||gynzvwhup.com^
 ||gyojplgn.com^
@@ -3897,6 +3903,7 @@
 ||jgedbspzlrjhp.com^
 ||jgerrmaktdzyh.com^
 ||jgjpicgy.com^
+||jgjvhtnshqjc.com^
 ||jgmvibtqe.com^
 ||jgophcykrckik.com^
 ||jgqcraids.com^
@@ -4651,6 +4658,7 @@
 ||kzfinsoee.com^
 ||kzgzfndrvpnz.com^
 ||kzlmwsyftm.com^
+||kzmipklxanggf.com^
 ||kzqrjfulybvv.com^
 ||kzujizavnlxf.com^
 ||kzwcmbypauw.com^
@@ -4717,6 +4725,7 @@
 ||lebeiivzmm.com^
 ||lebqrivt.com^
 ||lebskmaewbhm.bid^
+||lediyxobgmrgeb.com^
 ||ledvqaldtf.com^
 ||lepyhlczldiuja.bid^
 ||lesmyjzc.com^
@@ -6087,6 +6096,7 @@
 ||ojtcgnyikbtg.bid^
 ||ojvwpiqnmecd.com^
 ||ojwgkxcgdhvacc.com^
+||ojwmlieqguqg.com^
 ||ojxzmlgl.com^
 ||okaeetrzjyvx.com^
 ||okakjbtitwh.bid^
@@ -7183,6 +7193,7 @@
 ||rbtpsbtzh.com^
 ||rbtqofrkiixz.com^
 ||rbuowrinsjsx.com^
+||rbuppjvcn.com^
 ||rbvfibdsouqz.com^
 ||rcappkszvgwxx.com^
 ||rcdmxfpefz.bid^
@@ -7576,6 +7587,7 @@
 ||sawdfbwxqcpcs.com^
 ||saybfmfptfjlv.bid^
 ||saylbisqotwixm.bid^
+||sayzziir.com^
 ||sbdedksgqu.com^
 ||sbdufkkcp.bid^
 ||sbealpvjpzzs.com^
@@ -9010,6 +9022,7 @@
 ||xgpiuhyxbevjgs.com^
 ||xgwslgpad.com^
 ||xhfosyfia.com^
+||xhgqgbomrrfstv.com^
 ||xhhfpakexs.com^
 ||xhstxnpemardz.com^
 ||xhyjlfbqnbr.com^
@@ -9327,6 +9340,7 @@
 ||zkqpoamv.com^
 ||zksdztizohcfy.com^
 ||zlahmbwm.com^
+||zldijcenor.com^
 ||zlegojgwg.com^
 ||zlhscyahjbaq.com^
 ||zlkrsqad.com^
