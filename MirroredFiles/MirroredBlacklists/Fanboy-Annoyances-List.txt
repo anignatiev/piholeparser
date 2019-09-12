@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cUr533UoXw++bWE8GySqYg
-! Version: 201909110011
+! Checksum: Hx2d793h+v4hxHn5TqTp+w
+! Version: 201909120011
 ! Title: Fanboy's Annoyance List
-! Last modified: 11 Sep 2019 00:11 UTC
+! Last modified: 12 Sep 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7428,6 +7428,7 @@ _site_cookie_
 ##.GlobalFooter-backToTopSection
 ##.JumpToTop
 ##.NextCheatButton
+##.PageHeaderWithMenu-backTop
 ##.ScrollTop
 ##.TopGoTop
 ##.W_gotop
@@ -7515,6 +7516,7 @@ _site_cookie_
 ##.c_pagetop
 ##.category-page__back-to-top--button
 ##.ccm_go_top
+##.crc-backToTop
 ##.ct-js-btnScrollUp
 ##.ct-scrollUpButton
 ##.ct-totop
@@ -10760,6 +10762,7 @@ _site_cookie_
 ##.PremiumObitShare
 ##.QUISocialList
 ##.RadSocialShare
+##.RelookingFooter__social
 ##.SL_Share
 ##.SOCIAL
 ##.SUD_socail_links
@@ -19067,6 +19070,7 @@ _site_cookie_
 ##.svgIcon--twitterFilled
 ##.swf-sn-share-link
 ##.swf-social-site
+##.switchShare
 ##.swp_social_panel
 ##.syn-sharelist
 ##.synved-social-button
@@ -30544,6 +30548,7 @@ _site_cookie_
 ##.rank-cookie-bar
 ##.rb-cookie
 ##.rb-cookie-backdrop
+##.rb-cookie-disclaimer
 ##.rb-cookingalert
 ##.rd__cookie-bar
 ##.rdm-daac-notice-template
@@ -38953,6 +38958,7 @@ bestlivecamsites.com##.ntfc-bar
 castrol.com##.nv-notification-header
 decider.com,nypost.com,pagesix.com##.nyp-sitewide-notice
 norma-ammunition.com##.on-screen-messages
+suncorp.com.au##.one-pixel-margin-bottom.sg-Box
 wpengine.com##.opt-in-modal
 origin.com##.origin-sitestripe
 ratemyprofessors.com##.overlay
@@ -42310,7 +42316,7 @@ pch24.pl,retro-bit.com#@#.popup-newsletter
 inverse.com#@#.promos-newsletter
 carlsenfritzoe.no,push.abs-cbn.com,schufa.de#@#.push-container
 underconsideration.com#@#.push-wrap
-operon.pl#@#.push-wrapper
+arabbank.com.au,operon.pl#@#.push-wrapper
 seznam.cz#@#.rss-feed
 wired.com#@#.rss-widget
 mozillamessaging.com#@#.rss.icon
@@ -42323,6 +42329,7 @@ channelnewsasia.com,ew.com,indiatimes.com,letyshops.com,msn.com,people.com,south
 hyperoptic.com,playtech.co.nz,porozmawiajmyoit.pl,scan.co.uk#@#.scroll_top
 theuptake.org#@#.scrolltop
 ap.www.namecheap.com#@#.scrolltotop
+chorus.co.nz#@#.scrollup
 github.com,kifi.com,okcupid.com,retailmenot.com#@#.signup-email
 dualshockers.com#@#.socialfooter
 blackboat.com#@#.sqs-announcement-bar
@@ -42618,7 +42625,7 @@ pinterest.com#@#.pinterestComponentShare
 google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.plusone
 privatecore.com#@#.post-fb
 facebook.com#@#.post-fb-like
-kliknijwzdrowie.pl,pokoleniesmart.pl,truepundit.com,velodaily.ru#@#.post-share-container
+kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,truepundit.com,velodaily.ru#@#.post-share-container
 imgur.com#@#.post-share-panel
 reddit.com#@#.post-sharing
 guildwars2.com#@#.post-social
