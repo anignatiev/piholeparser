@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201909111242
+! Version: 201909121759
 ! Title: EasyPrivacy
-! Last modified: 11 Sep 2019 12:42 UTC
+! Last modified: 12 Sep 2019 17:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -467,6 +467,7 @@
 /ads_tracking.
 /adsct?
 /adstat.
+/adstatistics/*
 /adstats.
 /adstrack.
 /adtctr.
@@ -593,6 +594,7 @@
 /analytics-social.
 /analytics-tag.
 /analytics-v1.
+/analytics.*/event?
 /analytics.*/ping/?
 /analytics.ad.
 /analytics.ashx
@@ -870,6 +872,7 @@
 /bc/clk?
 /bcbot-nomin.js
 /bcn.gif?
+/bcn/b.gif?
 /bcn?
 /bcsensor.js
 /bctrackers/*
@@ -1024,6 +1027,7 @@
 /cedexis.js
 /cedexis/*
 /cedexisus.
+/CelebrusInsert.js
 /certifica-js14.js
 /certifica.js
 /certifica_2010.js
@@ -3141,6 +3145,7 @@
 /revinit.js
 /revsci.
 /revtracking/*
+/rgea.min.js
 /RioTracking2.
 /risk_fp_log?
 /riveted.js
@@ -3278,7 +3283,9 @@
 /serve/mtrcs_
 /server.php?request=track&output=
 /server/detect.php?
+/service/metrics/*
 /service/track?
+/service/tracking/*
 /services/?tid=
 /services/analytics/*
 /services/counter/*
@@ -3918,6 +3925,7 @@
 /tracking/click?
 /tracking/clicks
 /tracking/comscore/*
+/tracking/cookies/*
 /tracking/count
 /tracking/create?
 /tracking/csp?
@@ -8948,6 +8956,7 @@ _mongo_stats/
 ||clickmatic.pl^$third-party
 ||conversion.pl^$third-party
 ||dmdi.pl^$third-party
+||goprediction.com^$third-party
 ||gostats.pl^$third-party
 ||hub.com.pl^$third-party
 ||i22lo.com^$third-party
@@ -8956,9 +8965,11 @@ _mongo_stats/
 ||legenhit.com^$third-party
 ||ngacm.com^$third-party
 ||ngastatic.com^$third-party
+||nokaut.link^$third-party
 ||nsaudience.pl^$third-party
 ||p071qmn.com^$third-party
 ||pushdom.co^$third-party
+||refericon.pl^$third-party
 ||rejestr.org^$third-party
 ||sare25.com^$third-party
 ||snrbox.com^$third-party
@@ -9410,6 +9421,7 @@ _mongo_stats/
 ||analytics.cynapse.com^
 ||analytics.datahc.com^
 ||analytics.dev.springboardvideo.com^
+||analytics.developer.riotgames.com^
 ||analytics.dvidshub.net^
 ||analytics.edgekey.net^
 ||analytics.edgesuite.net^
@@ -11079,6 +11091,7 @@ _mongo_stats/
 ||telemetry.reembed.com^
 ||telemetry.soundcloud.com^
 ||the-group.net/aether/
+||thefilter.com/events/view?
 ||thefilter.com^*?extanonid=$~script
 ||themesltd.com/hit-counter/$third-party
 ||themesltd.com/online-users-counter/$third-party
@@ -14477,6 +14490,7 @@ _mongo_stats/
 ||tracker.anandtech.com^
 ||tracker.calameo.com^
 ||tracker.cpapath.com^
+||tracker.jawcloud.co^
 ||tracker.joost.com^
 ||tracker.lolalytics.com^
 ||tracker.mattel.com^
@@ -15104,6 +15118,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||cpix.daserste.de^
 ||cpx.golem.de^
 ||cpxl.golem.de^
+||cxt.deutsche-bank.de^
 ||dab-bank.de/img/dummy.gif
 ||dada.net^*/nedstat_sitestat.js
 ||daenischesbettenlager.de/analytics.js

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mAh+cwUt1CUtsPzZ0DpD4Q
-! Version: 201909100010
+! Checksum: eZ5ymN0+0Z60tbBMmUZdDQ
+! Version: 201909130010
 ! Title: RU AdList: Counters
-! Last modified: 10 Sep 2019 00:10 UTC
+! Last modified: 13 Sep 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -100,6 +100,7 @@ pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net##footer > a
 4pda.ru##tbody > tr[valign="top"] > td[width="20%"] + td[class]
 yandex.*#?#+js(abort-on-property-read.js, Ya.loaderVer)
 yandex.*#?#+js(abort-on-property-read.js, yaads.adRenderedCount)
+||1bfc228b50a902db.com^$domain=kodik.cc|kodik.info|kodikdb.com
 ||browserleaks.com/js/proxy_ab.js
 ||fun/assets/vendor*.xml?$third-party,other,xmlhttprequest
 ||google-analytics.com^$domain=checkadblock.ru
