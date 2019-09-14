@@ -9,9 +9,9 @@
 ! Wsparcie:
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 6 September 2019
+! Last modified: 13 September 2019
 ! Expires: 1 day
-! Version: 2019090602
+! Version: 2019091302
 ! Support:
 !   Email >> errors@certyficate.it
 !   Discord >> http://ds.certyficate.it
@@ -20,7 +20,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2019 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2019090602 aktualizacja: ptk, 6 wrzesnia 2019, 09:15:00
+! v.2019091302 aktualizacja: ptk, 13 wrzesnia 2019, 20:40:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -268,7 +268,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl##[class*="reklamy"]
 ~timeanddate.com,~sanalmarket.com.tr###ad
 ~vestivrn.ru,~livacha.com,~uk,~kraken.com,~elton.com.ua,~alexbranding.com,~unitheme.net,~konsoleigry.pl,~megadyskont.pl##[class^="adv-"]
 ~wtkplay.pl,~epoznan.pl,pl##[class^="advertisement"]
-~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl##[src*="/banners/banner"]
+~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl,pl##[src*="/banners/banner"]
 !
 !9#------------------------Specific element hiding rules------------------------!
 100pompek.pl,podciaganie.pl,miesniebrzucha.pl,miesnienog.pl,biegaj40minut.pl,treningrozciagania.pl,treningaerobowy.pl###block-trainings-rev-content-bottom, #block-trainings-rev-header
@@ -524,6 +524,7 @@ brytol.com###text-3
 budmatauto.pl##.popup-content, .popup-bg
 budnet.pl##a[href^="https://"] > IMG
 budnet.pl#?#tr:-abp-has(.post_adv)
+budowlane.targibialystok.com###atrakcje
 bukowskilider.pl###sticky-posts-7
 bukowskilider.pl##.wp-image-218.size-full.alignnone
 bukowskilider.pl##.wp-image-9190.alignnone
@@ -2588,6 +2589,7 @@ strefawolnejprasy.pl##.rev_slider_wrapper
 studentka.pl##.s_dodatkowa > .box
 studentnews.pl##.s_dodatkowa
 studentnews.pl,gramatyka-angielska.info##a[href^="http://studentnews.pl/klik.php"]
+studio-mebli.eu###banery
 stw24.pl##.advads-widget
 styl.fm##[style^="overflow:"] > [target="_blank"] > IMG
 styl.pl###headerTopWraper > .headerPre
@@ -2686,6 +2688,7 @@ telchina.pl##[style="padding: 5px 5px 2px 5px; font-size: 1.1em; background-colo
 telchina.pl##img[src^="https://s1.postimg.org/"]
 telefonowal.pl##.right.col-md-3 > A[href^="http://"]
 telefonowal.pl##div.last_coment:nth-of-type(1) > table
+teletoonplus.pl###nctop, #nctopcontainer
 telemagazyn.pl##.callToActionTarget
 telemagazyn.pl##[class^="fiszka"]
 teleman.pl###leaderboard-bottom
@@ -2887,6 +2890,7 @@ wadowice24.pl###region1, .mobilehide.borderwrap, [href*="://reklamawadowice24.pl
 wadowiceonline.pl###top-header, #jmMobile
 wadowiceonline.pl##[id^="wo-poz-"]
 wagaciezka.com##a[href^="http://www.wagaciezka.com/banery/redirect/"]
+wagrowiec-wydarzeniazostatniejchwili.pl##.banner-promotions-wrapper, #top_10
 wakai.pl###text-html-widget-5
 wakai.pl###text-html-widget-6
 wakai.pl##.youtube-widget
@@ -3967,13 +3971,7 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 !23#--------------------------Pages with bad reputation------------!
 filmyfilmy.pl###play
 ||udater.net^
-||newsinsider.me^
-||dspinner.net^
-||faberville.com^
-||gratissos.com^
-||kitchencollectivecool.info^
-||pulsebiznesu.xyz^
-||pulse-biznesowe.xyz^
+||saway.pl^
 !
 !24#--------------------------Rules for ublock, but can be use with adblock------------!
 ||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=exs.pl,important
@@ -4256,8 +4254,9 @@ bielskiedrogi.pl###block-block-9, #block-views-reklamy-block
 bieznie-treningowe.pl,inforiders.pl,paleosmak.pl###text-2
 blogprezesa.pl,kryptowaluty.info.pl,litecoin.pl,starosadeckie.info##.aligncenter
 blogujmy24.pl##.blogu-widget, .blogu-text, #custom_html-3
-blogujmy24.pl,tarnow.in,ps4site.pl###text-3
+blogujmy24.pl,tarnow.in,ps4site.pl,bebetalent.pl###text-3
 businesstraveller.pl##.widget-clear.widget
+codojedzenia.pl###text-44
 craftportal.pl###text-13
 crypto-trader.pl##.wp-image-1528
 cryptonews.pl###text-6, #text-5, #text-11
@@ -4273,7 +4272,7 @@ hiro.pl##.vc_align_left.wpb_content_element.wpb_single_image
 historykon.pl###text-3
 iknurow.pl###text-91
 jazdaprawna.pl##.widget_sp_image.widget.td_block_template_1
-jedzbawsie.pl,ekspert.ceneo.pl,slupca.pl,fsgk.pl,inforiders.pl,gadzet.telchina.pl,lifemanagerka.pl,eduzabawy.com###text-7
+jedzbawsie.pl,ekspert.ceneo.pl,slupca.pl,fsgk.pl,inforiders.pl,gadzet.telchina.pl,lifemanagerka.pl,eduzabawy.com,kucharenka.pl###text-7
 kamienskie.info##[class^="ads-index"]
 kamienskie.info##[id^="text-"]
 konflikty.pl###vw_widget_custom_text-2
