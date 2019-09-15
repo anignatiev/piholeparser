@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: E9LCGMmIPARlxHzfksPrOw
-! Version: 201909140010
+! Checksum: 5GjaZTOj5tC+RPkOf1vZZw
+! Version: 201909150010
 ! Title: RU AdList: BitBlock
-! Last modified: 14 Sep 2019 00:10 UTC
+! Last modified: 15 Sep 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -8781,6 +8781,7 @@ _youtube_social_
 ###sticky-social-sidebar
 ###stickyShare
 ###stickySharer
+###stickySharing
 ###stickySocial
 ###sticky_sharing
 ###stickyshare
@@ -22232,6 +22233,7 @@ _backToTop.
 ##.signup-tout
 ##.signup-with-checkboxes
 ##.signup1
+##.signup_module
 ##.signup_slider
 ##.simple-endofarticleemail
 ##.simple-sidebar-emailsignupbox
@@ -22303,6 +22305,7 @@ _backToTop.
 ##.subscribe-widget-container
 ##.subscribe-widget-sidebar
 ##.subscribe-wrapper
+##.subscribe.block
 ##.subscribe2
 ##.subscribeBox
 ##.subscribeInPost

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yVbbQaWgnJWxTbnIibJt8Q
-! Version: 201909130011
+! Checksum: eHOEgzV0XU/Fi9kFbI1giA
+! Version: 201909150011
 ! Title: Fanboy's Annoyance List
-! Last modified: 13 Sep 2019 00:11 UTC
+! Last modified: 15 Sep 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -3876,6 +3876,7 @@ _youtube_social_
 /adtoniq-messenger-$script,~third-party
 /agreeCookie.
 /agreements/cookie?
+/ajax/dataconsentcookies
 /AjaxStyleJamHeaderCookiesMessage?
 /ajw/gdpr/*
 /ajw_gdpr.
@@ -6632,6 +6633,7 @@ _site_cookie_
 ##.signup-tout
 ##.signup-with-checkboxes
 ##.signup1
+##.signup_module
 ##.signup_slider
 ##.simple-endofarticleemail
 ##.simple-sidebar-emailsignupbox
@@ -6703,6 +6705,7 @@ _site_cookie_
 ##.subscribe-widget-container
 ##.subscribe-widget-sidebar
 ##.subscribe-wrapper
+##.subscribe.block
 ##.subscribe2
 ##.subscribeBox
 ##.subscribeInPost
@@ -10355,6 +10358,7 @@ _site_cookie_
 ###sticky-social-sidebar
 ###stickyShare
 ###stickySharer
+###stickySharing
 ###stickySocial
 ###sticky_sharing
 ###stickyshare
@@ -29487,6 +29491,7 @@ _site_cookie_
 ##.gizlilik-cookies
 ##.gk-cookie-policy
 ##.gl-cookie-banner-wrapper
+##.glCookieMessage
 ##.global-cookie
 ##.global-cookie-bar
 ##.global-cookie-curtain
@@ -35802,13 +35807,13 @@ iafrica.com,marijuanamoment.net,thebaffler.com###boxzilla-overlay
 telesurenglish.net###bulletin
 euractiv.com###capitals_banner
 geekwire.com###category-heading-subscribe
-ibtimes.com.au,sciencenews.org,sinya.com.tw###cboxOverlay
+ibtimes.com.au,sciencenews.org,sinya.com.tw,westhawaiitoday.com###cboxOverlay
 breitbart.com###cin_footer
 breitbart.com###cin_header
 breitbart.com###cin_ps_in_article
 breitbart.com###cin_sidebar
 breitbart.com###cin_slideup_w
-sciencenews.org,sinya.com.tw###colorbox
+sciencenews.org,sinya.com.tw,westhawaiitoday.com###colorbox
 monthlyreview.org###connect
 thewrap.com###content-bottom-sidebar
 telecompaper.com###ctl00_MainPlaceHolder_HeadlineRegistersMain1_Update1
@@ -38336,7 +38341,7 @@ history.com##.section-social-list
 huffingtonpost.co.uk,huffingtonpost.com,tomshardware.co.uk,tomshardware.com##.share-bar
 huffingtonpost.com##.share-bar-highlight
 thefreedictionary.com##.share-block
-financialpost.com,investopedia.com,nationalpost.com##.share-button
+financialpost.com,investopedia.com,nationalpost.com,trustedreviews.com##.share-button
 gsmarena.com##.share-buttons
 viralnova.com##.share-container
 last.fm##.share-desktop
@@ -38397,6 +38402,7 @@ allmusic.com##.social-nav
 thefreedictionary.com##.social-networks
 tomshardware.co.uk,tomshardware.com##.social-promote-box
 gsmarena.com,ibtimes.co.uk,infowars.com,mensxp.com,naasongs.com,sidereel.com##.social-share
+trustedreviews.com##.social-share--sticky
 mtlblog.com##.social-share-bar
 lifewire.com##.social-share-block
 menshealth.com,runnersworld.com,womenshealthmag.com##.social-share-button

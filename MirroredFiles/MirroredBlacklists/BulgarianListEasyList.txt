@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201909131315
+! Version: 201909141448
 ! Title: EasyPrivacy
-! Last modified: 13 Sep 2019 13:15 UTC
+! Last modified: 14 Sep 2019 14:48 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4757,6 +4757,8 @@ cgi-bin/counter
 .cfm?poolid=
 .ga/*.wasm
 .spacepools.*:
+/adobe.targetV2-
+/adobe/VisitorAPI_$script
 /aj-crypto-miner/*
 /ajcm-inject.
 /ajcryptominer/*
@@ -4793,9 +4795,11 @@ cgi-bin/counter
 /deepMiner.js
 /deepMiner.min.js
 /dprocessor.js
+/espn-analytics.
 /facash.
 /hash.wasm
 /helper.wasm$third-party
+/id?d_visid_
 /impression_analytics/*
 /inject.js?key=$script
 /jsecoin.*/?
@@ -4803,6 +4807,7 @@ cgi-bin/counter
 /lib/crlt.js$script,third-party
 /maxcdn.wasm
 /media/miner.
+/metric/gauge
 /mine/bitcoincore/*
 /miner-ui.js
 /miner.*/crypto-
@@ -4822,11 +4827,13 @@ cgi-bin/counter
 /projectpoi.min.js
 /rum_analytics/*
 /safelinkconverter.js
+/scripts/analytics/*
 /simple-miner-tweaks/*
 /simple-monero-$script
 /sparechange.js
 /streambeam-jw.js
 /streambeam-video.js
+/tenant.min.js
 /web_miner/*
 /webcoin.js
 /webcoin.min.js
@@ -4962,6 +4969,7 @@ _mongo_stats/
 ||a8ww.net^$third-party
 ||aaddzz.com^$third-party
 ||aamsitecertifier.com^$third-party
+||aapsis.com^$third-party
 ||aaxdetect.com^$third-party
 ||abcstats.com^$third-party
 ||ablsrv.com^$third-party
@@ -6561,6 +6569,7 @@ _mongo_stats/
 ||personalicanvas.com^$third-party
 ||personyze.com^$third-party
 ||petametrics.com^$third-party
+||pgs.io^$third-party
 ||phonalytics.com^$third-party
 ||phone-analytics.com^$third-party
 ||photorank.me^$third-party
@@ -6950,6 +6959,7 @@ _mongo_stats/
 ||soko.ai^$third-party
 ||sokrati.com^$third-party
 ||sometrics.com^$third-party
+||sophi.io^$third-party
 ||sophus3.com^$third-party
 ||soska.us^$third-party
 ||spamanalyst.com^$third-party
@@ -8153,6 +8163,7 @@ _mongo_stats/
 ||zymerget.win
 ! Admiral
 ||6ldu6qa.com^$third-party
+||absorbingband.com^$third-party
 ||acridtwist.com^$third-party
 ||aheadday.com^$third-party
 ||anxiousapples.com^$third-party
@@ -8174,10 +8185,12 @@ _mongo_stats/
 ||ejyymghi.com^$third-party
 ||endurablecrayon.com^third-party
 ||familiarfloor.com^$third-party
+||familiarrod.com^$third-party
 ||fearfulflag.com^$third-party
 ||flakyfeast.com^$third-party
 ||forecasttiger.com^$third-party
 ||frailoffer.com^$third-party
+||futuristicfifth.com^$third-party
 ||giddycoat.com^$third-party
 ||giraffepiano.com^$third-party
 ||gorgeousground.com^$third-party
@@ -8203,6 +8216,7 @@ _mongo_stats/
 ||profusesupport.com^$third-party
 ||puffyloss.com^$third-party
 ||quaintcan.com^$third-party
+||quietknowledge.com^$third-party
 ||ritzykey.com^$third-party
 ||scintillatingspace.com^$third-party
 ||scrubswim.com^$third-party
@@ -8225,6 +8239,7 @@ _mongo_stats/
 ||sugarcurtain.com^$third-party
 ||ticklesign.com^$third-party
 ||truthfulturn.com^$third-party
+||typicalteeth.com^$third-party
 ||untidyrice.com^$third-party
 ||womanear.com^$third-party
 ! -----------------International third-party tracking domains-----------------!
@@ -9275,6 +9290,7 @@ _mongo_stats/
 ||aan.amazon.com^$third-party
 ||aao.org/aao/sdc/track.js
 ||abc.hearst.co.uk^$third-party
+||abcotvs.net^*/fban_
 ||acces-charme.com/fakebar/track.php?
 ||acount.alley.ws^$third-party
 ||acs86.com/t.js
@@ -9971,6 +9987,7 @@ _mongo_stats/
 ||data.queryly.com^
 ||data2.gosquared.com^$third-party
 ||datacollect*.abtasty.com^$third-party
+||datadog-service.mvfglobal.com^
 ||datam8.co.nz^$third-party
 ||daumcdn.net/tiara/
 ||daxab.com/logger/
@@ -10167,6 +10184,7 @@ _mongo_stats/
 ||friends.totallynsfw.com^
 ||ftimg.net/js/log.js?
 ||fullstory.com/s/fs.js$third-party
+||fundingchoicesmessages.google.com^$third-party
 ||future-fie-assets.co.uk^
 ||future-price.co.uk^
 ||futurecdn.net^*/abp.js
@@ -10174,6 +10192,7 @@ _mongo_stats/
 ||fwix.com^*/trackclicks_
 ||fyre.co^*/tracking/
 ||g.delivery.net^$third-party
+||g2insights-cdn.azureedge.net^
 ||ga-beacon.appspot.com^
 ||ga.kvideo.io^
 ||ga.webdigi.co.uk^
@@ -10273,6 +10292,7 @@ _mongo_stats/
 ||hostingtoolbox.com/bin/Count.cgi?
 ||hpr.outbrain.com^
 ||hqq.tv/js/counters.js
+||hsforms.com^*/timings.gif$image
 ||hubspot.com/analytics/
 ||hubspot.com/cs/loader-v2.js
 ||hubspot.com/tracking/
@@ -10324,6 +10344,7 @@ _mongo_stats/
 ||insitez.blob.core.windows.net^
 ||insnw.net/assets/dsc/dsc.fingerprint-
 ||insnw.net/instart/js/instart.js
+||instagram.com/logging/
 ||instagram.com/logging_client_events
 ||installiq.com/Pixels/
 ||intelligence.dgmsearchlab.com^
@@ -10815,6 +10836,7 @@ _mongo_stats/
 ||reevoo.com/track_url/
 ||reevoo.com^*/track/
 ||referrer.disqus.com^
+||registerdisney.go.com^*/responder.js
 ||relap.io^*/head.js?
 ||relaymedia.com/ping?$third-party
 ||replyat.com/gadgetpagecounter*.asp?
@@ -11086,6 +11108,7 @@ _mongo_stats/
 ||target.fark.com^
 ||target.mixi.media^
 ||targeting.*.arcpublishing.com^
+||targeting.perso.aws.arc.pub^
 ||targeting.wpdigital.net^
 ||tc.airfrance.com^
 ||tcheck.outbrainimg.com^
@@ -11335,6 +11358,7 @@ _mongo_stats/
 ||ultimedia.com/v/
 ||ultimedia.com^*/visibilityStat.js
 ||upcat.custvox.org/survey/*/countOpen.gif
+||uplynk.com/session/ping/
 ||upt.graphiq.com^
 ||urc.taboolasyndication.com^
 ||userlog.synapseip.tv^
@@ -12355,6 +12379,7 @@ _mongo_stats/
 ||affiliates.vpn.ht^
 ||afterdawn.com/views.cfm?
 ||agendize.com/analytics.js
+||agg.inquisitr.com^
 ||aggregator.inquisitr.com^
 ||agoda.net/js/abtest/analytics.js
 ||ai.inmdata.io^
@@ -13150,7 +13175,7 @@ _mongo_stats/
 ||glassmoni.researchgate.net^
 ||glean.pop6.com^
 ||global.canon^*/analytics.js
-||global.ssl.fastly.net^$script,domain=jsonline.com|lohud.com|radiotimes.com|sainsburys.co.uk
+||global.ssl.fastly.net^$script,domain=desertsun.com|jsonline.com|lohud.com|radiotimes.com|sainsburys.co.uk
 ||globes.co.il/ga.asp
 ||globes.co.il/shared/s.ashx?
 ||globester.com^*/track.js
@@ -13169,8 +13194,11 @@ _mongo_stats/
 ||google.*/log204?
 ||google.*/logxhraction?
 ||google.*/stats?frame=
+||google.com/_/DotsSplashUi/browserinfo
 ||google.com/appserve/mkt/img/*.gif
-||google.com/log?$~xmlhttprequest
+||google.com/dssw.js
+||google.com/insights/$script
+||google.com/log?
 ||google.com/reader/logging?
 ||google.com/stream_204?
 ||google.com/support/webmasters/api/metrics?$script
@@ -13203,6 +13231,7 @@ _mongo_stats/
 ||heartbeat.flickr.com^
 ||helium.com/javascripts/helium-beacons.js
 ||heraldtimesonline.com/js/tk.js
+||hermes.theglobeandmail.com^
 ||heroku.com/track.js
 ||herold.at/images/stathbd.gif?
 ||hexus.net/trk/$image
@@ -14000,6 +14029,7 @@ _mongo_stats/
 ||sabah.com.tr/Statistic/
 ||sabah.com.tr/StatisticImage/
 ||sabc.co.za/SABC/analytics/
+||sacbee.com/sacbee/micb.js
 ||sagepub.com^*/login_hit_hidden.gif?
 ||samsung.com^*/scripts/tracking.js
 ||sana.newsinc.com.s3.amazonaws.com^
@@ -14109,6 +14139,7 @@ _mongo_stats/
 ||soundcloud.com/event?
 ||sourceforge.net/images/mlopen_post.html?
 ||sourceforge.net/log/
+||sourcepoint.vice.com^
 ||sovereignbank.com/utils/track.asp
 ||sp-mms.weather.com^
 ||sp.app.com^
@@ -14483,6 +14514,7 @@ _mongo_stats/
 ||track.rediff.com^
 ||track.slideshare.net^
 ||track.thesaurus.com^
+||track.totalav.com^
 ||track.ugamezone.com^
 ||track.ultimate-guitar.com^
 ||track.webgains.com^
@@ -14500,6 +14532,7 @@ _mongo_stats/
 ||tracker.lolalytics.com^
 ||tracker.mattel.com^
 ||tracker.nbcuas.com^
+||tracker.nitropay.com^
 ||tracker.pandora.com^
 ||tracker.pinnaclesports.com^
 ||tracker.realclearpolitics.com^
@@ -16657,7 +16690,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||pixel.quantserve.com/seg/$script,domain=photos.essence.com
 @@||pixel.quantserve.com/seg/r;a=$object-subrequest,domain=breitbart.tv|cbs.com|filefront.com|imdb.com|laobserved.com|tv.com
 @@||pixelpressmedia.com/wp-content/plugins/duracelltomi-google-tag-manager/$script,domain=pixelpressmedia.com
-@@||play.google.com/log?format=json&authuser=$xmlhttprequest,domain=myaccount.google.com
+@@||play.google.com/log?$xmlhttprequest,domain=google.com
 @@||playcanvas.com.*/keen.min.js
 @@||player.ooyala.com^*/analytics-plugin/$script,domain=nintendo.com
 @@||player.siriusxm.com/assets/app-dynamics/jsagent/adrum-ext.$script
@@ -16862,6 +16895,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||washingtonpost.com/wp-stat/analytics/main.js$domain=subscribe.washingtonpost.com
 @@||washingtonpost.com^*/spacer.gif?$image
 @@||wbshop.com/fcgi-bin/iipsrv.fcgi?
+@@||web-scripts.vice.com^*/AdobeAnalyticsSDK.min.js$script,domain=video.vice.com
 @@||websimages.com/JS/Tracker.js
 @@||webtrack.dhlglobalmail.com^
 @@||webtrends.com^*/events.svc$subdocument,domain=mycokerewards.com
