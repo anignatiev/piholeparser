@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: eHOEgzV0XU/Fi9kFbI1giA
-! Version: 201909150011
+! Checksum: 95CAY1IDBD0TIrUkohwObQ
+! Version: 201909160011
 ! Title: Fanboy's Annoyance List
-! Last modified: 15 Sep 2019 00:11 UTC
+! Last modified: 16 Sep 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2102,6 +2102,7 @@ _backToTop.
 /img/gplus_
 /img/instagram-
 /img/instragram.
+/img/plusgoogle.
 /img/share-
 /img/share/*
 /img/share_
@@ -6490,6 +6491,7 @@ _site_cookie_
 ##.nlsubscribe-block
 ##.nn-newsletter
 ##.node-newsletter-subscribe
+##.notification-results
 ##.nse_subscription-list
 ##.nslr-subscb
 ##.nw_form_newsletters
@@ -8123,6 +8125,7 @@ _site_cookie_
 ###block-boxes-social-media
 ###block-bulletin-facebook-activity-feed
 ###block-bulletin-share-feature
+###block-condividipagina
 ###block-custom_blocks-facebook_twitter_widgets
 ###block-ex_article-article_facebook_block
 ###block-ex_article-homepage_facebook_block
@@ -16608,6 +16611,9 @@ _site_cookie_
 ##.shareButtonByline
 ##.shareButtonList
 ##.shareButtons
+##.shareButtons-button
+##.shareButtons-buttons
+##.shareButtons-label
 ##.shareButtonsHolder
 ##.shareButtonsSprite
 ##.shareButtonsvideo
@@ -16820,6 +16826,7 @@ _site_cookie_
 ##.share_part_insta
 ##.share_part_twitter
 ##.share_part_youtube
+##.share_pin_img
 ##.share_pinterest
 ##.share_pluging
 ##.share_post
@@ -19572,6 +19579,7 @@ _site_cookie_
 ##.uiButtonFacebook
 ##.uiButtonGooglePlus
 ##.uiButtonTwitter
+##.uix_socialMedia
 ##.uix_socialMediaLinks
 ##.uk-icon-facebook
 ##.uk-icon-facebook-square
@@ -20772,6 +20780,7 @@ _site_cookie_
 ###BodyContent_usrAcceptCookies_pnlAcceptCookies
 ###BortosCookie
 ###BsCookie
+###Button_Cookie
 ###CCC_Cookies_wrapper
 ###CCompliance
 ###CCookie
@@ -23123,6 +23132,7 @@ _site_cookie_
 ###cookie_leiste
 ###cookie_level0
 ###cookie_level1
+###cookie_main_block
 ###cookie_man
 ###cookie_management_header
 ###cookie_melding
@@ -24587,6 +24597,8 @@ _site_cookie_
 ###fb-pixel-consent
 ###fc-cookies-notification
 ###fcCookie
+###fco-gdpr
+###fco-gdpr-mask
 ###fd-notes-top-cookies
 ###fdCookieLawBanner
 ###fdih-cb
@@ -28344,6 +28356,7 @@ _site_cookie_
 ##.cookie_loading
 ##.cookie_logo
 ##.cookie_m
+##.cookie_main_block
 ##.cookie_meldung
 ##.cookie_mess
 ##.cookie_message
@@ -28393,6 +28406,7 @@ _site_cookie_
 ##.cookie_richtlinien
 ##.cookie_rolldown
 ##.cookie_row
+##.cookie_second_block
 ##.cookie_section
 ##.cookie_setting
 ##.cookie_statement
@@ -32008,6 +32022,7 @@ _site_cookie_
 ||interestingnation.com/like.php$third-party
 ||jiathis.com^$third-party
 ||jit.su/frame$third-party
+||juicer.io^$third-party
 ||karmacracy.com/widget$third-party
 ||lessbuttons.com^$third-party
 ||likebtn.com^$third-party
@@ -34727,6 +34742,7 @@ cnn.com##.internal-nav-menu
 fashionista.com##.interruptor
 health.harvard.edu##.interstitial_dialog
 ee.co.uk##.intro-banner-iparsys
+gentside.com,maxisciences.com##.invite-popin
 olympic.org##.iocShareLinks
 thesun.co.uk##.ipad-frontpage
 pinknews.co.uk##.iphone-app
@@ -41717,6 +41733,7 @@ forbit.it##div[id^="ni_cookie_"]
 clouditalia.com##div[style="background-color: #f0f0f0; font-family: Open Sans; font-size: 12px; line-height: 18px; text-shadow: none; text-align: justify; padding: 25px; border-radius: 4px"]
 mimprendo.it##div[style="background-color:#E2E2E2;float:left;position:fixed;top:50px;left:0; height:60px;width:100%;"]
 privatesportshop.it##div[style="background: #FFFFE1; border-bottom: 1px solid #A0A0A0; padding: 10px;line-height: 1.4em; text-align: justify; font-family: sans-serif; font-size: 12px;"]
+leone1947.com##div[style="box-sizing: border-box; bottom: 0px; position: fixed; width: 100%; overflow: hidden; padding: 10px; z-index: 9; background-color: rgb(238, 238, 238); border-top: 1px solid #000;"]
 tuttosexyshop.it##div[style="font-size: 12px;float:left; width: 100%; text-align:center;"]
 enerpoint.it##div[style="padding:10px;background:#f77900;text-align:center;font-size:12px;margin-bottom:15px;"]
 gomme-auto.it##div[style="position: fixed; z-index: 999; bottom: 0px; left: 0px; right: 0px; margin: 0px auto; max-width: 960px; min-width: 360px; overflow: hidden;"]
@@ -42339,7 +42356,7 @@ thefork.it#@#.newsletterSignup
 outbrain.com#@#.outbrain
 pch24.pl,retro-bit.com#@#.popup-newsletter
 inverse.com#@#.promos-newsletter
-carlsenfritzoe.no,push.abs-cbn.com,schufa.de#@#.push-container
+carlsenfritzoe.no,meineschufa.de,push.abs-cbn.com,schufa.de#@#.push-container
 underconsideration.com#@#.push-wrap
 arabbank.com.au,operon.pl#@#.push-wrapper
 seznam.cz#@#.rss-feed
@@ -43377,7 +43394,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
 @@||aolcdn.com/aboutme/*/icons/socialmedia/$domain=about.me
-@@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|febbit.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
+@@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|febbit.com|id.logi.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
 @@||app.hrlab.de/assets/icons/$image,domain=app.hrlab.de
 @@||apple.com/kb/resources/images/i_facebook.png
 @@||archiveteam.org^$generichide

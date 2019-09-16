@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QT/z5kTNO8wREBe5mO554g
-! Version: 201909150010
+! Checksum: EfoEsTJf35BdqidQ4ffUaA
+! Version: 201909160010
 ! Title: RU AdList: Counters
-! Last modified: 15 Sep 2019 00:10 UTC
+! Last modified: 16 Sep 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -66,6 +66,7 @@
 @@||yastatic.net/metrika/*/counters/$domain=metrika.yandex.ru
 @@||youtube.com/api/stats/watchtime?$image,domain=youtube.com
 @@||zona.mobi/js/build/app/modules/counters/liru.js$script,domain=zona.mobi
+oldseedoff.zannn.top,seedoff.innal.top,seedoff.net.zannn.top,seedoff.zannn.top,seedoff2.innal.top,seedoff3.innal.top,seedoff4.innal.top,seedoff5.innal.top,seedoff6.innal.top,seedoff7.innal.top,seedoff8.innal.top#@#*
 !
 ! = Частные фильтры ===========================================================
 e.mail.ru###LEGO #leftcol-banners

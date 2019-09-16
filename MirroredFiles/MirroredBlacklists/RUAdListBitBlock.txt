@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5GjaZTOj5tC+RPkOf1vZZw
-! Version: 201909150010
+! Checksum: gkD11kQGrl6k2gTNoBQcuQ
+! Version: 201909160010
 ! Title: RU AdList: BitBlock
-! Last modified: 15 Sep 2019 00:10 UTC
+! Last modified: 16 Sep 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1054,6 +1054,7 @@ porjati.net##form[action="http://feedburner.google.com/fb/a/mailverify"]
 /metric/*$image
 /mikuclock.swf
 /minichat/*
+/modal_kuki.
 /news_export/*
 /nocopy.js$script,domain=~kinogo-720p.ru|~kinogo-net-2016.ru|~kinogo.cc
 /plugins/quick-gush/*
@@ -2448,6 +2449,7 @@ sports.ru#?#.short-news > p:-abp-has(> a[href^="https://trbna.co/"])
 lifehacker.ru##.side-banner > .widget_can_fix
 sharkgame.ru##.sidebar
 freakenergy.ru##.sidebar > div > noindex
+pikabu.ru##.sidebar-block-links__footer
 rempc.by##.sidebar-block.banner
 3dnews.ru##.sidebar-chunk > a[href^="/asus_rog"]
 raenza.ru#?#.sidebar-island:-abp-has(> .heading-primary:-abp-contains(реклама))
@@ -2469,7 +2471,6 @@ goodgame.ru##.sponsors.footer-block
 buhonline.ru##.sticker
 bigpicture.ru##.sticky-bar
 m24.ru##.stickyJoinUs
-pikabu.ru#?#.stories-feed__message:-abp-has(> .widget-container)
 livejournal.com##.stories__promo
 ubr.ua##.story-nav
 lifehacker.ru#?#.stripe__slot:-abp-has(.meta-mark_advert)
@@ -4605,6 +4606,7 @@ prom.ua#@#img[alt="facebook"]
 /img/gplus_
 /img/instagram-
 /img/instragram.
+/img/plusgoogle.
 /img/share-
 /img/share/*
 /img/share_
@@ -6546,6 +6548,7 @@ _youtube_social_
 ###block-boxes-social-media
 ###block-bulletin-facebook-activity-feed
 ###block-bulletin-share-feature
+###block-condividipagina
 ###block-custom_blocks-facebook_twitter_widgets
 ###block-ex_article-article_facebook_block
 ###block-ex_article-homepage_facebook_block
@@ -15031,6 +15034,9 @@ _youtube_social_
 ##.shareButtonByline
 ##.shareButtonList
 ##.shareButtons
+##.shareButtons-button
+##.shareButtons-buttons
+##.shareButtons-label
 ##.shareButtonsHolder
 ##.shareButtonsSprite
 ##.shareButtonsvideo
@@ -15243,6 +15249,7 @@ _youtube_social_
 ##.share_part_insta
 ##.share_part_twitter
 ##.share_part_youtube
+##.share_pin_img
 ##.share_pinterest
 ##.share_pluging
 ##.share_post
@@ -17995,6 +18002,7 @@ _youtube_social_
 ##.uiButtonFacebook
 ##.uiButtonGooglePlus
 ##.uiButtonTwitter
+##.uix_socialMedia
 ##.uix_socialMediaLinks
 ##.uk-icon-facebook
 ##.uk-icon-facebook-square
@@ -19287,6 +19295,7 @@ _youtube_social_
 ||interestingnation.com/like.php$third-party
 ||jiathis.com^$third-party
 ||jit.su/frame$third-party
+||juicer.io^$third-party
 ||karmacracy.com/widget$third-party
 ||lessbuttons.com^$third-party
 ||likebtn.com^$third-party
@@ -22090,6 +22099,7 @@ _backToTop.
 ##.nlsubscribe-block
 ##.nn-newsletter
 ##.node-newsletter-subscribe
+##.notification-results
 ##.nse_subscription-list
 ##.nslr-subscb
 ##.nw_form_newsletters
@@ -24024,7 +24034,7 @@ thefork.it#@#.newsletterSignup
 outbrain.com#@#.outbrain
 pch24.pl,retro-bit.com#@#.popup-newsletter
 inverse.com#@#.promos-newsletter
-carlsenfritzoe.no,push.abs-cbn.com,schufa.de#@#.push-container
+carlsenfritzoe.no,meineschufa.de,push.abs-cbn.com,schufa.de#@#.push-container
 underconsideration.com#@#.push-wrap
 arabbank.com.au,operon.pl#@#.push-wrapper
 seznam.cz#@#.rss-feed
@@ -24778,7 +24788,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
 @@||aolcdn.com/aboutme/*/icons/socialmedia/$domain=about.me
-@@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|febbit.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
+@@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|febbit.com|id.logi.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
 @@||app.hrlab.de/assets/icons/$image,domain=app.hrlab.de
 @@||apple.com/kb/resources/images/i_facebook.png
 @@||archiveteam.org^$generichide
