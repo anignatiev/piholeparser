@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9504
+! Version: 9521
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1584,6 +1584,7 @@
 ||drtqfejznjnl.com^
 ||drumuwimmzxqps.com^
 ||drwfixovzqdcs.com^
+||drzndwmqrgra.com^
 ||dsdiztki.bid^
 ||dsemgngou.com^
 ||dsevjzklcjjb.com^
@@ -1926,6 +1927,7 @@
 ||eoruxpqn.com^
 ||eotbkgjqu.com^
 ||eozbwwxniksmb.com^
+||eozegbfpvhasf.com^
 ||epbathcyav.com^
 ||epernepojkle.com^
 ||epgokiocquxf.com^
@@ -3818,6 +3820,7 @@
 ||izwffvgxs.com^
 ||izwzyhlm.com^
 ||izxdpodiowdgp.bid^
+||izxiluohe.com^
 ||jaaqcdrpmyju.com^
 ||jabcdkwmwnek.com^
 ||jacmnkcusf.com^
@@ -3981,6 +3984,7 @@
 ||jjeevbcllev.bid^
 ||jjekiezbshyo.com^
 ||jjhnnzef.com^
+||jjkllkhsaj.com^
 ||jjmuyvpery.bid^
 ||jjokekbfoxwip.com^
 ||jjokvprdxwf.com^
@@ -4062,6 +4066,7 @@
 ||jnjbdvchvk.com^
 ||jnlcnmin.bid^
 ||jnljkbkiaqcmb.com^
+||jnnezwibrkwpz.com^
 ||jnnjnuyiic.com^
 ||jnnmisngfscreq.bid^
 ||jnnswtdifjgx.com^
@@ -4907,6 +4912,7 @@
 ||lmjxrhph.com^
 ||lmlvzeeag.com^
 ||lmoqmsagyjcurg.bid^
+||lmrlanov.com^
 ||lmsycyfh.com^
 ||lmwdcdzievq.bid^
 ||lndvtedtayqy.com^
@@ -4941,6 +4947,7 @@
 ||lovvznyhujf.com^
 ||lowqnzsxtmvb.bid^
 ||loxmetwdjrmh.com^
+||lpaizureik.com^
 ||lpbhbwpbpnl.com^
 ||lpbuaqfgwkzrep.com^
 ||lpbyadpvf.com^
@@ -6834,6 +6841,7 @@
 ||qduijsyonrmfke.com^
 ||qdykmiarpuph.com^
 ||qdzhsgwj.bid^
+||qecweqpczciic.com^
 ||qedgufui.bid^
 ||qeembhyfvjtq.com^
 ||qefjdsfny.bid^
@@ -6842,6 +6850,7 @@
 ||qeivncvk.com^
 ||qekmxaimxkok.com^
 ||qelbvlacy.com^
+||qelrpourxvvg.com^
 ||qenprsuoashu.com^
 ||qeobhjit.com^
 ||qeqsibev.com^
@@ -6929,6 +6938,8 @@
 ||qithimsuejs.com^
 ||qitumxisyt.com^
 ||qitwoxzibesak.com^
+||qiumodies.com^
+||qiunckxdgf.com^
 ||qiurgfxexsmp.com^
 ||qiypdctaqiv.com^
 ||qiytksjydjmt.bid^
@@ -8434,6 +8445,7 @@
 ||txyylwegpdfsda.com^
 ||tyavjmvuvygs.com^
 ||tyborlawlkz.com^
+||tybwfgqq.com^
 ||tyccaweownne.com^
 ||tyllfqbmny.com^
 ||tylzbdkjsjig.com^
@@ -8488,6 +8500,7 @@
 ||ubliwesgzq.bid^
 ||ubmoipypwf.com^
 ||ubnmyycf.bid^
+||ubnwujaioruel.com^
 ||ubpjjgso.com^
 ||ubpurlsu.com^
 ||ubqrtmtqkisku.com^
@@ -8693,6 +8706,7 @@
 ||uqouplgwlmeqt.com^
 ||uqsoxvwffpkrt.com^
 ||uqyirvghv.com^
+||urkmuzzygjp.com^
 ||uryvzhvgpulaog.com^
 ||usclxdvvvnkdrv.com^
 ||usdlgonjnzpu.com^
@@ -8910,6 +8924,7 @@
 ||vzyclgqffpojk.com^
 ||wanrtqneiissrb.com^
 ||wawyxzfkab.com^
+||wbaogaqvrukprx.com^
 ||wbbzegmupyl.com^
 ||wbfwyzatvqjbnf.com^
 ||wbhcemppdg.com^
@@ -8992,6 +9007,7 @@
 ||wqhmpzjvdmvm.com^
 ||wqkpadciw.com^
 ||wqkqrmzldk.com^
+||wqmpomuwywy.com^
 ||wqnpcflbcv.com^
 ||wqpyqirgzfqsc.com^
 ||wqtsvqzthaoq.com^
@@ -9159,6 +9175,7 @@
 ||xsmangbomdick.com^
 ||xsnfmaxicj.com^
 ||xsnqhzbiqdmqw.com^
+||xsortxrmtpykh.com^
 ||xsqylzml.com^
 ||xsrzmhriydfcqx.com^
 ||xsuinfhoxpoz.com^
