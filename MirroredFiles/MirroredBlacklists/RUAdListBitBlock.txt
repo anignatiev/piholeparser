@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gkD11kQGrl6k2gTNoBQcuQ
-! Version: 201909160010
+! Checksum: 9NtqIuXqy6MrmqTlOy77ZA
+! Version: 201909190010
 ! Title: RU AdList: BitBlock
-! Last modified: 16 Sep 2019 00:10 UTC
+! Last modified: 19 Sep 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1860,7 +1860,6 @@ notfilm.ru###bot_panel
 polit.info###boxfade
 vgtimes.ru###bspromo
 rutube.ru###button-subscribe-block
-sochi.camera###cams_top_block
 cat-a-cat.net###cat
 fb.ru###comments > #comments_typers
 fb.ru###comments_list > div[id^="comment-f-"]
@@ -2233,8 +2232,7 @@ fb.ru##.feature--inline
 fb.ru##.feature--inner
 kinopoisk.ru##.feature_promo
 ok.ru#?#.feed-list > .feed-w:-abp-has(.feed_label:-abp-contains(Промо))
-dtf.ru,tjournal.ru,vc.ru##.feed:not([data-feed-more-url*="/promo/"]) .entry-wrapper--promo
-tjournal.ru#?#.feed__chunk > .feed__item:-abp-has(> .content-feed--promo)
+dtf.ru,tjournal.ru,vc.ru#?#.feed:not([data-feed-more-url*="/promo/"]) .feed__chunk > .feed__item:-abp-has(> .content-feed--promo)
 vk.com##.feed_friends_recomm
 drive.ru##.feedsub
 cont.ws##.fill
@@ -2252,6 +2250,7 @@ anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org
 adme.ru##.fresh-separator
 seasonvar.cc##.full-news > table:nth-of-type(2)
 moya-planeta.ru##.full_object_shop_article_recommend
+kinoservis.net##.fullstory > #blocking
 2kino-2018.club##.fx-row.blocking
 rbc.ru,sportrbc.ru##.g-banner__news-footer
 filmpro.ru##.g-custompopup-wrapper
@@ -2546,6 +2545,7 @@ relizua.com##[class^="yab"][class*="full"]
 friday.ru##[data-block-closer-storage="cookie"]
 www.rambler.ru##[data-cerber-head*=":search::yabro"]
 www.rambler.ru##[data-cerber-head="main::widgets::widget.games"]
+www.rambler.ru##[data-cerber-topline="promo"]
 sports.ru##[data-control="Common.WebpushSubscribe"]
 2gis.ru##[data-module="promoTooltip"]
 hotline.ua##[data-promo-products]
@@ -3183,8 +3183,6 @@ myshared.ru#@#.ya-share2_inited
 @@||underverse.*/min/index.php*/js/share42.js$script,domain=underverse.me|underverse.su
 @@||unn.com.ua/images/social/*.gif$domain=unn.com.ua
 @@||vgtimes.ru/img/gplus.png|
-@@||via-midgard.com^*_social_icon.$script,stylesheet,domain=via-midgard.com
-@@||via-midgard.info/min/?$domain=via-midgard.info
 @@||vk.com/images/btns.png$domain=app.tbn.ru
 @@||vk.com/share.php?$third-party,domain=postila.ru
 @@||vk.com/widget_comments.php^$domain=iomedia.ru
@@ -6002,6 +6000,7 @@ prom.ua#@#img[alt="facebook"]
 /wp-social-media-
 /wp-social-toolbar/*
 /wpsocial.
+/wptelegram/*
 /xnapp/share/*
 /xshare_
 /xsocial-icons.
@@ -18376,6 +18375,7 @@ _youtube_social_
 ##.widget_wpgrade_social_links
 ##.widget_wpgrade_twitter_widget
 ##.widget_wpshower_follow_us
+##.widget_wptelegram_widget_widget
 ##.widget_youtube_subscribe
 ##.widgetfacebook
 ##.widgetsocial
@@ -24422,7 +24422,7 @@ pinterest.com#@#.pinterestComponentShare
 google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.plusone
 privatecore.com#@#.post-fb
 facebook.com#@#.post-fb-like
-kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,truepundit.com,velodaily.ru#@#.post-share-container
+23-59.com.ua,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,truepundit.com,velodaily.ru#@#.post-share-container
 imgur.com#@#.post-share-panel
 reddit.com#@#.post-sharing
 guildwars2.com#@#.post-social
@@ -24900,6 +24900,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||droid-life.com/wp-content/uploads/*-twitter.$image,domain=droid-life.com
 @@||dropbox.com/sm/share_link/$xmlhttprequest
 @@||dropboxstatic.com/static/compiled/js/$script,domain=dropbox.com
+@@||dropboxstatic.com^$stylesheet,domain=dropbox.com
 @@||dsreps.com/js/social-icons-bio.js?
 @@||duckduckgo.com/assets/icons/favicons/youtube.png
 @@||e-biznes.pl^*/sociallocker-next-premium/

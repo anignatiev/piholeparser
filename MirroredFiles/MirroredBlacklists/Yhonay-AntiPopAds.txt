@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9521
+! Version: 9540
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -143,6 +143,7 @@
 ||aicrgbnswhc.bid^
 ||aigysycrmuoetk.com^
 ||aiiaqehoqgrj.com^
+||aiidbowoj.com^
 ||aiiukvzjtsc.com^
 ||aikdakxoc.com^
 ||aioemfxj.com^
@@ -1038,6 +1039,7 @@
 ||ckjflngcqcfl.bid^
 ||ckjjcarzu.com^
 ||ckjjnujgvfd.com^
+||ckkqgycwljxib.com^
 ||ckkrlzxvy.com^
 ||ckombcgg.com^
 ||ckopycdb.com^
@@ -1770,6 +1772,7 @@
 ||eefbzuwvnnab.com^
 ||eefiwmtwppppay.com^
 ||eefiywjjzxry.com^
+||eegjpwmi.com^
 ||eegputuwclsvo.com^
 ||eehdssnxola.com^
 ||eekkanwe.com^
@@ -1987,6 +1990,7 @@
 ||esrpxyahzna.bid^
 ||essjetuhfuo.com^
 ||esundpxbixeqgu.com^
+||esuuqqdmsuil.com^
 ||esznfpbro.com^
 ||eszpmsipks.com^
 ||etbmvqjnfxtk.com^
@@ -2357,6 +2361,7 @@
 ||fqbrdnpf.com^
 ||fqckdxjgle.com^
 ||fqcqmjdn.com^
+||fqcwtrbxzhjsiu.com^
 ||fqemzrkwuiaq.bid^
 ||fqesuuyzhxpz.bid^
 ||fqgqosvpodxn.com^
@@ -2396,6 +2401,7 @@
 ||frxgmxkg.bid^
 ||frxohovv.com^
 ||fryxaknn.com^
+||frzynewnpg.com^
 ||fsapltvckyb.bid^
 ||fsaticze.com^
 ||fscslwmvbadncb.com^
@@ -2568,6 +2574,7 @@
 ||gbsxcyukuuex.com^
 ||gbwgrhjjwz.com^
 ||gbwhqbiiq.com^
+||gbwnpchivh.com^
 ||gbwrjyntqsvr.com^
 ||gbwzrcymfmvym.bid^
 ||gbybvvfo.com^
@@ -2667,6 +2674,7 @@
 ||giyjhogjmfmc.com^
 ||giyupoeynkfx.com^
 ||gjbgesaromnb.com^
+||gjdawsvqs.com^
 ||gjdogaqhtzaqj.com^
 ||gjeyqtunbnap.com^
 ||gjfugukpyo.bid^
@@ -3777,6 +3785,7 @@
 ||ixsxgaegvplo.com^
 ||ixtkiofaoudis.com^
 ||ixtmbdajhvimtv.com^
+||ixueiomwi.com^
 ||ixuytaxnu.com^
 ||ixvsxjiw.com^
 ||ixvzraajuiniwg.com^
@@ -5520,6 +5529,7 @@
 ||mvyutamcykv.com^
 ||mvzfgknmmkjzx.com^
 ||mvzmmcbxssgp.com^
+||mwaiqeefj.com^
 ||mwbhjpjscy.com^
 ||mwcouuxv.bid^
 ||mwenzdgzgez.bid^
@@ -5823,6 +5833,7 @@
 ||nplrzxvyrhiq.com^
 ||npoxaukym.com^
 ||nprcpjufz.bid^
+||npslxuwkrfwvou.com^
 ||npujhntk.com^
 ||npuwpglke.bid^
 ||npzlzsxkq.bid^
@@ -5950,6 +5961,7 @@
 ||nxjlnchylgsw.com^
 ||nxnbbqdh.bid^
 ||nxnjpslufglmvp.com^
+||nxtipyczkivm.com^
 ||nyaisjsghvj.bid^
 ||nycgwaknv.com^
 ||nychunlnlca.com^
@@ -5995,6 +6007,7 @@
 ||obczphph.com^
 ||obdzedcpwxk.com^
 ||obeeifroxtivh.com^
+||obgsyorlag.com^
 ||obhkbdiwl.bid^
 ||obhlfwnatj.com^
 ||objyhpvxcwg.bid^
@@ -6080,6 +6093,7 @@
 ||ofwuwfgq.com^
 ||ofwwrgelrvx.bid^
 ||ofwznbbxso.com^
+||ofzoxqcldl.com^
 ||ogbamfpcfac.bid^
 ||ogegqayudrypc.bid^
 ||ogisrmbhajhyam.com^
@@ -6456,6 +6470,7 @@
 ||pfvfwielz.com^
 ||pfvgazngauezhk.com^
 ||pfxcnvjoysztb.com^
+||pgdhapctt.com^
 ||pgepkagfndl.com^
 ||pgfxwbgema.com^
 ||pgkdyhdhul.com^
@@ -8658,6 +8673,7 @@
 ||umaglven.com^
 ||umboffikfkoc.com^
 ||umffsefd.bid^
+||umgbvaurcx.com^
 ||umjdbaog.bid^
 ||umlrvgjkexv.com^
 ||umnsvtykkptl.com^
@@ -8923,6 +8939,7 @@
 ||vzxnrtxpdnl.com^
 ||vzyclgqffpojk.com^
 ||wanrtqneiissrb.com^
+||waucyeeziiiyul.com^
 ||wawyxzfkab.com^
 ||wbaogaqvrukprx.com^
 ||wbbzegmupyl.com^
@@ -9333,6 +9350,7 @@
 ||yumzgezhl.com^
 ||yupcqrxdg.com^
 ||yurttitxfyfh.com^
+||yuwxounw.com^
 ||yuyxslrprv.com^
 ||yuzsvoanyw.com^
 ||yvaovfrsu.com^
@@ -9525,6 +9543,7 @@
 ||zygrlkimddjzd.com^
 ||zyikzhgqzjyvgu.com^
 ||zzfycxsu.com^
+||zzlayejqlzcg.com^
 ||zzmwzarweka.com^
 ||zzomiuob.com^
 ||zzwajufm.com^
