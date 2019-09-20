@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FNenZwplLMThEvxJfXUUXw
-! Version: 201909190011
+! Checksum: ijJ7vWSXAz2Anoely11LVA
+! Version: 201909200011
 ! Title: Fanboy's Annoyance List
-! Last modified: 19 Sep 2019 00:11 UTC
+! Last modified: 20 Sep 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -43176,6 +43176,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||expedia.*/opinionlab/oo_engine.js$script
 @@||footy-boots.com/wp-content*/comment-reply.js
 @@||georiot.com/snippet.js$domain=bound2hiphop.com
+@@||gismeteo.ru/images/rss/$image
 @@||google.com/friendconnect/$script,domain=blogspot.com
 @@||huffpost.com/images/social/benefits/signup/
 @@||images.taboola.com/taboola/$image,domain=indiatimes.com
@@ -43219,6 +43220,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||viastream.viasat.tv/flvplayer/play/share/$domain=tv3play.se
 @@||wayback.archive.org/web/jsp/Interstitial.jsp?
 @@||williams-sonoma.com^*/js/external/coremetrics.js
+@@||windy.com^*/plugins/particles.js$script,~third-party
 @@||ws.audioscrobbler.com^$domain=diffuser.fm
 @@||yimg.com/ud/fp/js/GoldenGate$script,domain=mobi.yahoo.com
 @@||yimg.com/uq/syndication/yad.js$domain=zdnet.com
@@ -43522,7 +43524,6 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||envoy.com/images/*/reddit.png
 @@||europa.eu/webtools/*/share.png$image
 @@||evasionjailbreak.com/wp-content/plugins/*/social_widget.css$stylesheet
-@@||explainxkcd.com/wiki/images/$image,domain=explainxkcd.com
 @@||eyeo.com/dist/img/svg/$domain=help.eyeo.com
 @@||eyeo.com/wp-content/plugins/pp-team-social-icons/$~third-party
 @@||facebook.com/plugins/facepile.php?$domain=gu-facebook.appspot.com

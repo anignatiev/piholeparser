@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9NtqIuXqy6MrmqTlOy77ZA
-! Version: 201909190010
+! Checksum: IsR+ZJV/K3taZmlsMm3ELw
+! Version: 201909200010
 ! Title: RU AdList: BitBlock
-! Last modified: 19 Sep 2019 00:10 UTC
+! Last modified: 20 Sep 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -318,6 +318,7 @@ yap.ru,yaplakal.com###right-column > div > noindex
 memesmix.net#?##right-menu .module-body:-abp-has(> div > #vk_groups)
 animespirit.ru###rssButton
 webpark.ru###sc-frame
+obrazovaka.ru###sco_buttons
 hd720.biz###scroller
 ru-an.info###sgtabs
 goblin-film.ru,goblins-online.ru,kino-teatr.ru,satsis.info###share
@@ -899,13 +900,14 @@ gazeta.ua##[onclick^="Share"]
 kinovod.com##[onclick^="sharer"]
 planetanovosti.com##[title="Vkontakte"]
 kuban24.tv##a[href*="://t-do.ru/"]
+computerra.ru##a[href*="://tele.click/"]
 freesoft.ru##a[href="#share"]
 anistar.org,anistar1.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,online-star.org##a[href="https://tlg.name/AniStarTV"]
 kommersant.ru##a[href][title="Поделиться"]
 youla.ru##a[href][title^="Поделиться"]
 rusnext.ru##a[href^="http://www.odnoklassniki.ru/group/"]
 livecars.ru,livesport.ru##a[href^="https://share.yandex.ru/"]
-agronews.ua,animedub.ru,apostrophe.ua,app2top.ru,censor.net.ua,computerra.ru,depo.ua,game2day.ru,livesport.ws,maanimo.com,mk.ru,myslo.ru,pravda.com.ua,privatfinance.com,rbc.ua,rusnext.ru,segodnya.ua,softportal.com,soundpark.best,sports.kz,zrada.today##a[href^="https://t.me/"]
+agronews.ua,animedub.ru,apostrophe.ua,app2top.ru,censor.net.ua,depo.ua,game2day.ru,livesport.ws,maanimo.com,mk.ru,myslo.ru,pravda.com.ua,privatfinance.com,rbc.ua,rusnext.ru,segodnya.ua,softportal.com,soundpark.best,sports.kz,zrada.today##a[href^="https://t.me/"]
 66.ru,tproger.ru##a[href^="tg://resolve"]
 toptracker.ru##a[onclick^="content_share"]
 qiq.ws##a[onclick^="return addSoc"]
@@ -2145,7 +2147,6 @@ legkopolezno.ru##.banner-gif
 reklama-sev.com.ua##.banner-holder
 politexpert.net##.banner-tg
 get-styles.ru##.banner-up
-computerra.ru##.banner__sidebar
 game2day.ru##.banner_articl
 ruskline.ru##.banners-line
 kritika24.ru##.bannervtekste
@@ -2330,6 +2331,7 @@ mastergrad.com##.master-compitition
 khl.ru##.mastercard
 sports.ru##.material-list__item[data-control="Common.AnalyticsWatch"]
 liveinternet.ru##.mediametrics
+4pda.ru##.menu-main > li.menu-main-item > a[href][style*="important"]
 4pda.ru##.menu-main > li.menu-main-item[rec2]
 funtik.tv,kinosklad.biz,magicfilm.net##.message-block-player
 coolhouses.ru##.mini_others_bar
@@ -2699,7 +2701,7 @@ goha.ru##span[id^="scrollto"]
 streamzone.org##span[style*="3.0em;"]
 vz.ru##table[width="100%"] > tbody > tr > td > div:not([id]):not([class]):not([style])
 russianpost.ru##table[width="816"] > tbody > tr:first-child + tr
-4pda.ru##tbody > tr[valign="top"] > td[width="20%"] + td[class]
+4pda.ru##tbody > tr[valign="top"] > td[width*="20"] + td[class]
 forums.overclockers.ru##td > #logo
 softportal.com##td[style="width:341px; padding-right:15px;"][valign="top"]
 chastnik-m.ru##td[valign="top"][id$="_place"]
@@ -24100,6 +24102,7 @@ reddit.com#@#img[alt="submit to reddit"]
 @@||expedia.*/opinionlab/oo_engine.js$script
 @@||footy-boots.com/wp-content*/comment-reply.js
 @@||georiot.com/snippet.js$domain=bound2hiphop.com
+@@||gismeteo.ru/images/rss/$image
 @@||google.com/friendconnect/$script,domain=blogspot.com
 @@||huffpost.com/images/social/benefits/signup/
 @@||images.taboola.com/taboola/$image,domain=indiatimes.com
@@ -24143,6 +24146,7 @@ reddit.com#@#img[alt="submit to reddit"]
 @@||viastream.viasat.tv/flvplayer/play/share/$domain=tv3play.se
 @@||wayback.archive.org/web/jsp/Interstitial.jsp?
 @@||williams-sonoma.com^*/js/external/coremetrics.js
+@@||windy.com^*/plugins/particles.js$script,~third-party
 @@||ws.audioscrobbler.com^$domain=diffuser.fm
 @@||yimg.com/ud/fp/js/GoldenGate$script,domain=mobi.yahoo.com
 @@||yimg.com/uq/syndication/yad.js$domain=zdnet.com
@@ -24914,7 +24918,6 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||envoy.com/images/*/reddit.png
 @@||europa.eu/webtools/*/share.png$image
 @@||evasionjailbreak.com/wp-content/plugins/*/social_widget.css$stylesheet
-@@||explainxkcd.com/wiki/images/$image,domain=explainxkcd.com
 @@||eyeo.com/dist/img/svg/$domain=help.eyeo.com
 @@||eyeo.com/wp-content/plugins/pp-team-social-icons/$~third-party
 @@||facebook.com/plugins/facepile.php?$domain=gu-facebook.appspot.com
