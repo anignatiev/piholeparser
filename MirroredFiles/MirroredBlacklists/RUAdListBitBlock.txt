@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IsR+ZJV/K3taZmlsMm3ELw
-! Version: 201909200010
+! Checksum: o8vNzrHE+QsWOJ6YpVymjg
+! Version: 201909210010
 ! Title: RU AdList: BitBlock
-! Last modified: 20 Sep 2019 00:10 UTC
+! Last modified: 21 Sep 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -734,6 +734,7 @@ adultmult.be,adultmult.li,adultmultclub.com,multonline.ru##.socbut
 livecars.ru,livesport.ru##.socbut_v_r > div
 mediaryazan.ru##.socbuttons
 animedia.online,wincore.ru##.socc
+torrentfilmi.co##.socfull
 vgtimes.ru##.soci
 overclockers.ru##.soci-link
 bestfm.ru,dentv.ru,dt.ua,gomel.today,hdzilla.me,hi-news.ru,ivi.ru,mk.ru,nashe.ru,pandafilms.ru,podrobnosti.ua,radiojazzfm.ru,radioultra.ru,rockfm.ru,s-info.ru,simpsonsua.com.ua,sportarena.com,ua.today,zn.ua##.social
@@ -779,7 +780,7 @@ f1comp.ru##.socikon
 echo.msk.ru##.socmenu
 enovosty.com##.socnet
 kinodroid.net##.socpri,.socpri ~ *
-kamchatinfo.com##.soctop
+kamchatinfo.com,torrentfilmi.co##.soctop
 dni.ru##.sotial
 hqroom.ru##.sots-plugin
 kinomafia.tv##.soz
@@ -902,6 +903,7 @@ planetanovosti.com##[title="Vkontakte"]
 kuban24.tv##a[href*="://t-do.ru/"]
 computerra.ru##a[href*="://tele.click/"]
 freesoft.ru##a[href="#share"]
+gazeta.uz##a[href="https://telegram.me/gazetauz"] > img
 anistar.org,anistar1.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,online-star.org##a[href="https://tlg.name/AniStarTV"]
 kommersant.ru##a[href][title="Поделиться"]
 youla.ru##a[href][title^="Поделиться"]
@@ -928,7 +930,7 @@ takprosto.cc##div[class*="widget_essbsocial"]
 ekabu.ru##div[class^="f-social-container"]
 bombardir.ru##div[class^="flyin-"]
 e-news.pro,e-news.su,lektsii.org,nahnews.org,studepedia.org,studopedia.com.ua,studopedia.org,studopedia.ru,studopedia.su##div[class^="mb-share"]
-kino-live2.org#?#div[class^="right"] div[class^="ramka"]:-abp-has(#vk_groups)
+kino-live1.site,kino-live10.site,kino-live11.site,kino-live12.site,kino-live2.org,kino-live2.site,kino-live3.site,kino-live5.site,kino-live6.site,kino-live7.site,kino-live8.site,kino-live9.site#?#div[class^="right"] div[class^="ramka"]:-abp-has(#vk_groups)
 iz.ru##div[class^="share_bottom"]
 nn.ru##div[class^="social-widget"]
 zarplata.ru##div[class^="socialbuttons"]
@@ -1204,6 +1206,7 @@ _userbar_$image
 ##.sig img
 ##.signature img
 ##.signatureView img
+##.thb-cookie-bar
 ##.user_signature img
 ##.usersig img
 ##.widget_eu_cookie_law_widget
@@ -2430,6 +2433,7 @@ filmix.cc,filmix.co,filmix.cool,filmix.fun,filmix.gold,filmix.icu,filmix.info,fi
 forum.ixbt.com##.reply_premium
 price.ua##.right-bar > #top-categories-autoscroll
 overclockers.ru##.right-blog-wrap
+gazeta.uz##.rightAppstore
 ruskline.ru##.right_banner_inner_1
 video.sibnet.ru##.right_column > #menu_profile ~ .block1[style]
 liveinternet.ru##.rightcolumn > .news
@@ -2878,6 +2882,7 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua##.i-bem.footer_distro_yes
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.internal-stripe
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.link[href*="homeset.xpi"]
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.link[href^="//home.yandex.ru/"]
+mail.yandex.by,mail.yandex.kz,mail.yandex.ru,mail.yandex.ua##.mail-Done-Promo-Container
 mail.yandex.by,mail.yandex.kz,mail.yandex.ru,mail.yandex.ua##.mail-YandexPlus-Renderer
 market.yandex.ru##.main > noindex
 market.yandex.ru##.n-entrypoint-carousel
@@ -3011,7 +3016,6 @@ my.kaspersky.com#@#.modal-signup
 miuru.ru#@#.plusone
 money.yandex.ru,news.yandex.by,news.yandex.kz,news.yandex.ru,news.yandex.ua,realty.yandex.ru,travel.yandex.ru,tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua#@#.popup__under_type_paranja:not([class*="zindex"]):not([class*="offer"])
 money.yandex.ru,news.yandex.by,news.yandex.kz,news.yandex.ru,news.yandex.ua,realty.yandex.ru,travel.yandex.ru,tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua#@#.popup__under_type_paranja:not([class*="zindex"]):not([class*="offer"]) + .popup
-23-59.com.ua#@#.post-share-container
 gigapan.com#@#.print-page
 pozhalobam.ru,primenimudrost.ru,sam-master.com#@#.scroll-to-top
 newstube.ru#@#.scroll-top
