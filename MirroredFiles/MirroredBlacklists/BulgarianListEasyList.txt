@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201909200933
+! Version: 201909211237
 ! Title: EasyPrivacy
-! Last modified: 20 Sep 2019 09:33 UTC
+! Last modified: 21 Sep 2019 12:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1929,6 +1929,7 @@
 /gs.gif?
 /gscounters.
 /gtm-tracking-events.
+/gtm.js
 /gtm/gtm-
 /gtmTracking.
 /gtrack.
@@ -4785,6 +4786,7 @@ cgi-bin/counter
 /coinhive-proxy-
 /coinhive.min.js
 /coinlab.js
+/collector/event
 /compact_miner?
 /connectics.js
 /crn.wasm
@@ -4825,12 +4827,14 @@ cgi-bin/counter
 /minero-proxy-
 /minescripts.js
 /nano.wasm
+/nativendo.js
 /noblock.js
 /obfus.min.js
 /pageview/pixel?
 /pixel_identifier.
 /projectpoi.min.js
 /rbcmetrika-
+/relay/events$xmlhttprequest
 /rum_analytics/*
 /safelinkconverter.js
 /scripts/analytics/*
@@ -4843,8 +4847,8 @@ cgi-bin/counter
 /tenant.min.js
 /track/pageview?
 /tracker.bx/*
-/v1/events
-/v2/events
+/v1/events$other
+/v2/events$other
 /web_miner/*
 /webcoin.js
 /webcoin.min.js
@@ -5642,6 +5646,7 @@ _mongo_stats/
 ||e-referrer.com^$third-party
 ||e-webtrack.net^$third-party
 ||e-zeeinternet.com^$third-party
+||eacla.com^$third-party
 ||earnitup.com^$third-party
 ||easy-hit-counter.com^$third-party
 ||easy-hit-counters.com^$third-party
@@ -5864,6 +5869,7 @@ _mongo_stats/
 ||geobytes.com^$third-party
 ||geoedge.be^$third-party
 ||geoip-db.com^$third-party
+||geojs.io^$third-party
 ||geoplugin.net^$third-party
 ||georiot.com^$third-party
 ||getbackstory.com^$third-party
@@ -5912,7 +5918,6 @@ _mongo_stats/
 ||googleadservices.com^$third-party
 ||googlerank.info^$third-party
 ||googletagmanager.com/gtag/$third-party
-||googletagmanager.com/gtm.js?$third-party
 ||gooo.al^$third-party
 ||gopjn.com^$third-party
 ||gostats.com^$third-party
@@ -6746,6 +6751,7 @@ _mongo_stats/
 ||relmaxtop.com^$third-party
 ||remarketingpixel.com^$third-party
 ||remarketstats.com^$third-party
+||remind.me^$third-party
 ||rep0pkgr.com^$third-party
 ||repixel.co^$third-party
 ||report-uri.com^$third-party
@@ -7189,6 +7195,7 @@ _mongo_stats/
 ||trackeame.com^$third-party
 ||trackedlink.net^$third-party
 ||trackedweb.net^$third-party
+||trackertest.org^$third-party
 ||tracking100.com^$third-party
 ||tracking202.com^$third-party
 ||trackinglabs.com^$third-party
@@ -12817,6 +12824,7 @@ _mongo_stats/
 ||collector.statowl.com^
 ||collector.tescocompare.com^
 ||collector.trendmd.com^
+||collector.wallapop.com^
 ||collegehumor.com/track.php?
 ||commentarymagazine.com^*/track.asp?
 ||commercialappeal.com/metrics/
@@ -13378,6 +13386,7 @@ _mongo_stats/
 ||intent.cbsi.com^
 ||intercom.io/gtm_tracking/
 ||internetslang.com/jass/$script
+||intg.snapchat.com^
 ||investegate.co.uk/Weblogs/IGLog.aspx?
 ||ip-adress.com/gl?r=
 ||ip.breitbart.com^
@@ -14614,6 +14623,7 @@ _mongo_stats/
 ||tre.emv3.com/P?
 ||treatme.co.nz^*/Census.js
 ||treato.com/api/analytics?
+||trezor.efscle.com^
 ||triadretail.com^*/roverTrack.js
 ||trialpay.com/mi/
 ||triond.com/cntimp?
@@ -15294,6 +15304,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||otik.de/tracker/
 ||otto.de/servlet/landmarkservlet?
 ||otto.de^*/beacons/
+||oxifwsabgd.nzz.ch^
 ||pap.zalando.de^
 ||passul.t-online.de^
 ||pcfreunde.de/wb.
@@ -15623,6 +15634,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||ranking.ynet.com^
 ||rcgi.video.qq.com^
 ||rec.udn.com^
+||referer.pixplug.in^
 ||report.qq.com^
 ||retcode.taobao.com^
 ||rgd.com.cn/counter/
@@ -16036,6 +16048,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ! Turkish
 ||c.gazetevatan.com^
 ||d.haberler.com^
+||ekstat.com/js/ek$script
 ||haberler.com/dinamik/
 ||p.milliyet.com.tr^
 ||sahibinden.com/sbbi/
@@ -16167,7 +16180,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|fcbarcelona.com|firststatesuper.com.au|lenovo.com|newyorker.com|nfl.com|oprah.com|pnc.com|vanityfair.com|wired.com
 @@||adobedtm.com^*/s-code-$script
 @@||adobedtm.com^*/satellite-$script
-@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|aeroplan.com|argos.co.uk|collegeboard.org|crackle.com|crimewatchdaily.com|directline.com|fcbarcelona.com|firststatesuper.com.au|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|nbcnews.com|newyorker.com|nfl.com|oprah.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|smooth.com.au|sonycrackle.com|stuff.co.nz|subaru.com|timewarnercable.com|trip-planner.australia.com|vanityfair.com|wired.com
+@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|aeroplan.com|argos.co.uk|collegeboard.org|crackle.com|crimewatchdaily.com|directline.com|fcbarcelona.com|firststatesuper.com.au|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|nbcnews.com|newyorker.com|nfl.com|nofrills.ca|oprah.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|smooth.com.au|sonycrackle.com|stuff.co.nz|subaru.com|timewarnercable.com|trip-planner.australia.com|vanityfair.com|wired.com
 @@||adobetag.com/d2/$script,domain=thestar.com
 @@||adobetag.com^*/amc.js$script
 @@||adobetag.com^*/sitecatalyst.js$domain=hbf.com.au|seattlepi.com|tv.com

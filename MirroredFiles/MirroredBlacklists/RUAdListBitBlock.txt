@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: o8vNzrHE+QsWOJ6YpVymjg
-! Version: 201909210010
+! Checksum: E8mYHmOV1jEQfdygyqB1eA
+! Version: 201909220010
 ! Title: RU AdList: BitBlock
-! Last modified: 21 Sep 2019 00:10 UTC
+! Last modified: 22 Sep 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -2476,6 +2476,7 @@ goodgame.ru##.sponsors.footer-block
 buhonline.ru##.sticker
 bigpicture.ru##.sticky-bar
 m24.ru##.stickyJoinUs
+101.ru##.store-banner-wrapper
 livejournal.com##.stories__promo
 ubr.ua##.story-nav
 lifehacker.ru#?#.stripe__slot:-abp-has(.meta-mark_advert)
@@ -2637,6 +2638,7 @@ seeyoupage.ru##body > iframe[id^="_pn_"]
 gameguru.ru,kulina.ru,wotsite.net##body > noindex
 tass.ru##body > noindex > .widge
 xakep.ru##body > strong
+4pda.ru##body [id] div ~ [id][class]:not(div)[style][data-revive-id]
 rambler.ru##body:not(#id) > div:not(#id):not([class]):not([style]) .popup--rambler-start
 kak-prosto.net##br + br
 driveroff.net,samlab.ws#?#center:-abp-has(iframe[src*="money.yandex.ru"])
@@ -8332,6 +8334,7 @@ _youtube_social_
 ###social-media-navigation
 ###social-media-share
 ###social-media-sidebar
+###social-media-things
 ###social-media_ad-container
 ###social-media_footer
 ###social-menu
@@ -11501,6 +11504,7 @@ _youtube_social_
 ##.fly-social-icos
 ##.fly-text-share
 ##.flybox-share
+##.flying-social
 ##.flyout-facebook
 ##.fn-article-social-share
 ##.fn-header-social-links
@@ -12754,6 +12758,9 @@ _youtube_social_
 ##.icon-soundcloud
 ##.icon-stumbleupon
 ##.icon-telegram
+##.icon-tools-facebook-32x32-color
+##.icon-tools-twitter-32x32-color
+##.icon-tools-youtube-32x32-color
 ##.icon-tumblr
 ##.icon-tumblr-01
 ##.icon-tumblr-box
@@ -13980,6 +13987,8 @@ _youtube_social_
 ##.om-social-links
 ##.omc-social-media-icon
 ##.omc-social-small
+##.one-head-share-block
+##.one-head-share-links
 ##.onenews_share
 ##.onesongblock-share_block
 ##.onp-sociallocker-overlap-box
@@ -14033,6 +14042,7 @@ _youtube_social_
 ##.page-social-counters
 ##.page-socialshare
 ##.pageFbLike
+##.pageFooter--left-social
 ##.pageHead-share
 ##.pageShareBtns
 ##.pageSocial
@@ -18591,6 +18601,7 @@ _youtube_social_
 ##[href^="http://reddit.com/submit"]
 ##[id^="gigya_inline_share_"]
 ##[id^="sl_share_fb"]
+##[id^="wellthemes_social_subscribers_widget"]
 ##[js-target="share-flyout"]
 ##[name="Click to follow us on twitter"]
 ##[name="fb_share"]
@@ -22579,6 +22590,7 @@ _backToTop.
 ##.ud_webpush_sticky
 ##.web-notification
 ##.web-push
+##.web-push-box
 ##.window-push
 ##.wordpress-fire-push-popup
 ##.ys-push
@@ -23927,6 +23939,7 @@ _backToTop.
 ||master-push.com^$third-party
 ||master-push.net^$third-party
 ||notification-time.com^$third-party
+||notification.tubecup.net^
 ||onesignal.com^$third-party
 ||propu.sh^$third-party
 ||propush.net^$third-party
@@ -25039,12 +25052,11 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||ix.de/imgs/*/linkedin-$image,domain=heise.de
 @@||ix.de/scale/geometry/*/linkedin-$image,domain=heise.de
 @@||jailbreakqa.com/m/default/media/images/openid/
-@@||jcdn.ru/jcdn/minify?*/videojs-share.$script,stylesheet,domain=jut.su
+@@||jjut.su/jcdn/minify?*/share/videojs-share.$script,stylesheet,domain=jut.su
 @@||joinsnapcard.com/thema/img/reddit.png
 @@||jrjimg.cn/js.do?f=/share/js/
 @@||jsfiddle.net^$generichide
 @@||junglevibe2.net/min/?$script
-@@||jutsu-cdn.ru/jcdn/minify?*/videojs-share.$script,stylesheet,domain=jut.su
 @@||kcrw.com^*/images/social-icons-$image,domain=kcrw.com
 @@||keepa.com/img/social/Google.svg
 @@||koszykowkanawozkach.pl^*/Header-facebook.jpg
@@ -25236,6 +25248,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||slidesharecdn.com^*/linkedin-$image,domain=slideshare.net
 @@||slkimg.com^*/facebook-login-icon.png$domain=slacker.com
 @@||sndcdn.com/images/connect_social.png$domain=soundcloud.com
+@@||socialblade.com/images/$image
 @@||socialmedia.by^$~third-party
 @@||softicons.com/download/$image
 @@||softpedia-static.com/images/*-Google-plus-$image,domain=softpedia.com
