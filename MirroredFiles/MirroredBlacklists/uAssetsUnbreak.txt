@@ -2766,3 +2766,25 @@ bing.com#@#.b_mhdr
 
 ! https://github.com/uBlockOrigin/uAssets/commit/69bced5eba64f7960acaa5fa85df06958fb64a93#commitcomment-35179436
 twitter.com#@#article[role="article"]:has-text(Promoted)
+
+! https://github.com/uBlockOrigin/uAssets/issues/6331
+@@||ekstat.com/js/ek$script,domain=eksisozluk.com
+
+! To counter the adswizz filter in Peter Lowe's list
+||adswizz.com^$badfilter
+||adswizz.com^$3p
+
+! https://www.reddit.com/r/uBlockOrigin/comments/d6zbqv/login_popup_for_disqus_being_blocked/
+@@||disqus.com/next/login/$popup
+
+! whitelisting recaptcha .net
+@@||recaptcha.net/recaptcha/
+
+! https://github.com/NanoMeow/QuickReports/issues/1893
+*$third-party,script,domain=sankakucomplex.com,badfilter
+
+! https://forums.lanik.us/viewtopic.php?f=64&t=43606#p149935
+||ngenix.net^$third-party,badfilter
+
+! https://github.com/uBlockOrigin/uAssets/issues/6334
+||rtl.de/pf/resources/js/videotracking.min.js$script,redirect=noopjs,first-party

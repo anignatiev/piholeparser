@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vlLMEdaebR7RLqJZE+3vaA
-! Version: 201909220011
+! Checksum: pW9dJM1wz3YsE4WXHuZtCA
+! Version: 201909230011
 ! Title: Fanboy's Annoyance List
-! Last modified: 22 Sep 2019 00:11 UTC
+! Last modified: 23 Sep 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1412,7 +1412,7 @@ _backToTop.
 /fb_upload_
 /fbcirclebtn.
 /fbfooter.
-/FBicon.
+/FBicon.$~stylesheet
 /fblike.
 /fblikefp.
 /fbook-share-
@@ -7494,6 +7494,7 @@ _site_cookie_
 ##.backtopbutton
 ##.backtotop
 ##.backtotop-bubble
+##.backtotopbutton
 ##.bc_goto_top
 ##.bd-backtotop-1
 ##.bfc-scroll-to-top
@@ -8219,6 +8220,7 @@ _site_cookie_
 ###browse-social
 ###bsocial
 ###btShareFacebook
+###btn-share
 ###btnFB
 ###btnFoursquare
 ###btnPinterest
@@ -12855,7 +12857,6 @@ _site_cookie_
 ##.fbBtn
 ##.fbButton
 ##.fbContainer
-##.fbIcon
 ##.fbLike
 ##.fbLikeBox
 ##.fbLikeBtn
@@ -13982,6 +13983,7 @@ _site_cookie_
 ##.homepage-footer-share-buttons
 ##.homepage-social
 ##.homepage-twitter-widget
+##.homepage_social_link
 ##.horiz_share
 ##.horizontal-share-block
 ##.horizontal-share-buttons
@@ -14161,6 +14163,7 @@ _site_cookie_
 ##.icon-circle-tumblr
 ##.icon-circle-twitter
 ##.icon-circle-youtube
+##.icon-commu_share
 ##.icon-connect
 ##.icon-dailymotion
 ##.icon-delicious
@@ -24812,6 +24815,7 @@ _site_cookie_
 ###gdpr_popup_bg
 ###gdpr_popup_container
 ###gdpr_user_consent_banner
+###gdprbanner
 ###gdprbar
 ###gdprbx
 ###gdprc_bar
@@ -29961,6 +29965,7 @@ _site_cookie_
 ##.lxb_cm-message
 ##.m--cookie-consent
 ##.m-048-cookie-notification-wrapper
+##.m-alert-banner--cookie
 ##.m-bar--cookie
 ##.m-basic-cookie
 ##.m-basic-cookie-refresh
@@ -32424,6 +32429,7 @@ _site_cookie_
 ||gogoanimes.co^*/croll_
 ||hotpepper-gourmet.com^*/pagetop_
 ||howtogermany.com^*/top.png
+||jefftucker.org^*/pagetop.
 ||jtbcorp.jp^*/pagetop.
 ||katestube.com^*/up.
 ||mhi.com^*/pagetop_
@@ -32470,6 +32476,7 @@ _site_cookie_
 ||cloudfront.net/linkedin/
 ||cloudfront.net/twitter/
 ||cnet.com/rest/v1.0/tweets/
+||csgoreportbot.net/jquery.fancybox.min.js
 ||curate.venturebeat.com^
 ||dailykostv.com/digg.html
 ||deusm.com/informationweek/editor-*.png$domain=informationweek.com
@@ -36802,6 +36809,7 @@ thecommentator.com###go_to_top
 cri.cn###goup
 mitsui.com###js_globalFooterButtonTop
 visitcalifornia.com###link-top
+jefftucker.org###ma-pagetop
 whtop.com###menu-back
 weeklyxpose.co.za###mt-scrollup
 afamilyfeast.com###myBtn
@@ -38759,7 +38767,6 @@ rocketleague.com###privmessage
 elanco.com###ribbon
 cote.co.uk###root > div > .fixed
 mywot.com###root > div > div[direction="up"][style*="transform"]
-drivetribe.com###root > div[class^="sc-"]
 wrigleys.co.uk###rpcm
 tenuser.com###rsp
 people.cn###shengmingTip
@@ -39123,6 +39130,7 @@ jeffs.com,scandinaviansoul.com##.rstboxes
 welcometothejungle.co##.s1u7oiza-0
 paladins.com,realmroyale.com,smitegame.com##.sc-bdVaJa
 live365.com##.sc-csuQGl
+drivetribe.com##.sc-epGmkI
 coolbet.com##.sc-fzsDOv
 shadow.tech##.sc-gipzik
 loot.io##.sc-htpNat

@@ -69,7 +69,6 @@ _softbaron.ru
 _spy2wc.org
 _stock-exchange.ucoz.com
 _vodkov.net
-a-dot-kinozal-tv.appspot.com
 a-love.nninfo.ru
 a.fobos.tv
 a.meteonova.ru
@@ -533,6 +532,7 @@ d24rtvkqjwgutp.cloudfront.net
 d27jk9dqha8met.cloudfront.net
 d2d8qsxiai9qwj.cloudfront.net
 d2ghscazvn398x.cloudfront.net
+d2glav2919q4cw.cloudfront.net
 d2i5pngfrazn5t.cloudfront.net
 d2wl3qmk54t3ha.cloudfront.net
 d30gt5larl1k8h.cloudfront.net
@@ -1013,8 +1013,6 @@ kinogo.r.worldssl.net
 kinokayf.com
 kinopromobase.ru
 kinopromobase2.ru
-kinozal-me.appspot.com
-kinozal-tv.appspot.com
 kires.umk-spo.biz
 kisakuku.org
 kistured.com
@@ -1165,7 +1163,6 @@ locandito.com
 locoday.com
 logger.ivi.ru
 loki.maximonline.ru
-lol.mta-resource.ru
 loneday.com
 look4file.ru
 looker9.ru
@@ -1706,7 +1703,6 @@ rutor.edu.pl
 rutor.eu.org
 rutor.ml
 rutor.net.pl
-rutor.org.ua
 rutor.su
 rutor.tech
 rutorad.ru

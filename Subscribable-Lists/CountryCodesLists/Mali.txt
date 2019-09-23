@@ -180,6 +180,7 @@ jianghuchi.ml
 johnsonstreetxa.ml
 joincrypro.ml
 jpmorgan-chase.ml
+julaly.ml
 junopink.ml
 jurty.ml
 kenilt.ml
@@ -381,6 +382,7 @@ worldlulz.ml
 ws1.bmcm.ml
 ws2.bmcm.ml
 wtwetwerq.ml
+wupx.ml
 www.dloger.ml
 www.horrorscopeme.ml
 www.joincrypro.ml

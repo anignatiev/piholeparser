@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9587
+! Version: 9596
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1182,6 +1182,7 @@
 ||csjayzqifekaq.com^
 ||cskwckhyhriyk.com^
 ||cslxhmchzgbx.com^
+||csmcfetvb.com^
 ||csouqeeviwo.com^
 ||cspyozjbwb.com^
 ||cstdfxkxbqbc.com^
@@ -2346,6 +2347,7 @@
 ||fpbmjwoebzby.com^
 ||fpcptdqmjlnlu.com^
 ||fpdsavexteno.com^
+||fpeegzspcgnjt.com^
 ||fpfivothg.com^
 ||fpguuwnpkvqsq.bid^
 ||fpherzxrae.com^
@@ -2554,6 +2556,7 @@
 ||fzcgtfyn.bid^
 ||fzcgugzx.bid^
 ||fzcyyqvrbrpk.com^
+||fzeahussyd.com^
 ||fzgitqrqrsyyiv.com^
 ||fzhwvlpnqg.bid^
 ||fzmogmfqh.com^
@@ -3235,6 +3238,7 @@
 ||hpdmnmehzcor.com^
 ||hpkkzzyek.com^
 ||hpkwirncwvxo.com^
+||hplctrsd.com^
 ||hplgpoicsnea.com^
 ||hpltfwbm.com^
 ||hpmgdwvvqulp.com^
@@ -3867,6 +3871,7 @@
 ||jauftivogtho.com^
 ||javrdcyrgmdeeg.bid^
 ||jaxmbkhyr.com^
+||jaxwrwvxfscq.com^
 ||jbarrxmpmmekwh.bid^
 ||jbbfphnd.com^
 ||jbbgczjipjvb.com^
@@ -4790,6 +4795,7 @@
 ||ldybupeeeoq.bid^
 ||ldyiuvdoahxz.com^
 ||lebeiivzmm.com^
+||lebneeklnuru.com^
 ||lebqrivt.com^
 ||lebskmaewbhm.bid^
 ||lediyxobgmrgeb.com^
@@ -6526,6 +6532,7 @@
 ||phyhggbk.com^
 ||phywyzpugswttb.com^
 ||pibizrfgsrkji.bid^
+||picznhen.com^
 ||pidbbdxixp.com^
 ||pifaojvaiofw.com^
 ||pifsistcwycouc.com^
@@ -7988,6 +7995,7 @@
 ||suewgrsq.com^
 ||sufjqebhmfo.bid^
 ||sufzmohljbgw.com^
+||sugqlryshxarn.com^
 ||suhprdfb.bid^
 ||sukgtuksypr.com^
 ||sumizxwhfsrke.com^
@@ -9154,6 +9162,7 @@
 ||xdlmsvhhsvsp.com^
 ||xdltrwavzxn.com^
 ||xdqjeggqm.com^
+||xdqodcrayeat.com^
 ||xdsydkgkbvwq.com^
 ||xdxzfqxudc.com^
 ||xeafosrhjk.com^
