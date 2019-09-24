@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9596
+! Version: 9604
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -214,6 +214,7 @@
 ||amaqcgrrmedi.bid^
 ||amaqvmfd.com^
 ||amauzaqp.com^
+||amcpusvcit.com^
 ||amdhlyqfy.bid^
 ||amgkkjgjktml.com^
 ||amhpbhyxfgvd.com^
@@ -889,6 +890,7 @@
 ||cavdzowr.com^
 ||cawcwpvmpcje.com^
 ||cayaaebmb.com^
+||caykotranybjvx.com^
 ||cayqecxokz.com^
 ||cbbabemymc.com^
 ||cbbsnmrwpqou.com^
@@ -8638,6 +8640,7 @@
 ||ugwctmus.bid^
 ||ugwkyqdbmpwbbi.com^
 ||ugxqfkslreop.bid^
+||ugxshqnodoha.com^
 ||ugyymqcxyoi.bid^
 ||ugzpvflxa.com^
 ||uhavijwye.bid^
@@ -8812,6 +8815,7 @@
 ||uyxjnuqbti.com^
 ||uyyalzrvkvmtiq.com^
 ||uyznjuyfyjc.com^
+||uziiygdcwur.com^
 ||uzikrtotjbnq.com^
 ||uzlleehrsmibli.com^
 ||uznwafjxmm.com^
@@ -8963,6 +8967,7 @@
 ||vvqpavyfkr.com^
 ||vvrygjuozwps.com^
 ||vvscrhqok.com^
+||vvshsrdlf.com^
 ||vvtysgrbmx.com^
 ||vvvnbqnhxgs.com^
 ||vvygnzor.com^
@@ -8985,6 +8990,7 @@
 ||vxzudzbjvtegu.com^
 ||vyagpffxvs.com^
 ||vygekimhrfto.com^
+||vysgpewbyfbiob.com^
 ||vzkyivowceqcsd.com^
 ||vzlyapss.com^
 ||vzreguys.com^
@@ -9379,6 +9385,7 @@
 ||yprnopqzs.com^
 ||yptwqjdgikmcqc.com^
 ||ypummbggdjex.com^
+||ypzrannhrvhlpk.com^
 ||yqbyzekybmswii.com^
 ||yqccpziiuak.com^
 ||yqkxutfjzbdbml.com^
@@ -9602,4 +9609,5 @@
 ||zzlayejqlzcg.com^
 ||zzmwzarweka.com^
 ||zzomiuob.com^
+||zzpzenvmibvm.com^
 ||zzwajufm.com^
