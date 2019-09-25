@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PKgQb43ubNf3mnZ5XwMNfQ
-! Version: 201909240010
+! Checksum: 5hu1EaJuVWWkBBUChl5SgQ
+! Version: 201909250010
 ! Title: RU AdList: BitBlock
-! Last modified: 24 Sep 2019 00:10 UTC
+! Last modified: 25 Sep 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1995,7 +1995,7 @@ trinixy.ru###pushOffer
 ntv.ru###push_alert
 appleinsider.ru###pushbanner
 zakon.kz###pushsw-prompt-widget
-pokazz.net,viks.tv###reclamanemoya
+pokaz.tv,pokazz.tv,viks.fm###reclamanemoya
 tree.tv###registr_info
 vesti.lv###reklama_wrapper ~ div[style^="float:"]
 tproger.ru###related-posts
@@ -2167,6 +2167,7 @@ bookmate.com##.bm-document-meta-apps
 bookmate.com##.bm-document-readers
 habr.com##.bmenu_inner
 2ch.hk##.board-banner
+parkdrive.ua##.body-advert-bg
 aniplay.tv##.bottom-panel
 frontend.1worldonline.com##.bottomPanel > .project
 buhonline.ru##.bottomPopup
@@ -24040,6 +24041,7 @@ mozilla.org,thunderbird.net,usps.com#@##privacy-policy
 audionetwork.com,carlsenfritzoe.no#@##push-container
 onecallinsurance.co.uk#@##scroll-to-top
 aval.ua,finanzen100.de#@##scroll-top
+catchconnect.com.au#@##scrollTop
 thehunt.com#@##signup-popup
 wecollect.ch#@##subscribe_email
 vivoplay.net#@##subscriptionModal
@@ -24154,6 +24156,7 @@ reddit.com#@#img[alt="submit to reddit"]
 @@||over-blog-kiwi.com/combo.php?/$script
 @@||pages03.net^*/iMAWebCookie.js$script,domain=paulstuart.com
 @@||parastorage.com^*/rssButton.min.js
+@@||parastorage.com^*/ScrollToPlugin.min.js$script
 @@||paypalobjects.com^*/oo_engine.min.js$script,domain=paypal.com
 @@||paypalobjects.com^*/opinionLab/$script,domain=paypal.com
 @@||paysera.com^*/email-icon-over.png
