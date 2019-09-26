@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5hu1EaJuVWWkBBUChl5SgQ
-! Version: 201909250010
+! Checksum: 0ClP7kmAxf5qXHWBcTCoPw
+! Version: 201909260010
 ! Title: RU AdList: BitBlock
-! Last modified: 25 Sep 2019 00:10 UTC
+! Last modified: 26 Sep 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -163,7 +163,7 @@ _vkontakte.png
 ||mystatus.skype.com^
 ||odnaknopka.ru^$third-party
 ||online.mirabilis.com^
-||pikabu.ru^$third-party,~image
+||pikabu.ru^$third-party,~image,domain=~pikabu.ru
 ||pip.qip.ru^$domain=~pip.qip.ru
 ||postila.ru/js/widgets/$third-party
 ||robocat.me/assets/widgets/likegenerator/
@@ -910,7 +910,7 @@ kommersant.ru##a[href][title="Поделиться"]
 youla.ru##a[href][title^="Поделиться"]
 rusnext.ru##a[href^="http://www.odnoklassniki.ru/group/"]
 livecars.ru,livesport.ru##a[href^="https://share.yandex.ru/"]
-agronews.ua,animedub.ru,apostrophe.ua,app2top.ru,censor.net.ua,depo.ua,game2day.ru,livesport.ws,maanimo.com,mk.ru,myslo.ru,pravda.com.ua,privatfinance.com,rbc.ua,rusnext.ru,segodnya.ua,softportal.com,soundpark.best,sports.kz,zrada.today##a[href^="https://t.me/"]
+agronews.ua,animedub.ru,apostrophe.ua,app2top.ru,book-audio.com,censor.net.ua,depo.ua,game2day.ru,livesport.ws,maanimo.com,mk.ru,myslo.ru,pravda.com.ua,privatfinance.com,rbc.ua,rusnext.ru,segodnya.ua,softportal.com,soundpark.best,sports.kz,zrada.today##a[href^="https://t.me/"]
 66.ru,tproger.ru##a[href^="tg://resolve"]
 toptracker.ru##a[onclick^="content_share"]
 qiq.ws##a[onclick^="return addSoc"]
@@ -2217,6 +2217,7 @@ rt.com##.cookies__banner
 translate.google.by,translate.google.com,translate.google.com.ua,translate.google.ru,translate.google.se##.cp-promo
 erotix-tv.com##.cssload-loader
 google.com,google.com.ua,google.ru##.ctr-p #prm
+doefiratv.net##.d_news_notif_block
 obrkarta.ru##.data-banner > #vk
 fb.ru##.deed.is-opened
 drive.ru##.desktop-bottom-advert + .hr
@@ -2375,6 +2376,7 @@ kinohabr.net##.opis
 fainaidea.com##.orakul-azure-block
 sports.ru##.overlay[data-control="Common.Overlay"]
 userstyles.org##.overlay_background
+kp.ru##.page-footer_subscribe
 playground.ru##.page-notification
 bdf.ms##.pageContent > div[style^="outline"]
 bus.vse42.ru##.panel.news-block
@@ -9652,6 +9654,7 @@ _youtube_social_
 ##.article-share-block
 ##.article-share-bottom
 ##.article-share-box
+##.article-share-btn
 ##.article-share-btns
 ##.article-share-buttons
 ##.article-share-column
@@ -10473,6 +10476,7 @@ _youtube_social_
 ##.cfp-footer_social
 ##.cfp-utilitynav_social-items
 ##.checkout-share
+##.chegg-social-widget
 ##.ci-socials-ignited
 ##.cikk_socials_container
 ##.circle-facebook-share
@@ -24261,7 +24265,7 @@ vk.com,vkontakte.ru#@##vk_right
 xing.com#@##xing-share
 disqus.com#@#.-facebook
 disqus.com#@#.-twitter
-instagram.com,pinterest.com#@#.FollowButton
+instagram.com,pinterest.com,zhihu.com#@#.FollowButton
 tomshardware.com#@#.SocialButton
 twitter.com#@#.Twitter-icon
 yachtingjournal.com#@#.addthis:not(body)

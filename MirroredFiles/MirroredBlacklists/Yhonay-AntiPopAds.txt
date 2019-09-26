@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9616
+! Version: 9628
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -634,6 +634,7 @@
 ||bjvynucz.bid^
 ||bjxrjybjnh.com^
 ||bjzegkfv.com^
+||bkdurgyahjhb.com^
 ||bkedsknecp.com^
 ||bkeueifcqeicli.bid^
 ||bkfilgmhnnbq.com^
@@ -992,6 +993,7 @@
 ||chjriixbqmppwm.com^
 ||chjvykulvzey.com^
 ||chkqqbpppcuihn.com^
+||chlekoyxrbi.com^
 ||chlpyktpzcciyh.com^
 ||chnktglh.com^
 ||chnvilhrmeaw.bid^
@@ -1563,6 +1565,7 @@
 ||dpoulbxouhor.com^
 ||dpqytzwxohcd.bid^
 ||dprdhzofq.bid^
+||dpsqqaaqbc.com^
 ||dpwmloknxtuw.com^
 ||dpwrhdzeqw.com^
 ||dpwsvrkmfxrt.com^
@@ -2256,6 +2259,7 @@
 ||filenlgic.bid^
 ||finsbfaizzx.com^
 ||fioeazluwwirp.bid^
+||fiozxmznaba.com^
 ||fiqkmfapvnntn.bid^
 ||firflzsngsg.bid^
 ||firugsivsqot.com^
@@ -3363,6 +3367,7 @@
 ||hvnkfjywxojrwo.bid^
 ||hvpcxythnjl.com^
 ||hvqqergvbpvetq.com^
+||hvtlipnbfwu.com^
 ||hvulkudamh.com^
 ||hvuvqsun.com^
 ||hvvhxzdps.com^
@@ -3506,6 +3511,7 @@
 ||ieavcqhxtpak.com^
 ||iebnsqfwfhl.bid^
 ||iedijlgkbqc.com^
+||ieeagbtui.com^
 ||ieeawxjool.com^
 ||iekztyhqfs.bid^
 ||ielqcwzwjczpx.bid^
@@ -4523,6 +4529,7 @@
 ||knqjqzziu.com^
 ||knslxwqgatnd.com^
 ||kntdzsua.bid^
+||knvhqxpt.com^
 ||knwfmpvtj.com^
 ||knxwoaewryxaxd.bid^
 ||knyqnoozhcvrkc.bid^
@@ -4613,6 +4620,7 @@
 ||ktgsiqgj.bid^
 ||kthwboouxxcmc.bid^
 ||kthztsgfuygcw.com^
+||ktiwcxvrwedt.com^
 ||ktjcrhdppesdd.com^
 ||ktjqfqadgmxh.com^
 ||ktrgcpceilj.com^
@@ -5282,6 +5290,7 @@
 ||mfdhvdwkdg.com^
 ||mfdmsmndqarhb.bid^
 ||mfeoaesafo.com^
+||mffsqhmzeycb.com^
 ||mffurrpzbum.com^
 ||mfgyyqqjpp.com^
 ||mfhsvkepu.com^
@@ -6572,6 +6581,7 @@
 ||pjnudrgy.com^
 ||pjpgrrkegamhq.com^
 ||pjrlztgwix.com^
+||pjsiazatx.com^
 ||pjszvzkfib.com^
 ||pjtycinmerhb.com^
 ||pjydgizqsldqj.bid^
@@ -8907,6 +8917,7 @@
 ||vjzcgotoy.com^
 ||vkbftstazhjgdx.com^
 ||vkhrnisuky.com^
+||vkudpjuvg.com^
 ||vkvvvnppfmm.com^
 ||vkwasihbl.com^
 ||vkznlzueuuebb.com^
@@ -9404,6 +9415,7 @@
 ||yrbjfusd.com^
 ||yrcpupgqtn.com^
 ||yrkozodemantj.com^
+||yrmxtvqpp.com^
 ||yrpjklwly.com^
 ||yrsjqzfku.com^
 ||yrtyflmurngv.com^
