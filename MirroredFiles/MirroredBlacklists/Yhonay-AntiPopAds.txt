@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9628
+! Version: 9636
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -876,6 +876,7 @@
 ||bzqqaoeufrld.com^
 ||bzrsybcg.com^
 ||bzsbtfiz.com^
+||bzsukdfbotd.com^
 ||bzvimexwdle.com^
 ||bzyrhqbdldds.com^
 ||caajevalistl.com^
@@ -4987,6 +4988,7 @@
 ||lodqycbq.com^
 ||lofipgeld.bid^
 ||logkzudhrg.com^
+||lohappbnrpgypu.com^
 ||lohxvwjpvl.com^
 ||lojqfrcipvoo.bid^
 ||lojuxbnt.com^
@@ -5502,6 +5504,7 @@
 ||mrzpfpgh.com^
 ||msbmckzmcu.com^
 ||msegeqxwopq.com^
+||msgwxozk.com^
 ||msiegurhgfyl.com^
 ||msigpurubzkm.com^
 ||msisvvxmnpm.com^
@@ -5624,6 +5627,7 @@
 ||mzjotkigwu.com^
 ||mzkhhjueazkn.com^
 ||mzmnrczlsqtlya.com^
+||mzmtpdcouoa.com^
 ||mznijqwjkqadk.com^
 ||mznzltgotp.com^
 ||mzqxeqrmgzxv.com^
@@ -8278,6 +8282,7 @@
 ||tjkckpytpnje.com^
 ||tjkenzfnjpfd.com^
 ||tjkrhnwfuj.bid^
+||tjmqetufuzn.com^
 ||tjnhsjxi.bid^
 ||tjpzulhghqai.com^
 ||tjrlwhge.com^
@@ -9011,6 +9016,7 @@
 ||vxyqsxeo.com^
 ||vxzudzbjvtegu.com^
 ||vyagpffxvs.com^
+||vyatdrilrtgeh.com^
 ||vygekimhrfto.com^
 ||vysgpewbyfbiob.com^
 ||vzkyivowceqcsd.com^
@@ -9180,6 +9186,7 @@
 ||xclgusxcdjd.com^
 ||xcqgkkccjjucf.com^
 ||xctiblmetgwr.com^
+||xcvibxsdchxh.com^
 ||xcvtpwxz.com^
 ||xcwmyyglayg.com^
 ||xcwnwrgvwg.com^
@@ -9454,6 +9461,7 @@
 ||ywlaafzvnn.com^
 ||ywolsukpto.com^
 ||ywsjtstwevknlc.com^
+||ywtofulqxeqcvq.com^
 ||ywuyrhkaiat.com^
 ||ywxnjrkkrnyzc.com^
 ||yxfkdvkh.com^

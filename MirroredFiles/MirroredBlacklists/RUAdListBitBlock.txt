@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0ClP7kmAxf5qXHWBcTCoPw
-! Version: 201909260010
+! Checksum: XgKLlZpjIzc3sqegaldDOw
+! Version: 201909270010
 ! Title: RU AdList: BitBlock
-! Last modified: 26 Sep 2019 00:10 UTC
+! Last modified: 27 Sep 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -990,6 +990,7 @@ lady.mail.ru##div[data-module="Shares.Compact"]
 omsi2mod.ru###share
 gorodche.ru###socials
 kubik3.ru###uSocial
+sochi.camera###vkGroup
 html-template.ru,rustreams.ru###vk_comments
 ru-skript.ru###vk_groups
 echo.msk.ru##.addthis_toolbox
@@ -1201,6 +1202,8 @@ _userbar_$image
 ##.module_messages_cookies
 ##.notification-cookies
 ##.orakul-grey-block
+##.penci-gprd-law
+##.penci-wrap-gprd-law
 ##.postsignature img
 ##.pp-cookies-notice
 ##.rss_box
@@ -1590,7 +1593,7 @@ _userbar_$image
 ||zelgan.ucoz.ru/Userbarss/
 ||zoometric.ru^$third-party
 ! *** ruadlist:bitblock/annoyance_specific_block.txt ***
-/^https?://mail\.yandex\.(by|kz|ru|ua)/[^\s]{180,}/$script,domain=mail.yandex.by|mail.yandex.kz|mail.yandex.ru|mail.yandex.ua
+/^https?://mail\.yandex\.(by|kz|ru|ua)/[^\s]{160,}/$script,domain=mail.yandex.by|mail.yandex.kz|mail.yandex.ru|mail.yandex.ua
 /_fixedPanel.js$script,domain=news.mail.ru
 /_parallax.js$script,domain=news.mail.ru
 /_relap.js$script,domain=mail.ru
@@ -2132,6 +2135,7 @@ lamoda.ru##.auth-social__item_ml
 sputnik.ru##.b-cover__box > .b-panel
 livejournal.com##.b-discoverytimes-wrapper
 livejournal.com##.b-fader
+rg.ru##.b-favourites-sources
 banki.ua##.b-fb-overlay
 banki.ua##.b-fb-popup
 bigmir.net##.b-informer-social
@@ -2381,6 +2385,7 @@ playground.ru##.page-notification
 bdf.ms##.pageContent > div[style^="outline"]
 bus.vse42.ru##.panel.news-block
 www.qrz.ru##.partners_box
+todotech20.com##.penci-wrap-gprd-law
 viva64.com##.personal-data-confirm
 football.sport-express.ru##.place_ratingAnnounce
 720hd.club,animevost.club,avitube.ru,hdkinorip.net,hdnora.ru,kinoera.cc,kinogo-720.net,kinogo.life,kinosky.pro,kinoslitok.net,kinospot.me,kinozver.club,kinozz-hd.ru,kinozz.film,lostfilm-720.ru,megahead.org,wikimovies.ru,ymka.tv,zyx.watch##.player-warning
@@ -3221,6 +3226,7 @@ forums.lanik.us#@#a[href="#top"]
 bombardir.ru,eg.ru,livelib.ru,livemaster.ru,soccer.ru,vichatter.net,wikium.ru#@#a[title="Facebook"]
 soccer.ru,wikium.ru#@#a[title="Google+"]
 bombardir.ru,livelib.ru,livemaster.ru,soccer.ru,vichatter.net#@#a[title="Twitter"]
+livetv210.me#@#a[title="YouTube"]
 evrl.to,livemaster.ru#@#a[title="ВКонтакте"]
 iomedia.ru#@#div[id^="vk_comments"]
 iomedia.ru,jcross-world.ru#@#div[id^="vk_group"]
