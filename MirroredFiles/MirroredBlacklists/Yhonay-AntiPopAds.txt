@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9636
+! Version: 9642
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1493,6 +1493,7 @@
 ||dlemeyrkjy.com^
 ||dlfdvyfn.com^
 ||dlganxfc.bid^
+||dlgriyjm.com^
 ||dlmghzdca.com^
 ||dlntzbuskygwj.com^
 ||dlotljikswmvq.com^
@@ -1856,6 +1857,7 @@
 ||eivikmwwrqtb.bid^
 ||eiwcqowbowqo.com^
 ||eiwdnygfwl.com^
+||eiygqumgrobos.com^
 ||eizzndhkvl.bid^
 ||ejbvrgespr.bid^
 ||ejdcjjcqcnzhre.bid^
@@ -5523,6 +5525,7 @@
 ||msxmfyhwgkos.com^
 ||mszfmpseoqbu.com^
 ||mtbadedrhcx.bid^
+||mtbgrgscjwcjc.com^
 ||mtbnqoixmb.com^
 ||mtbpqzke.bid^
 ||mtbsdhzpikjt.com^
@@ -6673,6 +6676,7 @@
 ||povqrvsoljy.com^
 ||poxcldtepiulo.com^
 ||poxwphidbuedh.com^
+||poyecjzk.com^
 ||ppbvmesssyacij.com^
 ||ppcpsjihmydhr.com^
 ||ppfpocea.com^
@@ -8984,6 +8988,7 @@
 ||vuaardbsbcppb.com^
 ||vuikvvkcdas.com^
 ||vulbyhxsrxcdgo.com^
+||vuqufeqv.com^
 ||vuvcwrxn.com^
 ||vvaqbhmahjb.com^
 ||vvaqdyzdovonc.com^
@@ -9493,6 +9498,7 @@
 ||zavlamhx.com^
 ||zayhipbcxig.com^
 ||zbbqhdnef.com^
+||zblbiqpv.com^
 ||zbtffdiu.com^
 ||zbulsymgpbjv.com^
 ||zbvrqrjecs.com^

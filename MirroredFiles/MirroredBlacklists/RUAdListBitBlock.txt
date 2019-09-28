@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XgKLlZpjIzc3sqegaldDOw
-! Version: 201909270010
+! Checksum: lAXpnEfMYkXMXWf96XETGQ
+! Version: 201909280010
 ! Title: RU AdList: BitBlock
-! Last modified: 27 Sep 2019 00:10 UTC
+! Last modified: 28 Sep 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -400,6 +400,7 @@ mirtesen.ru##.app.blog-post-page .blog-post__share
 russia.ru,vz.ru##.append-other-applecations
 cheklab.ru##.art-postcontent > .buttons
 ngs.ru,ngs22.ru,ngs24.ru,ngs38.ru,ngs42.ru,ngs55.ru,ngs70.ru##.article-informer-bar__share
+sobesednik.ru##.article-section > article ~ div > .row > .text-left > .d-none
 baby.ru##.article-sharing__socials
 tvnet.lv##.articleTools
 segodnya.ua#?#.article__body > p:-abp-has(> [onclick*="promo_under_articles_telegram"])
@@ -1653,7 +1654,6 @@ _userbar_$image
 ||connect.mail.ru/share^$popup,domain=myshared.ru
 ||console.cloud.google.com^*/emergencies
 ||cont.ws/ajax/promo.php
-||cont.ws/images/fill*.jpg
 ||content.printdirect.ru^$third-party
 ||content.properm.ru/
 ||cybermusic.ru/*/flash_logo.swf
@@ -1870,6 +1870,7 @@ polit.info###boxfade
 vgtimes.ru###bspromo
 rutube.ru###button-subscribe-block
 cat-a-cat.net###cat
+sobesednik.ru###collapseSubscribe
 fb.ru###comments > #comments_typers
 fb.ru###comments_list > div[id^="comment-f-"]
 online-life.xyz###container > .pull-left
@@ -2107,7 +2108,6 @@ softking.ru##.adsm
 torrentum.me##.adsoff
 kino-kingdom.com##.adv
 mir24.tv##.adv-group
-cont.ws##.adv2
 gurutestov.ru##.adv_collumn
 megogo.ru##.agreement-notify_v1
 i.ua##.alarm
@@ -2247,7 +2247,6 @@ ok.ru#?#.feed-list > .feed-w:-abp-has(.feed_label:-abp-contains(Промо))
 dtf.ru,tjournal.ru,vc.ru#?#.feed:not([data-feed-more-url*="/promo/"]) .feed__chunk > .feed__item:-abp-has(> .content-feed--promo)
 vk.com##.feed_friends_recomm
 drive.ru##.feedsub
-cont.ws##.fill
 kinopoisk.ru##.film-thin-teaser
 nalog.ru##.fixed_shortcut_vc
 lifehacker.ru#?#.flow-post:-abp-has(.meta-mark_advert)
@@ -2359,6 +2358,8 @@ takprosto.cc##.navbar-brand
 miuru.ru##.netrek
 kakprosto.ru##.networksPromo
 tree.tv##.new_back_link
+cont.ws##.new_big_notifocation
+cont.ws#?#.new_post_prev:-abp-has(> .promo_link)
 5-tv.ru#?#.news > h3:-abp-contains(Читайте также)
 allboxing.ru##.news-by-theme
 rbc.ru,sportrbc.ru##.news-feed a[href*="utm_campaign"]
@@ -2554,6 +2555,7 @@ livesport.ru##.zz_cars_twin
 erofishki.cc##:not(.author):not(.avatar-a) > .subscribe_link
 mbclub.ru##[alt="Клубный сервис"]
 semestr.ru##[alt="Рынок студенческих работ на заказ"]
+teleprogramma.pro##[aria-controls^="t-related-"]
 fosshub.com##[aria-label="Advertisement"]
 ixbt.com##[aria-label="cookieconsent"]
 gamer-info.com##[class*="game"][class*="import"]
@@ -2909,6 +2911,7 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua##.serp-footer__promo
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.serp-item_type_market
 yandex.ru##.serp-list > .z-pseudo
 yandex.by,yandex.kz,yandex.ru,yandex.ua#?#.serp-list[class*="left"] > .serp-item:-abp-has(.app-list)
+yandex.by,yandex.kz,yandex.ru,yandex.ua##.serp-list_left_yes > .hidden-recommendations
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.serp-list_left_yes > .serp-item > .hidden-recommendations-social
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.serp-list_left_yes[aria-label="Результаты поиска"] .serp-item-actions
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.serp-list_left_yes[aria-label="Результаты поиска"] div[class*="popup"][data-bem*="chat"]
@@ -2936,7 +2939,6 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua##body[class*="b-page_infinity"] .media-e
 yandex.by,yandex.kz,yandex.ru,yandex.ua##body[class*="b-page_infinity"] .media-footer_slim_yes
 yandex.by,yandex.kz,yandex.ru,yandex.ua##body[class*="b-page_infinity"] .stream-promo-popup
 yandex.by,yandex.kz,yandex.ru,yandex.ua##body[class*="b-page_infinity"] div[class*="head-promo-plus"]
-music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##button.button-play ~ .popup
 yandex.by,yandex.kz,yandex.ru,yandex.ua##div[aria-label="Реклама"]
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##div[class^="sidebar"] .no-ads
 !
@@ -11466,6 +11468,7 @@ _youtube_social_
 ##.fixed-soc-icon
 ##.fixed-social
 ##.fixed-social-bar
+##.fixed-social-media
 ##.fixed-social-share
 ##.fixedShareMenu
 ##.fixedShareSection
@@ -23082,6 +23085,7 @@ _backToTop.
 ##.BackToTop
 ##.Backtotop
 ##.Bt_Gotop
+##.ButtonBackToTop
 ##.GlobalFooter-backToTop
 ##.GlobalFooter-backToTopSection
 ##.JumpToTop
@@ -23955,6 +23959,7 @@ _backToTop.
 ||fortpush.com^$third-party
 ||foxpush.com^$third-party
 ||foxpush.net^$third-party
+||getback.ch^$third-party
 ||getpushmonkey.com^$third-party
 ||hitplus.net^$third-party
 ||iopushtech.com^$third-party
@@ -24088,7 +24093,7 @@ mozillamessaging.com#@#.rss.icon
 newinhomes.com#@#.rssFeed
 google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws,youtube.com#@#.rss_icon
 scribol.com#@#.scribol
-advids.co,cbdoilreview.org,mortgageguy.com.au,paperless-insurance.com#@#.scroll-to-top
+advids.co,cbdoilreview.org,galerieslafayette.com,mortgageguy.com.au,paperless-insurance.com#@#.scroll-to-top
 channelnewsasia.com,kitacon.org,polskikoszyk.pl,redislabs.com#@#.scroll-top
 channelnewsasia.com,ew.com,indiatimes.com,letyshops.com,msn.com,people.com,southernliving.com,tele2.ru,wiemy.to#@#.scroll-up
 hyperoptic.com,playtech.co.nz,porozmawiajmyoit.pl,scan.co.uk#@#.scroll_top
@@ -24744,6 +24749,7 @@ pinterest.com#@#a[title="Pin it!"]
 encyclopediadramatica.se,github.com,github.io,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws,kingswiki.com#@#a[title="Pinterest"]
 flattr.com,tumblr.com#@#a[title="Tumblr"]
 accounts.codemasters.com,allestörungen.de,busqueda.com.uy,clubbingtv.com,coeffee.com,encyclopediadramatica.se,flattr.com,github.com,github.io,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws,jaruzel.com,jetpack.wordpress.com,kingswiki.com,live.com,maxthon.com,megabus.com,onlineradiobox.com,opendatacity.de,outlook.com,twitter.com,webgate.ec.europa.eu,youtube.com#@#a[title="Twitter"]
+livetv210.me#@#a[title="YouTube"]
 allestörungen.de,encyclopediadramatica.se,flattr.com,github.com,github.io,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws,heise.de,maxthon.com,opendatacity.de,pcgameshardware.de#@#a[title="Youtube"]
 aliexpress.com,github.com,github.io#@#a[title="facebook"]
 onlineradiobox.com#@#a[title="ВКонтакте"]
