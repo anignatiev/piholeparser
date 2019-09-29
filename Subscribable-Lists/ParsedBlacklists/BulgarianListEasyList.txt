@@ -98,6 +98,7 @@ analytics.aasaam.com
 analytics.abacast.com
 analytics.adeevo.com
 analytics.adfreetime.com
+analytics.allovoisins.com
 analytics.amakings.com
 analytics.anvato.net
 analytics.apnewsregistry.com
@@ -266,6 +267,7 @@ analytics.zg-api.com
 analytics.zhihu.com
 analytics.ziftsolutions.com
 analytics00.meride.tv
+analytics2.socialblade.com
 analyticsengine.s3.amazonaws.com
 analyticsv2.dol.gr
 analyze.full-marke.com
@@ -553,6 +555,7 @@ coin-cube.com
 coin-services.info
 coletor.terra.com
 collect.finanzen.net
+collect.igodigital.com
 collect.rewardstyle.com
 collect.sas.com
 collect.tianya.cn
@@ -605,6 +608,7 @@ count.asnetworks.de
 count.carrierzone.com
 count.channeladvisor.com
 count.joy.cn
+count.kandian.com
 count.livetv.ru
 count.livetv.sx
 count.me.uk
@@ -621,6 +625,7 @@ count.spiegel.de
 count.taobao.com
 count.upc.rakuten.co.jp
 count.video.sina.com.cn
+count.vrs.sohu.com
 count.yandeg.ru
 count5.pconline.com.cn
 counter.1i.kz
@@ -772,7 +777,6 @@ d396ihyrqc81w.cloudfront.net
 d3a2okcloueqyx.cloudfront.net
 d3alqb8vzo7fun.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
-d3eokk6ya562p5.cloudfront.net
 d3ezl4ajpp2zy8.cloudfront.net
 d3h1v5cflrhzi4.cloudfront.net
 d3hr5gm0wlxm5h.cloudfront.net
@@ -964,6 +968,7 @@ events.realgravity.com
 events.reddit.com
 events.redditmedia.com
 events.secureserver.net
+events.sk.ht
 events.snacktv.de
 events.turbosquid.com
 events.whisk.com
@@ -2244,7 +2249,6 @@ su.addthis.com
 subpixel.4players.de
 sugar.gameforge.com
 sugs.m.sm.cn
-support.2giga.link
 survey.interquest.com
 surveys.cnet.com
 sy.amebame.com
@@ -2282,6 +2286,7 @@ t.pswec.com
 t.purch.com
 t.pusk.ru
 t.quisma.com
+t.regionsjob.com
 t.sgc.io
 t.sharethis.com
 t.smile.eu
@@ -2658,6 +2663,7 @@ tracking.ustream.tv
 tracking.vengovision.ru
 tracking.vid4u.org
 tracking.waterfrontmedia.com
+tracking.webtradecenter.com
 tracking.wlscripts.net
 tracking.yourfilehost.com
 tracking1.brandmentions.com

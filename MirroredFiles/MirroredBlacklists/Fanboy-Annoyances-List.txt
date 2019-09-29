@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qHHbUZDLj+GR77ldg1nbDQ
-! Version: 201909280011
+! Checksum: JEbJiaXHiwmGCRYQQ/fBWA
+! Version: 201909290021
 ! Title: Fanboy's Annoyance List
-! Last modified: 28 Sep 2019 00:11 UTC
+! Last modified: 29 Sep 2019 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -38,6 +38,7 @@
 /cdn-cgi/pe/bag2?*addthis.com
 /christmas-snow.js
 /conversional-popup.
+/copy_text.js
 /cx-scrolldepth.js
 /dealsaver/widget/*
 /disable-right-click-
@@ -241,7 +242,6 @@ _push_sw.
 /addthis_subscribe.
 /ame-newsletter-
 /ame-newsletter/*
-/api/newsletter
 /article_newsletter.
 /assets/newsletter-
 /at_newsletter.
@@ -295,6 +295,7 @@ _push_sw.
 /Masthead-Newsletter-
 /MC-Newsletter-
 /media/newsletters/*
+/mm-newsletter/*
 /mnav/newsletter.
 /mobile_newsletter_
 /modal-newsletter.
@@ -345,6 +346,7 @@ _push_sw.
 /newsletter/it.
 /newsletter/newsletter-
 /newsletter/newsletter_
+/newsletter/pop-
 /newsletter/popin/*
 /newsletter/popup-
 /newsletter/popup/*
@@ -393,6 +395,7 @@ _push_sw.
 /plugins/optin-monster/*$script
 /plugins/wp-subscribe-pro/*
 /pmd-newsletter/*
+/pop-in-newsletter/*
 /popinNewsletter.
 /popinNewsletter/*
 /popups/subscribe-
@@ -2289,6 +2292,7 @@ _backToTop.
 /nmt_youtube_
 /orange-fb-
 /orange-twit-
+/orion_sharing.
 /orkut.gif
 /orkut_16.
 /outsidesocialsprite.
@@ -5743,6 +5747,7 @@ _site_cookie_
 ##.NewsletterColumn
 ##.NewsletterModule
 ##.NewsletterRegister
+##.NewsletterSection
 ##.NewsletterSignUp
 ##.NewsletterSignup
 ##.NewsletterSignupBlock
@@ -5832,6 +5837,7 @@ _site_cookie_
 ##.block-newsletter
 ##.block-newsletter-signup
 ##.block-pi-signup
+##.block-social-newsletter
 ##.block-subscribe
 ##.block-theweek-subscriptions
 ##.block-ti-lsg-cook-newsletters
@@ -6575,6 +6581,7 @@ _site_cookie_
 ##.radium-builder-widget-newsletter-form
 ##.rdstation-popup-newsletter
 ##.react-newsletter-overlay
+##.reg_newsletter
 ##.register-newsletter
 ##.register-signup-promo
 ##.register_block_newsletter
@@ -6821,6 +6828,7 @@ _site_cookie_
 ##.widget_bs-newsletter-mailchimp
 ##.widget_cbs_newsletter_widget
 ##.widget_email_subscribe
+##.widget_enqtran_subscriber_widget
 ##.widget_home_newsletter
 ##.widget_ione-bp_newsletter_signup
 ##.widget_mailchimpsf_widget
@@ -6902,6 +6910,7 @@ _site_cookie_
 ###push-alert-block
 ###push-container
 ###push-notification
+###push-notification-box
 ###push-notification-pop-up
 ###push-prompt
 ###pushAdUpBanner
@@ -6956,6 +6965,7 @@ _site_cookie_
 ##.push-message
 ##.push-notice
 ##.push-notification
+##.push-notification-box
 ##.push-overlay
 ##.push-popup
 ##.push-wrap
@@ -7388,6 +7398,7 @@ _site_cookie_
 ###scroll-toplink
 ###scroll-up
 ###scroll-up-button
+###scroll2top
 ###scrollToTop
 ###scrollToTopButton
 ###scrollTop
@@ -7548,6 +7559,7 @@ _site_cookie_
 ##.ef3-back-to-top
 ##.enigma_scrollup
 ##.et_pb_scroll_top
+##.eut-back-top
 ##.f-footer__btn_up
 ##.f-go-top
 ##.fi-back-to-top
@@ -10793,6 +10805,7 @@ _site_cookie_
 ##.SL_Share
 ##.SOCIAL
 ##.SUD_socail_links
+##.SectionsContent__Socials
 ##.SelfSocial
 ##.Share-bar
 ##.Share-buttons
@@ -15628,6 +15641,7 @@ _site_cookie_
 ##.page-share
 ##.page-share-box
 ##.page-share-button
+##.page-share-wrapper
 ##.page-shareTray
 ##.page-social
 ##.page-social-counters
@@ -19663,6 +19677,7 @@ _site_cookie_
 ##.user-share-button-wrapper
 ##.user-share-settings
 ##.user_activity_like_block
+##.usr-social
 ##.util-bar-btn-facebook
 ##.util-bar-btn-share
 ##.util-bar-btn-twitter
@@ -20526,6 +20541,7 @@ _site_cookie_
 ##a[title^="Join us on LinkedIn"]
 ##a[title^="Join us on Linkedin"]
 ##a[title^="Like us on Facebook"]
+##a[title^="Partager cet article"]
 ##a[title^="Share a link on Facebook"]
 ##a[title^="Share a link on Google"]
 ##a[title^="Share a link on Twitter"]
@@ -21324,6 +21340,7 @@ _site_cookie_
 ###addCookieBarInfo
 ###adimo-cookie
 ###ads-cookie-consent
+###adsense-constent-modal
 ###adsimple-cookie-notice
 ###adtoniq-msg-bar
 ###adult-and-cookies
@@ -22363,6 +22380,7 @@ _site_cookie_
 ###cookie-notification-content
 ###cookie-notification-header
 ###cookie-notification-jc
+###cookie-notification-message
 ###cookie-notification-section
 ###cookie-notification-wrapper
 ###cookie-notificationbar
@@ -24785,6 +24803,7 @@ _site_cookie_
 ###gdprAgree
 ###gdprAlert
 ###gdprBanner
+###gdprBar
 ###gdprBnnr
 ###gdprBox
 ###gdprComponent
@@ -24817,6 +24836,7 @@ _site_cookie_
 ###gdpr_consent
 ###gdpr_consent_banner
 ###gdpr_container
+###gdpr_cookie
 ###gdpr_cookie_line
 ###gdpr_cookie_notice
 ###gdpr_float
@@ -27089,6 +27109,7 @@ _site_cookie_
 ##.bar-cookie
 ##.bar-cookies
 ##.bar-eu-cookies
+##.bar.cookie
 ##.barCookie
 ##.barra-cookies
 ##.barra-cookies-modal
@@ -29538,6 +29559,7 @@ _site_cookie_
 ##.gdpr_msg
 ##.gdpr_msgbox
 ##.gdpr_note
+##.gdpr_notice_container
 ##.gdpr_popup_wrap
 ##.gdpr_theme_anonymous
 ##.gdprbar
@@ -30344,6 +30366,7 @@ _site_cookie_
 ##.obfx-cookie-bar-container
 ##.obs_cnil
 ##.oc-disclaimerMessage
+##.octo-cookie-consent
 ##.oddcookie
 ##.oe-cookies-law
 ##.oh_cookie_notice_wrapper
@@ -30762,7 +30785,7 @@ _site_cookie_
 ##.show-cookie-popup:not(body):not(html)
 ##.show-cookie:not(body)
 ##.show-eu-cookie
-##.show-gdpr
+##.show-gdpr:not(body)
 ##.showPrivacyCookie
 ##.show_cookie:not(body):not(html)
 ##.shrm-gdpr
@@ -32226,6 +32249,7 @@ _site_cookie_
 ||whatsbroadcast.com^$third-party
 ||widget.stagram.com^$third-party
 ||widget.weibo.com^$third-party
+||widget.whatshelp.io^$third-party
 ||widgets.digg.com^$third-party
 ||widgets.fbshare.me^$third-party
 ||widgets.getpocket.com^$third-party
@@ -32363,6 +32387,7 @@ _site_cookie_
 ! ---------- Push Notifications ----------
 ||alerts.ndtv.com^
 ||alerts.thedailystar.net^
+||annahar.com/assets/js/notifications.js
 ||bdstatic.com/linksubmit/push.js
 ||indiatimes.com/pn/
 ||irishtimes.com/assets/js/notify.js
@@ -34575,6 +34600,8 @@ logicbuy.com,slate.com##.email_signup
 savedelete.com##.emailform
 blogspot.com##.emailsub
 msn.com##.embeddedSearch
+booking.com##.emk-banner
+booking.com##.emk_footer_update
 dissentmagazine.org##.emodal
 i24news.tv##.encart_video
 geekwire.com##.enews
@@ -34958,6 +34985,7 @@ bloomberg.com##.mini-player
 rumorfix.com##.mini-rss
 rumorfix.com##.mini-twit
 associatedcontent.com##.mini_ct_inner
+meilleurmobile.com##.mm_scrollable_bloc
 smartplanet.com,techrepublic.com,zdnet.com##.mmode-reg-hide
 cbsnews.com##.mnRightRailConnect
 letribunaldunet.fr##.mo-has-email
@@ -35209,6 +35237,7 @@ thenextweb.com##.post-toolbar-wrapper
 thinkprogress.org##.post-tools
 perezhilton.com##.postbottom
 tineye.com##.posterous
+weebly.com##.powered-by
 jack-wolfskin.com##.pp_overlay
 jack-wolfskin.com##.pp_pic_holder
 gaytimes.co.uk##.pre-header
@@ -36040,6 +36069,7 @@ thegolfnewsnet.com###popup-box-gfcr-1
 space.com,tomshardware.co.uk,tomshardware.com###popup-modal
 worldreligionnews.com###post_footer_promo
 sperry.com,striderite.com###promotionalPopup
+poolsupplies.com###ps-email-signup
 egmnow.com###pt_dark_over
 blog.intercom.io###pty_pkg
 gearjunkie.com###pu-wrapper
@@ -36451,7 +36481,7 @@ fiercecable.com##.mktoForm
 cambridge.org##.mod--style1
 businessoffashion.com,longreads.com,vogue.com,xconfessions.com##.modal
 abc15.com##.modal--content
-blogtalkradio.com,breakingdefense.com,martechadvisor.com,medicalnewstoday.com,playfield.io,pv-magazine.com##.modal-backdrop
+blogtalkradio.com,breakingdefense.com,martechadvisor.com,medicalnewstoday.com,playfield.io,poolsupplies.com,pv-magazine.com##.modal-backdrop
 atimes.com,jns.org##.modal-overlay
 blogtalkradio.com##.modal-scrollable
 campaignlive.co.uk##.modalOverlay
@@ -38888,6 +38918,7 @@ argaam.com##.argaam-policy
 businessinsider.com##.as-oil-content-overlay
 co-operative.coop,couchsurfing.com,fullscreen.com,haymarketbooks.org,usatoday.com##.banner
 uber.com##.banner--bottom
+makeprintable.com##.banner-hints
 23andme.com##.banner-wrap
 worthpoint.com##.bannerContainer
 bagigia.com##.bica-content
@@ -38971,6 +39002,7 @@ iotransfer.net##.fl-accept
 change.org##.flash-message-announcement
 deutscheam.com,dws.com##.flash-message__wrapper
 iobit.com##.float-bar
+3dslash.net##.floatPopup
 maltatoday.com.mt##.floating-bar
 novantas.com##.foobar-container
 doubleviking.com##.footer
@@ -41385,7 +41417,7 @@ runinreims.com##.confidentialite
 planeteanimal.com,toutcomment.com##.consent
 lirelactu.fr##.container-0-5
 eco-systemes.fr,midilibre.fr,quelpneu.com,sudouest.fr,tv7.com##.cookie
-118000.fr,adrea.fr,bpost.be,citus-kalix.fr,clique.tv,communauto.com,comparateur-energie.be,cuisineaz.com,degrouptest.com,epresse.fr,info-retraite.fr,intermarche.be,o2recrute.fr,ouestjob.com,previssima.fr,service-public.fr,stb.com.tn,wemystic.fr,xxe.fr##.cookies
+118000.fr,adrea.fr,bpost.be,citus-kalix.fr,clique.tv,communauto.com,comparateur-energie.be,cuisineaz.com,degrouptest.com,epresse.fr,info-retraite.fr,intermarche.be,o2recrute.fr,ouestjob.com,parisjob.com,previssima.fr,service-public.fr,stb.com.tn,wemystic.fr,xxe.fr##.cookies
 creavea.com##.creavea-banner-cookie-consent
 lexus.fr##.disclaimer
 molotov.tv##.eRnhI
@@ -42025,6 +42057,7 @@ fum.info.pl,leroymerlin.pl,mazowieckie.com.pl,mmgastro.pl,otouczelnie.pl,technet
 alergia-allegra.pl,aliorbank.pl,angora.com.pl,bezux.pl,bigstar.pl,bitbay.pl,dhosting.pl,easycomp.pl,fitpatrol.pl,fly4free.pl,meczyki.pl,naszefutrzaki.eu,niedziela.pl,pkpcargo.com,polsatsport.pl,rozklad-pkp.pl,sprawdzonyfizjoterapeuta.pl,telepolis.pl,teletorium.pl,vistula.pl##.cookies
 chceauto.pl##.cookue
 genetico.pl##.coologo7
+otodom.pl##.css-h7c6x6
 lexus-polska.pl##.disclaimer
 komornik.pl##.divModalDialog
 czarymary.pl,drukowalnia.pl##.ek-bar
@@ -42247,6 +42280,7 @@ fz.se##.blck-info
 nacka.se##.c-message
 olisen.se##.cookie
 havkom.se,lfv.se,oru.se##.cookies
+xlbygg.se##.cookievarning-wrap:not(body):not(html)
 icebug.se##.css-4uxznl
 lexus.se##.disclaimer
 sydsvenskan.se##.gdpr
@@ -42510,6 +42544,7 @@ humblebundle.com#@#.subscribe-box
 stackexchange.com#@#.subscribe-container
 twit.tv#@#.subscribe-panel
 wtfast.com#@#.subscribe_box
+mos.ru#@#.subscription-block
 reddit.com,yesplz.coffee#@#.subscription-box
 ctpost.com#@#.taboola-frame
 theonion.com#@#.taboola-inbetweener
@@ -42624,7 +42659,7 @@ engage.it#@#.block-social
 opposingviews.com#@#.block-socialmedia
 kcrw.com#@#.bottom-social
 login.gog.com#@#.btn--facebook
-accounts.pixiv.net,adespresso.com,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,apertura.com,aplus.com,appspot.com,chess.com,crowdin.net,dailymotion.com,deezer.com,eleconomista.es,epaka.pl,eventim.de,foodit.com,help.getadblock.com,hotline.ua,magine.com,meetme.com,nexoneu.com,nrj.fr,setlist.fm,spotify.com,swappa.com,thegamebusters.it,theoldreader.com,webgate.ec.europa.eu,younow.com#@#.btn-facebook
+accounts.pixiv.net,adespresso.com,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,apertura.com,aplus.com,appspot.com,chess.com,crowdin.net,curiouscat.me,dailymotion.com,deezer.com,eleconomista.es,epaka.pl,eventim.de,foodit.com,help.getadblock.com,hotline.ua,magine.com,meetme.com,nexoneu.com,nrj.fr,setlist.fm,spotify.com,swappa.com,thegamebusters.it,theoldreader.com,webgate.ec.europa.eu,younow.com#@#.btn-facebook
 allegro.pl,eskimi.com,narew.info,nexoneu.com,secure.allocine.fr,techinasia.com#@#.btn-fb
 foodit.com,thegamebusters.it,theoldreader.com#@#.btn-google-plus
 accounts.pixiv.net,apertura.com,narew.info,secure.allocine.fr#@#.btn-gplus
@@ -42634,7 +42669,7 @@ appspot.com#@#.btn-reddit
 azlyrics.com,theoldreader.com,userzoom.com#@#.btn-share
 bacardi.com,bellazon.com,bintray.com,epaka.pl,filterlists.com,freecodecamp.org,swappa.com,thegamebusters.it,webgate.ec.europa.eu#@#.btn-social
 appspot.com#@#.btn-social-icon
-accounts.pixiv.net,appspot.com,crowdin.net,help.getadblock.com,magine.com,qz.com,setlist.fm,thegamebusters.it,webgate.ec.europa.eu,younow.com#@#.btn-twitter
+accounts.pixiv.net,appspot.com,crowdin.net,curiouscat.me,help.getadblock.com,magine.com,qz.com,setlist.fm,thegamebusters.it,webgate.ec.europa.eu,younow.com#@#.btn-twitter
 rockstargames.com#@#.btnFacebook
 rockstargames.com#@#.btnTwitter
 passeidireto.com#@#.btn_facebook
@@ -43071,6 +43106,7 @@ pinterest.com#@#a[title="Pin it!"]
 encyclopediadramatica.se,github.com,github.io,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws,kingswiki.com#@#a[title="Pinterest"]
 flattr.com,tumblr.com#@#a[title="Tumblr"]
 accounts.codemasters.com,allestörungen.de,busqueda.com.uy,clubbingtv.com,coeffee.com,encyclopediadramatica.se,flattr.com,github.com,github.io,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws,jaruzel.com,jetpack.wordpress.com,kingswiki.com,live.com,maxthon.com,megabus.com,onlineradiobox.com,opendatacity.de,outlook.com,twitter.com,webgate.ec.europa.eu,youtube.com#@#a[title="Twitter"]
+livetv210.me#@#a[title="YouTube"]
 allestörungen.de,encyclopediadramatica.se,flattr.com,github.com,github.io,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws,heise.de,maxthon.com,opendatacity.de,pcgameshardware.de#@#a[title="Youtube"]
 aliexpress.com,github.com,github.io#@#a[title="facebook"]
 onlineradiobox.com#@#a[title="ВКонтакте"]
@@ -43101,6 +43137,7 @@ popsugar.co.uk#@##_evidon-barrier-wrapper
 etonline.com,popsugar.co.uk,popsugar.com,popsugar.com.au#@##_evidon_banner
 franziskaner-weissbier.de,xmradio.nl#@##accept-cookies
 paypal.com#@##consent.consent
+dnb.no#@##consentContainer
 sandisk.ae,sandisk.cn,sandisk.co.jp,sandisk.co.kr,sandisk.co.uk,sandisk.com,sandisk.com.au,sandisk.com.br,sandisk.com.tr,sandisk.com.tw,sandisk.de,sandisk.es,sandisk.fr,sandisk.hk,sandisk.id,sandisk.in,sandisk.it,sandisk.nl,sandisk.sg#@##consent_blackbar
 roussillhotel.com#@##cookie-banner
 dm-drogeriemarkt.it#@##cookie-bar
@@ -43157,6 +43194,7 @@ bing.com,czuczu.pl#@#.cc-container
 morningstar.ca#@#.cc_container
 onet.pl#@#.cmp-app_gdpr
 consent.yahoo.com,oath.com#@#.consent-container
+payments.amazon.ca,payments.amazon.co.jp,payments.amazon.co.uk,payments.amazon.com,payments.amazon.com.au,payments.amazon.com.br,payments.amazon.de,payments.amazon.es,payments.amazon.fr,payments.amazon.in,payments.amazon.it#@#.consent-wrapper
 boursorama.com#@#.cookie-banner
 janrain.com,moemax.de,rituals.com,xxxlshop.de#@#.cookie-bar
 rituals.com#@#.cookie-bar-wrapper
@@ -43223,9 +43261,11 @@ alko.fi#@#.cookies-open
 diy.com#@#.cookies-policy
 milliman.com#@#.cookiesModal
 hublot.com#@#.cookies_consent-show
+xlbygg.se#@#.cookievarning-wrap
 gezondheidsplein.nl,intersport.dk,intersport.es,intersport.nl#@#.cookiewall
 fd.nl,gezondheidsplein.nl,tcroomburg.nl#@#.cookiewall:not(body):not(html)
-samsung.com#@#.cookiewarning
+samsung.com,xlbygg.se#@#.cookiewarning
+xlbygg.se#@#.cookiewarning:not(body):not(html)
 e-dym.pl#@#.cp-popup
 porndig.com,thagson.com#@#.disclaimer_wrapper
 etonline.com,popsugar.co.uk#@#.evidon-banner
@@ -43405,6 +43445,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||ozmotorbike.com/templates/motorbike/js/vendor/cookies-enabler.js
 @@||ozracing.com/templates/oz/js/vendor/cookies-enabler.min.js
 @@||porno720.pl/core/js/cookieinfo.js
+@@||riwal.com/includes/js/components/cookiebar.js$script
 @@||shop.dangerfield.com.au/min/$script,stylesheet
 @@||sky.com^*_cookie_$script
 @@||socialtigers.pl/js/plugins/jquery.cookiepolicy.js
@@ -43701,6 +43742,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||github.com/lipis/$generichide
 @@||github.io^*/icons/social_
 @@||giznet.pl/wp-content/uploads/$image,~third-party
+@@||gmclan.org^*/images/fb_$image
 @@||golem.de/_img/btn-follow-
 @@||golem.de/staticrl/images/icons-social.png
 @@||golem.de/staticrl/images/social_flattr_
