@@ -3,4 +3,4 @@
 [Go Up One Level](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
 ____________________________________
 # 15-Calculating-Average-Parsing-Lines
-* Average Parsing Lines was 17787.5.
+* Average Parsing Lines was 20803.4.
