@@ -11,6 +11,7 @@ etihadtravel.id.ai
 gandariacityhotel.id.ai
 m2d.m2.ai
 media.ascend.ai
+metrics-api.dimensions.ai
 participant.ascend.ai
 porno.ai
 proxy.ascend.ai

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201909292359
+! Version: 201909302331
 ! Title: EasyPrivacy
-! Last modified: 29 Sep 2019 23:59 UTC
+! Last modified: 30 Sep 2019 23:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2515,6 +2515,7 @@
 /metrics/metrics$domain=~spatineo.com
 /metrics/onload
 /metrics/stat.
+/metrics/statsd/*
 /metrics/survey/*
 /metrics/track/*
 /metrics/vanity/?
@@ -3192,6 +3193,7 @@
 /revsci.
 /revtracking/*
 /rgea.min.js
+/rich-relevance.
 /RioTracking2.
 /risk_fp_log?
 /riveted.js
@@ -5391,6 +5393,7 @@ _mongo_stats/
 ||captora.com^$third-party
 ||capturemedia.network^$third-party
 ||capturly.com^$third-party
+||caramel.press^$third-party
 ||carrotquest.io^$third-party
 ||cashburners.com^$third-party
 ||cashcount.com^$third-party
@@ -5497,6 +5500,7 @@ _mongo_stats/
 ||compteur.cc^$third-party
 ||comradepony.com^$third-party
 ||conductrics.com^$third-party
+||config.parsely.com^$third-party
 ||confirmational.com^$third-party
 ||confirmit.com^$third-party
 ||contactatonce.com^$third-party
@@ -10621,6 +10625,7 @@ _mongo_stats/
 ||metaffiliation.com^*^mclic=
 ||metering.pagesuite.com^$third-party
 ||metric.nwsource.com^
+||metrics-api.dimensions.ai^
 ||metrics-api.librato.com^
 ||metrics.api.drift.com^
 ||metrics.brightcove.com^
@@ -14024,6 +14029,7 @@ _mongo_stats/
 ||recomendedsite.com/addon/upixel/
 ||recommendation.24.com^
 ||redding.com/metrics/
+||reddit.com/static/pixel.png$image
 ||reddit.com/timings/
 ||reddit.com/web/log/
 ||reddit.com^*.gif?$third-party

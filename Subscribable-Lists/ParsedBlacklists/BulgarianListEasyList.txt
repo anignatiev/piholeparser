@@ -1396,6 +1396,7 @@ metric-agent.i10c.net
 metric.gstatic.com
 metric.inetcore.com
 metric.nwsource.com
+metrics-api.dimensions.ai
 metrics-api.librato.com
 metrics.apartments.com
 metrics.api.drift.com
