@@ -9,9 +9,9 @@
 ! Wsparcie:
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 22 September 2019
+! Last modified: 01 October 2019
 ! Expires: 1 day
-! Version: 2019092203
+! Version: 2019100101
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -19,7 +19,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2019 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2019092203 aktualizacja: nie, 22 wrzesnia 2019, 20:20:00
+! v.2019100101 aktualizacja: wt, 01 października 2019, 12:23:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -78,7 +78,7 @@ pl/*/rodzinnawycieczka/$image,domain=wp.pl
 ||vshare.io/watch_video.php$script
 !
 !3#-----------------------Popup filters-----------------------!
-||gasurvey.gemius.com$popup
+||gasurvey.gemius.com^$popup
 !
 !4#-----------------------Popup filters on movie-----------------------!
 ||alltube.tv/pomoc$popup,domain=alltube.tv
@@ -257,7 +257,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl##[class*="reklamy"]
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl##.sliderads
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl##.widget-ads-content
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl,~natemat.pl##.onnetwork-video
-~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl,~polsatnews.pl,~polsatsport.pl,~twojapogoda.pl,~comperia.pl##.ads
+~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl,~polsatnews.pl,~polsatsport.pl,~twojapogoda.pl,~comperia.pl,~wp.pl##.ads
 ~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,~dziennikwschodni.pl,~obalamyglupote.pl,pl,~pornohd.pl,~polskieszlaki.pl,~poczta.interia.pl,~comperia.pl,~filmweb.pl,~semtalk.pl,~eurogamer.pl,~mapa-turystyczna.pl,~otodom.pl,~ferrarikatowice.pl##[class$="-ads"]
 ~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,~medonet.pl,pl##[class*="cg-template"]
 ~przelewy24.pl,~allegro.pl,~zaq2.pl,~docer.pl,pl##[id*="ad-container"]:not(#documents-upload-container)
@@ -292,6 +292,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl##[class*="reklamy"]
 300polityka.pl##.dcmads
 300polityka.pl,meczyki.pl,pepsieliot.com,gazeta-wiesci.pl###text-3
 3dwpraktyce.pl##.hidden-xs.col-xs-12
+4fun.tv###splash
 40ton.net##.clearfix.sidebar-box:nth-of-type(2), .related_post_title
 4clubbers.com.pl##body > center
 4hifi.pl##DIV[align="center"] > [target="_blank"] > IMG
@@ -935,7 +936,7 @@ filesdark.com##[href*="/adac.php"]
 fili.cc###links > ul:nth-of-type(1)
 fili.cc##a[href^="https://bit.ly/"]
 fili.cc##divo, #divlol
-fili.cc,centrumdruku3d.pl,pebx.pl##a[href^="https://goo.gl/"]
+fili.cc,centrumdruku3d.pl##a[href^="https://goo.gl/"]
 filmpolski.pl##.obrazek_bez_ramki
 films4free.pl##.M2U3OGQ4ZGY1
 filmweb.pl##^#advertBar-pl_PL
@@ -1683,7 +1684,7 @@ memy.pl##.content-stream.view-meme > #news > .break-row.row
 memy.pl##.content-stream.view-meme > div[style="height:200px; width:750px;"]
 memy.pl##.side-stream > div[style="height:600px; width:300px;"]
 menshealth.pl###mh-halfpage-advert-2
-mensis.pl,lubanski.eu###custom_html-4
+mensis.pl,lubanski.eu,aju.pl,gracz.org###custom_html-4
 meritum.gda.pl##a[href="http://serwis-laptopy.pl"]
 metalnews.pl###sidebar_right_place-10, #text-23
 meteo.pl##.project-title.control-wrapper
@@ -1902,7 +1903,6 @@ newsbook.pl##.wpb_content_element.wpb_text_column
 newsbook.pl,infobus.pl##[id^="popup"]
 newseria.pl##.container > .banner-nagl
 newsweek.pl##.copyRCTopHolder
-next.gazeta.pl##.art_embed
 nf.pl##.footer-container.ban-main-centering-container
 nf.pl##.promo-container_google, .promo
 nflix.pl###page > center > table
@@ -2062,16 +2062,6 @@ pcworld.pl##div#toaster
 pdaclub.pl###banner_news
 pdaclub.pl##.approvebg
 pdasite.pl###footer-img
-pebx.pl###header > script + div[style="text-align:center;width:100%;text-align:center;"] > a[href][rel="nofollow"]
-pebx.pl###logoBlock .funbox
-pebx.pl###photo_container
-pebx.pl###uix_stickyFooterSpacer
-pebx.pl##.Notices.PanelScroller
-pebx.pl##.defaultBorderRadius.pageContent > .funbox.sectionMain
-pebx.pl##.funbox.section
-pebx.pl##.noBorderRadius.pageContent > .funbox.sectionMain
-pebx.pl##[id^="funbox_zone_"]
-pebx.pl##li[class="sectionMain message"]:not([id^="post-"])
 pecetowicz.pl##.ipsContent_Tony.ZaczarowanySwiat.ipsContent_Soprano
 pedlowski.pl###ja-botsl
 pekao.com.pl###PX45189
@@ -2127,6 +2117,7 @@ plusforum.pl##.content > p
 plusliga.pl##.col-lg-3.col-md-4.col-sm-12
 poczta.gazeta.pl###banC1
 poczta.interia.pl##.sitebar-block-fake
+poczta-polska.pl##.active.item
 poczta.o2.pl##native-feed
 poczta.onet.pl###fif-flat-boxright2
 poczta.onet.pl###preloader-novelty
@@ -2293,9 +2284,10 @@ pultusk24.pl##.row:nth-of-type(7)
 pultusk24.pl##div.row:nth-of-type(3)
 pultusk24.pl,olawa24.pl##div.l-box--25.l-box > p, .l-box--100.l-box > p
 punkt.media##.advertpattern, .flexbannergrouppattern
+purepc.pl##A[datab][href]
 purepc.pl##DIV > A[href^="http"][style^="display:block;"]
 purepc.pl##[href^="/r3dir.php"]
-purepc.pl##body > [href^="/red1r.php"]
+purepc.pl##BODY > [href^="/red1r.php"], BODY > DIV > DIV > [href^="/red1r.php"]
 pykownia.pl##.ipsWidget:nth-of-type(8)
 pyszne.pl##.yd-banner
 pzl24.pl,magazyngitarzysta.pl##.visible-md
@@ -2476,6 +2468,8 @@ silesia.fm,wxv.pl##.sidebar
 silesia24.pl##.adds--top, .weather-box, .footer-banner.container, #c79
 sitemag.pl##.td-all-devices
 sitemag.pl,infokatowice.pl,noweinfo.pl##.td-header-sp-recs
+sjp.pwn.pl#?#.col-wrapper > div:nth-of-type(1):-abp-has(> div:nth-of-type(2):-abp-contains(Sponsorowane))
+sjp.pwn.pl#?#.col-wrapper > div:nth-of-type(12):-abp-has(> .banner)
 skarzysko24.pl###Mod434, #Mod510, #Mod417, #Mod400, #Mod504, #Mod431, #Mod403, #Mod474, #Mod486, #Mod422, [id^="slider"]
 skawinska.pl##div.homepage-ad-area
 skijumping.pl##[src="/img/reklama_znak.png"]
@@ -2594,7 +2588,7 @@ strefadb.pl###notifications, #pop-slapev, #not, .bg-pop-over
 strefadb.pl##.dba-button
 strefagry.pl##.item_d
 strefagry.pl##[style="width:540px;margin:10px auto;"]
-strefapsx.pl###custom_html-12
+strefapsx.pl,gracz.org###custom_html-12
 strefawolnejprasy.pl##.article-ad-section
 strefawolnejprasy.pl##.rev_slider_wrapper
 studentka.pl##.s_dodatkowa > .box
@@ -3268,12 +3262,12 @@ zywiecinfo.pl##.promoted
 ||4lomza.pl/i/tlo/$image
 ||a.ib.gazeta.pl^$image
 ||ad.adview.pl/ad/
-||ad.bitbay.net$image
+||ad.bitbay.net^$image
 ||ad.facetpo40.pl^
 ||ad.gazeta.pl/cpc$script,domain=kobieta.gazeta.pl
 ||ad.vider.pl^
 ||ad.webshark.pl^
-||ad.zanox.com$third-party
+||ad.zanox.com^$third-party
 ||adclick.lt^$script
 ||adform.net^
 ||adglare.org^$third-party,domain=nhl.pl|notebookcheck.pl
@@ -3281,7 +3275,7 @@ zywiecinfo.pl##.promoted
 ||ads.gry-online.pl^
 ||adsb4track.com/?$script
 ||adserwer.xwords.pl/$script
-||adsnet.pl$script
+||adsnet.pl^$script
 ||adtelier.pl^$third-party
 ||adv.wp.pl^
 ||advertising.com^
@@ -3317,6 +3311,7 @@ zywiecinfo.pl##.promoted
 ||burdaffi.burdadigital.pl^
 ||businessclick.*/$script
 ||cda.pl/player.php
+||cdn.avt.pl/webs/*/750x250_*.$image
 ||cdn.dtxngr.com/$script
 ||cdn.forumpc.pl/partner$image
 ||cdn.gallery/ad$script,domain=egarwolin.pl
@@ -3336,11 +3331,11 @@ zywiecinfo.pl##.promoted
 ||converti.se/convertext.js$script
 ||converti.se/recommendations/loader/$subdocument
 ||corto.www.wp.pl^
-||csr.onet.pl$script,xmlhttprequest
+||csr.onet.pl^$script,xmlhttprequest
 ||czasdzieci.home.pl/mailingi/iframe/$subdocument,domain=czasdzieci.pl
 ||czasdzieci.pl/_j/ad_$script
 ||czasdzieci.pl/adurl.php$popup
-||damdaj.pl$subdocument
+||damdaj.pl^$subdocument
 ||dfp.gazeta.pl/c.servlet?cn=dfpreferrer&cv=DIRECT$xmlhttprequest,domain=www.plotek.pl
 ||disqusads.com^
 ||dorzeczy.pl/*/ad/$image
@@ -3429,7 +3424,7 @@ zywiecinfo.pl##.promoted
 ||img.targeo.pl/i/cache/a/$image,domain=mapa.targeo.pl
 ||info.elblag.pl/images/banerki$script,object
 ||info.elblag.pl/media/layout/tla/$image
-||info.evidon.com$script
+||info.evidon.com^$script
 ||info.stargard.pl/~tomi/$image
 ||inframe.platform.onet.pl/v1/
 ||inowroclaw.info.pl/static/files/inline_images/123/$image
@@ -3447,7 +3442,7 @@ zywiecinfo.pl##.promoted
 ||kcynia.info/img/$image
 ||ki24.info/banery_extra/$image
 ||klikplej.pl/a_d/banner.gif
-||konto.amronet.pl$subdocument,domain=dobreprogramy.pl
+||konto.amronet.pl^$subdocument,domain=dobreprogramy.pl
 ||kopaczka.pl/ban/$image,subdocument
 ||kronikiwsi.powiatgostyn.pl/kronikiwsi/photos/adv_$image
 ||ladnydom.pl/aliasy/ladnydom/adblock_prompt.htm
@@ -3487,7 +3482,7 @@ zywiecinfo.pl##.promoted
 ||mon.services.tvn.pl/xlinkplayer.js$script,domain=get.x-link.pl
 ||money.pl/*/ad/direct/*.jpg$image
 ||money.wpcdn.pl/*/ad/$image
-||moviads.pl$domain=~moviads.pl
+||moviads.pl^$domain=~moviads.pl
 ||mrex.exs.pl^$third-party
 ||muratordom.pl/media/desktop/zpr_videos_web/js/video_blocker.js
 ||mybboard.pl/images/promo/$image
@@ -3521,7 +3516,7 @@ zywiecinfo.pl##.promoted
 ||ozoneo.pl/templates/images/rotators/$image
 ||pan-doradca.pl/index/noaidb/
 ||panele5.llog.pl/$image
-||partnerzyapi.ceneo.pl$script
+||partnerzyapi.ceneo.pl^$script
 ||pasaz.goryonline.com/?k=$subdocument
 ||pclab.pl/img/extra/$image,domain=pclab.pl
 ||pclab.pl/img/special/*.jpg
@@ -3564,7 +3559,7 @@ zywiecinfo.pl##.promoted
 ||reklamy.s3.amazonaws.com/bcg/$image
 ||repostuj.pl/static/repostujpl/arrow_right.jpg$domain=repostuj.pl
 ||request.dqst.pl/$xmlhttprequest
-||rkantor.com/widget/$script
+||rkantor.com/widget/$script,domain=~poczta-polska.pl
 ||rtbnowads.com/$script
 ||s-nk.pl/files/offers/$subdocument
 ||satkurier.pl/getRandomBanner
@@ -3659,7 +3654,7 @@ zywiecinfo.pl##.promoted
 ||wp.pl/staticad/$xmlhttprequest
 ||www.24opole.pl/cimg/$image
 ||www.24opole.pl/dimg/$image
-||www.adfreestyle.pl$domain=~www.adfreestyle.pl
+||www.adfreestyle.pl^$domain=~www.adfreestyle.pl
 ||www.audiostereo.pl/banery/
 ||www.benchmark.pl/js/header.ad.js$script
 ||www.brief.pl/img,banner$image
@@ -3801,9 +3796,10 @@ zywiecinfo.pl##.promoted
 @@||exs.pl^$domain=wpolityce.pl|wio.waw.pl
 @@||gazetabilgoraj.pl/wp-content/plugins/better-adsmanager/js/advertising.min.js$script
 @@||go.eu.bbelements.com/please/code|$domain=filmweb.pl
-@@||google-analytics.com$domain=certyficate.it|liptonicetea.com|filmweb.pl
+@@||google-analytics.com^$domain=certyficate.it|liptonicetea.com|filmweb.pl
 @@||googletagmanager.com/gtag/$script,domain=certyficate.it
 @@||googletagmanager.com/gtm.js$script,domain=www.emag.pl|benchmark.pl|komputerswiat.pl|www.jabra.pl|plus.pl|expressilustrowany.pl|motofakty.pl|kurierlubelski.pl|stronakobiet.pl
+@@||googletagservices.com/tag/js/gpt.js$script,domain=wprost.pl
 @@||guce.advertising.com/collectIdentifiers?sessionId=
 @@||hit.gemius.pl/gplayer.js$script,domain=polotv.pl|pilot.wp.pl
 @@||hotelscombined.com/Script/$script,domain=mlecznepodroze.onet.pl
@@ -3821,7 +3817,7 @@ zywiecinfo.pl##.promoted
 @@||prostozmostu.pl/imgcache/300x250/$image
 @@||pubads.g.doubleclick.net/gampad/ad$image,domain=www.emag.pl
 @@||remiza.com.pl/ads/haft/jquery.slides.min.js$script
-@@||rtax.criteo.com$domain=ekstraklasa.tv|itvn.pl|player.pl|ttv.pl|tvn.pl|tvn24.pl|tvn24bis.pl|tvn7.pl|tvnplayer.pl|tvnstyle.pl|tvnturbo.pl
+@@||rtax.criteo.com^$domain=ekstraklasa.tv|itvn.pl|player.pl|ttv.pl|tvn.pl|tvn24.pl|tvn24bis.pl|tvn7.pl|tvnplayer.pl|tvnstyle.pl|tvnturbo.pl
 @@||s-nk.pl/script/nk/ads/$script,domain=nk.pl
 @@||sascdn.com/diff/video$domain=wymarzonyogrod.pl
 @@||sascdn.com/video/flowplayer-plugin.swf$object,domain=wymarzonyogrod.pl
@@ -3923,7 +3919,7 @@ xyz,mecz.tv,ipilka.info##[class$="_right"]
 !19#--------------------------Rules sport streams blocking filters-------------!
 ||betegy.com^$domain=meczenazywo.pl
 ||betonline.net.pl/images/$image
-||cdn.mediaessence.net$script
+||cdn.mediaessence.net^$script
 ||extragoals.com/media/js/videojs.xyz.js
 ||extragoals.com/media/js/videojs_*.vast.vpaid.js
 ||futbol.pl/img/milenium.jpg$image
@@ -3982,7 +3978,6 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 !
 !23#--------------------------Pages with bad reputation------------!
 filmyfilmy.pl###play
-||udater.net^
 !
 !24#--------------------------Rules for ublock, but can be use with adblock------------!
 ||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=exs.pl,important
@@ -4227,6 +4222,7 @@ money.pl,moneyv.wp.pl#?#div[class^="sc-"]:-abp-has(> img[src="https://i.wpimg.pl
 @@/tagcommander/$script,domain=account.ubisoft.com
 @@||addthisedge.com/live$script,xmlhttprequest,domain=serialomaniak.pl
 @@||adocean.pl^*/ad.js?id=$script,domain=tvn24.pl,badfilter
+@@||cdn.carrefour.pl/*/cms/*/*_reklama_$image,domain=carrefour.pl
 @@||erpxt.pl/Scripts/Code/
 @@||fs.siteor.com/gsmonline/articles/photo1s/123526/large/honor_reklama_edytowany-11.jpg?1541424368$image,domain=gsmonline.pl
 @@||gryna2.pl/engine/scripts/ads.js$xmlhttprequest
@@ -4244,6 +4240,7 @@ money.pl,moneyv.wp.pl#?#div[class^="sc-"]:-abp-has(> img[src="https://i.wpimg.pl
 @@||www.buliba.pl/css/overlayad.css$stylesheet,domain=www.buliba.pl
 @@||vitalia.pl/gfx/*/reklama/danie.png$image,third-party,domain=diety.wp.pl
 @@||biznes2biznes.com/reklama/*$image,domain=biznes2biznes.com
+@@.pl/ads/*/static/$stylesheet,script,domain=google.pl
 digest.com.pl#@#.display-ad-block
 e-stargard.pl,mojeinfo24.pl#@#.bg_ad
 epainfo.pl#@#.td-ad-background-link

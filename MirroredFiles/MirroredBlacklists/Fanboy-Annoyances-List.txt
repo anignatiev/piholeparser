@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: za1pwaS+n6zEptexkyg6Gw
-! Version: 201910010011
+! Checksum: WT6vobOe1QOtPVbJXQD+7w
+! Version: 201910020011
 ! Title: Fanboy's Annoyance List
-! Last modified: 01 Oct 2019 00:11 UTC
+! Last modified: 02 Oct 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -169,6 +169,8 @@
 /notification-ext.
 /notification-prod-sw.js
 /notifications_lazy.
+/notifyme.js
+/notifyme.min.js
 /one-signal.
 /onesignal-modal.
 /onesignal.js
@@ -17868,6 +17870,9 @@ _site_cookie_
 ##.social-likes
 ##.social-likes-icons
 ##.social-likes-pane
+##.social-likes__button
+##.social-likes__counter
+##.social-likes__icon
 ##.social-likes__widget
 ##.social-likes_ready
 ##.social-likes_visible
@@ -32930,6 +32935,7 @@ techglobex.blogspot.in,techglobex.net###bpslidein
 talkandroid.com###branding
 venturebeat.com###branding-footer
 venturebeat.com###branding-toolbar
+yahoo.com###browserExtensionPromotionBanner
 ballerstatus.com###bscom_adblock
 thegamingsource.co###bttop
 bufferapp.com###buffer-banner
@@ -34594,6 +34600,7 @@ itwire.com##.driverbox
 howaboutwe.com##.drop-area
 rightwingwatch.org##.dropdown-banner
 moneysavingexpert.com##.dropdown-email
+search.yahoo.com##.ds_promo_newtab
 thinq.co.uk##.dynamic_panel
 femmesplus.fr,planet.fr##.dynamique-box
 smartcompany.com.au##.ebook_banner
@@ -34769,6 +34776,7 @@ canstar.com.au,jstor.org##.gform_widget
 screeninnovations.com##.gform_wrapper
 sulekha.com##.gift-launch
 seriouseats.com##.gifts-pop-up
+search.yahoo.com##.ginsuzrp
 9gag.com##.give-feedback
 bostonglobe.com##.global-bar
 sputniknews.com##.global-fade
@@ -34894,6 +34902,7 @@ inspire.com##.joinpopupnewtwo
 bitchmagazine.org,debka.com,esetindia.com,gizmag.com,mediamatters.org,ncregister.com##.jqmOverlay
 bitchmagazine.org,esetindia.com##.jqmWindow
 treehugger.com##.jquery-modal
+ecosia.org##.js-activate-install-box
 wired.com##.js-annotation
 dn.se##.js-article-preview
 twitch.tv##.js-bits-tooltip-wrapper
@@ -39315,6 +39324,7 @@ joom.com##div[class^="disclaimer"]
 giphy.com##div[class^="flash-message"]
 brain.fm##div[class^="modules-core-css-CookiePopup"]
 voxi.co.uk##div[class^="notification-container"]
+listen.tidal.com##div[class^="notificationWrapper--"]
 tunein.com##div[class^="violator__container"]
 youtube.com##div[class^="ytd-consent"]
 tunein.com##div[data-testid="gdpr-violatorContainer-true"]
