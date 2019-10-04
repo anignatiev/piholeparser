@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EiP9DhJ+CkgoD/42SbBtaQ
-! Version: 201910030010
+! Checksum: /V81Jj3WVCdxyX81Qmmj6A
+! Version: 201910040010
 ! Title: RU AdList: BitBlock
-! Last modified: 03 Oct 2019 00:10 UTC
+! Last modified: 04 Oct 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -2260,6 +2260,7 @@ drive.ru##.feedsub
 kinopoisk.ru##.film-thin-teaser
 nalog.ru##.fixed_shortcut_vc
 lifehacker.ru#?#.flow-post:-abp-has(.meta-mark_advert)
+101.ru##.flying-banner-wrapper
 russian.rt.com##.follows-channel
 fedpress.ru##.follows-channel_yandexnews
 kinogb.mobi##.foo-f > .butomob ~ *
