@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /V81Jj3WVCdxyX81Qmmj6A
-! Version: 201910040010
+! Checksum: +9T3smctSxIAaIK5L5Foug
+! Version: 201910050010
 ! Title: RU AdList: BitBlock
-! Last modified: 04 Oct 2019 00:10 UTC
+! Last modified: 05 Oct 2019 00:10 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -2689,6 +2689,7 @@ mail.rambler.ru##div[class^="NewsBlock-root"]
 mail.rambler.ru##div[class^="Profile-banner"]
 forumodua.com##div[class^="ad_inform_message"]
 footboom.com##div[class^="b-betting"]
+www.livejournal.com#?#div[class^="cat-widget"] > div[class*="cat-widget__card-wrap--"]:-abp-has([id*="native"])
 avito.ru##div[class^="catalog-promo"]
 qiwi.com##div[class^="cookies-self-"]
 megogo.net##div[class^="cookiesNotification"]

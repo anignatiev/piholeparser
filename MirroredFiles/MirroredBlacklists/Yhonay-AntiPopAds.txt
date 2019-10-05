@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9674
+! Version: 9686
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -166,6 +166,7 @@
 ||ajoaorexnieym.com^
 ||ajocbplhzcvr.bid^
 ||ajrwmjdbey.com^
+||ajszcymkv.com^
 ||ajttqxeqg.com^
 ||ajuegtbkqnh.com^
 ||ajxwyowuylhos.bid^
@@ -814,6 +815,7 @@
 ||bvreosoejjt.bid^
 ||bvrkzhtxlgono.com^
 ||bvuficdch.com^
+||bvvqtaltc.com^
 ||bvwkethv.com^
 ||bvwzffbinbou.com^
 ||bvyoekxfjwpa.com^
@@ -958,6 +960,7 @@
 ||cewviaslxyyr.com^
 ||ceyimthpmrct.com^
 ||ceywprmvjy.com^
+||cezmxscvslmfhy.com^
 ||cfdmkifknsjt.com^
 ||cfhkiriics.com^
 ||cfkhdbzn.com^
@@ -1149,6 +1152,7 @@
 ||cqieqaxlphdi.com^
 ||cqindhgqi.com^
 ||cqjnxsbuplcqri.com^
+||cqkqukynmny.com^
 ||cqoxufzgev.bid^
 ||cqoyvpldkmqt.com^
 ||cqpmmfxvibjr.com^
@@ -1293,6 +1297,7 @@
 ||czdaxoesbdlih.com^
 ||czfavkwdmmpp.bid^
 ||czgeitdowtlv.com^
+||czgmlnhz.com^
 ||czhtiirf.bid^
 ||czihyzbul.com^
 ||czjjyfnpyrs.bid^
@@ -4449,6 +4454,7 @@
 ||khhpckhkikd.bid^
 ||khlgdlarmqnp.com^
 ||khmbjndynx.com^
+||khnwegnamm.com^
 ||khpgychzfdmpm.bid^
 ||khwfemkr.bid^
 ||khzbeucrltin.com^
@@ -7452,6 +7458,7 @@
 ||rgttoipdr.com^
 ||rgvrddwoccsgn.com^
 ||rgwaskums.com^
+||rgyuvwsiuw.com^
 ||rgzhrokl.bid^
 ||rgzpseubgxho.com^
 ||rhcamehnhkntzy.com^
@@ -8889,6 +8896,7 @@
 ||vasfxpribls.com^
 ||vaslssynz.com^
 ||vbdrzplqtgk.com^
+||vbebblpht.com^
 ||vbguaqweaif.com^
 ||vbiudrdieouauc.com^
 ||vbjhsdcuv.com^
@@ -9138,6 +9146,7 @@
 ||wnuvhicameqiso.com^
 ||wnxyusrvcoosqi.com^
 ||wnzmauurgol.com^
+||wocfrherjxm.com^
 ||wolopcqjzajiht.com^
 ||wolqstldvfkuhp.com^
 ||wpbhnyjej.com^
@@ -9308,6 +9317,7 @@
 ||xrexjmudy.com^
 ||xrfjymmysdr.com^
 ||xrkfqpbubaq.com^
+||xrlnnjsitjhnvb.com^
 ||xrluvlmyuxqjme.com^
 ||xruuohzpxmmw.com^
 ||xrvyetdriwzp.com^
@@ -9463,6 +9473,7 @@
 ||yrsjqzfku.com^
 ||yrtyflmurngv.com^
 ||ysaloykchjyxg.com^
+||ysgeuarbxfttib.com^
 ||ysmbdnavqsbcl.com^
 ||ysosfhyrbyre.com^
 ||ysqhjwanlbhmt.com^
@@ -9675,6 +9686,7 @@
 ||zyadwzlxllogm.com^
 ||zygrlkimddjzd.com^
 ||zyikzhgqzjyvgu.com^
+||zywfpkagwwpm.com^
 ||zzfycxsu.com^
 ||zzlayejqlzcg.com^
 ||zzmwzarweka.com^
