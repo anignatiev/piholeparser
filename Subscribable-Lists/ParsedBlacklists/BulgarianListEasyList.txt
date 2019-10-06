@@ -1303,6 +1303,7 @@ log.outbrain.com
 log.outbrainimg.com
 log.pinterest.com
 log.prezi.com
+log.quora.com
 log.r7.com
 log.ren.tv
 log.seekda.com
@@ -2464,6 +2465,7 @@ track.ringcentral.com
 track.rtb-media.ru
 track.sauce.ly
 track.searchignite.com
+track.searchiq.co
 track.securedvisit.com
 track.shop2market.com
 track.sigfig.com
@@ -2486,6 +2488,7 @@ track.ultimate-guitar.com
 track.untd.com
 track.veedio.it
 track.vscash.com
+track.wayin.com
 track.webgains.com
 track.websiteceo.com
 track.wildblue.com

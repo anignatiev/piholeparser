@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZHKNKwlYHnuq78c1mFlpGQ
-! Version: 201910030011
+! Checksum: xEd+VlEv4y3TOZAIdlmNxA
+! Version: 201910060011
 ! Title: Fanboy's Annoyance List
-! Last modified: 03 Oct 2019 00:11 UTC
+! Last modified: 06 Oct 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -629,6 +629,7 @@ _subscribe_button
 /rssicon.
 /rssicon_
 /rssimg.
+/rssmini.
 /rssred.
 /rsstop1.
 /sc_rss.
@@ -6031,6 +6032,7 @@ _site_cookie_
 ##.fjs-newsletter-subscription
 ##.float-newsletter-bar
 ##.flyout-newsletter-rr
+##.flyover-email-cta
 ##.fn-widget__newsletter-signup
 ##.follow-embed__newsletter
 ##.follow-subscribe
@@ -17887,6 +17889,7 @@ _site_cookie_
 ##.social-link-fb
 ##.social-link-google-plus
 ##.social-link-gplus
+##.social-link-header
 ##.social-link-image
 ##.social-link-info
 ##.social-link-list
@@ -19605,6 +19608,7 @@ _site_cookie_
 ##.twrshare-icon
 ##.twshare
 ##.twshare_gm_p
+##.twt-btn
 ##.twt-icon
 ##.twt_btn
 ##.twt_social
@@ -37365,6 +37369,7 @@ cwseed.com,wonderingsound.com###sharetools
 500px.com,dearblankpleaseblank.com,groundup.org.za,jpost.com,lumension.com,sciencedaily.com,techsplurge.com###sharing
 treehugger.com###sharing-tools
 cwtv.com###shr
+howwebiz.ug###shrul
 perezhilton.com###side-follow
 tasteofhome.com###sideExpandAd
 bozemandailychronicle.com###side_icons
@@ -38861,6 +38866,7 @@ cote.co.uk###root > div > .fixed
 mywot.com###root > div > div[direction="up"][style*="transform"]
 wrigleys.co.uk###rpcm
 tenuser.com###rsp
+sanitas.com###sanitasCookieAlert
 people.cn###shengmingTip
 investing.com###sideNotificationZone
 centurion-magazine.com###simple-notification
@@ -40060,6 +40066,7 @@ clarin.com##a[href^="/newsletters/"]
 ||booster3d.com^$third-party
 ||cambiodns.com/img/up.png
 ||cml.to/robot/
+||cn24tv.it^*/mod_letter.
 ||comingsoon.it^*/tgCom24-head.
 ||contactlab.it^*/subscribe.php?
 ||corriereobjects.it/rcs_cor_exit-page/
@@ -41059,6 +41066,7 @@ gruppoeditorialesanpaolo.it##.menu-icons-list
 rockol.it##.menu__facebook
 andreagaleazzi.com##.mercatino-toggle
 ansa.it##.new-toolbar-menu
+ansa.it##.news-social
 corriere.it##.player-email-ctn
 mediaset.it##.s_box
 nationalgeographic.it##.segui-ng
@@ -42710,7 +42718,7 @@ appspot.com,younow.com#@#.btn-instagram
 appspot.com,foodit.com#@#.btn-linkedin
 appspot.com#@#.btn-reddit
 azlyrics.com,theoldreader.com,userzoom.com#@#.btn-share
-bacardi.com,bellazon.com,bintray.com,epaka.pl,filterlists.com,freecodecamp.org,swappa.com,thegamebusters.it,webgate.ec.europa.eu#@#.btn-social
+bacardi.com,bellazon.com,bintray.com,epaka.pl,filterlists.com,freecodecamp.org,player.fm,swappa.com,thegamebusters.it,webgate.ec.europa.eu#@#.btn-social
 appspot.com#@#.btn-social-icon
 accounts.pixiv.net,appspot.com,crowdin.net,curiouscat.me,help.getadblock.com,magine.com,qz.com,setlist.fm,thegamebusters.it,webgate.ec.europa.eu,younow.com#@#.btn-twitter
 rockstargames.com#@#.btnFacebook
@@ -42906,7 +42914,7 @@ iherb.com,vimeo.com#@#.share-icon
 golem.de,tumblr.com#@#.share-item
 vimeo.com#@#.share-label
 recite.com#@#.share-left
-askubuntu.com,baidu.com,broadcast.app.net,imgur.com,kuechenstud.io,logbuch-netzpolitik.de,mammothhq.com,mathoverflow.net,minkorrekt.de,openstreetmap.org,pomponik.pl,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com,yandex.com,yandex.com.tr,yandex.ru,yandex.ua#@#.share-link
+askubuntu.com,baidu.com,broadcast.app.net,imgur.com,kuechenstud.io,logbuch-netzpolitik.de,mammothhq.com,mathoverflow.net,minkorrekt.de,openstreetmap.org,pomponik.pl,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com,yadi.sk,yandex.com,yandex.com.tr,yandex.ru,yandex.ua#@#.share-link
 pornhub.com#@#.share-link-container
 autokult.pl,channelnewsasia.com,fotoblogia.pl,imgur.com,komorkomania.pl#@#.share-links
 channelnewsasia.com,recite.com#@#.share-list
@@ -43970,6 +43978,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||platform.twitter.com/widgets/widget_iframe.$subdocument
 @@||platform.twitter.com^$domain=klout.com|twimg.com|twitpic.com
 @@||play.ludigames.com^*/pc_share_$image
+@@||player.fm^*/social-icons/$image
 @@||playkeepout.com/img/common/sharing/
 @@||plus.im/static/img/facebook.png
 @@||plus.im/static/img/facebook_over.png
