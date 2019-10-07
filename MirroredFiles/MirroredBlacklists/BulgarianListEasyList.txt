@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201910060010
+! Version: 201910062157
 ! Title: EasyPrivacy
-! Last modified: 06 Oct 2019 00:10 UTC
+! Last modified: 06 Oct 2019 21:57 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1323,6 +1323,7 @@
 /counter.pl?
 /counter.visit?
 /Counter.woa/*
+/counter/*?rnd=$image
 /counter/?*&referer=
 /counter/action_
 /counter/article?
@@ -3352,7 +3353,7 @@
 /servlet/Cookie?
 /session-hit.
 /session-tracker/tracking-
-/session/preparecookies?$domain=~mytoys.de
+/session/preparecookies?$domain=~mirapodo.de|~mytoys.de|~yomonda.de
 /sessioncam.min.$script
 /sessioncam.recorder.js
 /sessioncam/*
@@ -5136,6 +5137,7 @@ _mongo_stats/
 ||affiliatly.com^$third-party
 ||affinesystems.com^$third-party
 ||affinitymatrix.com^$third-party
+||affirm.com^$third-party
 ||affistats.com^$third-party
 ||africal.info^$third-party
 ||afsanalytics.com^$third-party
@@ -5694,7 +5696,6 @@ _mongo_stats/
 ||dtscout.com^$third-party
 ||dtxngr.com^$third-party
 ||dummy-domain-do-not-change.com^$third-party
-||dv0.info^$third-party
 ||dwin1.com^$third-party
 ||dwin2.com^$third-party
 ||dynatrace.com^$third-party
@@ -7052,7 +7053,6 @@ _mongo_stats/
 ||spectate.com^$third-party
 ||speed-trap.com^$third-party
 ||speedcurve.com^$third-party
-||sphereup.com^$third-party
 ||spklw.com^$third-party
 ||splittag.com^$third-party
 ||splurgi.com^$third-party
@@ -9742,6 +9742,7 @@ _mongo_stats/
 ||blip.bizrate.com^
 ||blogblog.com/tracker/
 ||bobparsons.com/image.aspx?
+||bolt.com^*/log?$third-party
 ||bonsai.internetbrands.com^
 ||bpath.com/count.dll?
 ||brain.foresee.com^
@@ -11318,7 +11319,6 @@ _mongo_stats/
 ||track.written.com^
 ||track.yfret.com^
 ||track.yieldsoftware.com^
-||tracker.affirm.com^
 ||tracker.beezup.com^
 ||tracker.data-vp.com^
 ||tracker.downdetector.com^
@@ -16263,10 +16263,10 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||addgene.org/headers/blat/js/analyze.js
 @@||adidas.com^*/adidasAnalytics.js?
 @@||adobedtm.com/launch-$script
-@@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|fcbarcelona.com|firststatesuper.com.au|lenovo.com|newyorker.com|nfl.com|oprah.com|pnc.com|vanityfair.com|wired.com
+@@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|fcbarcelona.com|firststatesuper.com.au|hgtv.com|lenovo.com|newyorker.com|nfl.com|oprah.com|pnc.com|vanityfair.com|wired.com
 @@||adobedtm.com^*/s-code-$script
 @@||adobedtm.com^*/satellite-$script
-@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|aeroplan.com|argos.co.uk|collegeboard.org|crackle.com|crimewatchdaily.com|directline.com|fcbarcelona.com|firststatesuper.com.au|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|nbcnews.com|newyorker.com|nfl.com|nofrills.ca|oprah.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|smooth.com.au|sonycrackle.com|stuff.co.nz|subaru.com|timewarnercable.com|trip-planner.australia.com|vanityfair.com|wired.com
+@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|aeroplan.com|argos.co.uk|collegeboard.org|crackle.com|crimewatchdaily.com|directline.com|fcbarcelona.com|firststatesuper.com.au|hgtv.com|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|nbcnews.com|newyorker.com|nfl.com|nofrills.ca|oprah.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|smooth.com.au|sonycrackle.com|stuff.co.nz|subaru.com|timewarnercable.com|trip-planner.australia.com|vanityfair.com|wired.com
 @@||adobetag.com/d2/$script,domain=thestar.com
 @@||adobetag.com^*/amc.js$script
 @@||adobetag.com^*/sitecatalyst.js$domain=hbf.com.au|seattlepi.com|tv.com
@@ -16967,6 +16967,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||uefa.com^*/chartbeat-trending-carousel.js
 @@||ultimedia.com/js/common/jquery.gatracker.js
 @@||unifi.me/mootools/classes/*-tracking
+@@||unileversolutions.com^*/config/analytics.js
 @@||unisys.com^*/track.gif$image,~third-party
 @@||unity3d.com/profiles/unity3d/themes/unity/images/services/analytics/$image,~third-party
 @@||ups.com/*/WebTracking/track&dcs
@@ -17365,7 +17366,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||tiscali.it/js/webtrends/$script,domain=mail.tiscali.it
 @@||track.adform.net/serving/scripts/trackpoint$script,domain=sky.it|ubibanca.com
 @@||ubibanca.com^*/TrackingService.js
-@@||unileversolutions.com^*/config/analytics.js$domain=sharehappy.it
 @@||video.repubblica.it^*/nielsen.js
 @@||webcenter.tiscali.it/distribuzione/_script/audience_science.js$domain=mail.tiscali.it
 ! Bosnian
