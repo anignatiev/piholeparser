@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: omiEW0IIsch8GTHG/3VxoA
-! Version: 201910070011
+! Checksum: IR+XuxKhNFFz5N2nguUrfQ
+! Version: 201910080011
 ! Title: Fanboy's Annoyance List
-! Last modified: 07 Oct 2019 00:11 UTC
+! Last modified: 08 Oct 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -41210,7 +41210,7 @@ kunstnet.de,zitatezumnachdenken.com###consent
 renault-koenig.de###cook
 bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
 bambergfacts.de###cookiebar-007
-abload.de,autoampel.de,cewe-print.de,dynamo-fanshop.de,elegant.be,livetrakway.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
+abload.de,autoampel.de,cewe-print.de,dynamo-fanshop.de,elegant.be,firma5.com,livetrakway.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
 start-nrw.de###cpopup
 ruegenwalder.de###csdialogbd
 ruegenwalder.de###csdialogmd2

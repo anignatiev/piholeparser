@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OgUkqp3xochg6PnHEUGoPw
-! Version: 201910060020
+! Checksum: VxmKhVdU5FJF45lpCyAk0A
+! Version: 201910080020
 ! Title: RU AdList: BitBlock
-! Last modified: 06 Oct 2019 00:20 UTC
+! Last modified: 08 Oct 2019 00:20 UTC
 ! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -56,7 +56,7 @@
 /share32.
 /share42-
 /share42/*
-/social-likes.$domain=~animalreader.ru|~bigcinemahd.net|~catalog.onliner.by|~cutur.ru|~films-2019.club|~inosmi.ru|~kinogo-2016-net.ru|~kinomovi.xyz|~kinoo2019.ru|~kinozubr.net|~loungefilm.club|~m24.ru|~megapolisonline.ru|~miuipro.info|~mobnovelty.ru|~netsofta.net|~postila.ru|~sport28.net|~topfile.tj|~vipkinoman.net|~westernfilm.ru|~wfilm.club
+/social-likes.$domain=~animalreader.ru|~animego.org|~bigcinemahd.net|~catalog.onliner.by|~cutur.ru|~films-2019.club|~inosmi.ru|~kinogo-2016-net.ru|~kinomovi.xyz|~kinoo2019.ru|~kinozubr.net|~loungefilm.club|~m24.ru|~megapolisonline.ru|~miuipro.info|~mobnovelty.ru|~netsofta.net|~postila.ru|~sport28.net|~topfile.tj|~vipkinoman.net|~westernfilm.ru|~wfilm.club
 /social-likes/*
 /sprite4-a67f741843ffc4220554c34bd01bb0bb.png
 /vkontakte_icon_
@@ -274,6 +274,7 @@ rutv.ru###btns
 ipicture.ru###buton
 tverigrad.ru###center_column ~ .hidden-sm
 imtw.ru###content > .noad1
+gta.com.ua#?##content > div[style] > b:-abp-contains(Поделиться:)
 fit4brain.com###dgd_scrollbox-7840
 penzainform.ru###divInfo .logos16x16
 kinosha.se###dle-content > .player-block ~ div[style^="font-size"]
@@ -530,7 +531,7 @@ argumentiru.com##.head_soc
 nevasport.ru##.header-box__social
 teleprogramma.pro##.header-progress_socials
 livemaster.ru##.header-soc-icons
-mediaryazan.ru,tele.ru,tlt.ru,vladnews.ru##.header-social
+mediaryazan.ru,segodnya.ua,tele.ru,tlt.ru,vladnews.ru##.header-social
 islam-today.ru##.header__other-buttons
 interfax.ru##.header__soc
 russian.rt.com##.header__social
@@ -917,7 +918,7 @@ kommersant.ru##a[href][title="Поделиться"]
 youla.ru##a[href][title^="Поделиться"]
 rusnext.ru##a[href^="http://www.odnoklassniki.ru/group/"]
 livecars.ru,livesport.ru##a[href^="https://share.yandex.ru/"]
-agronews.ua,animedub.ru,apostrophe.ua,app2top.ru,book-audio.com,censor.net.ua,depo.ua,game2day.ru,govoritmoskva.ru,livesport.ws,maanimo.com,mk.ru,myslo.ru,pravda.com.ua,privatfinance.com,rbc.ua,rusnext.ru,segodnya.ua,softportal.com,soundpark.best,sports.kz,zrada.today##a[href^="https://t.me/"]
+agronews.ua,animedub.ru,apostrophe.ua,app2top.ru,book-audio.com,censor.net.ua,depo.ua,game2day.ru,govoritmoskva.ru,livesport.ws,lrepacks.ru,maanimo.com,mk.ru,myslo.ru,pravda.com.ua,privatfinance.com,rbc.ua,rusnext.ru,segodnya.ua,softportal.com,soundpark.best,sports.kz,zrada.today##a[href^="https://t.me/"]
 66.ru,tproger.ru##a[href^="tg://resolve"]
 toptracker.ru##a[onclick^="content_share"]
 qiq.ws##a[onclick^="return addSoc"]
@@ -1060,7 +1061,7 @@ porjati.net##form[action="http://feedburner.google.com/fb/a/mailverify"]
 /home/cookieconsent.min.js|$~third-party
 /images/ubars/*
 /jquery.smartbanner.$domain=~1-ofd.ru|~blog.kaspersky.kz|~blog.kaspersky.ru|~gov.ru|~kaspersky.co.in|~kaspersky.co.uk|~kaspersky.co.za|~kaspersky.com|~kaspersky.com.au|~kaspersky.com.br|~kaspersky.com.cn|~kaspersky.com.tr|~kaspersky.de|~kaspersky.es|~kaspersky.fr|~kaspersky.it|~kaspersky.nl|~kaspersky.ru|~mosigra.ru|~mts.ru|~promelec.ru
-/light_chat/*$domain=~kinopad.net
+/light_chat/*
 /livejournal.png$domain=~livejournal.com
 /mchat/*$domain=~naruto-base.su
 /metric.$image
@@ -1167,6 +1168,7 @@ _userbar_$image
 ##.CookieBanner
 ##.CookieNotifyWidget__wrapper
 ##.Navbar-cookieCompliance
+##.PanelScrollerOff.Notices
 ##.adb-plashka
 ##.app.blog-post-page > #layout > #main-container > a[href*="utm_"][href*="campai"][target="_blank"]
 ##.b-cookie-notification
@@ -1209,6 +1211,7 @@ _userbar_$image
 ##.js-cookie-bar
 ##.js-cookie-container
 ##.module_messages_cookies
+##.noticeCookiesContent
 ##.notification-cookies
 ##.orakul-grey-block
 ##.penci-gprd-law
@@ -1979,8 +1982,8 @@ forumodua.com###notices > ol > li:not(:first-child)
 sport-express.ru###notification-center
 friday.ru,russian.rt.com###offers
 kinodema.com###okno[href]
+overclockers.ru#?##otherPageContent > #comments ~ .ui > .column:has(.divided > .material-near-feed)
 overclockers.ru###otherPageContent > .ui > .column > .divided
-overclockers.ru#?##otherPageContent > .ui > .column:-abp-has(.divided > .material-near-feed)
 autoclub-cerato.ru###outer_forum
 lockerz.com###overlay
 forum.awd.ru###page-body > p:nth-child(-n+3)
@@ -3000,7 +3003,7 @@ gifovina.ru#@##shareBox
 wikia.com#@##signupForm
 volnafm.com#@##social
 chess-samara.ru#@##social_new
-wiki.wargaming.net#@##toTop
+wiki.wargaming.net,wylek.ru#@##toTop
 askona.ru#@##to_top
 vichatter.net#@#.Facebook
 vichatter.net#@#.Twitter
@@ -3055,7 +3058,7 @@ newstube.ru#@#.scroll-top
 pikabu.ru#@#.scroll-up-button
 irc.lv#@#.share-blog
 ge.tt#@#.share-box
-disk.yandex.com,disk.yandex.com.tr,disk.yandex.ru,disk.yandex.ua,my.kaspersky.com,yadi.sk#@#.share-link
+my.kaspersky.com#@#.share-link
 fcdnipro.ua,solncevo.info#@#.share-page
 tasix.me,uz.video#@#.share-video
 fires.ru#@#.shareIcon
@@ -3096,6 +3099,7 @@ allhentai.ru,doramatv.live,ekabu.ru,findanime.org,grouple.co,librebook.me,liveli
 coub.com#@#.viewer__sharing
 coub.com#@#.viewer__sharing__item
 coub.com#@#.viewer__sharing__items
+clients.webcaster.pro#@#.vjs-share
 66.ru,auth.properm.ru,bombardir.ru,ekabu.ru,livelib.ru,loginza.ru,miuru.ru,online-mult.net,soccer.ru,torrentum.me#@#.vkontakte
 myshared.ru#@#.ya-share2
 myshared.ru#@#.ya-share2__link
@@ -3246,7 +3250,6 @@ forums.lanik.us#@#a[href="#top"]
 bombardir.ru,eg.ru,livelib.ru,livemaster.ru,soccer.ru,vichatter.net,wikium.ru#@#a[title="Facebook"]
 soccer.ru,wikium.ru#@#a[title="Google+"]
 bombardir.ru,livelib.ru,livemaster.ru,soccer.ru,vichatter.net#@#a[title="Twitter"]
-livetv210.me#@#a[title="YouTube"]
 evrl.to,livemaster.ru#@#a[title="ВКонтакте"]
 iomedia.ru#@#div[id^="vk_comments"]
 iomedia.ru,jcross-world.ru#@#div[id^="vk_group"]
@@ -24409,7 +24412,7 @@ teslarati.com#@#.fa-facebook-square
 insomnia.gr#@#.fa-share
 qrdesign.net#@#.fa-share-alt
 azurewebsites.net,martini.com,oneplus.net#@#.facebook-btn
-bitbucket.org,ebuddy.com,foodora.at,foodora.ca,foodora.com.au,foodora.de,foodora.fi,foodora.fr,foodora.it,foodora.nl,foodora.no,foodora.se,geekli.st,getyounity.com,globalcitizen.org,musixmatch.com,plug.dj,swiatebookow.pl#@#.facebook-button
+bitbucket.org,ebuddy.com,foodora.at,foodora.ca,foodora.com.au,foodora.de,foodora.fi,foodora.fr,foodora.nl,foodora.no,foodora.se,geekli.st,getyounity.com,globalcitizen.org,musixmatch.com,plug.dj,swiatebookow.pl#@#.facebook-button
 twitter.com#@#.facebook-container
 getyounity.com,login.aliexpress.com,vimeo.com#@#.facebook-icon
 thehunt.com#@#.facebook-link
@@ -24572,7 +24575,7 @@ iherb.com,vimeo.com#@#.share-icon
 golem.de,tumblr.com#@#.share-item
 vimeo.com#@#.share-label
 recite.com#@#.share-left
-askubuntu.com,baidu.com,broadcast.app.net,imgur.com,kuechenstud.io,logbuch-netzpolitik.de,mammothhq.com,mathoverflow.net,minkorrekt.de,openstreetmap.org,pomponik.pl,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com,yadi.sk,yandex.com,yandex.com.tr,yandex.ru,yandex.ua#@#.share-link
+askubuntu.com,baidu.com,broadcast.app.net,imgur.com,kuechenstud.io,logbuch-netzpolitik.de,mammothhq.com,mathoverflow.net,minkorrekt.de,openstreetmap.org,pinksluts.com,pomponik.pl,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com,yadi.sk,yandex.com,yandex.com.tr,yandex.ru,yandex.ua#@#.share-link
 pornhub.com#@#.share-link-container
 autokult.pl,channelnewsasia.com,fotoblogia.pl,imgur.com,komorkomania.pl#@#.share-links
 channelnewsasia.com,recite.com#@#.share-list
@@ -25363,6 +25366,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||springboardplatform.com/storage/js/social_widget/$script
 @@||sputnik.md/min/js/plugins/social-likes.min.js
 @@||sputniknews.com/min/js/plugins/social-likes.min.js
+@@||srf.ch/socialview-in/$~third-party
 @@||ssl-images-amazon.com/images/*/socialmedia/$image,domain=affiliate-program.amazon.co.uk|affiliate-program.amazon.com|affiliate-program.amazon.in|affiliate.amazon.co.jp|afiliados.amazon.es|associados.amazon.com.br|associates.amazon.ca|associates.amazon.cn|partenaires.amazon.fr|partnernet.amazon.de|programma-affiliazione.amazon.it
 @@||ssl-images-amazon.com/images/G/01/socialmedia/sweeps/$image,domain=amazon.com
 @@||stackexchange.com/content/img/share-sprite-new.png
@@ -25387,6 +25391,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||syndication.twitter.com/tweets.json?callback=$script
 @@||t3n.de/news/wp-content/uploads/*/social_media_
 @@||tabletowo.pl/wp-content/uploads/$image
+@@||teamquest.pl/img/static/$image
 @@||techfrag.com/wp-content/uploads/*/youtube-$image
 @@||techspot.com/images/login-$image
 @@||tegna-tv.com^*/googleplus-user-account.js
