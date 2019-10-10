@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HhKdcFHX+49trNNN1B5dgg
-! Version: 201910090020
+! Checksum: P7oRsOlqZUtOp+el6g3BVg
+! Version: 201910100020
 ! Title: RU AdList: BitBlock
-! Last modified: 09 Oct 2019 00:20 UTC
+! Last modified: 10 Oct 2019 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -385,6 +385,7 @@ allboxing.ru###yabber-widget .c-box-header-right
 shop.fc-zenit.ru###zen-bl-social-buttons
 mail.google.com##.Bu + .Bu.yM + .Bu.y3
 smotretonlinehd.com##.CP_buttons
+acc.cv.ua#?#.FooterItem:-abp-has(.footermenusocial)
 auto.ru##.IndexSocialLinks
 meduza.io##.MaterialPanel-share
 meduza.io##.Toolbar-list > .Toolbar-item:not(:last-child)
@@ -516,6 +517,7 @@ glavnoe.ua##.fb-blue
 patrioty.org.ua##.fbPageLikeBox
 censor.net.ua##.fbsend
 wikia.com#?#.feed-item:-abp-has(> .feed-item__well > .feed-item__content > .is-social)
+www.bigmir.net##.fix310 > .stiky > .row.pb20
 evtifeev.com##.fones
 kurkul.com,oka.fm##.footer-soc
 mmatoday.info##.footer-wrapper-social
@@ -539,6 +541,7 @@ russian.rt.com##.header__social
 islam-today.ru##.header__social-buttons
 proufu.ru##.header_share
 digger.ru##.header_social-wrap
+acc.cv.ua##.headermenusocial
 filmsegodnya.club##.headerright
 humor.fm##.hfm-social-groups
 newstube.ru##.hplayer-socials

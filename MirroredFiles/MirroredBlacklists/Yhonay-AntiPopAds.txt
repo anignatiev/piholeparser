@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9701
+! Version: 9708
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -2615,6 +2615,7 @@
 ||gbjqfbnxfjx.com^
 ||gbnwjjxb.bid^
 ||gbsxcyukuuex.com^
+||gbtoxwxmahhctv.com^
 ||gbwgrhjjwz.com^
 ||gbwhqbiiq.com^
 ||gbwnpchivh.com^
@@ -3535,6 +3536,7 @@
 ||iedijlgkbqc.com^
 ||ieeagbtui.com^
 ||ieeawxjool.com^
+||iefjsqos.com^
 ||iekztyhqfs.bid^
 ||ielqcwzwjczpx.bid^
 ||ieoexdjxrwtq.com^
@@ -4945,6 +4947,7 @@
 ||ljwbfghcggfvv.com^
 ||ljyncrypt.bid^
 ||ljzhxfurwibo.com^
+||ljzsucmiodrro.com^
 ||lkaarvdprhzx.com^
 ||lkamujrx.com^
 ||lkaumkxmzefa.com^
@@ -6344,6 +6347,7 @@
 ||opknogsela.bid^
 ||opoefqthl.bid^
 ||oppcgcqytazs.com^
+||opyyykrdyuum.com^
 ||oqaghvocticy.com^
 ||oqfoiwjwysbffe.com^
 ||oqgztgtmcxfcic.com^
@@ -6449,6 +6453,7 @@
 ||oyiqkjsjmmde.com^
 ||oyiqurfqulhuq.com^
 ||oylqnzunnw.com^
+||oyndqimgof.com^
 ||oynmftlgufr.com^
 ||oyrgxjuvsedi.com^
 ||oytrrdlrovcn.com^
@@ -6580,6 +6585,7 @@
 ||pguxoochezkc.com^
 ||pgxciwvwcfof.com^
 ||pgymbgnabv.bid^
+||phdtryxlepjayf.com^
 ||phfknysgvwhnr.bid^
 ||phhigelii.com^
 ||phiambczsg.com^
@@ -8052,6 +8058,7 @@
 ||ssuhghnjxbp.bid^
 ||ssvolkkihcyp.com^
 ||ssyhlymwyzou.com^
+||ssypntfmi.com^
 ||ssyyeufsqbra.bid^
 ||stekcwrdwohbch.com^
 ||sthtrtvkkt.com^

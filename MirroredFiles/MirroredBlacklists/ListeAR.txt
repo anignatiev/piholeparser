@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: vsOzb1MZsI3Zaahq1v4irQ
-! Version: 201909160010
+! Checksum: fRykoUGTAmjcJa6PXnCW4w
+! Version: 201910100010
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -250,6 +250,7 @@ _New_Ads.
 ##.angular_advertisement
 ##.b_ad
 ##.b_ad480
+##.bloxad
 ##.boxLeftAd
 ##.boxRightAd
 ##.desktopAds
@@ -275,6 +276,8 @@ _New_Ads.
 ##.homepage_ad_lower_leaderboard
 ##.homepage_ads_topspot
 ##.i3lan
+##.iklan-kanan
+##.iklan-kiri
 ##.la-ads-a-wide
 ##.la-ads-b-rec
 ##.la-ads-b-wide
@@ -1140,7 +1143,6 @@ $popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|arabincest
 ||adv.mmnon.com^
 ||advs.akhbarelyom.com/Images/adwekala.swf
 ||advs.akhbarelyom.com/OutDoor/Images/aclk.gif
-||afedmag.com/uploaded/images/banner-
 ||afedmag.com/uploaded/images/MiddleImage_11b9c0bc-3bf1-40d4-8b2e-54ead7333563_.jpg
 ||afedmag.com/web/banner/
 ||aff.kooora.com/images/aff_
@@ -1284,6 +1286,7 @@ $popup,domain=aflamsexnek.com|aflamyz.com|an-online.com|anime2001.com|arabincest
 ||bdr130.net^*/bdr130_popup/
 ||bdr130.net^*/bnr1/
 ||bentvip.com/up/20120511032813.gif
+||bernama.com^*/banner/
 ||bit.ly^$popup,domain=arbcinema.com|ultshare.com|videosexphoto.com
 ||blogspot.ae^$popup,domain=cima4u.tv
 ||blogspot.com/-ZGaEt5qQ2Sw/*/*D8%A7%D8%B4%2B160%2B600.png
@@ -2063,6 +2066,7 @@ arabs-up.com##a > img[width="585"][height="80"]
 afriqa-sat.com##a > img[width="624"][height="60"]
 al3abtab5.com##a > img[width="70"][height="35"]
 dzayerinfo.com,masrawysat.com##a > img[width="728"][height="90"]
+bernama.com##a[class^="banner_photo_"]
 m-4u.net##a[class^="hcne_ads"]
 ibda3gate.com##a[href*="/Direct Link.html"]
 ckfu.org##a[href*="/ads.php?"]
@@ -2267,7 +2271,7 @@ ce4arab.com#?#.vbmenu_popup + br + [id^="post"]:-abp-has(.thead:-abp-contains(ا
 @@||code.jquery.com^$script,domain=add-anime.net|almstba.tv|egybest2.com|egybest4.com|emotionvideo-tv.com|hawak.tv|rotana.video
 @@||disqus.com/embed.js$script,domain=animelek.net
 @@||disquscdn.com^$script,domain=animelek.net
-@@||fonts.googleapis.com^$stylesheet,domain=almstba.tv|cimaclub.com|hawak.tv|movs4u.tv|rotana.video
+@@||fonts.googleapis.com^$stylesheet,domain=3sk.co|almstba.tv|cimaclub.com|hawak.tv|movs4u.tv|rotana.video
 @@||vjs.zencdn.net^$script,stylesheet,domain=add-anime.net
 @@||www.blogger.com/feeds/$script,domain=chahid4u.tk|edu-dz.com
 @@||www.blogger.com/static/$script,domain=chahid4u.tk|edu-dz.com

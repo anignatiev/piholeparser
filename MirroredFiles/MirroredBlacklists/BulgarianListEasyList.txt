@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201910082255
+! Version: 201910092157
 ! Title: EasyPrivacy
-! Last modified: 08 Oct 2019 22:55 UTC
+! Last modified: 09 Oct 2019 21:57 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9152,6 +9152,7 @@ _mongo_stats/
 ||botdetector.ru^$third-party
 ||botscanner.com^$third-party
 ||bumlam.com^$third-party
+||checkru.net^$third-party
 ||cityua.net^$third-party
 ||clubcollector.com^$third-party
 ||cnstats.ru^$third-party
