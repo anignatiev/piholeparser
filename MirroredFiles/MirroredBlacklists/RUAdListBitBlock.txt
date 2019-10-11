@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: P7oRsOlqZUtOp+el6g3BVg
-! Version: 201910100020
+! Checksum: 9M02j0aLmrVfUrKz8Wz4fQ
+! Version: 201910110010
 ! Title: RU AdList: BitBlock
-! Last modified: 10 Oct 2019 00:20 UTC
+! Last modified: 11 Oct 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1117,8 +1117,8 @@ _userbar_$image
 ||info/lines/$image
 ||jumpoutpopup.ru^$third-party
 ||lakiff.ru^$third-party
-||likemore-fe.go.mail.ru^$third-party,domain=~footballhd.ru|~klops.ru|~life.ru|~lifehacker.ru|~nevasport.ru|~topwar.ru|~tut.by|~zakon.kz
-||likemore-go.imgsmail.ru^$third-party,domain=~auto.mail.ru|~footballhd.ru|~klops.ru|~life.ru|~lifehacker.ru|~nevasport.ru|~topwar.ru|~tut.by|~zakon.kz
+||likemore-fe.go.mail.ru^$third-party,domain=~footballhd.ru|~klops.ru|~life.ru|~lifehacker.ru|~nevasport.ru|~sibnet.ru|~topwar.ru|~tut.by|~zakon.kz
+||likemore-go.imgsmail.ru^$third-party,domain=~auto.mail.ru|~footballhd.ru|~klops.ru|~life.ru|~lifehacker.ru|~nevasport.ru|~sibnet.ru|~topwar.ru|~tut.by|~zakon.kz
 ||line.*.$third-party
 ||log2.ru^$third-party
 ||mytopf.com^$third-party
@@ -1731,6 +1731,7 @@ _userbar_$image
 ||kino-sayt.net/Frame.swf
 ||kinobanda.net^*/images/heder.swf
 ||kinogo.*/kinogo.prm*.js
+||kinogo.by/player/kinogo_*.mp4
 ||kinogo.life/images/norek.$image
 ||kinokrad.co/templates/ntpl/*/subscribe.
 ||kinoteatr.ru/cgi-bin/banner
@@ -2128,6 +2129,7 @@ torrentum.me##.adsoff
 kino-kingdom.com##.adv
 mir24.tv##.adv-group
 gurutestov.ru##.adv_collumn
+hdmax.in##.advertpl
 megogo.ru##.agreement-notify_v1
 i.ua##.alarm
 rusmeteo.net##.alert

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: U4G0Rv5HVbcJGxeoaajnAQ
-! Version: 201910100010
+! Checksum: WhbJDb7mRmcfbUEM9N9ZtQ
+! Version: 201910110010
 ! Title: RU AdList
-! Last modified: 10 Oct 2019 00:10 UTC
+! Last modified: 11 Oct 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -3229,6 +3229,7 @@ _tizers.
 ||somon.tj^$third-party
 ||sorcerers.net/includes/butler/butler.php?
 ||sosnews.ru^$third-party
+||sovetnik.market.yandex.ru^$third-party
 ||sovetnik.yandex.net^$third-party
 ||spacepush.ru^$third-party
 ||spbland.ru/bban/
@@ -14080,6 +14081,7 @@ sports.kz##[class^="xbet"]
 tests24.ru##[class^="yap-"] *
 ps4.in.ua##[data-ad-slot]
 vz.ru#?#[data-ad-slot]:-abp-contains()
+drive2.com,www.drive2.ru##[data-adkind]
 vse42.ru##[data-adplace-inited]
 youla.ru##[data-banner-type]
 sovets.net##[data-banner]
@@ -15135,6 +15137,7 @@ redfm.ru#?#div.news.grid_16 > h3:-abp-has(span:-abp-contains(Реклама)) ~ 
 u-news.com.ua##div.side_block
 festima.ru,mydiv.net,vargr.ru#?#div:-abp-has(> .adsbygoogle)
 finversia.ru#?#div:-abp-has(> .banner-bdm )
+drive2.com,www.drive2.ru#?#div:-abp-has(> .c-dv-label)
 selomoe.ru#?#div:-abp-has(> .title_also:-abp-contains(Партнерский контент))
 draug.ru#?#div:-abp-has(> [id^="yandex_rtb"])
 photofuneditor.com#?#div:-abp-has(> [src*="pagead2."])
@@ -15251,6 +15254,7 @@ foto.ua##div[class="side-banner"]
 seasonvar.ru##div[class="sidebar lside"] > :not(div)
 vz.ru##div[class] > div[id]:not([class])[style^="margin"]
 spac.me,spac1.com,spac1.me,spcs.me#?#div[class]:-abp-has(> a ~ a[href*="://spcs.me/?"] > div[class])
+drive2.com,www.drive2.ru#?#div[class]:-abp-has(> div > div > [data-adkind])
 novayagazeta.ru#?#div[class]:-abp-has(> div[style^="display"] ~ div > div[id*="adfox_"])
 mk.ru#?#div[class]:not(.content):-abp-has(> div > iframe:not([src]))
 ytvideo.ru##div[class][data-aid]
@@ -19437,17 +19441,15 @@ igdz1.ru^$script,domain=igdz.ru
 adblockmetrics.ru,antiadblock.ru,better-games.ru,clickscloud.net,disk-space.ru,fortnite-pvp.ru,kinoframe.net##*
 !
 ! Намеренное продвижение фейков и мошенников
-||7ogorod.ru/*.html|$xmlhttprequest,domain=7ogorod.ru
-||alau.kz/*/|$xmlhttprequest,domain=alau.kz
+/*#cc$~third-party,xmlhttprequest,domain=alau.kz|fermilon.ru|fishki.net|maxpark.com|news.ru|newsland.com|ogodom.ru|politros.com
+||7ogorod.ru^$xmlhttprequest,domain=7ogorod.ru
 ||argumenti.ru^$xmlhttprequest,domain=argumenti.ru
+||argumentiru.com^$xmlhttprequest,domain=argumentiru.com
 ||etotprazdnik.ru^$csp=script-src 'self' * 'unsafe-inline' data:
-||fermilon.ru/*.html|$xmlhttprequest,domain=fermilon.ru
-||fishki.net/*.html|$xmlhttprequest,domain=fishki.net
 ||globuss24.ru^$xmlhttprequest,domain=globuss24.ru
 ||mashintop.ru^$xmlhttprequest,domain=mashintop.ru
-||news.ru/*/|$xmlhttprequest,domain=news.ru
-||shtrafsud.ru/*.html|$xmlhttprequest,domain=shtrafsud.ru
-||teleprogramma.pro/*/|$xmlhttprequest,domain=teleprogramma.pro
+||shtrafsud.ru^$xmlhttprequest,domain=shtrafsud.ru
+||teleprogramma.pro^$xmlhttprequest,domain=teleprogramma.pro
 !
 ! 4pda.ru
 4pda.ru##[data-revive-id][style="opacity: 0;"]
@@ -19528,8 +19530,8 @@ beta.gismeteo.ru,www.gismeteo.by,www.gismeteo.kz,www.gismeteo.md,www.gismeteo.ru
 @@||37.220.39.*^$other,xmlhttprequest,domain=alforenao.com|clastarti.cc|mastarti.com|pandastream.cc|streamguard.cc|streamtojupiter.me
 @@||irsdn.net^$other,xmlhttprequest,domain=alforenao.com|clastarti.cc|mastarti.com|pandastream.cc|streamguard.cc|streamtojupiter.me
 !
-@@||hasznia.com^$other,xmlhttprequest
-@@||subharvi.com^$other,xmlhttprequest
+@@||igazgazd.com^$other,xmlhttprequest
+@@||yaksamili.com^$other,xmlhttprequest
 !
 $third-party,other,xmlhttprequest,domain=pandastream.cc|streamguard.cc|streamtojupiter.me
 @@$other,~third-party,xmlhttprequest,domain=37.220.36.15|blackoctopus.cc|cdn.720hd.club|cdn.ex-fs.net|cdn.ivvi.online|cdn.kinogo-hq.ru|cdn.kinosky.net|cdn.profilms.top|cdnapponline.com|kino-stream.online|moon.hdkinoteatr.com|moonwalk.cc|moonwalk.center|mov.hiex.ru|online.1kinobig.ru|pandastream.cc|s1.kino-kingdom.com|serpens.nl|staticnlcdn.com|streamguard.cc|streamstorm.online|streamtomars.me|video.palevo.stream|video.showfilm.club
@@ -19553,7 +19555,7 @@ kino-live1.site,kino-live10.site,kino-live11.site,kino-live12.site,kino-live2.or
 ! Mail.ru
 ! Скрытие по-разделам
 ! Главная
-~3igames.mail.ru,~auto.mail.ru,~biz.mail.ru,~bonus.mail.ru,~calendar.mail.ru,~cloud.mail.ru,~deti.mail.ru,~dobro.mail.ru,~e.mail.ru,~esports.mail.ru,~games.mail.ru,~gibdd.mail.ru,~go.mail.ru,~health.mail.ru,~help.mail.ru,~hi-tech.mail.ru,~horo.mail.ru,~kino.mail.ru,~lady.mail.ru,~love.mail.ru,mail.ru,~mailblog.mail.ru,~mcs.mail.ru,~minigames.mail.ru,~my.mail.ru,~news.mail.ru,~octavius.mail.ru,~okminigames.mail.ru,~otvet.mail.ru,~pets.mail.ru,~pogoda.mail.ru,~realty.mail.ru,~top.mail.ru,~touch.mail.ru,~tv.mail.ru##.grid .grid__main-col .news-item_tgb
+~3igames.mail.ru,~auto.mail.ru,~biz.mail.ru,~bonus.mail.ru,~calendar.mail.ru,~cloud.mail.ru,~deti.mail.ru,~dobro.mail.ru,~e.mail.ru,~esports.mail.ru,~games.mail.ru,~gibdd.mail.ru,~go.mail.ru,~health.mail.ru,~help.mail.ru,~hi-tech.mail.ru,~horo.mail.ru,~kino.mail.ru,~lady.mail.ru,~love.mail.ru,mail.ru,~mailblog.mail.ru,~mcs.mail.ru,~minigames.mail.ru,~my.mail.ru,~news.mail.ru,~octavius.mail.ru,~okminigames.mail.ru,~otvet.mail.ru,~pets.mail.ru,~pogoda.mail.ru,~realty.mail.ru,~top.mail.ru,~touch.mail.ru,~tv.mail.ru##.i-pull-left .tgb
 ~3igames.mail.ru,~auto.mail.ru,~biz.mail.ru,~bonus.mail.ru,~calendar.mail.ru,~cloud.mail.ru,~deti.mail.ru,~dobro.mail.ru,~e.mail.ru,~esports.mail.ru,~games.mail.ru,~gibdd.mail.ru,~go.mail.ru,~health.mail.ru,~help.mail.ru,~hi-tech.mail.ru,~horo.mail.ru,~kino.mail.ru,~lady.mail.ru,~love.mail.ru,mail.ru,~mailblog.mail.ru,~mcs.mail.ru,~minigames.mail.ru,~my.mail.ru,~news.mail.ru,~octavius.mail.ru,~okminigames.mail.ru,~otvet.mail.ru,~pets.mail.ru,~pogoda.mail.ru,~realty.mail.ru,~top.mail.ru,~touch.mail.ru,~tv.mail.ru##div[class*="grid"] .tile[style^="width"] > .news_isAdvert
 ~3igames.mail.ru,~auto.mail.ru,~biz.mail.ru,~bonus.mail.ru,~calendar.mail.ru,~cloud.mail.ru,~deti.mail.ru,~dobro.mail.ru,~e.mail.ru,~esports.mail.ru,~games.mail.ru,~gibdd.mail.ru,~go.mail.ru,~health.mail.ru,~help.mail.ru,~hi-tech.mail.ru,~horo.mail.ru,~kino.mail.ru,~lady.mail.ru,~love.mail.ru,mail.ru,~mailblog.mail.ru,~mcs.mail.ru,~minigames.mail.ru,~my.mail.ru,~news.mail.ru,~octavius.mail.ru,~okminigames.mail.ru,~otvet.mail.ru,~pets.mail.ru,~pogoda.mail.ru,~realty.mail.ru,~top.mail.ru,~touch.mail.ru,~tv.mail.ru#?#div[class*="grid"] .tile[style^="width"]:-abp-has(> .news_isAdvert)
 ~3igames.mail.ru,~auto.mail.ru,~biz.mail.ru,~bonus.mail.ru,~calendar.mail.ru,~cloud.mail.ru,~deti.mail.ru,~dobro.mail.ru,~e.mail.ru,~esports.mail.ru,~games.mail.ru,~gibdd.mail.ru,~go.mail.ru,~health.mail.ru,~help.mail.ru,~hi-tech.mail.ru,~horo.mail.ru,~kino.mail.ru,~lady.mail.ru,~love.mail.ru,mail.ru,~mailblog.mail.ru,~mcs.mail.ru,~minigames.mail.ru,~my.mail.ru,~news.mail.ru,~octavius.mail.ru,~okminigames.mail.ru,~otvet.mail.ru,~pets.mail.ru,~pogoda.mail.ru,~realty.mail.ru,~top.mail.ru,~touch.mail.ru,~tv.mail.ru##div[id^="grid"] .i-pull-right.grid__rcol_aside > [class*="rect"]
@@ -20603,6 +20605,7 @@ lolzona.ru##.stb-container
 sravni.ru##.subscription-popup
 sputnikipogrom.com##.tp-overlay
 povar.ru##.vk.soc-banner
+f1comp.ru##.webnavoz_notificationbox
 blogspot.ru##.widget-content > #overlay
 /build/js/base-modal-*.js|$script,domain=interesno.cc|obaldenno.com|pomada.cc|prikolno.cc
 /build/js/popup-*js|$script,domain=obaldenno.com|pomada.cc
@@ -20993,7 +20996,7 @@ direct.yandex.ru#@#.b-direct
 kaluga-bestiphone.ru#@#.banner-adv
 griffe.ru#@#.banner_box
 mygames.com.ua#@#.big-ads
-yadi.sk#@#.content_ads
+disk.yandex.by,disk.yandex.kz,disk.yandex.ru,disk.yandex.ua,yadi.sk#@#.content_ads
 agrobook.ru#@#.context-ads
 faberlic.by#@#.fbContainer
 f-igri.ru#@#.google_ad
