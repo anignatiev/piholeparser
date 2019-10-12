@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9M02j0aLmrVfUrKz8Wz4fQ
-! Version: 201910110010
+! Checksum: 7bvy975T+Dv9yxSKMYjYVQ
+! Version: 201910120010
 ! Title: RU AdList: BitBlock
-! Last modified: 11 Oct 2019 00:10 UTC
+! Last modified: 12 Oct 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -768,7 +768,7 @@ kopilkasovetov.com##.social-media-area
 maximum.ru##.social-network
 xsport.ua##.social-sharer-holder
 kinopoisk.ru##.social-teasers
-radarmedia.net##.socialWidgetButton
+prozoro.net.ua,radarmedia.net##.socialWidgetButton
 gismeteo.ru##.social__btns
 relax-fm.ru##.social__tab
 riafan.ru##.social_comment_buttons
@@ -1738,6 +1738,7 @@ _userbar_$image
 ||kinoteatr.ru/upload/*branding
 ||kommersant.ru/contentflex/js/subscriptions.js
 ||kp.ru/html/push/
+||kp.yandex.net/images/bnnr/brand/$domain=www.kinopoisk.ru
 ||kp.yandex.net/js/brand$domain=www.kinopoisk.ru
 ||kritika24.ru^*soch$image
 ||kubik3.ru/js/adbs.js
@@ -21449,6 +21450,7 @@ _backToTop.
 ##.NewsletterRegister
 ##.NewsletterSection
 ##.NewsletterSignUp
+##.NewsletterSignUp_container
 ##.NewsletterSignup
 ##.NewsletterSignupBlock
 ##.NewsletterSignupInset
