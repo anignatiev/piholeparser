@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9715
+! Version: 9721
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -3740,6 +3740,7 @@
 ||iqwbqjnst.bid^
 ||iqwczlbxvtcnh.com^
 ||iqwhwomdmjg.bid^
+||iqwrmwssizr.com^
 ||iqyirwfzlx.com^
 ||irbipwnr.bid^
 ||irbkobqlrbtt.com^
@@ -5577,6 +5578,7 @@
 ||mtnreztslx.com^
 ||mtnysmosgmp.bid^
 ||mtpjldykpuhnmg.bid^
+||mtsoxkqlqnawre.com^
 ||mttyfwtvyumc.com^
 ||mtuorcpzomut.bid^
 ||mtveughs.com^
@@ -7039,6 +7041,7 @@
 ||qhkfgjoyinllld.com^
 ||qhlwqzntlwvbf.bid^
 ||qhlzkkwb.com^
+||qhoosovyj.com^
 ||qhpjexftk.com^
 ||qhpwanmnbvkiio.com^
 ||qhpwqremdlclpk.com^
@@ -7100,6 +7103,7 @@
 ||qknuubmfneib.com^
 ||qkpwdakgxynv.com^
 ||qksihowyv.com^
+||qkvklknzycrgo.com^
 ||qkwbygfsbfmj.com^
 ||qkyzjwhyeh.com^
 ||qkzwxhcleqj.com^
@@ -9243,6 +9247,7 @@
 ||xauhsixqkymkra.com^
 ||xawpdwil.com^
 ||xaxggjsa.com^
+||xbgoulaxoen.com^
 ||xbinjxvdnjqllh.com^
 ||xblcqncce.com^
 ||xbofirnnmzlprd.com^
@@ -9610,6 +9615,7 @@
 ||zhxdiirwhtico.com^
 ||ziebgbikz.com^
 ||ziqdunppuzjd.com^
+||zirlztyowfnif.com^
 ||zjefjxjukiasd.com^
 ||zjkdrqtjowihn.com^
 ||zjncvhnkh.com^

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201910101933
+! Version: 201910122356
 ! Title: EasyPrivacy
-! Last modified: 10 Oct 2019 19:33 UTC
+! Last modified: 12 Oct 2019 23:56 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1612,6 +1612,7 @@
 /events.gif?
 /events/*?event=
 /events/capture?
+/Events/Impression?
 /events?*&referrer=
 /events?_trigger=
 /events?data=
@@ -3134,6 +3135,7 @@
 /readReceipt/notify/?img=$image
 /readtracker-
 /realytics-
+/realytics.js
 /recommendtrack?
 /record-impressions.
 /record-stats?
@@ -5517,7 +5519,6 @@ _mongo_stats/
 ||config.parsely.com^$third-party
 ||confirmational.com^$third-party
 ||confirmit.com^$third-party
-||contactatonce.com^$third-party
 ||contactmonkey.com^$third-party
 ||contemporaryceremonies.ca^$third-party
 ||content-square.net^$third-party
@@ -5698,6 +5699,7 @@ _mongo_stats/
 ||dummy-domain-do-not-change.com^$third-party
 ||dwin1.com^$third-party
 ||dwin2.com^$third-party
+||dynamicyield.com^$third-party
 ||dynatrace.com^$third-party
 ||dynatracesaas.com^$third-party
 ||dyntrk.com^$third-party
@@ -6178,7 +6180,6 @@ _mongo_stats/
 ||iproanalytics.com^$third-party
 ||iprotrk.com^$third-party
 ||ipstat.com^$third-party
-||ipstatp.com^$third-party
 ||ipv6monitoring.eu^$third-party
 ||iqdata.ai^$third-party
 ||iqfp1.com^$third-party
@@ -7321,7 +7322,6 @@ _mongo_stats/
 ||truehits.in.th^$third-party
 ||truehits1.gits.net.th^$third-party
 ||truoptik.com^$third-party
-||trustedform.com^$third-party
 ||trysera.com^$third-party
 ||tscapeplay.com^$third-party
 ||tscounter.com^$third-party
@@ -9339,7 +9339,6 @@ _mongo_stats/
 ||gostats.vn^$third-party
 ! -----------------Third-party tracking services-----------------!
 ! *** easylist:easyprivacy/easyprivacy_thirdparty.txt ***
-|http://l2.io/ip.js$third-party
 ||10.122.129.149^$third-party,domain=~search-news-cn.ip
 ||101apps.com/tracker.ashx?
 ||105app.com/report/?
@@ -9656,7 +9655,6 @@ _mongo_stats/
 ||ask.com^*/i.gif?
 ||assoc-amazon.*^e/ir?t=$image
 ||asterpix.com/tagcloudview/
-||async-px.dynamicyield.com^$third-party
 ||atdmt.com/action/
 ||atdmt.com/iaction/
 ||atdmt.com/jaction/
@@ -10474,6 +10472,8 @@ _mongo_stats/
 ||ioam.de/?
 ||ioam.de/aid.io?
 ||ioam.de/tx.io?
+||ipstatp.com/growth/fe_sdk/reportsdk/$third-party
+||ipstatp.com/static_magic/$third-party
 ||irqs.ioam.de^
 ||isacglobal.com/sa.js
 ||itracking.fccinteractive.com^
@@ -10510,6 +10510,7 @@ _mongo_stats/
 ||l.ooyala.com^
 ||l.player.ooyala.com^
 ||l.sharethis.com^
+||l2.io/ip.js?var=$third-party
 ||laurel.macrovision.com^
 ||laurel.rovicorp.com^
 ||lct.salesforce.com^$third-party
@@ -10842,6 +10843,7 @@ _mongo_stats/
 ||pixel.tree.com^
 ||pixel.usrsync.com^
 ||pixel.vmm-satellite2.com^
+||pixel.widgetly.com^
 ||pixel.wp.com^
 ||pixel.xmladfeed.com^$third-party
 ||pixel.yabidos.com^
@@ -10897,7 +10899,6 @@ _mongo_stats/
 ||pussy.org^*.cgi?pid=
 ||pussy.org^*/track.php
 ||px.247inc.net^
-||px.dynamicyield.com^$third-party
 ||px.excitedigitalmedia.com^
 ||px.marchex.io^
 ||px.owneriq.net^
@@ -11059,7 +11060,7 @@ _mongo_stats/
 ||srvmath.com^*/analytics.js
 ||ssl-images-amazon.com/images/*/common/1x1._*.gif$domain=~amazon.com
 ||st.cdnco.us^
-||st.dynamicyield.com^
+||stas.outbrain.com^
 ||stat.boredomtherapy.com^
 ||stat.easydate.biz^
 ||stat.ed.cupidplc.com^
@@ -11441,6 +11442,7 @@ _mongo_stats/
 ||trove.com^*&uid=$image
 ||tru.webelapp.com^
 ||trumba.com/et.aspx?$third-party
+||trustedform.com/trustedform.js?provide_referrer
 ||trustpilot.com/stats/
 ||trustsquare.net/trafficmonitor/
 ||try.abtasty.com^$third-party
@@ -13520,6 +13522,7 @@ _mongo_stats/
 ||kiks.yandex.
 ||killerstartups.com^*/adsensev
 ||kinesisproxy.hearstlabs.com^
+||king.com/api/events?
 ||kitsapsun.com/metrics/
 ||kksou.com^*/record.php?
 ||klm.com/travel/generic/static/js/measure_async.js
@@ -13639,6 +13642,7 @@ _mongo_stats/
 ||mate1.com^*/iframe/pixel/
 ||mate1.com^*/reg.logging.js
 ||mayoclinic.org/js/gconversion.js
+||mcdp-sadc1.outbrain.com^
 ||mdmpix.com/js/connector.php?
 ||mealime.com/assets/mealytics.js
 ||media-imdb.com/images/*/imdbads/js/beacon-$script
@@ -14390,6 +14394,7 @@ _mongo_stats/
 ||spreaker.com^*/statistics/
 ||squidoo.com/track/
 ||srt.pch.com^
+||srtb.msn.com^
 ||ssc.api.bbc.com^
 ||ssl-stats.wordpress.com^
 ||sstats.oui.sncf^
@@ -14636,7 +14641,7 @@ _mongo_stats/
 ||track.searchiq.co^
 ||track.slideshare.net^
 ||track.thesaurus.com^
-||track.totalav.com^
+||track.totalav.com^$script
 ||track.ugamezone.com^
 ||track.ultimate-guitar.com^
 ||track.webgains.com^
@@ -15525,6 +15530,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||azurewebsites.net^*/mnr-mediametrie-tracking-
 ||bigvoy.com/cft/view.php
 ||bloguez.com/manager/compteurs/
+||c0011.boursorama.com^
 ||cfcn.allocine.net^
 ||clubic.com/editorial/publier_count.php?
 ||compteur.developpez.com^
@@ -16331,6 +16337,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||arcgis.com^*/heatmap.js
 @@||archive.softwareheritage.org^*/stat/counters/$xmlhttprequest
 @@||arstechnica.com/services/incr.php?*=interactions.adblock-annoy.click$xmlhttprequest
+@@||asendiausa.com/tracking/js/tracking/customertracking.js?
 @@||atdmt.com/ds/yusptsprtspr/
 @@||atdmt.com^*/direct*01$domain=sprint.com
 @@||atl-paas.net/analytics/event
@@ -16644,6 +16651,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||intel.com^*/angular-google-analytics.js
 @@||iocdn.coremetrics.com^*.js?V=$domain=24ace.co.uk
 @@||iocdn.coremetrics.com^*/io_config.js?ts=$domain=24ace.co.uk
+@@||ipapi.co/json/$xmlhttprequest,domain=audius.co
 @@||ipinfo.io/?token=$xmlhttprequest,domain=webtv.ert.gr
 @@||itworld.com/elqnow/elq*.js
 @@||iwin.com/gtm.json$~third-party,xmlhttprequest
@@ -17112,6 +17120,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||scorecardresearch.com/r?$image,domain=ancestry.com|billetnet.dk|billettservice.no|lippupalvelu.fi|macworld.com|pcworld.com|techhive.com|ticketmaster.ae|ticketmaster.co.uk|ticketmaster.de|ticketmaster.ie|ticketmaster.nl|ticnet.se|wsj.com
 @@||simyo.de/b/ss/$image
 @@||smetrics.aem.playstation.com/b/ss/$image
+@@||smetrics.farnell.com/b/ss/$image
 @@||smetrics.foxnews.com/b/ss/$image
 @@||smetrics.target.com/b/ss/$image
 @@||smetrics.ticketmaster.com/b/ss/$image
@@ -17254,6 +17263,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||tv5.org/cms/javascript/*/sitestat.js
 @@||tv5monde.com/cms/javascript/*/sitestat.js
 @@||ubicast.tv/statics/mediaserver/player/statistics.js
+@@||ultimedia.com/api/widget/getwidget/$xmlhttprequest,domain=ouest-france.fr
 @@||vuplay.co.uk/stats/adobe/*/VisitorAPI.js$script,domain=radioplus.be
 ! Bulgarian
 @@||google-analytics.com/analytics.js$domain=novatv.bg

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /IDLVD96vuvQR4hVQqvYsQ
-! Version: 201910120011
+! Checksum: LdaBWJ2Q6Nb+H/YPdEpNVw
+! Version: 201910130011
 ! Title: Fanboy's Annoyance List
-! Last modified: 12 Oct 2019 00:11 UTC
+! Last modified: 13 Oct 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11415,6 +11415,8 @@ _site_cookie_
 ##.aside-social
 ##.aside-social__widget__wrapper
 ##.aside-socials
+##.asideShareFB
+##.asideShareTwitter
 ##.asideSocial
 ##.asideSocial-article
 ##.asideWithSharebar
@@ -31458,6 +31460,8 @@ _site_cookie_
 ##ytd-consent-bump-renderer
 ##ytd-mealbar-promo-renderer
 ##ytg-notification-footer
+! coches.net / vibbo.com / milanuncios.com / infojobs.net
+##.sui-CmpUi > .sui-MoleculeNotification
 ! selle-proust.fr / schwabenhaus.de / funnelytics.io
 ##.elementor-popup-modal.dialog-widget
 ! tuttishop.ch / farnhammaltings.com / ledluxor.com / sammic.fr
@@ -38645,6 +38649,7 @@ provantage.com###PP
 brookes.ac.uk###PopUp
 telkom.co.za###PrivacyNotice
 channelregister.co.uk,theregister.co.uk###RegCCO
+king.com###SiteMessages
 valleyvet.com###ToU_float
 postojnska-jama.eu###\5f iCD
 warnerbros.fr###_EAPM
@@ -39378,6 +39383,7 @@ hypable.com##.cookie-bar
 mashable.com##.cookie-notice
 allmusic.com##.cookie-policy-box
 rp-online.de##.park-snackbar-cookies
+walmart.ca##.privacy-open > div > [class] > div[class^="css"]
 !------------------------Rules for international sites------------------------!
 ! *** easylist:fanboy-addon/fanboy_annoyance_international.txt ***
 !
@@ -43241,6 +43247,7 @@ bosch-mobility-solutions.com#@##m-cookie-overlay
 thesocialmedwork.com#@##notice-cookie-block
 theverge.com#@##privacy-consent
 readthedocs.io,sportdiver.com#@##privacy-policy
+totalwar.com#@##privacy_policy
 repostuj.pl#@##rodo-modal
 boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz#@#.Cookies
 bancaifis.it#@#.Cookies:not(body)
