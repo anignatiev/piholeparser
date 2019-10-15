@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LdaBWJ2Q6Nb+H/YPdEpNVw
-! Version: 201910130011
+! Checksum: 67xlNgvAfeHOTqf0Nt4Xwg
+! Version: 201910140011
 ! Title: Fanboy's Annoyance List
-! Last modified: 13 Oct 2019 00:11 UTC
+! Last modified: 14 Oct 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -16877,6 +16877,7 @@ _site_cookie_
 ##.share_icons1
 ##.share_icons_big
 ##.share_icons_container
+##.share_img_main
 ##.share_index
 ##.share_inline_header
 ##.share_issue
@@ -32423,7 +32424,7 @@ _site_cookie_
 ||wp.com/wp-content/mu-plugins/post-flair/
 ||wp.com^*/linkwidgets/slingshot_
 ||wufoo.com/embed/$subdocument,third-party,domain=heavy.com
-||xhamster.com/ajax/wit-cams-widget/
+||xhamster.com/ajax/wil-cams-widget/
 ||xhamster.one/ajax/wit-cams-widget/
 ! ||lightboxcdn.com^$third-party,domain=adweek.com|ahoramismo.com|hotair.com|androidcentral.com|avclub.com|bearingarms.com|bgr.com|cinemablend.com|clickhole.com|cnet.com|conservativeradio.com|crackberry.com|cracked.com|culturemap.com|dailycaller.com|deadline.com|deadspin.com|fastcodesign.com|fastcompany.com|gamespot.com|gizmodo.com|heavy.com|hollywoodlife.com|imore.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|mashable.com|modernfarmer.com|nbcsports.com|reason.com|redstate.com|splinternews.com|spy.com|thehill.com|theinventory.com|theonion.com|theroot.com|thetakeout.com|townhall.com|tvline.com|twitchy.com|venturebeat.com|windowscentral.com|zdnet.com
 ! ---------- Push Notifications ----------
@@ -34481,7 +34482,6 @@ radionz.co.nz##.c-aside--subscribe
 plus.google.com##.c-zh-Wf
 appeggs.com,downloadatoz.com##.c_scrollbar
 econsultancy.com##.call-to-action-pod
-xhamster.com##.cams-widget
 bellinghamherald.com,mail.com##.careerbuilder
 v3.co.uk##.case_studies_parent_block
 womenshealthmag.com##.caspromobox
@@ -35767,12 +35767,15 @@ geekwire.com##.widget_wpjb-featured-jobs
 zillow.com##.widget_zillow_connect
 prepperchimp.com##.widgetbox
 urgrove.com##.widgetized
+xhamster.com##.wil-banner
+xhamster.com##.wil-cams-widget
+xhamster.com##.wil-sponsor-link
 wildammo.com##.wild_ammo-tabs
 sharedir.com##.window
 healthgrades.com##.wing
 theatlanticwire.com##.wire-to-go
-xhamster.com,xhamster.one##.wit-sponsor-banner
-xhamster.com,xhamster.one##.wit-spot-container
+xhamster.one##.wit-sponsor-banner
+xhamster.one##.wit-spot-container
 wetpaint.com##.wp-article-recommender
 washingtonpost.com##.wp-float-bar
 fitbit.com##.wrapper-header-fma
@@ -37958,6 +37961,7 @@ post-gazette.com##.pgevoke-story-socialbuttons-facebook
 post-gazette.com##.pgevoke-story-socialbuttons-reddit
 post-gazette.com##.pgevoke-story-socialbuttons-twitter
 bossip.com,esquire.com,fashionmagazine.com,foxnews.com,sassyhongkong.com,sassymanila.com,upi.com##.pin
+inoreader.com##.pin_container
 foodnetwork.com,kitchendaily.com##.pinit
 9gag.tv,bulova.com,cnn.com,fraghero.com,inhabitat.com,latintimes.com,nymag.com,opensiteexplorer.org,tweaktown.com,vulture.com,yahoo.com,yourdailymedia.com##.pinterest
 lhw.com##.pintrest
@@ -39275,6 +39279,7 @@ meteoblue.com##.successMessage
 spiceworks.com##.sui-site-message-container
 haier.com##.swiper-slide-img-txt
 tudorwatch.com##.tdr-ribbon
+abcnews.go.com##.terms-alert-fixed
 fijiairways.com##.terms-of-use
 adelaidenow.com.au,cairnspost.com.au,couriermail.com.au,dailytelegraph.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,heraldsun.com.au,ntnews.com.au,themercury.com.au,townsvillebulletin.com.au,weeklytimesnow.com.au##.tgc-footer_disclaimer
 tastedive.com##.tk-Footer
@@ -43917,6 +43922,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||meetmecdna.com/images/Connect/btn_facebook_custom_text.png$domain=meetme.com
 @@||megabus.com/images/megabus-socialmedia-
 @@||megapolisonline.ru/wp-content/plugins/easy-vkontakte-connect/js/social-likes.min.js
+@@||megaup.net^$generichide
 @@||metservice.com/_/files/social/content-stream.html
 @@||mhfreq.org/wp-content/uploads/*/tweet.png?
 @@||michiganlottery.com/global/share/js/$script
