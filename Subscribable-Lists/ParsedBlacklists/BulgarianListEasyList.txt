@@ -48,7 +48,6 @@ affiliates.londonmarketing.com
 affiliates.mgmmirage.com
 affiliates.mozy.com
 affiliates.myfax.com
-affiliates.purevpn.com
 affiliates.swappernet.com
 affiliates.treasureisland.com
 affiliates.vpn.ht
@@ -757,7 +756,6 @@ d2ibu2ug0mt5qp.cloudfront.net
 d2kmrmwhq7wkvs.cloudfront.net
 d2kyy9hvbrzkgn.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
-d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pxb4n3f9klsc.cloudfront.net
@@ -772,7 +770,6 @@ d3135glefggiep.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d33im0067v833a.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
-d35u1vg1q28b3w.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d36wtdrdo22bqa.cloudfront.net
 d38nbbai6u794i.cloudfront.net
@@ -2491,6 +2488,7 @@ track.ultimate-guitar.com
 track.untd.com
 track.veedio.it
 track.vscash.com
+track.wattpad.com
 track.wayin.com
 track.webgains.com
 track.websiteceo.com
@@ -2506,6 +2504,7 @@ track2.mycliplister.com
 tracker-api.my.com
 tracker-id.cdiscount.com
 tracker.advisable.pl
+tracker.affirm.com
 tracker.anandtech.com
 tracker.azet.sk
 tracker.beezup.com

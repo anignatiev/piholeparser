@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 67xlNgvAfeHOTqf0Nt4Xwg
-! Version: 201910140011
+! Checksum: uZUsirwDpTnh6BNN0Z4lEg
+! Version: 201910170011
 ! Title: Fanboy's Annoyance List
-! Last modified: 14 Oct 2019 00:11 UTC
+! Last modified: 17 Oct 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -31039,6 +31039,7 @@ _site_cookie_
 ##.txtcoockies
 ##.type-cookieacceptpage
 ##.typify-cookie-popup
+##.u12-data-protection-notice
 ##.uc-cookie
 ##.uc-cookie-block
 ##.ucgCookieBar
@@ -38949,6 +38950,7 @@ greenfields.eu##.accept-alert
 akeebabackup.com,imunify360.com,luxos.com,v-tac.eu##.activebar-container
 ticketmaster.ca##.agree-terms
 adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,linkedin.com,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
+espn.com##.alert--fixed
 historicengland.org.uk##.alert-banner
 labour.org.uk##.alert-bar-footer
 evaair.com,orthomol.com,zombiearmy.com##.alert-box
@@ -39380,6 +39382,7 @@ smallseotools.com###cookie-bar
 eteknix.com###cookie-law-info-bar
 depositfiles.com,depositfiles.org,dfiles.eu,dfiles.ru###cookie_popup
 tweaktown.com###cookies_footer_sec
+bild.de,welt.de##.as-oil
 mirror.co.uk##.captify-iframe
 mirror.co.uk##.captify-widget
 flattr.com,thebarchive.com##.cc_banner
@@ -42581,6 +42584,7 @@ electnext.com,youtube.com#@#.feed-icon
 battle.net,squareup.com,yandex.by,yandex.com,yandex.com.tr,yandex.kz,yandex.ru,yandex.ua#@#.feedback-button
 toutelanutrition.com#@#.footer-newsletter
 designdevostransports.fr#@#.gform_widget
+ixbt.com#@#.glyphicon-arrow-up
 novojornal.co.ao#@#.newsletter-modal
 billabong.com,strikerconcepts.com,tactxflashlights.com,urbanedcsupply.com#@#.newsletter-popup
 bidorbuy.co.za#@#.newsletterContainer
@@ -43673,6 +43677,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||bluejeans.com^*/images/auth/$image
 @@||bnf.fr/assets/*/sociallinks_controller.js$script
 @@||bramkasms.pl/templates/ja_social/$image
+@@||brave.com/wp-content/uploads/$image,~third-party
 @@||breakoutlist.com/assets/logos/*-logo.png$domain=breakoutlist.com
 @@||breakoutlist.com/assets/pinterest-logo.png
 @@||breakoutlist.com/assets/twitter-logo.png
