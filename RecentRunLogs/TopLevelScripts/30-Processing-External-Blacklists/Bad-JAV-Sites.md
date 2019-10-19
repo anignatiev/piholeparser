@@ -13,4 +13,4 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
-* Bad-JAV-Sites List Marked As Dead. Thu Oct 17 00:23:51 UTC 2019
+## Checking If List Updated Online

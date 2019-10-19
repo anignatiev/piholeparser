@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: q7uoCbowJSwuQ5u0baG5Aw
-! Version: 201909180010
+! Checksum: OBwDZRHWBzuvFSS3/D4wHA
+! Version: 201910190020
 ! Title: RU AdList: Counters
-! Last modified: 18 Sep 2019 00:10 UTC
-! Expires: 2 days (подписка обновляется автоматически каждые 2 дня)
+! Last modified: 19 Oct 2019 00:20 UTC
+! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
 ! Дополнительный список фильтров RU Adlist: Counters (ruadlist.googlecode.com)
@@ -66,7 +66,6 @@
 @@||yastatic.net/metrika/*/counters/$domain=metrika.yandex.ru
 @@||youtube.com/api/stats/watchtime?$image,domain=youtube.com
 @@||zona.mobi/js/build/app/modules/counters/liru.js$script,domain=zona.mobi
-oldseedoff.zannn.top,seedoff.innal.top,seedoff.net.zannn.top,seedoff.zannn.top,seedoff2.innal.top,seedoff3.innal.top,seedoff4.innal.top,seedoff5.innal.top,seedoff6.innal.top,seedoff7.innal.top,seedoff8.innal.top#@#*
 !
 ! = Частные фильтры ===========================================================
 e.mail.ru###LEGO #leftcol-banners
@@ -79,15 +78,18 @@ happy-hack.ru#?##side_right > .block_r:-abp-has(noindex > center)
 pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net#?##tor-reged ~ *:-abp-has(a)
 pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net#?##tor-reged ~ *:-abp-has(img)
 $third-party,other,xmlhttprequest,domain=alforenao.com|clastarti.cc|mastarti.com
+smotret-anime.online#?#+js(set-constant.js, Object.prototype.playerGlobal.seed, undefined)
 rp5.by,rp5.co.uk,rp5.kz,rp5.md,rp5.ru,rp5.ua#?#+js(setTimeout-defuser.js, xvb)
 militaryreview.su##.bbanerr
 yakusubstudio.home-forum.com,yakusubstudio.ru##.contbaner
 segodnya.ua##.counters
 ok.ru#?#.feed-list > .feed-w:-abp-has(.feed_ava ~ div div > [class] ~ [class] ~ [class] ~ [class] ~ [class] ~ [class])
+yandex.by,yandex.kz,yandex.ru,yandex.ua#?#.mg-page-layout-item:-abp-has(:not([class*="wrapper"]) > * > [class*="turbo-advert_type_"])
+yandex.by,yandex.kz,yandex.ru,yandex.ua##.sport-advert
+/*.php?id=$third-party,other,xmlhttprequest,domain=hdlizor.com|kodik.cc|kodik.info|kodikdb.com
 /^https?://[^\s]+\.(cc\/$|club|com|online|ru)/$other,xmlhttprequest,domain=hdgo.cc|vio.to
 /^https?://rkn\.gov\.ru\/(?!js\/)+[a-z0-9]{15,25}\.js\?+[0-9]{7,15}/$script,domain=rkn.gov.ru
 /assets/vendor*.xml?$third-party,other,xmlhttprequest,domain=kodik.cc|kodikdb.com
-/v.php?id=$third-party,other,xmlhttprequest,domain=kodik.cc|kodik.info|kodikdb.com
 @@/^https?://[a-z]+\.com/+[^\s]{4,15}/$other,xmlhttprequest,domain=alforenao.com|clastarti.cc|mastarti.com|pandastream.cc|streamguard.cc|streamtojupiter.me
 @@||www.inoreader.com/adv/$domain=www.inoreader.com
 pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net##[id*="adbloc"]
@@ -96,13 +98,14 @@ mail.ru##body > .zeropixel ~ * .search__container ~ [class] > .tabs + div[class]
 mail.ru##body > .zeropixel ~ * .search__container ~ [class] > .tabs + div[class] ~ div > div:first-child:not([name]) ~ div
 mail.ru##body > .zeropixel ~ * .search__container ~ [class] ~ [class] > :first-child
 championat.com,gazeta.ru,lenta.ru,quto.ru,rambler.*,rns.online,eda.ru#?#+js(set-constant.js, Object.prototype.getPrefixes, undefined)
+yandex.by,yandex.kz,yandex.ru,yandex.ua##div[class*="turbo-advert_type_"]
 pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net##footer
 pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net##footer > a
-4pda.ru##tbody > tr[valign="top"] > td[width="20%"] + td[class]
+yandex.*#?#+js(abort-on-property-read.js, Object.prototype.loaderVer)
 yandex.*#?#+js(abort-on-property-read.js, Ya.loaderVer)
 yandex.*#?#+js(abort-on-property-read.js, yaads.adRenderedCount)
-||1bfc228b50a902db.com^$domain=kodik.cc|kodik.info|kodikdb.com
-||browserleaks.com/js/proxy_ab.js
+||1bfc228b50a902db.com^$domain=hdlizor.com|kodik.cc|kodik.info|kodikdb.com|video.doramatv.su
+||browserleaks.com/js/proxy_abl.js
 ||fun/assets/vendor*.xml?$third-party,other,xmlhttprequest
 ||google-analytics.com^$domain=checkadblock.ru
 ||googletagmanager.com/gtm.js$domain=echo.msk.ru|tjournal.ru|vc.ru
@@ -217,7 +220,7 @@ _pagespeed_beacon?
 ##img[src^="/stat/"][width="88"][height="31"]
 !
 ! = Общие блокировки (и с использованием имени доменов) =========================
-/^https?://mail\.yandex\.(by|kz|ru|ua)/[^\s]{180,}/$script,domain=mail.yandex.by|mail.yandex.kz|mail.yandex.ru|mail.yandex.ua
+/^https?://mail\.yandex\.(by|kz|ru|ua)/[^\s]{160,}/$script,domain=mail.yandex.by|mail.yandex.kz|mail.yandex.ru|mail.yandex.ua
 /redir/stat/*$domain=autonews.ru|rbc.ru|sportrbc.ru
 |http://li.ru^$third-party,~subdocument
 |http://pr-cy.$third-party
@@ -305,6 +308,7 @@ _pagespeed_beacon?
 ||checkru.net^$third-party
 ||circle.am/service/?
 ||clickaider.com^$third-party
+||clickanalytics208.com^$third-party
 ||clickov.com^
 ||clicktale.net^$third-party
 ||clixpy.com^$third-party
@@ -484,6 +488,7 @@ _pagespeed_beacon?
 ||maxmind.com^$third-party
 ||maxpark.com/iframe_
 ||mcount.ru^$third-party
+||meatydime.com^$third-party
 ||medfirms.ru/top/
 ||media-imdb.com/twilight/?
 ||mediachat.ru/cnt?
@@ -607,7 +612,6 @@ _pagespeed_beacon?
 ||spylog.com^$third-party
 ||spylog.ru^$third-party
 ||spywap.net/ct/
-||ssp.rambler.ru^$domain=~daily.afisha.ru
 ||stat.adlabs.ru^
 ||stat.eagleplatform.com^
 ||stat.sports.ru/piwik*.js
@@ -649,6 +653,7 @@ _pagespeed_beacon?
 ||t.delfi.lt^
 ||tag.aticdn.net^
 ||tags.tiqcdn.com/utag^*/utag.js$domain=~ikea.com
+||tapstat.ru^$third-party
 ||target.smi2.net^$domain=~smi2.ru
 ||target.ukr.net^
 ||tazeros.com^$third-party
