@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tC93NAIhQuvGKKWd5kkXEQ
-! Version: 201910200012
+! Checksum: 9cZGaAjVRwTVSiEUfwmFqw
+! Version: 201910210011
 ! Title: Fanboy's Annoyance List
-! Last modified: 20 Oct 2019 00:12 UTC
+! Last modified: 21 Oct 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -16162,6 +16162,7 @@ _site_cookie_
 ##.s-btns
 ##.s-f__social
 ##.s-facebook
+##.s-get-social
 ##.s-googleplus
 ##.s-instagram
 ##.s-linkedin
@@ -42622,7 +42623,7 @@ hyperoptic.com,playtech.co.nz,porozmawiajmyoit.pl,scan.co.uk#@#.scroll_top
 theuptake.org#@#.scrolltop
 ap.www.namecheap.com#@#.scrolltotop
 chorus.co.nz#@#.scrollup
-github.com,kifi.com,okcupid.com,retailmenot.com#@#.signup-email
+github.com,kifi.com,okcupid.com,retailmenot.com,zoom.us#@#.signup-email
 dualshockers.com#@#.socialfooter
 blackboat.com#@#.sqs-announcement-bar
 xhamster.com#@#.subscribe-block

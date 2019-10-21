@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lBjDC1qbxbrKpwBeNsqGjw
-! Version: 201910200020
+! Checksum: ndG/PI7HUFXfGcoMliiISw
+! Version: 201910210010
 ! Title: RU AdList: BitBlock
-! Last modified: 20 Oct 2019 00:20 UTC
+! Last modified: 21 Oct 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1341,6 +1341,7 @@ _userbar_$image
 ||nativesubscribe.pro^$third-party
 ||panaur.com^$third-party
 ||propushka.com^$third-party
+||push-free.com^$third-party
 ||push-house.net^$third-party
 ||push-plus.net^$third-party
 ||push-pro.net^$third-party
@@ -1625,7 +1626,6 @@ _userbar_$image
 /jquery.arcticmodal$script,stylesheet,domain=allboxing.ru|bigpicture.ru|magicfilm.net
 /newyear.js$domain=feo.ua|xn--e1asq.xn--p1ai
 /push.js$script,domain=mail.ru
-/upload/iblock/*background.png$domain=border-fan.ru|dad-fan.ru|freehat.cc|grif-fan.ru|lalapaluza.ru|simp-fan.ru|sp-fan.ru
 /wp-content/plugins/cookie-notice/$script
 |https://kanobu.ru/api/*/|$xmlhttprequest
 |https://overclockers.ru/|$csp=script-src 'self' data: https: 'unsafe-eval'
@@ -2562,7 +2562,7 @@ evrl.to##.vk_group_promo_new
 kinotochka.club,kinotochka.me##.vksub
 kinotochka.club,kinotochka.pro##.wait_status
 userstyles.org##.walking
-hindcine.net##.warning-adblock
+hindcine.tv##.warning-adblock
 onlineguru.ru##.warning-cookie-block
 porodakoshki.ru##.webnavoz_notificationbox
 chudo-manga.ru##.widget.HTML
@@ -2680,6 +2680,7 @@ xakep.ru##body > strong
 4pda.ru##body [id] div ~ [id][class]:not(div)[style][data-revive-id]
 4pda.ru#?#body article ~ article[itemscope]:-abp-has(a[title][target="_blank"])
 rambler.ru##body:not(#id) > div:not(#id):not([class]):not([style]) .popup--rambler-start
+instagram.com#?#body[style="overflow: hidden;"] > div[class][role="presentation"]:-abp-has(a[href="/accounts/emailsignup/"])
 kak-prosto.net##br + br
 driveroff.net,samlab.ws#?#center:-abp-has(iframe[src*="money.yandex.ru"])
 1cont.ru##cookies-notice
@@ -3077,7 +3078,6 @@ the-zomb.com#@#.sig
 vam.in.ua#@#.sig img
 4pda.ru,jquery.com,oxymoronical.com,scala-lang.org#@#.signature
 ecigtalk.ru#@#.signature img
-zoom.us#@#.signup-email
 aligency.ru#@#.soc-fb
 gdespaces.com,spac.me,spac1.com,spac1.me,spcs.me,strip2.xxx#@#.soc-link
 gdespaces.com,spac.me,spac1.com,spac1.me,spcs.me,strip2.xxx#@#.soc-links
@@ -14600,6 +14600,7 @@ _youtube_social_
 ##.s-btns
 ##.s-f__social
 ##.s-facebook
+##.s-get-social
 ##.s-googleplus
 ##.s-instagram
 ##.s-linkedin
@@ -24185,7 +24186,7 @@ hyperoptic.com,playtech.co.nz,porozmawiajmyoit.pl,scan.co.uk#@#.scroll_top
 theuptake.org#@#.scrolltop
 ap.www.namecheap.com#@#.scrolltotop
 chorus.co.nz#@#.scrollup
-github.com,kifi.com,okcupid.com,retailmenot.com#@#.signup-email
+github.com,kifi.com,okcupid.com,retailmenot.com,zoom.us#@#.signup-email
 dualshockers.com#@#.socialfooter
 blackboat.com#@#.sqs-announcement-bar
 xhamster.com#@#.subscribe-block

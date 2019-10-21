@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201910192344
+! Version: 201910210012
 ! Title: EasyPrivacy
-! Last modified: 19 Oct 2019 23:44 UTC
+! Last modified: 21 Oct 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7095,6 +7095,7 @@ _mongo_stats/
 ||statcounters.info^$third-party
 ||stathat.com^$third-party
 ||stathound.com^$third-party
+||staticcache.org^$third-party
 ||staticiv.com^$third-party
 ||statisfy.net^$third-party
 ||statistiche-web.com^$third-party
@@ -9925,6 +9926,7 @@ _mongo_stats/
 ||communicatorcorp.com^*/conversiontracking.js
 ||compendiumblog.com/js/stats.js
 ||competitoor.com/analytics/
+||concert.io/lib/$script,third-party
 ||conde.io/beacon
 ||condenastdigital.com/content?$third-party
 ||connect.facebook.net/signals/$third-party
@@ -17181,6 +17183,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||email.1und1.de/appsuite/api/*/1and1_integration/tracking/tracking.js$domain=email.1und1.de
 @@||energy.de^*/ivw.js?$domain=energy.de
 @@||eventim.de/obj/global/feature/tagCommander/tc_header.min.$script
+@@||geo.kaloo.ga/json/$script,domain=tagesspiegel.de
 @@||getgoods.de^*/emstrack.js
 @@||gls.de^*/emos2.js
 @@||google-analytics.com/analytics.js$domain=saturn.at|schweizerfleisch.ch
