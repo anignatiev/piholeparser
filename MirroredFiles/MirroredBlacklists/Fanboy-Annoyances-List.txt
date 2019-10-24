@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: j/FtB/uXW/bNNLgWd5J41A
-! Version: 201910230011
+! Checksum: 23Z0Ti+2PdTtpw52rio0mg
+! Version: 201910240012
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Oct 2019 00:11 UTC
+! Last modified: 24 Oct 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5374,6 +5374,7 @@ _site_cookie_
 ###news-ltr
 ###newsLetter-signup-box
 ###newsLetterAsset
+###newsLetterFooterDiv
 ###newsLetterForm
 ###newsLetterSignUp
 ###newsLetterSignup
@@ -5723,6 +5724,7 @@ _site_cookie_
 ###subsribe_right
 ###sw-noty-email
 ###tc_newsletter
+###theEmailBlastSignup
 ###thehill-blocks-signup-form
 ###titolo-newsletter
 ###topMailingListWrapper
@@ -6640,6 +6642,7 @@ _site_cookie_
 ##.sidebar-email-signup-container
 ##.sidebar-mailchimp
 ##.sidebar-newsletter
+##.sidebar-newsletter-prompt
 ##.sidebar-subscribe
 ##.sidebar-subscribe-box
 ##.sidebar-subscribe-box-wrapper
@@ -6685,6 +6688,7 @@ _site_cookie_
 ##.sm_newsletter
 ##.small-newsletter
 ##.sml_subscribe_widget
+##.sna-newsletter
 ##.social-link-mail
 ##.socialNewsletter
 ##.social_newsletter_box
@@ -7654,6 +7658,7 @@ _site_cookie_
 ##.js-backToTop
 ##.js-button-totop
 ##.js-go-to
+##.js-go-top-el
 ##.js-pageTop
 ##.js-persistent-nav-top
 ##.js-s-f-back-to-top
@@ -7685,6 +7690,7 @@ _site_cookie_
 ##.menu-back-to-top
 ##.mh-back-to-top
 ##.mk-go-top
+##.mnmd-go-top
 ##.mod-totop
 ##.move-top
 ##.ms-scroll-to-top-button
@@ -13578,6 +13584,7 @@ _site_cookie_
 ##.fticon-twitter
 ##.fticon-youtube
 ##.ftnd-footer-follow
+##.ftop-social
 ##.ftr-share
 ##.ftr-social
 ##.ftr-social-links
@@ -17453,6 +17460,7 @@ _site_cookie_
 ##.smbt-social-icons
 ##.smshare
 ##.sn-share
+##.sna-whatsapp
 ##.snei-social
 ##.snp-fb
 ##.sns-bar
@@ -18761,6 +18769,7 @@ _site_cookie_
 ##.socialize-link
 ##.socialize-top
 ##.socializeIt
+##.socializer
 ##.socializer-share-bar
 ##.sociall_container
 ##.sociallink
@@ -36769,7 +36778,7 @@ medicaldaily.com##.subscribe-to
 icepop.com##.subscribe__wrapper
 optimumenergy.com##.subscribe_content
 mobilemarketingmagazine.com##.subscribe_section_wrap
-myspace.com##.subscriber
+brooklynpaper.com,myspace.com##.subscriber
 blavity.com##.subscriber_widget
 telecomtalk.info##.subscribing
 techshout.com##.subscribition
@@ -38965,7 +38974,7 @@ akeebabackup.com,imunify360.com,luxos.com,v-tac.eu##.activebar-container
 ticketmaster.ca##.agree-terms
 adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,linkedin.com,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
 espn.com##.alert--fixed
-historicengland.org.uk##.alert-banner
+goodmorningamerica.com,historicengland.org.uk##.alert-banner
 labour.org.uk##.alert-bar-footer
 evaair.com,orthomol.com,zombiearmy.com##.alert-box
 shredit.co.uk##.alert-container
@@ -39381,6 +39390,7 @@ openpli.org##div[style^="height:20px;background-color:#FAFFDC;"]
 globaltuners.com,psychomedia.qc.ca,speedtestcustom.com,zerochan.net##div[style^="position: fixed; bottom"]
 podbean.com##div[style^="z-index: 999999; position: fixed;"]
 my.games##header > .gdpr
+weatherbug.com##notification-footer
 satispay.com##p[class^="cookie-banner"]
 truecaller.com##span > .max-w-md.shadow-lg
 bethesda.net##visor-alert
@@ -41915,7 +41925,6 @@ bose.it##.bose-infoBar2016--fixedBottom
 elettrocasa.it,ntp-shop.it##.bottomBarMessage
 raikaritten.it##.bottom_note
 bolognafiere.com,bolognafiere.it##.box-alert
-sapo.ao##.bsu-v2-ntfs
 infiniti.it##.c_128
 hyle.appspot.com##.cc
 mivoq.it##.check-policy
@@ -42234,6 +42243,7 @@ gentside.com.br###cookie
 fidelidade.pt,ren.pt###cookies
 rtp.pt###rtpgeralcookiecontent
 cmjornal.pt,jornaldenegocios.pt###termos
+sapo.ao##.bsu-v2-ntfs
 vodafone.pt##.ck-nudge-slim
 sinonimos.com.br##.clm
 macorlux.pt##.cookie
@@ -42565,7 +42575,7 @@ rmf24.pl#@##backTop
 nasa.gov#@##backtoTop
 stp-shop.ru#@##backtop
 gcnlive.com,nasa.gov#@##backtotop
-sandisk.com#@##consent_blackbar
+patch.com#@##email-modal-wrapper
 hearthis.at#@##email-overlay
 arma3.com,dayz.com#@##go-top
 mercopress.com#@##goToTop

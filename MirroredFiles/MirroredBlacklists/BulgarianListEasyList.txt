@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201910222214
+! Version: 201910232242
 ! Title: EasyPrivacy
-! Last modified: 22 Oct 2019 22:14 UTC
+! Last modified: 23 Oct 2019 22:42 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1316,6 +1316,7 @@
 /count_stats/*
 /countbk.
 /CountContent?
+/counter-js.php
 /Counter.ashx?
 /counter.asp?
 /counter.aspx?
@@ -5135,6 +5136,7 @@ _mongo_stats/
 ||adways.com^$third-party
 ||adwstats.com^$third-party
 ||adxadtracker.com^$third-party
+||adxcel-ec2.com^$third-party
 ||adyapper.com^$third-party
 ||afairweb.com^$third-party
 ||affilae.com^$third-party
@@ -5316,6 +5318,7 @@ _mongo_stats/
 ||bidswitch.net^$third-party
 ||bigcattracks.com^$third-party
 ||bigmir.net^$third-party
+||bigreal.org^$third-party
 ||bigstats.net^$third-party
 ||bigtracker.com^$third-party
 ||bikepasture.com^$third-party
@@ -6679,6 +6682,7 @@ _mongo_stats/
 ||pixelinteractivemedia.com^$third-party
 ||pixelrevenue.com^$third-party
 ||pixelsnippet.com^$third-party
+||pixlee.com^$third-party
 ||pizzaandads.com^$third-party
 ||pjatr.com^$third-party
 ||pjtra.com^$third-party
@@ -7441,6 +7445,7 @@ _mongo_stats/
 ||visitorprofiler.com^$third-party
 ||visitortracklog.com^$third-party
 ||visitorville.com^$third-party
+||visitstats.com^$third-party
 ||visitstreamer.com^$third-party
 ||visto1.net^$third-party
 ||visualdna-stats.com^$third-party
@@ -10246,6 +10251,7 @@ _mongo_stats/
 ||events.medio.com^
 ||events.ocdn.eu^
 ||events.realgravity.com^
+||events.tubecup.org^
 ||events.whisk.com^
 ||events.yourcx.io^
 ||eventtracker.videostrip.com^$third-party
@@ -12582,6 +12588,7 @@ _mongo_stats/
 ||analytics.iraiser.eu^
 ||analytics.islamicfinder.org^
 ||analytics.jabong.com^
+||analytics.kaggle.io^
 ||analytics.localytics.com^
 ||analytics.mindjolt.com^
 ||analytics.newsinc.com^
@@ -13312,7 +13319,7 @@ _mongo_stats/
 ||glassmoni.researchgate.net^
 ||glean.pop6.com^
 ||global.canon^*/analytics.js
-||global.ssl.fastly.net^$script,domain=desertsun.com|jsonline.com|lohud.com|radiotimes.com|sainsburys.co.uk
+||global.ssl.fastly.net^$script,domain=desertsun.com|jsonline.com|lohud.com|mentalfloss.com|radiotimes.com|sainsburys.co.uk
 ||globes.co.il/ga.asp
 ||globes.co.il/shared/s.ashx?
 ||globester.com^*/track.js
@@ -13489,6 +13496,7 @@ _mongo_stats/
 ||intensedebate.com/empty.php
 ||intent.cbsi.com^
 ||intercom.io/gtm_tracking/
+||intercom.io/messenger/web/metrics
 ||internetslang.com/jass/$script
 ||intg.snapchat.com^
 ||investegate.co.uk/Weblogs/IGLog.aspx?
@@ -14023,7 +14031,7 @@ _mongo_stats/
 ||priceline.com^*/beaconHandler?
 ||priceline.com^*/impression/
 ||primevideo.com/uedata/
-||primevideo.com^*/ref=
+||primevideo.com^*/ref=$~xmlhttprequest
 ||princetonreview.com/logging/
 ||prnewswire.com/rit.gif?
 ||prnewswire.com/rt.gif?
@@ -14381,6 +14389,7 @@ _mongo_stats/
 ||sp.thetimesherald.com^
 ||sp.thetowntalk.com^
 ||sp.timesrecordnews.com^
+||sp.tinymce.com^
 ||sp.udimg.com^
 ||sp.usatoday.com^
 ||sp.vcstar.com^
@@ -14452,6 +14461,7 @@ _mongo_stats/
 ||stats.cheddar.com^
 ||stats.christianpost.com^
 ||stats.clear-media.com^
+||stats.digg.com^
 ||stats.dnaindia.com^
 ||stats.ebay.com^
 ||stats.europe.newsweek.com^

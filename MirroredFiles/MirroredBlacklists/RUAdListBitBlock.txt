@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qh7J8S6wT2Zbgpvmd6y2pQ
-! Version: 201910230010
+! Checksum: YDe48ImwJA4iDfrC7ILZNg
+! Version: 201910240010
 ! Title: RU AdList: BitBlock
-! Last modified: 23 Oct 2019 00:10 UTC
+! Last modified: 24 Oct 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1873,6 +1873,8 @@ naruto-brand.ru#?##allEntries > div[id^="entryID"]:-abp-has(a[href][target="_bla
 tree.tv###android_app
 ok.ru###anonymPageContent > div[data-promo]
 vk.com###app_container_outer + div[style]
+re.kufar.by#?##application > #__next #header ~ div[class]:not([id]):-abp-has([data-name="cookies_button_ok"])
+www.kufar.by###application > #__next > #header ~ #rtb-house + div[class]:not([id])
 rutube.ru###b-div
 tabloid.one###bakmagecme
 ren.tv###banner_ss_all
@@ -2230,7 +2232,6 @@ kinoteatr.ru##.content_right_banner
 eg.ru##.cookie
 xhamster.com##.cookie-announce
 delfi.lv##.cookie.notification-widget
-kufar.by##.cookie_type_active
 gismeteo.md##.cookienotify
 expres.online,unian.info,unian.net,unian.ua,vladnews.ru##.cookies
 2ip.ru##.cookies-notification
@@ -12019,6 +12020,7 @@ _youtube_social_
 ##.fticon-twitter
 ##.fticon-youtube
 ##.ftnd-footer-follow
+##.ftop-social
 ##.ftr-share
 ##.ftr-social
 ##.ftr-social-links
@@ -15894,6 +15896,7 @@ _youtube_social_
 ##.smbt-social-icons
 ##.smshare
 ##.sn-share
+##.sna-whatsapp
 ##.snei-social
 ##.snp-fb
 ##.sns-bar
@@ -17202,6 +17205,7 @@ _youtube_social_
 ##.socialize-link
 ##.socialize-top
 ##.socializeIt
+##.socializer
 ##.socializer-share-bar
 ##.sociall_container
 ##.sociallink
@@ -21071,6 +21075,7 @@ _backToTop.
 ###news-ltr
 ###newsLetter-signup-box
 ###newsLetterAsset
+###newsLetterFooterDiv
 ###newsLetterForm
 ###newsLetterSignUp
 ###newsLetterSignup
@@ -21420,6 +21425,7 @@ _backToTop.
 ###subsribe_right
 ###sw-noty-email
 ###tc_newsletter
+###theEmailBlastSignup
 ###thehill-blocks-signup-form
 ###titolo-newsletter
 ###topMailingListWrapper
@@ -22337,6 +22343,7 @@ _backToTop.
 ##.sidebar-email-signup-container
 ##.sidebar-mailchimp
 ##.sidebar-newsletter
+##.sidebar-newsletter-prompt
 ##.sidebar-subscribe
 ##.sidebar-subscribe-box
 ##.sidebar-subscribe-box-wrapper
@@ -22382,6 +22389,7 @@ _backToTop.
 ##.sm_newsletter
 ##.small-newsletter
 ##.sml_subscribe_widget
+##.sna-newsletter
 ##.social-link-mail
 ##.socialNewsletter
 ##.social_newsletter_box
@@ -23351,6 +23359,7 @@ _backToTop.
 ##.js-backToTop
 ##.js-button-totop
 ##.js-go-to
+##.js-go-top-el
 ##.js-pageTop
 ##.js-persistent-nav-top
 ##.js-s-f-back-to-top
@@ -23382,6 +23391,7 @@ _backToTop.
 ##.menu-back-to-top
 ##.mh-back-to-top
 ##.mk-go-top
+##.mnmd-go-top
 ##.mod-totop
 ##.move-top
 ##.ms-scroll-to-top-button
@@ -24130,7 +24140,7 @@ rmf24.pl#@##backTop
 nasa.gov#@##backtoTop
 stp-shop.ru#@##backtop
 gcnlive.com,nasa.gov#@##backtotop
-sandisk.com#@##consent_blackbar
+patch.com#@##email-modal-wrapper
 hearthis.at#@##email-overlay
 arma3.com,dayz.com#@##go-top
 mercopress.com#@##goToTop
