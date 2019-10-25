@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201910232242
+! Version: 201910242144
 ! Title: EasyPrivacy
-! Last modified: 23 Oct 2019 22:42 UTC
+! Last modified: 24 Oct 2019 21:44 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -983,6 +983,7 @@
 /bs.measure.
 /bsc_trak.
 /bShowTrack.
+/bsp-analytics.
 /bstat.js
 /bstats.$domain=~bstats.org
 /bsuite/worker.php?
@@ -1248,6 +1249,7 @@
 /collectStats;
 /com_joomla-visites/*
 /com_joomlawatch/*
+/common/ga.js
 /common/tracker.js
 /competeTracking_test.html?
 /comscore-min.js
@@ -1913,7 +1915,7 @@
 /google/autotrack.
 /Google/ga.js
 /google_analitycs.
-/google_analytics-bc.swf
+/google_analytics-
 /google_analytics.$~image
 /google_analytics/*
 /google_analytics3_
@@ -6639,6 +6641,7 @@ _mongo_stats/
 ||parrable.com^$third-party
 ||pass-1234.com^$third-party
 ||pathful.com^$third-party
+||pbbl.co^$third-party
 ||pc1.io^$third-party
 ||pclicks.com^$third-party
 ||pcspeedup.com^$third-party
@@ -6938,6 +6941,7 @@ _mongo_stats/
 ||securitytrfx.com^$third-party
 ||sedotracker.com^$third-party
 ||seehits.com^$third-party
+||seeip.org^$third-party
 ||seevolution.com^$third-party
 ||seewhy.com^$third-party
 ||segment-analytics.com^$third-party
@@ -7057,6 +7061,7 @@ _mongo_stats/
 ||sojern.com^$third-party
 ||soko.ai^$third-party
 ||sokrati.com^$third-party
+||solutionshindsight.net^$third-party
 ||sometrics.com^$third-party
 ||sophi.io^$third-party
 ||sophus3.com^$third-party
@@ -8274,6 +8279,7 @@ _mongo_stats/
 ||bh8yx.xyz^$third-party
 ||broadcastbed.com^$third-party
 ||broaddoor.com^$third-party
+||butterburst.com^$third-party
 ||cannontwin.com^$third-party
 ||capsquirrel.com^$third-party
 ||caringzinc.com^$third-party
@@ -8284,9 +8290,11 @@ _mongo_stats/
 ||coordinatedcub.com^$third-party
 ||copycarpenter.com^$third-party
 ||cubchannel.com^$third-party
+||culturedcrayon.com^$third-party
 ||delegatediscussion.com^$third-party
 ||desiredirt.com^$third-party
 ||detectdiscovery.com^$third-party
+||diplomahawaii.com^$third-party
 ||ejyymghi.com^$third-party
 ||endurablecrayon.com^third-party
 ||familiarfloor.com^$third-party
@@ -8328,6 +8336,7 @@ _mongo_stats/
 ||puffyloss.com^$third-party
 ||quaintcan.com^$third-party
 ||quietknowledge.com^$third-party
+||raresummer.com^$third-party
 ||richstring.com^$third-party
 ||ritzykey.com^$third-party
 ||scintillatingspace.com^$third-party
@@ -9651,7 +9660,6 @@ _mongo_stats/
 ||app.insightgrit.com^
 ||app.link^$third-party
 ||app.opmnstr.com/v2/geolocate/
-||app.pendo.io/data/ptm.gif
 ||app.yesware.com/t/$third-party
 ||appdynamics.com/geo/$third-party
 ||appinthestore.com/click/
@@ -10817,6 +10825,7 @@ _mongo_stats/
 ||pcrl.co/js/jstracker.min.js
 ||pebed.dm.gg^
 ||peermapcontent.affino.com^
+||pendo.io/data/ptm.gif
 ||penton.com/analytics/
 ||performance.typekit.net^$third-party
 ||performgroup.com/metrics/
@@ -10950,7 +10959,7 @@ _mongo_stats/
 ||rackcdn.com/icon2.gif?
 ||rackcdn.com/knotice.api.js
 ||rackcdn.com/stf.js
-||rackcdn.com^$script,domain=barrons.com|buysubscriptions.com|cbsnews.com|cbssports.com|cnet.com|cnetfrance.fr|dailystar.co.uk|express.co.uk|gamerant.com|gamespot.com|giantbomb.com|inyt.com|metacritic.com|metrolyrics.com|page3.com|rotoworld.com|scout.com|sh.st|thesun.co.uk|thesun.ie|thesundaytimes.co.uk|thetimes.co.uk|tv.com|tvguide.com|zdnet.com
+||rackcdn.com^$script,domain=barrons.com|buysubscriptions.com|cbsnews.com|cbssports.com|cnet.com|cnetfrance.fr|express.co.uk|gamerant.com|gamespot.com|giantbomb.com|inyt.com|metacritic.com|metrolyrics.com|page3.com|rotoworld.com|scout.com|sh.st|thesun.co.uk|thesun.ie|thesundaytimes.co.uk|thetimes.co.uk|tv.com|tvguide.com|zdnet.com
 ||rackcdn.com^*/analytics.js
 ||radiotime.com/Report.ashx?
 ||radiotime.com/reports/
@@ -15520,6 +15529,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||ts.otto.de^
 ||ts.rtl.de^
 ||tvcommunity.at/filmpicture.aspx?count=1&
+||tweakimg.net/x/vendor/wt/
 ||ui-portal.de/brbtpixel/
 ||unser-star-fuer-oslo.de^*/stats.php
 ||vfd2dyn.vodafone.de^
@@ -16432,6 +16442,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||c.paypal.com/da/r/fb.js$script
 @@||c212.net^$image,domain=prnewswire.com
 @@||cache.nymag.com^*/clickability.js
+@@||calpinesolutions.com/assets/gtm/gtm.js$script
 @@||canada.com/js/ooyala/comscore.js
 @@||canadiantire.ca^*/analytics.sitecatalyst.js
 @@||canoe.ca/generix/omniture/TagOmnitureEngine.js
@@ -16707,6 +16718,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||krxd.net^$script,domain=nbcnews.com
 @@||l.yimg.com/g/combo/*/comscore.$script
 @@||leeaws.com/api-cache/chartbeat/?host=$xmlhttprequest,domain=tucson.com
+@@||legendstracking.com/js/legends-tracking.js
 @@||lenovo.com^*/GoogleAnalytics.js
 @@||leretourdelautruche.com/map/nuke/heatmap.js
 @@||lesacasino.com^*/EMERPEventCollector.$script,subdocument
@@ -16958,7 +16970,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||static.atgsvcs.com/js/atgsvcs.js$domain=officedepot.com|shop.lego.com
 @@||static.btbuckets.com/bt.js$domain=readwriteweb.com
 @@||static.chartbeat.com/js/chartbeat_mab.js$domain=usatoday.com
-@@||static.parsely.com^$script,domain=dailystar.co.uk|express.co.uk
+@@||static.parsely.com^$script,domain=express.co.uk
 @@||static.rpxnow.com/js/lib/rpx.js$domain=colbertnation.com|thedailyshow.com
 @@||staticflickr.com^*/analytics-min.js$domain=flickr.com
 @@||statics.cfmcdn.net/*/scripts/webtrends-$script,domain=cheapflights.com

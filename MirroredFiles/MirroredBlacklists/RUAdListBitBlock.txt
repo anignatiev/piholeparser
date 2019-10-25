@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YDe48ImwJA4iDfrC7ILZNg
-! Version: 201910240010
+! Checksum: qGn9DB/vx6EGmgPHNaqJsw
+! Version: 201910250010
 ! Title: RU AdList: BitBlock
-! Last modified: 24 Oct 2019 00:10 UTC
+! Last modified: 25 Oct 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -481,6 +481,7 @@ smotret-anime.online#?#.card > .card-content:-abp-has(> .m-translation-view__sha
 avito.ru##.catalog-social-buttons
 kp.ru##.cb_services-all
 bestmuzon.me##.cb_socials
+mobiltelefon.ru##.cnt_followers
 kleo.ru##.col-2 > #tabs_wrapper
 allboxing.ru#?#.col-3 > .block_title:-abp-contains(Твиты от YuriTarantin)
 gazeta.ua#?#.col-right > div:-abp-has(iframe[class^="fb_"])
@@ -1873,7 +1874,6 @@ naruto-brand.ru#?##allEntries > div[id^="entryID"]:-abp-has(a[href][target="_bla
 tree.tv###android_app
 ok.ru###anonymPageContent > div[data-promo]
 vk.com###app_container_outer + div[style]
-re.kufar.by#?##application > #__next #header ~ div[class]:not([id]):-abp-has([data-name="cookies_button_ok"])
 www.kufar.by###application > #__next > #header ~ #rtb-house + div[class]:not([id])
 rutube.ru###b-div
 tabloid.one###bakmagecme
@@ -2292,7 +2292,6 @@ fast-film.ru,fast-torrent.club,fast-torrent.ru,fast-torrent.su,filmopotok.ru,fil
 matchpremier.ru,matchtv.ru,sportbox.ru##.gpm-cookie-accepted
 gamebomb.ru##.grid-100p-301-rc > .container[style^="background-color"]
 lkforum.ru##.head
-muzofond.com##.header > .vk-bar
 champion.com.ua##.header-battles-block
 radojuva.com.ua##.header-image-container
 besplatnyeprogrammy.net##.header-inner > .pull-right
@@ -2710,6 +2709,8 @@ megogo.net##div[class^="cookiesNotification"]
 google.com,google.com.ua,google.ru##div[class^="gb_"] > div[aria-label="promo"]
 google.com,google.com.ua,google.ru##div[class^="gb_"] > div[style="behavior:url(#default#userData)"]
 fssprus.ru##div[class^="header-infoline-"]
+auto.kufar.by##div[class^="kfa-fTPM-"]
+re.kufar.by##div[class^="kfr-usQ-"]
 m24.ru##div[class^="my_widget_wrapper"]
 www.kinopoisk.ru##div[class^="promo"][style^="bottom:"]
 kinogo1.club##div[class^="rek_top"]
@@ -3240,7 +3241,7 @@ myshared.ru#@#.ya-share2_inited
 @@||vgtimes.ru/img/gplus.png|
 @@||vk.com/images/btns.png$domain=app.tbn.ru
 @@||vk.com/share.php?$third-party,domain=postila.ru
-@@||vk.com/widget_comments.php^$domain=iomedia.ru
+@@||vk.com/widget_comments.php^$domain=anilibria.tv|iomedia.ru
 @@||vk.com/widget_community.php$domain=iomedia.ru|jcross-world.ru
 @@||vkontakte.ru/js/api/openapi.js$domain=app.tbn.ru|g2a.com|tree.tv
 @@||vkontakte.ru/js/api/share.js$script,domain=smotri.com|vinnitsa.info
@@ -3263,7 +3264,7 @@ bombardir.ru,eg.ru,livelib.ru,livemaster.ru,soccer.ru,vichatter.net,wikium.ru#@#
 soccer.ru,wikium.ru#@#a[title="Google+"]
 bombardir.ru,livelib.ru,livemaster.ru,soccer.ru,vichatter.net#@#a[title="Twitter"]
 evrl.to,livemaster.ru#@#a[title="ВКонтакте"]
-iomedia.ru#@#div[id^="vk_comments"]
+anilibria.tv,iomedia.ru#@#div[id^="vk_comments"]
 iomedia.ru,jcross-world.ru#@#div[id^="vk_group"]
 europaplus.ru,kinokopilka.pro,pikabu.ru#@#img[alt="Facebook"]
 kinokopilka.pro#@#img[alt="Twitter"]
@@ -17618,6 +17619,7 @@ _youtube_social_
 ##.svg-twitter
 ##.svgIcon--facebookFilled
 ##.svgIcon--twitterFilled
+##.svp-share
 ##.swf-sn-share-link
 ##.swf-social-site
 ##.switchShare
@@ -19390,6 +19392,7 @@ _youtube_social_
 ||getsocial.io/widget/$third-party
 ||google.com/_/+1/$third-party
 ||google.com^*/fastbutton?$third-party
+||gotchosen.com^$third-party
 ||gplusapi.appspot.com^$third-party
 ||graph.facebook.com/fql?q=SELECT$third-party
 ||handll.com^$third-party
@@ -21695,6 +21698,7 @@ _backToTop.
 ##.email-subscribe-box-large
 ##.email-subscription-div
 ##.email-subscription-promo
+##.email-subscription-sidebar
 ##.email-subscription-wrap
 ##.email-subscription-wrap-sidebar
 ##.email-to-a-friend
@@ -21716,6 +21720,7 @@ _backToTop.
 ##.endpage_newsletter_signup
 ##.enews-wrapper
 ##.enewsletter
+##.english_newsletter_component
 ##.enlace_newsletter
 ##.entry-email-signup
 ##.entry-footer-subscribe
@@ -21972,6 +21977,7 @@ _backToTop.
 ##.newsletter--article
 ##.newsletter--blog-container
 ##.newsletter--container
+##.newsletter--dark
 ##.newsletter--eil
 ##.newsletter--footer
 ##.newsletter-advertisement
@@ -21990,6 +21996,7 @@ _backToTop.
 ##.newsletter-box-news
 ##.newsletter-btn
 ##.newsletter-btn--mid-articles
+##.newsletter-buttom
 ##.newsletter-button
 ##.newsletter-c
 ##.newsletter-call-to-action
@@ -22194,6 +22201,7 @@ _backToTop.
 ##.newsletter_social
 ##.newsletter_social_form
 ##.newsletter_subscribe
+##.newsletter_subscribe_banner
 ##.newsletter_subscription
 ##.newsletter_subscription_top_embed
 ##.newsletter_testo
@@ -22211,6 +22219,7 @@ _backToTop.
 ##.newslettersignin
 ##.newslettersignup
 ##.newslettersrssbox
+##.newsletterssignupmodules
 ##.newslettersubscrive
 ##.newslettertr
 ##.newsletterwidget
@@ -24236,7 +24245,7 @@ reddit.com#@#img[alt="submit to reddit"]
 @@||chip.de^*/outbrain.js
 @@||chobani.com/js/views/newsletter-signup.js
 @@||complexmedianetwork.com/js/cmnUNT.js
-@@||config.parsely.com/config/$script,domain=dailystar.co.uk|express.co.uk
+@@||config.parsely.com/config/$script,domain=express.co.uk
 @@||connatix.com/min/connatix.renderer.infeed.min.js$domain=collider.com|gamepress.gg|salon.com
 @@||disqus.com^*/social-icons.png
 @@||dollartree.com^*/backToTop.min.js
