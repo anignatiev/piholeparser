@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9848
+! Version: 9863
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -103,6 +103,7 @@
 ||afnrmofoljod.com^
 ||afpisdddjik.bid^
 ||afqvtomlqjioeo.com^
+||afrfndbumyyt.com^
 ||afruetdxrbxz.com^
 ||afxtcajgtzcugb.com^
 ||afyqzjxzuupmz.bid^
@@ -1512,6 +1513,7 @@
 ||dkjgyysfincxps.bid^
 ||dklvewbgjksyy.com^
 ||dkmdklhu.com^
+||dkorusxgputkrb.com^
 ||dkroonzvxvansw.com^
 ||dksvmumbi.com^
 ||dktaqipmquo.com^
@@ -1991,6 +1993,7 @@
 ||eozegbfpvhasf.com^
 ||epbathcyav.com^
 ||epernepojkle.com^
+||epexcjdkzcl.com^
 ||epgokiocquxf.com^
 ||ephtwbxuqy.com^
 ||eplocjhuxsoj.com^
@@ -2542,6 +2545,7 @@
 ||fvenxjtzuaxu.com^
 ||fveugxikrgrbsh.com^
 ||fvffhcyxc.com^
+||fvflgigyryacgp.com^
 ||fvgfcotnmj.com^
 ||fvhxlrcd.com^
 ||fvipinzac.com^
@@ -3375,6 +3379,7 @@
 ||hsnvnmjriom.com^
 ||hsoyrqqsludd.com^
 ||hsqslxewsnga.com^
+||hsqujerwg.com^
 ||hsqvofrzwluvns.com^
 ||hstqqjxqwnrfhy.com^
 ||hsufwxpdtddlh.com^
@@ -3782,6 +3787,7 @@
 ||iqpfextjfphjnn.com^
 ||iqqbwhrf.com^
 ||iqsqqyoqry.com^
+||iqtygxmjgbakm.com^
 ||iqwbqjnst.bid^
 ||iqwczlbxvtcnh.com^
 ||iqwhwomdmjg.bid^
@@ -5527,6 +5533,7 @@
 ||mmojdtejhgeg.com^
 ||mmoxoatieyam.bid^
 ||mmpcqstnkcelx.com^
+||mmqidlebc.com^
 ||mmqsbtpmdrib.bid^
 ||mmsbbbki.com^
 ||mmsdewfvxhw.com^
@@ -6058,6 +6065,7 @@
 ||nstlnjtrufu.com^
 ||nswnseld.com^
 ||ntbftkhrsrh.com^
+||ntdbjlngermplx.com^
 ||ntduattgboduk.com^
 ||ntejdhcom.bid^
 ||nterfvetypi.bid^
@@ -6145,6 +6153,7 @@
 ||nychunlnlca.com^
 ||nycnjewyxex.com^
 ||nyfsjqxopdzvvm.bid^
+||nyibqkuhqdz.com^
 ||nyltsyud.com^
 ||nypmjsgpmhd.com^
 ||nyrszeos.bid^
@@ -8506,6 +8515,7 @@
 ||tmkcofbjv.com^
 ||tmmpbkwnzilv.com^
 ||tmmpiibtfi.com^
+||tmpnencifbe.com^
 ||tmrhtbbhrfbx.bid^
 ||tmrsjdxavhjgww.com^
 ||tmtuohxkv.com^
@@ -9012,6 +9022,7 @@
 ||uxzbsinjyld.com^
 ||uydeapvmmlvdp.com^
 ||uyeluxauiq.com^
+||uymjshdxxneu.com^
 ||uymxsbbh.com^
 ||uytabzmvei.com^
 ||uyxjnuqbti.com^
@@ -9046,6 +9057,7 @@
 ||vbxrcekqkmrzyd.com^
 ||vcfnspbgztl.com^
 ||vcjbxucwrprtu.com^
+||vctgwjsgivo.com^
 ||vcvapkiua.com^
 ||vcwrigdrnh.com^
 ||vcxoizuwy.com^
@@ -9239,6 +9251,7 @@
 ||wenpsnpqher.com^
 ||weoukcpr.com^
 ||wepyyttx.com^
+||wfcvhhmumb.com^
 ||wfcxcblmy.com^
 ||wffiuoyzo.com^
 ||wfjdmkjetpbgv.com^
@@ -9285,6 +9298,7 @@
 ||wlwootzzijp.com^
 ||wmrlljpj.com^
 ||wmtyrdrpjbhnj.com^
+||wndwhzjmfshthv.com^
 ||wnmtmdlvqqscs.com^
 ||wntpgjzwg.com^
 ||wnuvhicameqiso.com^
@@ -9502,6 +9516,7 @@
 ||xwcqrzkle.com^
 ||xwdlgzrnuyo.com^
 ||xwetmeeynns.com^
+||xwoexbipp.com^
 ||xwonghmweu.com^
 ||xwvofxgqilhy.com^
 ||xwxbiywlavgpm.com^

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qGn9DB/vx6EGmgPHNaqJsw
-! Version: 201910250010
+! Checksum: tsd2KcK6L4NOgCkuhCttDA
+! Version: 201910260010
 ! Title: RU AdList: BitBlock
-! Last modified: 25 Oct 2019 00:10 UTC
+! Last modified: 26 Oct 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -608,6 +608,7 @@ mastergrad.com##.msw-social
 megapesni.me##.music-like-social
 kinogb.mobi##.my-vkk-soc
 stranamam.ru##.n-main-socnet
+nabat.news##.nabatsocial
 tvzvezda.ru##.nametitle td > a[href^="http"]
 qaru.site##.nav > .tele,.navbar > .container > .wraptip
 gismeteo.md,gismeteo.ru,gismeteo.ua##.navteaser
@@ -713,6 +714,7 @@ androidinsider.ru,appleinsider.ru,hi-news.ru##.sidebar-banner-telegram
 ryfma.com#?#.sidebar-card:-abp-has(> .content > .header:-abp-contains(Мы в соц.сетях))
 nevasport.ru##.sidebar-widget
 rg.ru##.single-banner
+nabat.news##.single-sharing
 game2day.org,game2day.ru##.single_socials
 tsn.ua##.sl_bottom_holder
 friday.ru##.slide-share
@@ -1214,6 +1216,7 @@ _userbar_$image
 ##.ds2-cookie-disclaimer
 ##.ds2-cookiedisclaimer
 ##.forum-user-signature img
+##.gdpr-consent-banner
 ##.gdprPopup
 ##.gpm-cookie-accepted
 ##.js-cookie-bar
@@ -1358,7 +1361,6 @@ _userbar_$image
 ||pushell.info^$third-party
 ||pusher.com^$third-party,domain=~onefm.ro
 ||pusherapp.com^$third-party
-||pushere.info^$third-party
 ||pushex.io^$third-party
 ||pushine.info^$third-party
 ||pushington.info^$third-party
@@ -1625,6 +1627,7 @@ _userbar_$image
 /geo/interesting/news/$domain=rbc.ru|sportrbc.ru
 /get-readmore-news/$domain=rbc.ru|sportrbc.ru
 /jquery.arcticmodal$script,stylesheet,domain=allboxing.ru|bigpicture.ru|magicfilm.net
+/min/js/pages/push.js$script,~third-party,domain=sputnik.az|sputnik.by|sputnik.kg|sputnik.md
 /newyear.js$domain=feo.ua|xn--e1asq.xn--p1ai
 /push.js$script,domain=mail.ru
 /wp-content/plugins/cookie-notice/$script
@@ -3225,6 +3228,7 @@ myshared.ru#@#.ya-share2_inited
 @@||sberometer.ru/images/google-play.$image,domain=sberometer.ru
 @@||sendpulse.com^$domain=lrepacks.ru
 @@||sergeistrelec.ru^*/images/ratingplus.png$image,domain=sergeistrelec.ru
+@@||sputnik.*/min/js/plugins/social-likes.min.js$script,~third-party,domain=sputnik.az|sputnik.by|sputnik.kg|sputnik.md
 @@||stat.radar.imgsmail.ru/*=honeypot_fake_$image,domain=e.mail.ru
 @@||static.tacdn.com/components/dist/social.share-cta.*.js|$script,domain=tripadvisor.ru
 @@||static1.1tv.ru/resources/jquery.smartbanner.js$script,domain=1tv.ru
