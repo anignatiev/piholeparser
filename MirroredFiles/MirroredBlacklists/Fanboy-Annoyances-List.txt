@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Y+lAmn/9wBzXDFiqOG+C+g
-! Version: 201910250012
+! Checksum: aijzbXbUks4ezL8aih1Csg
+! Version: 201910270012
 ! Title: Fanboy's Annoyance List
-! Last modified: 25 Oct 2019 00:11 UTC
+! Last modified: 27 Oct 2019 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -255,6 +255,7 @@ _push_sw.
 /bg-newsletter-
 /bg_newsletter.
 /bloc_newsletter.
+/blocknewsletter/*
 /common/newsletter-
 /Components/newsletter/*
 /content/newsletter/*
@@ -4433,6 +4434,7 @@ _youtube_social_
 /privacy-templates.js?
 /privacy/cookie.
 /privacy_cookie.
+/privacy_policy.js
 /privacy_popup?
 /privacycookie/*
 /privacyframe.
@@ -5333,6 +5335,7 @@ _site_cookie_
 ###inline-subscribe-form
 ###inpage_newsletter_signup_wrapper
 ###ins-newsletter-form
+###inscription_newsletter
 ###instory_newsletter_signup
 ###iscrizioniscr_emaileNewsletter
 ###it_newsletters
@@ -5860,6 +5863,7 @@ _site_cookie_
 ##.block-ti-lsg-cook-newsletters
 ##.block-trinity-newsletter
 ##.blockNewsletter
+##.block_newsletter
 ##.block_valor_newsletter_front
 ##.blog-signup-container
 ##.blog_signup_box
@@ -6524,6 +6528,8 @@ _site_cookie_
 ##.ng-newsletter
 ##.nl-newsletter_signup
 ##.nl-signup-scrollbox
+##.nl-subscription-container
+##.nl-subscription-inarticle
 ##.nlSubscribe
 ##.nlWidgetMain2
 ##.nls-subscribe
@@ -27778,6 +27784,7 @@ _site_cookie_
 ##.cookie-content-container
 ##.cookie-control
 ##.cookie-control-container
+##.cookie-control-content
 ##.cookie-copy
 ##.cookie-cover
 ##.cookie-cube
@@ -28109,6 +28116,7 @@ _site_cookie_
 ##.cookie-tip-wrap
 ##.cookie-to-top
 ##.cookie-toast
+##.cookie-toaster
 ##.cookie-tool-container
 ##.cookie-toolbar
 ##.cookie-tooltip
@@ -35638,7 +35646,7 @@ newyorker.com##.subs
 rugby365.com##.subs-block
 medianama.com##.subs-news
 reviversoft.com##.subs_wrapper
-inthesetimes.com,omny.fm##.subscribe
+gulfnews.com,inthesetimes.com,omny.fm##.subscribe
 theresurgent.com##.subscribe-news
 wired.com##.subscribe-panel-component
 theweek.com##.subscribe-unit-header
@@ -39371,6 +39379,7 @@ shutterstock.com##[data-automation="Eu_banner_container"]
 mobile.twitter.com##[data-reactroot] > [class] + [class]:last-child
 facebook.com##[data-testid="cookie-policy-banner"]
 iubenda.com##a[style="padding-top: 10px; display: block;"]
+shab.ch##agb-bar
 myscience.org##body > .block > .center
 openbookpublishers.com##body > .menu-header
 medium.com##div > .branch-journeys-top
@@ -42457,6 +42466,7 @@ linnaleht.ee,ohtuleht.ee##.ntf-container
 ||cookies.leadplace.fr^
 ||docteurclic.com/ajax/ajax_get_disc.aspx
 ||jeu.video^*/partners.js
+||thesiteoueb.net/js/cm-head.js
 !
 ! ---------- Bulgarian ----------
 !
