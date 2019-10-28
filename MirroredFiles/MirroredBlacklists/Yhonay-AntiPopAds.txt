@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9879
+! Version: 9896
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -477,6 +477,7 @@
 ||bavftcgoapga.com^
 ||bbackcssmwam.com^
 ||bbbrhcxtdkfui.bid^
+||bbckaxifryxcno.com^
 ||bbfasycx.com^
 ||bbheuxcancwj.com^
 ||bbillwowlfur.com^
@@ -836,6 +837,7 @@
 ||bwbbcdkkocx.bid^
 ||bwcpnpkkncszi.com^
 ||bweqokcd.bid^
+||bwjteztqdlg.com^
 ||bwlstzzqxpuxr.bid^
 ||bwnrgfhbd.bid^
 ||bwoefrhtycp.com^
@@ -1439,6 +1441,7 @@
 ||dfrekewe.com^
 ||dfujqyjifvoe.com^
 ||dfxemnxrsal.bid^
+||dfyudpyceqoy.com^
 ||dgbhmpumhxy.bid^
 ||dgcxsmiavpg.bid^
 ||dgeggjwyhkrr.com^
@@ -1506,6 +1509,7 @@
 ||djqercix.com^
 ||djrkauxla.bid^
 ||djtclldgsocbv.bid^
+||djtfkakbufpwot.com^
 ||djuxmbjauluis.com^
 ||djvpsxtkdmga.com^
 ||djwdefnov.com^
@@ -1636,6 +1640,7 @@
 ||drjwmuwmnll.com^
 ||droqnswhcfk.com^
 ||drpmtzjanjqjpj.com^
+||drqlvjwhg.com^
 ||drragqvk.bid^
 ||drsemkuhpg.com^
 ||drtqfejznjnl.com^
@@ -1991,6 +1996,7 @@
 ||eoepqqkg.com^
 ||eofaplocyrcxhq.com^
 ||eojrldtucqsf.com^
+||eopazyxdkppnz.com^
 ||eoqsbpvdxllxo.com^
 ||eoruxpqn.com^
 ||eotbkgjqu.com^
@@ -2350,6 +2356,7 @@
 ||fkianrxjfumm.com^
 ||fkivuntlyd.bid^
 ||fkkjsdpppv.bid^
+||fkloazpi.com^
 ||fkpbbmgqa.bid^
 ||fkphqtgqrfixl.com^
 ||fkrgfktdvta.com^
@@ -4398,6 +4405,7 @@
 ||jzbskhgpivyl.com^
 ||jzbutifk.com^
 ||jzckyzvlxetror.com^
+||jzcqmatkjfihv.com^
 ||jzeigwioirde.com^
 ||jzfzgkepkjcf.com^
 ||jzgskqccroqg.com^
@@ -4408,6 +4416,7 @@
 ||jzllgntkazui.com^
 ||jzlzdnvvktcf.com^
 ||jzohcwnovrk.com^
+||jzowfnqah.com^
 ||jzqemifphogo.com^
 ||jzqoddurnu.com^
 ||jzqvmpkppjlgc.com^
@@ -4462,6 +4471,7 @@
 ||kcetcukaolxc.com^
 ||kcgmgnejfp.bid^
 ||kcitwbcc.com^
+||kcnjwtaj.com^
 ||kcnyhfmowc.com^
 ||kcodndvh.com^
 ||kcpntbycuswz.com^
@@ -5080,6 +5090,7 @@
 ||lmlvzeeag.com^
 ||lmoqmsagyjcurg.bid^
 ||lmrlanov.com^
+||lmsdoihmsoifx.com^
 ||lmsycyfh.com^
 ||lmwdcdzievq.bid^
 ||lndvtedtayqy.com^
@@ -6081,6 +6092,7 @@
 ||ntewqfsjum.bid^
 ||ntfhglciig.bid^
 ||ntgqcnferh.com^
+||ntgygnke.com^
 ||nthssedj.bid^
 ||nticqzrucdg.com^
 ||ntjcrsfvszoen.com^
@@ -7791,6 +7803,7 @@
 ||rtdogcdkovndho.com^
 ||rtgngrwtngms.com^
 ||rtgpaohds.com^
+||rtogkeafeedde.com^
 ||rtpibuckwnp.com^
 ||rtqlmwfywl.com^
 ||rttclyuvippyw.bid^
@@ -9277,6 +9290,7 @@
 ||wgaycnmfz.com^
 ||wghmgbjpxmlxa.com^
 ||wglbucuhxxxj.com^
+||wgqirxevoh.com^
 ||whdzxabhqsdnlc.com^
 ||whgvyswets.com^
 ||whjibbprhng.com^
@@ -9386,6 +9400,7 @@
 ||wziaqxvxmpfshx.com^
 ||wznupnxp.com^
 ||wzvlxncapmi.com^
+||wzwetfprojnyx.com^
 ||xafkdsxnwinmj.com^
 ||xahwybxa.com^
 ||xairgknb.com^
@@ -9843,6 +9858,7 @@
 ||zsikmzoehqw.com^
 ||zsrycovuxfgzyn.com^
 ||ztiqalyrbfsnl.com^
+||ztsletmncez.com^
 ||ztslmijniaoqip.com^
 ||ztstwgxjhkuwj.com^
 ||ztxohhagymj.com^
@@ -9862,6 +9878,7 @@
 ||zvswmofga.com^
 ||zweigciinmslan.com^
 ||zwfvzxmc.com^
+||zwigjtgnzfn.com^
 ||zwmauyerfotyh.com^
 ||zwpaujzg.com^
 ||zwprxzbnzxc.com^

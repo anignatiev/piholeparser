@@ -2201,6 +2201,7 @@ intymna.pl
 investoradbg.hit.gemius.pl
 investorbg.adocean.pl
 inwestycjeodadoz.pl
+ipko.pl-weryfikacja-konta-bank-pko.j.pl
 ipnt.pl
 ipowereliterubypalace.pl
 ipzd.pl
