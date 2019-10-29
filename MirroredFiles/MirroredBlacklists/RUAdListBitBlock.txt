@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tsd2KcK6L4NOgCkuhCttDA
-! Version: 201910260010
+! Checksum: G6T8hG727GVCKW0GQvU9hQ
+! Version: 201910290020
 ! Title: RU AdList: BitBlock
-! Last modified: 26 Oct 2019 00:10 UTC
+! Last modified: 29 Oct 2019 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -56,7 +56,7 @@
 /share32.
 /share42-
 /share42/*
-/social-likes.$domain=~animalreader.ru|~animego.org|~bigcinemahd.net|~catalog.onliner.by|~cutur.ru|~films-2019.club|~inosmi.ru|~kinogo-2016-net.ru|~kinomovi.xyz|~kinoo2019.ru|~kinozubr.net|~loungefilm.club|~m24.ru|~megapolisonline.ru|~miuipro.info|~mobnovelty.ru|~netsofta.net|~postila.ru|~sport28.net|~topfile.tj|~vipkinoman.net|~westernfilm.ru|~wfilm.club
+/social-likes.$domain=~animalreader.ru|~animego.org|~bigcinemahd.net|~catalog.onliner.by|~cutur.ru|~films-2019.club|~inosmi.ru|~kinomore.xyz|~kinomovi.xyz|~kinoo2019.ru|~kinozubr.net|~loungefilm.club|~m24.ru|~megapolisonline.ru|~miuipro.info|~mobnovelty.ru|~netsofta.net|~postila.ru|~sport28.net|~topfile.tj|~vipkinoman.net|~westernfilm.ru|~wfilm.club
 /social-likes/*
 /sprite4-a67f741843ffc4220554c34bd01bb0bb.png
 /vkontakte_icon_
@@ -501,12 +501,14 @@ habr.com#?#.default-block_sidebar:-abp-has(> .sidebar-block > #facebook_like_box
 habr.com#?#.default-block_sidebar:-abp-has(> .sidebar-block > #vk_groups)
 adme.ru##.dialog-bg
 meddaily.ru##.doctor_block ~ table[width]
+newformat.info##.dpsp-share-text
 google.com##.entry-actions > .broadcast
 google.com##.entry-actions > .broadcast-with-note
 google.com##.entry-actions > .email
 google.com##.entry-actions > .like
 google.com##.entry-author > .entry-likers
 takprosto.cc##.essbis > :not(img)
+kp.by,kp.ru##.externalBlock > .left > span.title
 navitel.su##.extra_append:last-child
 kinobro.org,kinofilmu.net,kinoxa.me,newkinofilm.online##.f-soc
 sports.kz##.f-social-div
@@ -703,6 +705,7 @@ itc.ua##.sharedaddy
 forbes.ru##.shares
 kg-portal.ru,life.ru##.sharing
 cosmo.ru##.sharing-div
+cosmo.ru##.sharing-new
 sovsport.ru##.sharing-row
 sport-express.ru##.sharing_ok
 online.ua##.show-refer-share468
@@ -721,7 +724,7 @@ friday.ru##.slide-share
 vesti.ru##.slide_anons
 tnua.info##.slink
 stream.1tv.ru##.small-social-buttons
-tv.ua##.smedia
+kolobok.ua,tv.ua##.smedia
 itc.ua##.sn
 itc.ua##.sn-widget
 piter.tv##.snet-links
@@ -1160,6 +1163,7 @@ _userbar_$image
 ###cookiebar
 ###cookieconsent
 ###cookiefooter
+###cookies-using-message
 ###cookies.row
 ###cookiesBar
 ###gdpr-cookie-accept
@@ -1204,6 +1208,7 @@ _userbar_$image
 ##.cookie_wrap
 ##.cookiealert
 ##.cookienotify
+##.cookies-alert
 ##.cookies-banner
 ##.cookies-bar
 ##.cookies-container
@@ -1338,6 +1343,7 @@ _userbar_$image
 ||glattepush.com^$third-party
 ||gravitec.net^$third-party
 ||gresokie.com^$third-party
+||irondeux.com^$third-party
 ||jeapie.com^$third-party
 ||master-push.com^$third-party
 ||messagefeed.support^$third-party
@@ -1372,6 +1378,7 @@ _userbar_$image
 ||send-notice.com^$third-party
 ||serviceproworker.com^$third-party
 ||takepush.com^$third-party
+||tpstr.pro^$third-party
 ||ugrastes.uk^$third-party
 ||uinform.me^$third-party
 ||viapush.com^$third-party
@@ -1846,6 +1853,7 @@ _userbar_$image
 ||yandex.*/distr-popup.html$subdocument
 ||yandex.*/search/recommendation?yu=
 ||yastatic.net^*/widget_ya.js
+||yastatic.net^*/zen-lib/$domain=tv.yandex.by|tv.yandex.kz|tv.yandex.ru|tv.yandex.ua
 ||yatv.ru/storage/userdata/*/banner_
 ||yatv.ru/storage/userdata/*/page_background_
 ||youhack.ru/reyo/
@@ -2381,6 +2389,7 @@ stranamam.ru##.n-main-menu-parent > .ptichka
 takprosto.cc##.navbar-brand
 miuru.ru##.netrek
 kakprosto.ru##.networksPromo
+spark.ru##.never_miss_block
 tree.tv##.new_back_link
 cont.ws##.new_big_notifocation
 cont.ws#?#.new_post_prev:-abp-has(> .promo_link)
@@ -2467,7 +2476,7 @@ ren.tv##.region-sidebar > :not(#block-views-blog-block-autor)
 spr.ru##.reklamalink
 eurosport.ru##.related-content-story
 pb.wtf,piratbit.org,piratbit.pw,piratbit.top#?#.release-block-img1 > div:-abp-has([href^="/xct"])
-filmix.cc,filmix.co,filmix.site,filmix.today##.remove-sda-wrap
+filmix.cc,filmix.co,filmix.ink,filmix.site,filmix.today##.remove-sda-wrap
 forum.ixbt.com##.reply_premium
 tsargrad.tv##.review-proposition
 price.ua##.right-bar > #top-categories-autoscroll
@@ -2526,6 +2535,7 @@ fedpress.ru##.subscr_prompt_wrap
 chita.ru##.subscribe-form
 russian.rt.com##.subscribe-layout
 helpsetup.ru##.subscribe-me
+kp.ru##.subscribeWrapper
 expert.ru##.subscribe_banner_fixed
 teleprogramma.pro##.subscribe_button
 dfiles.ru##.subscribe_offer_banner
@@ -3011,7 +3021,7 @@ forums.overclockers.ru##tr > td[nowrap="nowrap"][style="color: red;  font-weight
 ewix.ru,online-mult.net#@##MCaddFrm
 gifovina.ru#@##SharePanel
 sandisk.com#@##consent_blackbar
-help.instagram.com#@##facebook
+help.instagram.com,oculus.com#@##facebook
 mts.ru#@##facebook_button
 pressa-online.com#@##fbContainer
 ok.ru#@##scrollToTop
@@ -3181,7 +3191,6 @@ myshared.ru#@#.ya-share2_inited
 @@||facebook.com/plugins/like_box.php$subdocument,domain=overclockers.ru
 @@||feed.mikle.com/widget/?$subdocument,domain=inforesist.org
 @@||fotocdn.net^*/social-icons.png$domain=fotostrana.ru
-@@||gamak.tv/static/player5.5/$stylesheet,xmlhttprequest,domain=gamak.tv
 @@||gametech.ru/resources/img/partner_buttons/twitter.$domain=gametech.ru
 @@||ghame.ru/wp-content/plugins/social-icons/$domain=ghame.ru
 @@||gismeteo.*/images/rss/$image,~third-party
@@ -3191,7 +3200,6 @@ myshared.ru#@#.ya-share2_inited
 @@||hd720.biz/*/social2.$image,domain=hd720.biz
 @@||hentai.anime-share.ru/engine/classes/min$domain=hentai.anime-share.ru
 @@||id.rambler.ru/public-icons/$image,domain=id.rambler.ru
-@@||imasdk.googleapis.com/js/sdkloader$script,domain=gamak.tv
 @@||imgsmail.ru/p/js/s_cookie.js
 @@||informers.orakul.ua^$image,domain=aspekty.net
 @@||informers.sinoptik.ua^$third-party
@@ -3245,7 +3253,7 @@ myshared.ru#@#.ya-share2_inited
 @@||vgtimes.ru/img/gplus.png|
 @@||vk.com/images/btns.png$domain=app.tbn.ru
 @@||vk.com/share.php?$third-party,domain=postila.ru
-@@||vk.com/widget_comments.php^$domain=anilibria.tv|iomedia.ru
+@@||vk.com/widget_comments.php^$domain=anilibria.tv|iomedia.ru|xn--80aacbuczbw9a6a.xn--p1ai|куражбамбей.рф
 @@||vk.com/widget_community.php$domain=iomedia.ru|jcross-world.ru
 @@||vkontakte.ru/js/api/openapi.js$domain=app.tbn.ru|g2a.com|tree.tv
 @@||vkontakte.ru/js/api/share.js$script,domain=smotri.com|vinnitsa.info
@@ -3268,7 +3276,7 @@ bombardir.ru,eg.ru,livelib.ru,livemaster.ru,soccer.ru,vichatter.net,wikium.ru#@#
 soccer.ru,wikium.ru#@#a[title="Google+"]
 bombardir.ru,livelib.ru,livemaster.ru,soccer.ru,vichatter.net#@#a[title="Twitter"]
 evrl.to,livemaster.ru#@#a[title="ВКонтакте"]
-anilibria.tv,iomedia.ru#@#div[id^="vk_comments"]
+anilibria.tv,iomedia.ru,xn--80aacbuczbw9a6a.xn--p1ai,куражбамбей.рф#@#div[id^="vk_comments"]
 iomedia.ru,jcross-world.ru#@#div[id^="vk_group"]
 europaplus.ru,kinokopilka.pro,pikabu.ru#@#img[alt="Facebook"]
 kinokopilka.pro#@#img[alt="Twitter"]
@@ -5634,7 +5642,6 @@ prom.ua#@#img[alt="facebook"]
 /sociallocker-
 /socialMedia-
 /socialMedia.
-/socialmedia/*$image,script
 /socialmedia_
 /socialmediabar_
 /socialmediabuttons.
@@ -13489,6 +13496,7 @@ _youtube_social_
 ##.lst-social
 ##.lst_social
 ##.lt_nav-share
+##.lv-ShareArticle
 ##.lx-share-tools
 ##.lx-share-tools__items
 ##.lx-share-tools__panel
@@ -19808,6 +19816,7 @@ _push_sw.
 /bg-newsletter-
 /bg_newsletter.
 /bloc_newsletter.
+/blocknewsletter/*
 /common/newsletter-
 /Components/newsletter/*
 /content/newsletter/*
@@ -21041,6 +21050,7 @@ _backToTop.
 ###inline-subscribe-form
 ###inpage_newsletter_signup_wrapper
 ###ins-newsletter-form
+###inscription_newsletter
 ###instory_newsletter_signup
 ###iscrizioniscr_emaileNewsletter
 ###it_newsletters
@@ -21568,6 +21578,7 @@ _backToTop.
 ##.block-ti-lsg-cook-newsletters
 ##.block-trinity-newsletter
 ##.blockNewsletter
+##.block_newsletter
 ##.block_valor_newsletter_front
 ##.blog-signup-container
 ##.blog_signup_box
@@ -22232,6 +22243,8 @@ _backToTop.
 ##.ng-newsletter
 ##.nl-newsletter_signup
 ##.nl-signup-scrollbox
+##.nl-subscription-container
+##.nl-subscription-inarticle
 ##.nlSubscribe
 ##.nlWidgetMain2
 ##.nls-subscribe
@@ -22731,9 +22744,6 @@ _backToTop.
 ! nlgate Newsletter
 ###nlgate
 ###nlgate-overlay-0
-! Ebay
-###gh > .gh-banner
-##header > .gh-banner-active:first-child
 ! Various uk Football splashes
 ###splash_mask
 ###splash_mask + #splash_box
@@ -24209,7 +24219,7 @@ advids.co,cbdoilreview.org,galerieslafayette.com,mortgageguy.com.au,paperless-in
 channelnewsasia.com,kitacon.org,polskikoszyk.pl,redislabs.com#@#.scroll-top
 channelnewsasia.com,ew.com,indiatimes.com,letyshops.com,msn.com,people.com,southernliving.com,tele2.ru,wiemy.to#@#.scroll-up
 hyperoptic.com,playtech.co.nz,porozmawiajmyoit.pl,scan.co.uk#@#.scroll_top
-theuptake.org#@#.scrolltop
+ltn.com.tw,theuptake.org#@#.scrolltop
 ap.www.namecheap.com#@#.scrolltotop
 chorus.co.nz#@#.scrollup
 github.com,kifi.com,okcupid.com,retailmenot.com,zoom.us#@#.signup-email
@@ -24677,7 +24687,7 @@ tvp.info#@#.social-article
 dallascowboys.com,golem.de,patriots.com,prk24.pl,top.de#@#.social-bar
 funnyordie.com#@#.social-bar-container
 wat.tv#@#.social-block
-adgully.com,chillitorun.pl,flyertalk.com,galaxydata.ru,onovini.com,rta24.eu,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
+adgully.com,chillitorun.pl,ecoustics.com,flyertalk.com,galaxydata.ru,onovini.com,rta24.eu,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 chess.com#@#.social-btns
@@ -24874,7 +24884,7 @@ digg.com#@#div[id^="digg-widget-"]
 a2zapk.com,authy.com,clubbingtv.com,disqus.com,eff.org,eleconomista.es,facebook.com,forsal.pl,github.com,github.io,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.nz,google.co.th,google.co.uk,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.de,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk,heise.de,hockeyapp.net,incgamers.com,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,ludins.fr,massivelyop.com,maxthon.com,microsoft.com,opendatacity.de,playboy.com,selly.pl,sky.com,t3n.de,thoughtcatalog.com,twitter.com,udacity.com,vvhp.net,whatthetech.com#@#img[alt="Facebook"]
 flickr.net#@#img[alt="Flickr"]
 github.com,github.io,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.nz,google.co.th,google.co.uk,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.de,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk,vvhp.net,xkcd.com,youtube.com#@#img[alt="Google+"]
-a2zapk.com,github.com,github.io,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws,vvhp.net,whatculture.com#@#img[alt="Instagram"]
+a2zapk.com,dobreprogramy.pl,github.com,github.io,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws,vvhp.net,whatculture.com#@#img[alt="Instagram"]
 a2zapk.com,eff.org,github.com,github.io,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws,linkedin.com#@#img[alt="LinkedIn"]
 clubbingtv.com#@#img[alt="Linkedin"]
 authy.com,breakoutlist.com,eff.org,facebook.com,github.com,github.io,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws,microsoft.com,rantlifestyle.com#@#img[alt="Pinterest"]
@@ -24959,10 +24969,10 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||androidpolice.com/wp-content/*_facebook-$image
 @@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
-@@||aolcdn.com/aboutme/*/icons/socialmedia/$domain=about.me
 @@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|febbit.com|id.logi.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
 @@||app.hrlab.de/assets/icons/$image,domain=app.hrlab.de
 @@||apple.com/kb/resources/images/i_facebook.png
+@@||apynews.pl/assets/ranking-facebook.jpg
 @@||archiveteam.org^$generichide
 @@||arte.tv/images/social-sprite.png$domain=arte.tv
 @@||asos.com/Content/images/*-ico
@@ -25084,6 +25094,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||elle.com/cm/elle/images/Zd/elle-01-trail-by-twitter-tweet-h-lgn.jpg
 @@||elliegoulding.com/images/home/tweetButton.png
 @@||enfamil.pl^*/pl-sticky-social-$image
+@@||enumizmatyczny.pl/modules/hifacebookconnect/$image
 @@||envoy.com/images/*/reddit.png
 @@||europa.eu/webtools/*/share.png$image
 @@||evasionjailbreak.com/wp-content/plugins/*/social_widget.css$stylesheet
@@ -25189,7 +25200,6 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||imdb.com^*/facebook-button-small.png
 @@||imgsmail.ru/mail/ru/images/js/myjs/mm/out/min/social-buttons/main_*.js$domain=my.mail.ru
 @@||imgur.com/images/access/third-party-*.png
-@@||immowelt.de/_scripts/iwag/socialmedia/
 @@||imwx.com/cssRollup?$stylesheet
 @@||imwx.com/cssRollup?*-social-share.$domain=weather.com
 @@||imwx.com/jsRollup?*/social-share.$domain=weather.com
@@ -25246,6 +25256,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||megabus.com/images/megabus-socialmedia-
 @@||megapolisonline.ru/wp-content/plugins/easy-vkontakte-connect/js/social-likes.min.js
 @@||megaup.net^$generichide
+@@||mera.eu/wp-content/themes/mera/app/common/lib/$xmlhttprequest
 @@||metservice.com/_/files/social/content-stream.html
 @@||mhfreq.org/wp-content/uploads/*/tweet.png?
 @@||michiganlottery.com/global/share/js/$script
@@ -25350,7 +25361,6 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||rawstory.com/wp-content/uploads/*-Facebook.jpg
 @@||rawstory.com/wp-content/uploads/*-Twitter.jpg
 @@||realfavicongenerator.net/files/*/facebook.png$image,~third-party
-@@||redbullusa.com^*/socialmedia/
 @@||redcarpetrampage.com/game/images/facebookbutton
 @@||reddit.com/mobile/site/images/btn_google_play.svg
 @@||reddit.com/static/button/button1.js$domain=redditblog.com
@@ -25419,8 +25429,6 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||sputnik.md/min/js/plugins/social-likes.min.js
 @@||sputniknews.com/min/js/plugins/social-likes.min.js
 @@||srf.ch/socialview-in/$~third-party
-@@||ssl-images-amazon.com/images/*/socialmedia/$image,domain=affiliate-program.amazon.co.uk|affiliate-program.amazon.com|affiliate-program.amazon.in|affiliate.amazon.co.jp|afiliados.amazon.es|associados.amazon.com.br|associates.amazon.ca|associates.amazon.cn|partenaires.amazon.fr|partnernet.amazon.de|programma-affiliazione.amazon.it
-@@||ssl-images-amazon.com/images/G/01/socialmedia/sweeps/$image,domain=amazon.com
 @@||stackexchange.com/content/img/share-sprite-new.png
 @@||stackoverflow.com/content/img/share-sprite-new.png
 @@||stadt-bremerhaven.de/wp-content/themes/*-facebook.$image
@@ -25448,7 +25456,6 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||techspot.com/images/login-$image
 @@||tegna-tv.com^*/googleplus-user-account.js
 @@||telepolis.pl/media/cache/resolve/content_box/images/$image
-@@||telia.se/tse/js/socialmedia/
 @@||teslarati.com/wp-content/themes/teslarati-mag/images/facebook_circle.png
 @@||teslarati.com/wp-content/themes/teslarati-mag/images/twitter_circle.png
 @@||tgcom24.mediaset.it/assets/js/amd/socialcount.js
@@ -25458,7 +25465,6 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||theinterview-movie.com/images/btn_youtube.png
 @@||themobileplaybook.com/assets-v2/images/google-mobile-playbook*.png
 @@||themobileplaybook.com/assets-v2/images/share.png
-@@||thenextweb.com/socialmedia/*?cf_action=$script
 @@||thimble.mozilla.org^$generichide,~third-party
 @@||thrusto.com/images/fb-icon.png
 @@||thrusto.com/images/google+.png
@@ -25516,6 +25522,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||widgets.twimg.com^*/widget.js$domain=eyehandy.com
 @@||wincert.net/forum/public/min/index.php?$stylesheet,domain=wincert.net
 @@||wips.com/www/images/Admin/Create/$image
+@@||wiwa.info.pl/images/Youtube_$image
 @@||wn-gruesse.de^*/socialshareprivacy/$script
 @@||wn-immo.de^*/socialshareprivacy/$script
 @@||wn-jobs.de^*/socialshareprivacy/$script
@@ -25531,6 +25538,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||wp.com/wp-content/mu-plugins/post-flair/sharing/images/icon-twitter.png
 @@||wp.com^*/Twitter_$image,domain=stadt-bremerhaven.de
 @@||wphub.com/wp-content/uploads/2010/05/design-freebies-vector-social-icon-set1-138x98.png
+@@||wpimg.pl^*/dynamic_content/$image,domain=pilot.wp.pl
 @@||wsj.net^*/social_icons.png$domain=marketwatch.com
 @@||wuv.de/var/wuv/storage/images/media/bilder/$image,domain=wuv.de
 @@||wwe.com^*/btn_facebook_
