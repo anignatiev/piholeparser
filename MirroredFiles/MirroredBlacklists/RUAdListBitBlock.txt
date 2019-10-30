@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: G6T8hG727GVCKW0GQvU9hQ
-! Version: 201910290020
+! Checksum: EVmDGTwQXVM/3/jNNzkhHg
+! Version: 201910300010
 ! Title: RU AdList: BitBlock
-! Last modified: 29 Oct 2019 00:20 UTC
+! Last modified: 30 Oct 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -812,6 +812,7 @@ fakty.com.ua##.subscribe-telegram
 seasonvar.cc##.sv-social
 ekabu.ru##.t-social-container_top
 kino-teatr.ua##.tab-widget-multy
+rufilmtv.pro##.tbcomm
 business-gazeta.ru,fakty.ua##.telegram
 sakh.com##.telegram-widget
 depo.ua##.telegram_button
@@ -1793,7 +1794,9 @@ _userbar_$image
 ||politarena.org.ua/reclama/
 ||printdirect.ru/crud/model_call
 ||promote.opera.com^$third-party
+||rambler.ru/static/recommender.js$domain=championat.com
 ||rbk.ru^*/fn/_poll-popup.js
+||recommender.um.rambler.ru^$domain=championat.com
 ||recostream.go.mail.ru^$domain=~pulse.mail.ru|~recostream.go.mail.ru
 ||rempc.by/images/rempc-bg-
 ||rt.com/widget/$domain=rt.com
@@ -2210,7 +2213,6 @@ cnews.ru,obozrevatel.com##.branding
 beliyspisok.ru##.bretiRandomThread
 tsn.ua##.browser_extension
 interfax.ru##.bss__wrap
-kinozz.film##.btn_r
 bobfilm.club,kinoangel.club##.btn_rec
 kinotochka.club,kinotochka.me##.btn_reg
 pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net##.bypass-alert
@@ -2417,6 +2419,7 @@ fishki.net##.other-post-list
 sports.ru##.overlay[data-control="Common.Overlay"]
 userstyles.org##.overlay_background
 kp.ru##.page-footer_subscribe
+championat.com##.page-main > .article-comments-button ~ .page-title
 playground.ru##.page-notification
 bdf.ms##.pageContent > div[style^="outline"]
 bus.vse42.ru##.panel.news-block
@@ -2424,7 +2427,7 @@ www.qrz.ru##.partners_box
 todotech20.com##.penci-wrap-gprd-law
 viva64.com##.personal-data-confirm
 football.sport-express.ru##.place_ratingAnnounce
-720hd.club,animevost.club,avitube.ru,hdkinorip.net,hdnora.ru,kinoera.cc,kinogo-720.net,kinogo.life,kinosky.pro,kinoslitok.net,kinospot.me,kinozver.club,kinozz-hd.ru,kinozz.film,lostfilm-720.ru,megahead.org,wikimovies.ru,ymka.tv,zyx.watch##.player-warning
+720hd.club,animevost.club,avitube.ru,hdkinorip.net,hdnora.ru,kinoera.cc,kinogo-720.net,kinogo.life,kinosky.pro,kinoslitok.net,kinospot.me,kinozver.club,kinozz-hd.ru,lostfilm-720.ru,megahead.org,wikimovies.ru,ymka.tv,zyx.watch##.player-warning
 filmaniaz.net##.player-warning-br
 sports.ru,tribuna.com##.plistaList > a[data-campaign]
 sports.ru,tribuna.com##.plistaList > a[data-category="Акция"]
@@ -15796,6 +15799,7 @@ _youtube_social_
 ##.singlePostShareButtonTwitter
 ##.single__social
 ##.single_post_share_container
+##.single_post_share_reddit
 ##.single_share
 ##.single_share_bar
 ##.single_share_block
@@ -24682,6 +24686,7 @@ slate.com#@#.sharing-buttons
 nextinpact.com#@#.sharrre
 theatlantic.com,youtube.com#@#.show-share
 500px.com#@#.show_social
+login.aliexpress.com#@#.sns-btns
 gry-online.pl#@#.social-16
 tvp.info#@#.social-article
 dallascowboys.com,golem.de,patriots.com,prk24.pl,top.de#@#.social-bar
