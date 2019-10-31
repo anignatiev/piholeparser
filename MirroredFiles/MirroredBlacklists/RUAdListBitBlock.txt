@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EVmDGTwQXVM/3/jNNzkhHg
-! Version: 201910300010
+! Checksum: UNu8h1+yHfVkyK6hflB3xg
+! Version: 201910310010
 ! Title: RU AdList: BitBlock
-! Last modified: 30 Oct 2019 00:10 UTC
+! Last modified: 31 Oct 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -574,6 +574,7 @@ glav.su#?#.l-c > div[style^="margin"] > table [class]:-abp-has(> [class] > .fb-p
 rueconomics.ru##.l-footer-socials
 tverigrad.ru##.l-pad.row > .hidden-xs
 news.ru##.larger-social-links
+asienda.ru##.left-socials
 chernomorets.odessa.ua##.left-widget
 dt.ua,zn.ua##.left_socials
 kinoakter.net##.leftblok_contener > div[style^="margin-bottom"]
@@ -2542,6 +2543,7 @@ kp.ru##.subscribeWrapper
 expert.ru##.subscribe_banner_fixed
 teleprogramma.pro##.subscribe_button
 dfiles.ru##.subscribe_offer_banner
+championat.com##.subscription
 riafan.ru##.subscription-wrap
 kommersant.ru##.subscription_popup_left
 kaifolog.ru##.svkfbgp
