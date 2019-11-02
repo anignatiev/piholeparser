@@ -1,3 +1,4 @@
+accounts-update-requested.zxc.pm
 bukkake.pm
 com-career.pm
 com-consumer.pm
@@ -20,6 +21,7 @@ com-topnews.pm
 doge.pool.pm
 nst.broadcast.pm
 pool.pm
+roblox.pm
 utc.pool.pm
 vtc.pool.pm
 www.doge.pool.pm

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UNu8h1+yHfVkyK6hflB3xg
-! Version: 201910310010
+! Checksum: Bb43C3oTb4mLyB56bQ99rg
+! Version: 201911020110
 ! Title: RU AdList: BitBlock
-! Last modified: 31 Oct 2019 00:10 UTC
+! Last modified: 02 Nov 2019 01:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -562,7 +562,6 @@ avito.ru##.item-socials-share
 varlamov.ru##.j-followme
 varlamov.ru##.j-w-social
 goal-time.net##.jbzoo-likes
-kinogb.mobi##.jobbut
 livemaster.ru##.js-item-toggle-share-menu
 nn.ru##.js-ngs-share-button
 drive2.ru##.js-page .offer .c-share__label
@@ -609,7 +608,6 @@ apparat.cc##.metaTable-inner
 minfin.com.ua##.mfz-social-footer-btns
 mastergrad.com##.msw-social
 megapesni.me##.music-like-social
-kinogb.mobi##.my-vkk-soc
 stranamam.ru##.n-main-socnet
 nabat.news##.nabatsocial
 tvzvezda.ru##.nametitle td > a[href^="http"]
@@ -668,6 +666,7 @@ thequestion.ru##.question__answers-info-share
 football24.ru##.rb_banner
 film4ik.tv##.rblock3
 laradiofm.ru#?#.rc:-abp-contains(Мы ВКонтакте)
+knijky.ru##.region-content > #block-system-main ~ .block
 appstudio.org##.repost td:not(.atropos)
 chernomorets.odessa.ua##.right-widget
 lostfilm.info#?#.right:-abp-contains(Поделиться)
@@ -677,7 +676,6 @@ sibnet.ru#?#.right_column div[class^="block"]:-abp-has(> .bl_content > h3:-abp-c
 2mm.ru##.rightblock > .tabs
 kinozloy.net#?#.rightbox:-abp-has(#vk_groups)
 safetygate.ru##.round-bs[class*="icon-"]
-kinogb.mobi##.rshare
 kulturologia.ru##.rss
 get-tune.cc,mp3cc.biz##.rt_share
 delfi.ua##.sbookmarks
@@ -807,7 +805,6 @@ kamchatinfo.com,torrentfilmi.co##.soctop
 dni.ru##.sotial
 hqroom.ru##.sots-plugin
 kinomafia.tv##.soz
-kinogb.mobi##.starzer
 ru.msn.com##.stbp-tbl
 fakty.com.ua##.subscribe-telegram
 seasonvar.cc##.sv-social
@@ -953,6 +950,7 @@ aif.ru##div[class*="panel_soc_box"]
 takprosto.cc##div[class*="widget_essbsocial"]
 ekabu.ru##div[class^="f-social-container"]
 bombardir.ru##div[class^="flyin-"]
+gazeta.ru##div[class^="header"] > .header-logo ~ .header-fixed-hide-adv
 e-news.pro,e-news.su,lektsii.org,nahnews.org,studepedia.org,studopedia.com.ua,studopedia.org,studopedia.ru,studopedia.su##div[class^="mb-share"]
 kino-live1.site,kino-live10.site,kino-live11.site,kino-live12.site,kino-live2.org,kino-live2.site,kino-live3.site,kino-live5.site,kino-live6.site,kino-live7.site,kino-live8.site,kino-live9.site#?#div[class^="right"] div[class^="ramka"]:-abp-has(#vk_groups)
 iz.ru##div[class^="share_bottom"]
@@ -1375,6 +1373,7 @@ _userbar_$image
 ||pushkacentr.com^$third-party
 ||pushkapro.com^$third-party
 ||pushme.io^$third-party
+||pushprofit.net^$third-party
 ||pushsender.net^$third-party
 ||pushvip.ru^$third-party
 ||send-notice.com^$third-party
@@ -2015,6 +2014,7 @@ tapochek.net###page_content fieldset[style]
 facebook.com###pagelet_growth_expanding_cta
 webmoney.ru###panel > .with_bg.video
 chernomorets.odessa.ua###partners
+facenews.ua###pblock
 fastpic.ru###picContainer > img
 allforpeople.net###pichead
 alcodistillers.ru###pjAcceptCookieBar
@@ -2245,6 +2245,7 @@ habr.com##.content-list > .content-list__item_post:not([id^="post"])
 kinoteatr.ru##.content_right_banner
 eg.ru##.cookie
 xhamster.com##.cookie-announce
+video.khl.ru##.cookie-notice
 delfi.lv##.cookie.notification-widget
 gismeteo.md##.cookienotify
 expres.online,unian.info,unian.net,unian.ua,vladnews.ru##.cookies
@@ -2285,7 +2286,6 @@ lifehacker.ru#?#.flow-post:-abp-has(.meta-mark_advert)
 101.ru##.flying-banner-wrapper
 russian.rt.com##.follows-channel
 fedpress.ru##.follows-channel_yandexnews
-kinogb.mobi##.foo-f > .butomob ~ *
 benzclub.ru##.footer .imageText
 domato.ru##.footer-content > div[style^="position: fixed;"]
 kufar.by##.footer__scroll
@@ -2432,7 +2432,6 @@ football.sport-express.ru##.place_ratingAnnounce
 filmaniaz.net##.player-warning-br
 sports.ru,tribuna.com##.plistaList > a[data-campaign]
 sports.ru,tribuna.com##.plistaList > a[data-category="Акция"]
-kinogb.mobi##.plz-norec
 sport.ua##.policy-accept
 ua-football.com##.policy-mes
 obozrevatel.com##.poll-notification
@@ -2709,7 +2708,6 @@ www.rambler.ru##div > div[data-cerber-head$=":widgets::widget.finance"] ~ div
 obozrevatel.com##div[class$="__right"] .player-box__content
 rozetka.com.ua##div[class$="catalog-banner"]
 gamer-info.com##div[class*="ads"][class*="overlay"]
-kinogb.mobi##div[class*="bilet"]
 1plus1.ua##div[class*="popup"][class*="subscribe"]
 1tv.ru##div[class*="promo"][class$="place"]
 gdekluet.ru##div[class*="ui-widget"]
@@ -2740,7 +2738,6 @@ fotostrana.ru##div[id*="reklama"]
 anidub.me,anidub.tv,anime.anidub.com,online.anidub.com##div[id][class]:not([style]) > div[id][class]:empty
 kp.ru##div[id^="MailSubscriptionPopup"]
 pickupforum.ru##div[id^="app-popup"]
-bigtorrent.org##div[id^="div_torrentfiles-"] + .spoiler-wrap
 cyberforum.ru##div[id^="edit"][style="padding:0px 0px 3px 0px"] > table ~ div[style^="background-color"]
 ntv.ru##div[id^="flamur"]
 network-lab.ru##div[id^="optincrusher"]
@@ -2879,6 +2876,7 @@ auto.mail.ru#?#.sticky-springs div[class]:-abp-has(> [id^="mailru"] ~ script:-ab
 mail.ru,sportmail.ru#?#.viewbox__holder div:-abp-has(> .viewbox__side-loader)
 ~e.mail.ru,mail.ru##.wrapper > .tbl[class*="tbl_width"]
 otvet.mail.ru##.wrapper div[class^="adv-slot"]
+love.mail.ru#?#[class]:-abp-has(> [data-name="cookie-message-close-action"])
 go.mail.ru##[class^="result__li y"]
 auto.mail.ru##[data-module="ProgressivePaging.Testdrives"] .js-pgng_cont .grid__item_banner
 auto.mail.ru#?#[data-module="ProgressivePaging.Testdrives"] .js-pgng_cont > div[class*=" "]:not([class*="__"]) > div:first-child + div:-abp-has(> div:not([class*="__"]))
@@ -2896,7 +2894,8 @@ mail.ru#?#body > #grid .grid-top > .grid__container > div div[id][class]:-abp-ha
 ~e.mail.ru,mail.ru##body > #grid a[href^="https://r.mail.ru/redir/"][title][class]
 pogoda.mail.ru##body > #layout div[id^="slot_"]
 ~e.mail.ru,mail.ru##body > .tooltip > .tooltip__box
-~e.mail.ru,mail.ru##body > .zeropixel ~ * .i-clearfix.feed-generic__container
+mail.ru##body > .zeropixel ~ * .i-clearfix.feed-generic__container
+mail.ru##body > .zeropixel ~ * .pulse
 mail.ru##body > .zeropixel ~ * .search__container ~ [class] > .tabs + div[class] ~ div > div:first-child:not([name])
 mail.ru##body > .zeropixel ~ * .search__container ~ [class] > .tabs + div[class] ~ div > div:first-child:not([name]) ~ div
 mail.ru##body > .zeropixel ~ * .search__container ~ [class] ~ [class]
@@ -2927,6 +2926,7 @@ afisha.yandex.by,afisha.yandex.kz,afisha.yandex.ru,afisha.yandex.ua##.adfox_type
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##.ads-block__no-ads
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##.ads-block__no-ads *
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.adv_pos_popup
+yadi.sk##.app-promo-banner
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.b-page__container > div[class^="content "] ~ div[class^="footer"] ~ .b-statcounter ~ div[class]
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##.bar .bar-below
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##.bar__addition-link

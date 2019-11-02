@@ -247,7 +247,9 @@ mir.mn
 misdreadkm.mn
 mj.pool.mn
 mnm.pool.mn
+mongolia-alpinism.mn
 moon.pool.mn
+morinkhuur.mn
 mrb.pool.mn
 mtc.pool.mn
 mts.pool.mn
@@ -277,6 +279,7 @@ oc.pool.mn
 onveaser.mn
 onyx.pool.mn
 opc.pool.mn
+opendoor.mn
 ornoo.mn
 otc.pool.mn
 otx.pool.mn
@@ -302,6 +305,7 @@ pos.pool.mn
 pot.pool.mn
 potc.z.pool.mn
 ppl.pool.mn
+printing.mn
 pure.pool.mn
 pwn.pool.mn
 pyra.pool.mn
@@ -353,6 +357,7 @@ smtp.pool.mn
 snakeah.mn
 sncx.pool.mn
 snd.pool.mn
+snowmobileracing.mn
 soly.mn
 spa.pool.mn
 spain.pool.mn
@@ -424,6 +429,7 @@ wasp.pool.mn
 wat.pool.mn
 wcc.pool.mn
 wcup.pool.mn
+web-site.mn
 web.pool.mn
 welf.mn
 whale.z.pool.mn

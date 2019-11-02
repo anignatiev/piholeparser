@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cqm7x+3+XKlHsixZRJqsFw
-! Version: 201910300011
+! Checksum: fUQgeK7/WOxw8ejaDYIgCw
+! Version: 201911020051
 ! Title: Fanboy's Annoyance List
-! Last modified: 30 Oct 2019 00:11 UTC
+! Last modified: 02 Nov 2019 00:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -31415,6 +31415,7 @@ _site_cookie_
 ##div[class^="ConsentBar_"]
 ##div[class^="CookieBanner-"]
 ##div[class^="CookieBanner_"]
+##div[class^="CookieBarWrapper"]
 ##div[class^="CookieBar_"]
 ##div[class^="CookieGdpr"]
 ##div[class^="CookieNotice"]
@@ -42250,7 +42251,7 @@ patronite.pl##.rodo-height
 bierhalle.pl,pbsbank.pl,scanner.com.pl##.rstboxes
 yogenfruz.pl##.shotimoo
 megawrzuta.pl##.slickModal
-80dni.pl,ap-goal.pl,badaniaprenatalne.pl,bellpolska.com.pl,bezprawaanirusz.pl,businesstraveller.pl,careego.pl,centrum-terapii.pl,clubdelux.pt,codzienniefit.pl,ecochemia.pl,erif.pl,esportnow.pl,faktykonopne.pl,haft.com.pl,infokonsument.pl,instalnet.pl,intercyza-blog.pl,investjourney.pl,ironsky.pl,jasnastronamocy.info,jmdi.pl,kamienieogrodowe.com,karmopedia.pl,kartanauczycielablog.pl,konsalnet.pl,leszekbloch.pl,madameedith.com,mamysprawy.pl,maxbus.com.pl,mhtm.pl,naszwybir.pl,nowasprzedaz.pl,osiedlenatura.com.pl,pandrwal.pl,piekarniabialogon.pl,pierwsze-kroki.com,poloniawroclaw.pl,predathor.pl,programistanaswoim.pl,przedawnione.pl,przedsiebiorcza.com,przedszkolankowo.pl,przesył-energii.pl,radiowarszawa.com.pl,rauhanpuolustajat.org,sds-automatyka.pl,spkomandytowa.pl,stanprawnynieruchomosci.pl,studiosante.pl,szkoleniamaciolek.com,teatr-capitol.pl,towsrodku.pl,wars.pl,warunki-zabudowy.com.pl,wspolnotakrzyzasmolec.pl,yasumi.pl,zabieganamama.com,zatorland.pl,zsm.edu.pl,zuch.media##.spu-bg
+80dni.pl,ap-goal.pl,badaniaprenatalne.pl,bellpolska.com.pl,bezprawaanirusz.pl,businesstraveller.pl,careego.pl,centrum-terapii.pl,clubdelux.pt,codzienniefit.pl,ecochemia.pl,erif.pl,esportnow.pl,faktykonopne.pl,haft.com.pl,infokonsument.pl,instalnet.pl,intercyza-blog.pl,investjourney.pl,ironsky.pl,jasnastronamocy.info,jmdi.pl,kamienieogrodowe.com,karmopedia.pl,kartanauczycielablog.pl,konsalnet.pl,leszekbloch.pl,madameedith.com,mamysprawy.pl,maxbus.com.pl,mhtm.pl,naszesprawy.eu,naszwybir.pl,nowasprzedaz.pl,osiedlenatura.com.pl,pandrwal.pl,piekarniabialogon.pl,pierwsze-kroki.com,poloniawroclaw.pl,predathor.pl,programistanaswoim.pl,przedawnione.pl,przedsiebiorcza.com,przedszkolankowo.pl,przesył-energii.pl,radiowarszawa.com.pl,rauhanpuolustajat.org,sds-automatyka.pl,spkomandytowa.pl,stanprawnynieruchomosci.pl,studiosante.pl,szkoleniamaciolek.com,teatr-capitol.pl,towsrodku.pl,wars.pl,warunki-zabudowy.com.pl,wspolnotakrzyzasmolec.pl,yasumi.pl,zabieganamama.com,zatorland.pl,zsm.edu.pl,zuch.media##.spu-bg
 spotlight.pl##.statement-container
 konsbud-hifi.com.pl##.sticky-footer
 szybkopraca.pl##.toast
