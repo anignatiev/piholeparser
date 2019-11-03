@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 9978
+! Version: 9984
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -556,6 +556,7 @@
 ||bfeofwzszuis.com^
 ||bfhlxjwc.com^
 ||bfidvcsuazwy.com^
+||bfjwdxeakfifak.com^
 ||bfkpzjqpawfu.com^
 ||bflcuvtyffao.bid^
 ||bfmrffluuazwn.com^
@@ -984,6 +985,7 @@
 ||cfdmkifknsjt.com^
 ||cfhkiriics.com^
 ||cfkhdbzn.com^
+||cfknxewzz.com^
 ||cfnumapv.com^
 ||cfpqhrfpccmpq.com^
 ||cfqzixjwwqgow.com^
@@ -3863,6 +3865,7 @@
 ||itbiwlsxtigx.com^
 ||itdfougdewupfd.bid^
 ||itecsozudb.com^
+||itefgucwwytfc.com^
 ||itgfqliqge.com^
 ||itlmnxlauah.com^
 ||itsskxyyi.bid^
@@ -6207,6 +6210,7 @@
 ||nxnjpslufglmvp.com^
 ||nxtipyczkivm.com^
 ||nyaisjsghvj.bid^
+||nybsqmqbycmtid.com^
 ||nycgwaknv.com^
 ||nychunlnlca.com^
 ||nycnjewyxex.com^
@@ -8878,6 +8882,7 @@
 ||ucfwicndme.com^
 ||uchiytqiuir.com^
 ||ucikujit.bid^
+||uckctkuvwjms.com^
 ||uclftpjqdnvvz.bid^
 ||uclylhzwg.com^
 ||ucozssymgw.com^
@@ -9126,6 +9131,7 @@
 ||uzlleehrsmibli.com^
 ||uznwafjxmm.com^
 ||uzpvacvhdssq.com^
+||uzsqhuevese.com^
 ||uzvuhhyymmkc.com^
 ||uzxbwsnhjlt.com^
 ||uzxyqxolrc.com^

@@ -13,8 +13,13 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
+* FadeMind-SpotifyAds List Unavailable To Download. Sun Nov 3 00:20:45 UTC 2019
 ## Checking If List Updated Online
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
-* FadeMind-SpotifyAds List Was An Empty File After Download. Sat Nov 2 01:08:37 UTC 2019
+* FadeMind-SpotifyAds List Was An Empty File After Download. Sun Nov 3 00:20:45 UTC 2019
+## Attempting Creation Of Mirror File
+## Parsing List
+## Checking Parsed File Size
+* FadeMind-SpotifyAds List Was Killed By The Parsing Process. It will be skipped in the future. Sun Nov 3 00:20:46 UTC 2019
