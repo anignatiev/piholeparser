@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Bb43C3oTb4mLyB56bQ99rg
-! Version: 201911020110
+! Checksum: jmSOaWwVbdM+cst/LZG8NA
+! Version: 201911040010
 ! Title: RU AdList: BitBlock
-! Last modified: 02 Nov 2019 01:10 UTC
+! Last modified: 04 Nov 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -73,7 +73,6 @@ _vkontakte.png
 ! *** ruadlist:bitblock/social_general_hide.txt ***
 ###block_social_open
 ###com_vk
-~facebook.com,~messenger.com,~whatsapp.com###facebook
 ###odnaknopka
 ###recent-disqus-comments
 ###social
@@ -937,6 +936,8 @@ qiq.ws##a[onclick^="return addSoc"]
 bombardir.ru##a[title="Facebook"]:not(.auth-link)
 bombardir.ru##a[title="Twitter"]:not(.auth-link)
 evrl.to##a[title="ВКонтакте"]:not(.vk_auth_button)
+coop-land.ru##article > .social ~ .center
+coop-land.ru##article > .social ~ center
 office-guru.ru##aside .widget_text
 umnica-krasavica.ru##aside > .widget_search ~ .widget_text
 it-tehnik.ru##aside > div[id^="custom_html"]
@@ -1142,6 +1143,7 @@ _userbar_$image
 ###MCaddFrm
 ###METABAR_IFRAME
 ###back-bottom
+###catapult-cookie-bar
 ###cbpwr-widget-wrapper
 ###cc-modal
 ###center_col #promo-box
@@ -1383,6 +1385,7 @@ _userbar_$image
 ||ugrastes.uk^$third-party
 ||uinform.me^$third-party
 ||viapush.com^$third-party
+||wpu.sh^$third-party
 ||zaycevfeed.ru^$third-party
 !
 ! - Интернет-радио с автовоспроизведением в плеере ----------------------------
@@ -2265,6 +2268,7 @@ soccer.ru##.disabled-block
 burdastyle.ru,cosmo.ru,esquire.ru,ichip.ru,popmech.ru##.disclame_block
 anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,online-star.org##.dle-popup-confirm
 anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,online-star.org##.donat
+anitokyo.tv##.donate
 favoritemovies.at.ua##.eText > .top
 eagleplatform.com##.eplayer-backgroung-suggest-lenta
 vimeo.com##.explore_module-hero
@@ -3026,7 +3030,6 @@ forums.overclockers.ru##tr > td[nowrap="nowrap"][style="color: red;  font-weight
 ewix.ru,online-mult.net#@##MCaddFrm
 gifovina.ru#@##SharePanel
 sandisk.com#@##consent_blackbar
-help.instagram.com,oculus.com#@##facebook
 mts.ru#@##facebook_button
 pressa-online.com#@##fbContainer
 ok.ru#@##scrollToTop
@@ -24154,6 +24157,7 @@ _backToTop.
 ||webpush.jp^$third-party
 ||wonderpush.com^$third-party
 ||worldpush.co^$third-party
+||wpu.sh^$third-party
 ||wpush.biz^$third-party
 ||xtremepush.com^$third-party
 ! Embedded video Annoyances
