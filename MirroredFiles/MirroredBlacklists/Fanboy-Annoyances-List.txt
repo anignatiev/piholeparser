@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Oc3GNjqQVWe1PBIfThe+Mw
-! Version: 201911030011
+! Checksum: aPjgUQhUmK/wIitJrYTb1Q
+! Version: 201911050011
 ! Title: Fanboy's Annoyance List
-! Last modified: 03 Nov 2019 00:11 UTC
+! Last modified: 05 Nov 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -29213,6 +29213,7 @@ _site_cookie_
 ##.datenschutzcookie
 ##.datenschutzhinweis
 ##.dbe-content_cookie
+##.dbh-cookie-disclaimer
 ##.dbi__cookiebanner
 ##.dbk-cookiebar
 ##.dc-cookie-disclaimer
