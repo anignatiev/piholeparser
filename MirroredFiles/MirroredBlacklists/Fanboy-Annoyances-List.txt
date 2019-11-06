@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: aPjgUQhUmK/wIitJrYTb1Q
-! Version: 201911050011
+! Checksum: /bZLHESy5AM5DVhVJn+HAg
+! Version: 201911060011
 ! Title: Fanboy's Annoyance List
-! Last modified: 05 Nov 2019 00:11 UTC
+! Last modified: 06 Nov 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -3850,6 +3850,7 @@ _youtube_social_
 -eu-cookies/$script
 -eucookie.
 -gdpr-compliance/
+-gdpr-cookie-$~script
 -gdpr-min.
 -gdpr-public.
 -informativa-cookie.
@@ -5564,6 +5565,7 @@ _site_cookie_
 ###newsletter_subscribe
 ###newsletter_subscription
 ###newsletter_subscription_box
+###newsletter_subscription_footer
 ###newsletter_widget-2
 ###newsletter_wrapper
 ###newsletterad
@@ -8120,6 +8122,7 @@ _site_cookie_
 ###article-bottom-social-links
 ###article-detail-social-icons
 ###article-follow-us
+###article-footer-social-share
 ###article-header-share
 ###article-headline-facebook
 ###article-headline-social-list
@@ -23306,6 +23309,7 @@ _site_cookie_
 ###cookie_notice_bar
 ###cookie_notice_desktop
 ###cookie_notice_wrapper
+###cookie_notices
 ###cookie_notif
 ###cookie_notification
 ###cookie_notification_bar
@@ -31407,6 +31411,7 @@ _site_cookie_
 ##div[class*="-CookiesBar-"]
 ##div[class*="CookieBannerContainer"]
 ##div[class*="CookieBarStyled"]
+##div[class*="CookieDisclaimer-"]
 ##div[class*="CookieWrapper"]
 ##div[class*="CookiesBanner_"]
 ##div[class*="CookiesFooter"]
@@ -31422,6 +31427,7 @@ _site_cookie_
 ##div[class^="CookieGdpr"]
 ##div[class^="CookieNotice"]
 ##div[class^="CookiePopup"]
+##div[class^="CookieWarn__"]
 ##div[class^="CookiesAdvice"]
 ##div[class^="CookiesNotification"]
 ##div[class^="Cookies__cookies"]
@@ -31529,6 +31535,7 @@ _site_cookie_
 ##thread-cookie-notice
 ##ts-cookie-msg
 ##tui-cookie-bar
+##vc-site-cookiepolicy-dialog
 ##vls-cookie-banner
 ##voc-cookie-warning
 ##wc-cookies
@@ -31964,6 +31971,7 @@ _site_cookie_
 ||vicomi.com^$third-party
 ||vk.com/images/$third-party
 ||wahwahnetworks.com^$third-party
+||webseed.com/javascripts/messagebar.js
 ||weebly.com/*_signup.php$third-party
 ||weworkremotely.com^$third-party
 ||widget.adviceiq.com^$third-party
@@ -32220,6 +32228,7 @@ _site_cookie_
 ||friends2follow.com^$subdocument,third-party
 ||getpocket.com/button?$third-party
 ||getsocial.io/widget/$third-party
+||getsocial.io^*/gs_async.js$third-party
 ||google.com/_/+1/$third-party
 ||google.com^*/fastbutton?$third-party
 ||gotchosen.com^$third-party
@@ -32577,6 +32586,7 @@ _site_cookie_
 ||tmform.azurewebsites.net^
 ||webmd.com/dtmcms/live/webmd/*/newsletter/
 ||womenonwheels.co.za^*/subscribe-
+||wp.com^*/Subscribe-$domain=noqreport.com
 ||zerohedge.com^*/zh_email.
 ! ---------- Scroll To Top Buttons ----------
 ||cdprojektred.com^*/top.png
@@ -37010,6 +37020,7 @@ arcady.tv###scroll-down
 toggle.sg###scroll-top-button
 indiatimes.com,marketbusinessnews.com,philstar.com###scrollTop
 vosizneias.com###scroll_top
+weathernationtv.com###scroller
 miui.com,mytheresa.com###scrolltop
 narita-transit-program.jp###site-scrolltop
 irusa.org###slide_top
@@ -39023,6 +39034,7 @@ drweb.com##.SHOWIT-msg_showed
 hotcleaner.com##.Sm
 cnn.com##.TermsOfService__component
 mtn.co.za##.Toast
+6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.Tooltip
 hiberworld.com##._1u7AkTjy
 tunnelmb.net##._23LkM
 911tabs.com##._29v-t
@@ -39292,6 +39304,7 @@ pxhere.com,wallhere.com##.policy-info
 shazam.com##.policy-label
 likeyouth.org##.policy-popup
 nh-collection.com,nh-hotels.com##.politicaRewards
+process.st##.pookie
 aboardtheworld.com##.popmake
 beiersdorf.com,efootwear.eu##.popup
 replicon.com##.popup-container
@@ -41904,6 +41917,7 @@ filmkatalogus.hu##table[width="870"][cellspacing="3"]
 ! ---------- Indian ----------
 !
 dinamalar.com##.quickslide
+jiosaavn.com##.site-message-container
 !
 ! ---------- Italian ----------
 !
@@ -41929,7 +41943,7 @@ centrometeolombardo.com###cc_div
 ecodallecitta.it###contenuto_consenso
 spesasicura.com###cook
 aeo.it,bookingaltoadige.com,chiesi.com,citroen-club.it,confidisystema.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,primocanale.it,sace.it,tecnocasa.it,wd40.it###cookie
-angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,supermercato24.it,tennisitaliano.it,testimania.com,unipv.it,velaemotore.it,wind.it###cookies
+angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,supermercato24.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it,wind.it###cookies
 majani.it###cs-banner
 netflixlovers.it###cs_container
 staffettaonline.com###ctl00_CtrlLogAbbonato1_cookiealert
@@ -44200,6 +44214,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||spiceworks.com/assets/community/join/$image
 @@||spotify.edgekey.net^*/images/facebook-sm.png$domain=spotify.com
 @@||springboardplatform.com/storage/js/social_widget/$script
+@@||sputnik.by/min/js/plugins/social-likes.min.js
 @@||sputnik.md/min/js/plugins/social-likes.min.js
 @@||sputniknews.com/min/js/plugins/social-likes.min.js
 @@||srf.ch/socialview-in/$~third-party

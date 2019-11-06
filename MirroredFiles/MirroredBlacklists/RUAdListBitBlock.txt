@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jmSOaWwVbdM+cst/LZG8NA
-! Version: 201911040010
+! Checksum: LQRajqgXqBTzOEUQ3kYANA
+! Version: 201911060010
 ! Title: RU AdList: BitBlock
-! Last modified: 04 Nov 2019 00:10 UTC
+! Last modified: 06 Nov 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -514,6 +514,7 @@ sports.kz##.f-social-div
 animaunt.org,it-here.ru##.fa-telegram
 obozrevatel.com##.facebook-follow-pop-from-side
 glavnoe.ua##.facebook-tools
+womo.ua##.facebookLikesWidget
 sovietcinema.ru##.favorite-site
 glavnoe.ua##.fb-blue
 patrioty.org.ua##.fbPageLikeBox
@@ -729,7 +730,7 @@ piter.tv##.snet-links
 1tulatv.ru,anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,it-here.ru,online-star.org,vokrugsveta.ru##.soc
 telegraf.com.ua##.soc-app
 slovo.ws##.soc-butt
-cccp-rutracker.org,rutracker-org.appspot.com,rutracker.net,rutracker.nl,rutracker.org##.soc-buttons
+rutracker.appspot.com,rutracker.net,rutracker.nl,rutracker.org##.soc-buttons
 lifehacker.ru##.soc-div
 it-here.ru##.soc-footer
 webkarapuz.ru##.soc-group-wrap
@@ -1638,7 +1639,7 @@ _userbar_$image
 /geo/interesting/news/$domain=rbc.ru|sportrbc.ru
 /get-readmore-news/$domain=rbc.ru|sportrbc.ru
 /jquery.arcticmodal$script,stylesheet,domain=allboxing.ru|bigpicture.ru|magicfilm.net
-/min/js/pages/push.js$script,~third-party,domain=sputnik.az|sputnik.by|sputnik.kg|sputnik.md
+/min/js/pages/push.js$script,~third-party,domain=armeniasputnik.am|sputnik-abkhazia.info|sputnik-georgia.com|sputnik-news.ee|sputnik-ossetia.com|sputnik-tj.com|sputnik.az|sputnik.by|sputnik.kg|sputniknews-uz.com|sputniknews.kz|sputniknews.lt
 /newyear.js$domain=feo.ua|xn--e1asq.xn--p1ai
 /push.js$script,domain=mail.ru
 /wp-content/plugins/cookie-notice/$script
@@ -2231,6 +2232,7 @@ livejournal.com##.cat-widget__card-wrap--selfpromo
 wallpapershome.ru##.cc-dialog
 epidemz.co##.centertext > #dle-content ~ div[style^="color"]
 cafe.imgradio.ru,chilla.imgradio.ru,deti.imgradio.ru,fresh.imgradio.ru,funk.imgradio.ru,radio.megaradio.pro,radio.ruhit.pro,retrohit.pro,rurock.imgradio.ru##.cevher
+cont.ws##.channels-feed-promo
 obozrevatel.com##.chrome-app-promo
 citrus.ua##.citrus-message-button
 business-gazeta.ru##.city-select
@@ -2462,6 +2464,7 @@ obozrevatel.com,rbc.ua,telegraf.com.ua##.privasypolicy-info
 moya-planeta.ru##.products_list_full
 friday.ru##.project-slide__footer
 habr.com##.promo-block
+womo.ua##.promo-block-subscribe
 hotline.ua##.promo-product
 tvrain.ru##.promo_bar
 ntv.ru##.promoblock
@@ -2576,6 +2579,7 @@ fssprus.ru##.user-data-fixed-wrapper
 itc.ua##.verticalPageNav
 24v.tv##.video-rating-wrap
 sports.ru##.video-supertop
+stalkerportaal.ru##.video_adsense
 ok.ru##.videoembed .html5-vpl_logo
 ok.ru##.videoembed .html5-vpl_ok
 serialtime.net##.videorek
@@ -2783,10 +2787,10 @@ benzclub.ru##tr > td[valign="top"][width="245"]
 shiza-project.com##ul[class*="transparent-btns"]
 !
 ! - Сайты на движке TorrentPier -----------------------------------------------
-rutracker-org.appspot.com,rutracker.ru###latest_news
+rutracker.ru###latest_news
 alltorrents.net,file-tracker.net,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rus-torrents.ru,rutracker.ru,underverse.su###logo
 wtracker.ru##.preview_lol
-cccp-rutracker.org,rutracker-org.appspot.com,rutracker.net,rutracker.nl,rutracker.org,zerkalo-torrent.tk##.top-alert
+rutracker.appspot.com,rutracker.net,rutracker.nl,rutracker.org,zerkalo-torrent.tk##.top-alert
 !
 ! - Mail.ru -------------------------------------------------------------------
 ~e.mail.ru,mail.ru###ChromeBarContainer
@@ -2987,7 +2991,6 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua##[class*="desk-notif-card"] > a[href*="/
 yandex.by,yandex.kz,yandex.ru,yandex.ua##[class*="header"] > .yaplus
 metrika.yandex.by,metrika.yandex.kz,metrika.yandex.ru,metrika.yandex.ua##body > .metrika-app
 yandex.by,yandex.kz,yandex.ru,yandex.ua##body > .serp-user__promo-popup
-yandex.by,yandex.kz,yandex.ru,yandex.ua##body > div[class*="popup"][class*="tooltip_theme_promo"]
 news.yandex.by,news.yandex.kz,news.yandex.ru,news.yandex.ua,pogoda.yandex.by,pogoda.yandex.kz,pogoda.yandex.ru,pogoda.yandex.ua##body > div[style*="padding-top: 36px;"]
 news.yandex.by,news.yandex.kz,news.yandex.ru,news.yandex.ua,pogoda.yandex.by,pogoda.yandex.kz,pogoda.yandex.ru,pogoda.yandex.ua##body > iframe[src]
 yandex.by,yandex.kz,yandex.ru,yandex.ua##body[class*="b-page_infinity"] .b-sethome
@@ -3146,6 +3149,7 @@ myshared.ru#@#.ya-share2_inited
 @@/images/share_$domain=apple.com|joyreactor.cc|reactor.cc
 @@/images/social/*$domain=anitokyo.tv|ren-tv.com|zaycev.net
 @@/img/social-auth-icon-$domain=igromagaz.ru
+@@/min/js/plugins/social-likes.min.js$script,~third-party,domain=armeniasputnik.am|sputnik-abkhazia.info|sputnik-georgia.com|sputnik-news.ee|sputnik-ossetia.com|sputnik-tj.com|sputnik.az|sputnik.by|sputnik.kg|sputniknews-uz.com|sputniknews.kz|sputniknews.lt
 @@/plugins/popup-maker/$script,~third-party,domain=mindjet.com|pro-solution.ru
 @@/pum-site-scripts.js$domain=jailbreakvideo.ru
 @@/resource/image/social_big/$image,~third-party,domain=gidfilm.ru|hlamer.ru
@@ -3244,7 +3248,6 @@ myshared.ru#@#.ya-share2_inited
 @@||sberometer.ru/images/google-play.$image,domain=sberometer.ru
 @@||sendpulse.com^$domain=lrepacks.ru
 @@||sergeistrelec.ru^*/images/ratingplus.png$image,domain=sergeistrelec.ru
-@@||sputnik.*/min/js/plugins/social-likes.min.js$script,~third-party,domain=sputnik.az|sputnik.by|sputnik.kg|sputnik.md
 @@||stat.radar.imgsmail.ru/*=honeypot_fake_$image,domain=e.mail.ru
 @@||static.tacdn.com/components/dist/social.share-cta.*.js|$script,domain=tripadvisor.ru
 @@||static1.1tv.ru/resources/jquery.smartbanner.js$script,domain=1tv.ru
@@ -6539,6 +6542,7 @@ _youtube_social_
 ###article-bottom-social-links
 ###article-detail-social-icons
 ###article-follow-us
+###article-footer-social-share
 ###article-header-share
 ###article-headline-facebook
 ###article-headline-social-list
@@ -19411,6 +19415,7 @@ _youtube_social_
 ||friends2follow.com^$subdocument,third-party
 ||getpocket.com/button?$third-party
 ||getsocial.io/widget/$third-party
+||getsocial.io^*/gs_async.js$third-party
 ||google.com/_/+1/$third-party
 ||google.com^*/fastbutton?$third-party
 ||gotchosen.com^$third-party
@@ -21260,6 +21265,7 @@ _backToTop.
 ###newsletter_subscribe
 ###newsletter_subscription
 ###newsletter_subscription_box
+###newsletter_subscription_footer
 ###newsletter_widget-2
 ###newsletter_wrapper
 ###newsletterad
@@ -24019,6 +24025,7 @@ _backToTop.
 ||vicomi.com^$third-party
 ||vk.com/images/$third-party
 ||wahwahnetworks.com^$third-party
+||webseed.com/javascripts/messagebar.js
 ||weebly.com/*_signup.php$third-party
 ||weworkremotely.com^$third-party
 ||widget.adviceiq.com^$third-party
@@ -25437,6 +25444,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||spiceworks.com/assets/community/join/$image
 @@||spotify.edgekey.net^*/images/facebook-sm.png$domain=spotify.com
 @@||springboardplatform.com/storage/js/social_widget/$script
+@@||sputnik.by/min/js/plugins/social-likes.min.js
 @@||sputnik.md/min/js/plugins/social-likes.min.js
 @@||sputniknews.com/min/js/plugins/social-likes.min.js
 @@||srf.ch/socialview-in/$~third-party
