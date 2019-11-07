@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /bZLHESy5AM5DVhVJn+HAg
-! Version: 201911060011
+! Checksum: TiDXSKZnoei9YVyf/cumjw
+! Version: 201911070011
 ! Title: Fanboy's Annoyance List
-! Last modified: 06 Nov 2019 00:11 UTC
+! Last modified: 07 Nov 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -39335,6 +39335,7 @@ metaswitch.com##.pum-container
 abcnews.go.com##.push-me
 devonlive.com##.pwa-prompt
 sdrplugins.com##.px_-h-auto.px_-z-index-10000
+twitter.com##.r-13dxkaz.css-1dbjc4n
 niceareas.co.uk##.rayAlertBox
 hazlitt.net##.region-masthead-inner
 layar.com##.remarketing-banner
@@ -43757,7 +43758,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||androidpolice.com/wp-content/*_facebook-$image
 @@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
-@@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|febbit.com|id.logi.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
+@@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|duolingo.com|febbit.com|id.logi.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
 @@||app.hrlab.de/assets/icons/$image,domain=app.hrlab.de
 @@||apple.com/kb/resources/images/i_facebook.png
 @@||apynews.pl/assets/ranking-facebook.jpg

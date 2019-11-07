@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LQRajqgXqBTzOEUQ3kYANA
-! Version: 201911060010
+! Checksum: KI3TtFK8W8dn+De9JeSFsw
+! Version: 201911070010
 ! Title: RU AdList: BitBlock
-! Last modified: 06 Nov 2019 00:10 UTC
+! Last modified: 07 Nov 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -2101,6 +2101,7 @@ kriminal.tv###tvfooter
 lenta.ru###up
 free-tor.info,korsars.info###upbutton
 nowa.cc###usac
+24tv.ua###user-vote-trigger
 moscatalogue.net###user_disclaimer
 riafan.ru###videodigest__yt-container
 cc-fan.tv,cn-fan.tv,fox-fan.tv,nf-fan.tv###vipRight
@@ -2461,6 +2462,7 @@ cont.ws##.post_toolbar__promo
 rustrek.ru,tapochek.net##.poster
 kinoafisha.ua##.privacy-modal
 obozrevatel.com,rbc.ua,telegraf.com.ua##.privasypolicy-info
+24tv.ua##.privete-polisy
 moya-planeta.ru##.products_list_full
 friday.ru##.project-slide__footer
 habr.com##.promo-block
@@ -2477,6 +2479,7 @@ onliner.by##.push-notification
 anews.com##.push-subscribe
 mk.ru##.push-suggest
 dtf.ru,tjournal.ru,vc.ru##.push_offer
+24tv.ua##.pwa-install-banner
 advetime.ru##.randomtext_widget
 kinoplanet.net##.rating-box-color
 agronews.ua##.read-also
@@ -2818,6 +2821,7 @@ cloud.mail.ru###leftcol .portal-promo-manager ~ div[onclick]
 ~e.mail.ru,mail.ru###portal-headline > #extension-bubble
 ~e.mail.ru,mail.ru###set-homepage
 ~e.mail.ru,mail.ru###slidotype
+mail.ru,sportmail.ru###video-footer
 ~e.mail.ru,mail.ru##.adv-rb-block
 pogoda.mail.ru##.advert_right
 e.mail.ru,octavius.mail.ru##.application-mail__wrap .feedback-banner
@@ -24987,7 +24991,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||androidpolice.com/wp-content/*_facebook-$image
 @@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
-@@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|febbit.com|id.logi.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
+@@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|duolingo.com|febbit.com|id.logi.com|jakdojade.pl|moshi.com|passeidireto.com|sato.fi
 @@||app.hrlab.de/assets/icons/$image,domain=app.hrlab.de
 @@||apple.com/kb/resources/images/i_facebook.png
 @@||apynews.pl/assets/ranking-facebook.jpg

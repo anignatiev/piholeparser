@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10036
+! Version: 10051
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1549,6 +1549,7 @@
 ||dkvzpqcqan.com^
 ||dkxeorhjmua.com^
 ||dlahijuwjsv.com^
+||dlawshsjupuyy.com^
 ||dlcgxmentykv.com^
 ||dlemeyrkjy.com^
 ||dlfdvyfn.com^
@@ -2394,6 +2395,7 @@
 ||fkloazpi.com^
 ||fkpbbmgqa.bid^
 ||fkphqtgqrfixl.com^
+||fkqafflyjz.com^
 ||fkrgfktdvta.com^
 ||fkrisjefbx.com^
 ||fkrrvhoierty.com^
@@ -2665,6 +2667,7 @@
 ||fykmahfa.com^
 ||fylusiucmzdjl.com^
 ||fynprrom.com^
+||fyoewyqwpzc.com^
 ||fypbjnwbuz.bid^
 ||fyphnmoz.com^
 ||fytrvzettfn.com^
@@ -3751,6 +3754,7 @@
 ||ikvfgsftmyhn.com^
 ||ikvltjooosqh.com^
 ||ikvuvztmvvro.bid^
+||ikwxqqaduybfnv.com^
 ||ikxdpmnznk.bid^
 ||ikxhjlsynfeo.com^
 ||ilaantxayy.com^
@@ -4637,6 +4641,7 @@
 ||kjtcdiyzd.com^
 ||kjzprdqjrhjz.com^
 ||kkawxvjeluwc.com^
+||kkdvvaonvkmll.com^
 ||kklzztog.com^
 ||kknvwhcmqoet.com^
 ||kknwvfdzyqzj.com^
@@ -4959,6 +4964,7 @@
 ||lbtcymxcocwh.bid^
 ||lbtifiprfzy.com^
 ||lburmovcjefv.com^
+||lbwtrvpgvqkqc.com^
 ||lbytagcqxefsn.com^
 ||lceihiuarfqbn.bid^
 ||lckzoepctj.com^
@@ -6226,6 +6232,7 @@
 ||nwhitgovb.bid^
 ||nwjabizlgseab.com^
 ||nwkwefhpjohlor.bid^
+||nwntsnjtowku.com^
 ||nwooatwtmhfdh.bid^
 ||nwqcvbyznx.com^
 ||nwqgyaxazz.com^
@@ -6370,6 +6377,7 @@
 ||ofgapiydisrw.com^
 ||ofghrodsrqkg.com^
 ||ofhwyutlckjuul.bid^
+||ofirjzamaye.com^
 ||ofjampfenbwv.com^
 ||ofjpzeoygigtlq.com^
 ||ofmeapowymywx.bid^
@@ -6749,6 +6757,7 @@
 ||pdwyzrmrnddley.com^
 ||pdxvgkivkc.bid^
 ||pdypjcgng.bid^
+||pebwjgvxpnxsch.com^
 ||pedbkepupj.bid^
 ||peewuranpdwo.com^
 ||pegfkacjwjca.com^
@@ -7106,6 +7115,7 @@
 ||pzpotdmpv.com^
 ||pzpwjawqbmei.com^
 ||pzszpntjlz.com^
+||pztcyvdibslx.com^
 ||pzujqxug.com^
 ||pzzmqjrp.com^
 ||qaazzemfo.com^
@@ -7669,6 +7679,7 @@
 ||rereghpaz.com^
 ||rertazmgduxp.com^
 ||reszkzmyzceve.com^
+||revhpdxqul.com^
 ||revqwsjtu.com^
 ||rezbzvrbemeb.bid^
 ||rezfubngrzdet.bid^
@@ -8807,6 +8818,7 @@
 ||tvlubtrxcold.com^
 ||tvnetfcgpjq.bid^
 ||tvnqeshbs.com^
+||tvopcxtf.com^
 ||tvoykqiea.com^
 ||tvqmuysbnorks.bid^
 ||tvrfpkvotabukw.com^
@@ -9371,6 +9383,7 @@
 ||vzreguys.com^
 ||vzxnrtxpdnl.com^
 ||vzyclgqffpojk.com^
+||wakogzmgjqucs.com^
 ||wanrtqneiissrb.com^
 ||waucyeeziiiyul.com^
 ||wawyxzfkab.com^
@@ -9425,6 +9438,7 @@
 ||wichnqeikfdp.com^
 ||wiezvhxoqhnn.com^
 ||wiffqhum.com^
+||wikbpyexkw.com^
 ||wiklweefcuorh.com^
 ||wilrjvvmmplp.com^
 ||wiywlvkwwwrms.com^
@@ -9634,6 +9648,7 @@
 ||xqngocao.com^
 ||xqtymopje.com^
 ||xquhrikrq.com^
+||xqzlhxzkcil.com^
 ||xrapmkrsqa.com^
 ||xrexjmudy.com^
 ||xrfjymmysdr.com^
