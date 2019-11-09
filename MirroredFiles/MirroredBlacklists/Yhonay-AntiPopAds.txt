@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10068
+! Version: 10078
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -369,6 +369,7 @@
 ||atkkkyhyxemut.bid^
 ||atrcoikdyagv.com^
 ||atryzvsn.com^
+||atzcmddc.com^
 ||atzrsfweb.bid^
 ||aubmolods.com^
 ||aubrythgmge.bid^
@@ -2470,6 +2471,7 @@
 ||fpfivothg.com^
 ||fpguuwnpkvqsq.bid^
 ||fpherzxrae.com^
+||fpkcggyczcvix.com^
 ||fpluhtibx.com^
 ||fpnxicejwel.com^
 ||fpoxpjpxn.com^
@@ -2686,6 +2688,7 @@
 ||fzgitqrqrsyyiv.com^
 ||fzhwvlpnqg.bid^
 ||fzmogmfqh.com^
+||fzorwhus.com^
 ||fzpseyhkanhopd.com^
 ||fzqxefkbjzwiqa.com^
 ||fzrcalpbcu.com^
@@ -3394,6 +3397,7 @@
 ||hpqxznpb.bid^
 ||hpsthxyqxqae.com^
 ||hpufwccrmiwz.com^
+||hpuknttzl.com^
 ||hpvxmmttf.bid^
 ||hpwdohgicpmi.com^
 ||hpwoowyxhrsatx.com^
@@ -3948,6 +3952,7 @@
 ||iweacndqhiht.com^
 ||iwfzluau.com^
 ||iwgdguuz.com^
+||iwlvufxv.com^
 ||iwmonrwpeeku.com^
 ||iwnvbdosun.bid^
 ||iwptktyoq.bid^
@@ -4972,6 +4977,7 @@
 ||lbtcymxcocwh.bid^
 ||lbtifiprfzy.com^
 ||lburmovcjefv.com^
+||lbushibdda.com^
 ||lbwtrvpgvqkqc.com^
 ||lbytagcqxefsn.com^
 ||lceihiuarfqbn.bid^
@@ -5310,6 +5316,7 @@
 ||ltzjkjxx.com^
 ||luagrcmjnovjp.com^
 ||lubjqiebnayctz.bid^
+||ludovwmhazsx.com^
 ||ludwmwca.bid^
 ||lugknllg.bid^
 ||luhbhndh.com^
@@ -6138,6 +6145,7 @@
 ||nqkttgrapot.bid^
 ||nqlrewsfmywgbx.com^
 ||nqmwfddfwogbhw.com^
+||nqtqrnfzvp.com^
 ||nqtxbweqb.com^
 ||nqtyrwyklcmh.com^
 ||nqugsnsoghz.bid^
@@ -8284,6 +8292,7 @@
 ||sovqylkbucid.com^
 ||sozdyrrtsvr.com^
 ||spbflxvnheih.com^
+||spcpgtepary.com^
 ||spfrlpjmvkmq.com^
 ||spgjtypydhdxl.com^
 ||sphjqakwuteg.com^
@@ -9489,6 +9498,7 @@
 ||wpbhnyjej.com^
 ||wpkcfajkeytrro.com^
 ||wplqgfpj.com^
+||wpqvggsnc.com^
 ||wpxowkmaeyrte.com^
 ||wqhmpzjvdmvm.com^
 ||wqkpadciw.com^

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8mlAti0asioQkiGXZyHayA
-! Version: 201911080010
+! Checksum: /8yy0WqhgEvNNce6ztOvOg
+! Version: 201911090010
 ! Title: RU AdList: BitBlock
-! Last modified: 08 Nov 2019 00:10 UTC
+! Last modified: 09 Nov 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -619,6 +619,7 @@ echo.msk.ru##.netWorkBlock
 novafilm.tv##.news-entry > div:last-child
 1kr.ua##.news-social
 regnum.ru##.news-social-banner
+inoprosport.ru##.news__block_social_wrap
 tvtorrent.me##.news_btn
 cn.ru##.nn-like
 ngs.ru##.nn-nav-socials
@@ -681,7 +682,7 @@ get-tune.cc,mp3cc.biz##.rt_share
 delfi.ua##.sbookmarks
 online-mult.net##.sh_pt
 zi.dn.ua##.shar-title
-1743.ru,amurmedia.ru,bibliofond.ru,brovary.net.ua,businessman.ru,eaomedia.ru,glavcom.ua,govoritmoskva.ru,gts.tv,hdkinoteatr.com,irkutskmedia.ru,krasnodarmedia.su,krasnoyarskmedia.ru,magadanmedia.ru,native-english.ru,ntsk.ru,orki.ru,orsk.ru,pkzsk.info,primamedia.ru,ria.ru,sakhalinmedia.ru,sevastopolmedia.ru,syl.ru,tele.ru,ua-football.com,ulanmedia.ru,ussurmedia.ru,vgtimes.ru,voxpopuli.kz,yakutiamedia.ru##.share
+1743.ru,amurmedia.ru,bibliofond.ru,brovary.net.ua,businessman.ru,eaomedia.ru,glavcom.ua,govoritmoskva.ru,gts.tv,hdkinoteatr.com,irkutskmedia.ru,krasnodarmedia.su,krasnoyarskmedia.ru,magadanmedia.ru,native-english.ru,ntsk.ru,orki.ru,orsk.ru,pkzsk.info,primamedia.ru,ria.ru,rusonline.org,sakhalinmedia.ru,sevastopolmedia.ru,syl.ru,tele.ru,ua-football.com,ulanmedia.ru,ussurmedia.ru,vgtimes.ru,voxpopuli.kz,yakutiamedia.ru##.share
 my.kaspersky.com##.share > :not(.share-link)
 liwihelp.com##.share > a[onclick*="sharer"]
 tv-torrent.me##.share-big
