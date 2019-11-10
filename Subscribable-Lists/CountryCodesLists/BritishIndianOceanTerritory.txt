@@ -156,6 +156,7 @@ airbrake.io
 ali.luckypool.io
 alloy-api.luckypool.io
 alloy.luckypool.io
+alma-cmp.almamedia.io
 alphonso.us-east-1.stinger-ad.bidr.io
 amer01.sp.backtrace.io
 amer02.sp.backtrace.io

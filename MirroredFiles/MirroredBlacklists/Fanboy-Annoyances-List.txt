@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EhGiuQ3nGbNDOZM8Ye15og
-! Version: 201911080011
+! Checksum: T5lm6nbSN1ng2LhiFaElGA
+! Version: 201911100011
 ! Title: Fanboy's Annoyance List
-! Last modified: 08 Nov 2019 00:11 UTC
+! Last modified: 10 Nov 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -16890,6 +16890,7 @@ _site_cookie_
 ##.share_boxes_new
 ##.share_boxes_wraper
 ##.share_btn
+##.share_btn_white
 ##.share_btns
 ##.share_bubble
 ##.share_button
@@ -22096,6 +22097,7 @@ _site_cookie_
 ###consent_assist_container
 ###consent_banner
 ###consent_blackbar
+###consent_c
 ###consent_cookies_popup
 ###consent_popup
 ###consent_visitor
@@ -29418,6 +29420,8 @@ _site_cookie_
 ##.euCookieNotice
 ##.euCookiePanel
 ##.euCookiePolicy
+##.euCookiePopupContainer
+##.euCookiePopupSpacer
 ##.euCookieWarn
 ##.euCookies
 ##.euCookiesPolicy
@@ -32402,6 +32406,7 @@ _site_cookie_
 ! *** easylist:fanboy-addon/fanboy_cookie_thirdparty.txt ***
 ||admiral.mgr.consensu.org^$third-party
 ||akamaihd.net/cpmt/
+||alma-cmp.almamedia.io^
 ||app.livemarketshoppers.com^$script,third-party
 ||axept.io^$third-party
 ||axeptio.eu^$third-party
@@ -32521,6 +32526,7 @@ _site_cookie_
 ||xhamster.one/ajax/wit-cams-widget/
 ! ||lightboxcdn.com^$third-party,domain=adweek.com|ahoramismo.com|hotair.com|androidcentral.com|avclub.com|bearingarms.com|bgr.com|cinemablend.com|clickhole.com|cnet.com|conservativeradio.com|crackberry.com|cracked.com|culturemap.com|dailycaller.com|deadline.com|deadspin.com|fastcodesign.com|fastcompany.com|gamespot.com|gizmodo.com|heavy.com|hollywoodlife.com|imore.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|mashable.com|modernfarmer.com|nbcsports.com|reason.com|redstate.com|splinternews.com|spy.com|thehill.com|theinventory.com|theonion.com|theroot.com|thetakeout.com|townhall.com|tvline.com|twitchy.com|venturebeat.com|windowscentral.com|zdnet.com
 ! ---------- Push Notifications ----------
+/push.js$script,~third-party,domain=armeniasputnik.am|sputnik-abkhazia.info|sputnik-abkhazia.ru|sputnik-georgia.com|sputnik-georgia.ru|sputnik-news.ee|sputnik-ossetia.com|sputnik-ossetia.ru|sputnik-tj.com|sputnik.az|sputnik.by|sputnik.kg|sputnik.md|sputniknews-uz.com|sputniknews.cn|sputniknews.com|sputniknews.gr|sputniknews.kz|sputniknews.lt|sputniknewslv.com
 ||alerts.ndtv.com^
 ||alerts.thedailystar.net^
 ||annahar.com/assets/js/notifications.js
@@ -34747,6 +34753,7 @@ cbslocal.com##.entry-toolbar
 thedailybeast.com##.entryActions
 rttnews.com##.esmain
 indiatimes.com##.etmobile
+qwant.com##.extension-item
 airspacemag.com##.external-associated-products
 amosauto.com##.extra
 humorhub.org,smhlmao.com##.f-page
@@ -37641,6 +37648,7 @@ jpost.com##.article-top-box-data-print-icon
 nationalreview.com##.article-utility-nav
 militarywatchmagazine.com##.articleButtons
 parent24.com##.articleExtras2
+sputniknews.com##.article__google-news
 salemnews.net##.article_details_icons
 goodnet.org##.article_like
 nybooks.com##.article_toolbar
@@ -39298,6 +39306,7 @@ plymouth.ac.uk##.page-notification
 nick.com,tvland.com##.page-overlay_wrapper
 fundedbyme.com##.pageNotification
 ticketmaster.ca##.page__legal-link
+advisto.com##.page_warning
 akasha.org##.parts__Wrapper-sc-1svfu23-0
 nordwindairlines.ru##.personal-data
 botify.com##.pin-b.pin-l.fixed
@@ -39489,6 +39498,7 @@ eteknix.com###cookie-law-info-bar
 depositfiles.com,depositfiles.org,dfiles.eu,dfiles.ru###cookie_popup
 tweaktown.com###cookies_footer_sec
 bild.de,welt.de##.as-oil
+icq.com##.ca_wrap
 mirror.co.uk##.captify-iframe
 mirror.co.uk##.captify-widget
 flattr.com,thebarchive.com##.cc_banner
@@ -42582,6 +42592,7 @@ linnaleht.ee,ohtuleht.ee##.ntf-container
 ||cure-naturali.it/cookies?
 ||effekt.it/analytics/
 ||privacyportal.fatergroup.com^
+||rcsobjects.it/rcs_cpmt/
 ||spesasicura.com/Scripts/cookie.js
 !
 ! ---------- Japanese ----------
@@ -42714,7 +42725,7 @@ google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,
 scribol.com#@#.scribol
 advids.co,cbdoilreview.org,galerieslafayette.com,mortgageguy.com.au,paperless-insurance.com,thepage.com.ua#@#.scroll-to-top
 channelnewsasia.com,kitacon.org,polskikoszyk.pl,redislabs.com#@#.scroll-top
-channelnewsasia.com,ew.com,indiatimes.com,letyshops.com,msn.com,people.com,southernliving.com,tele2.ru,wiemy.to#@#.scroll-up
+aklinizikesfedin.com,channelnewsasia.com,ew.com,indiatimes.com,letyshops.com,msn.com,people.com,southernliving.com,tele2.ru,wiemy.to#@#.scroll-up
 hyperoptic.com,playtech.co.nz,porozmawiajmyoit.pl,scan.co.uk#@#.scroll_top
 ltn.com.tw,theuptake.org#@#.scrolltop
 ap.www.namecheap.com#@#.scrolltotop
@@ -43046,7 +43057,7 @@ iherb.com,vimeo.com#@#.share-icon
 golem.de,tumblr.com#@#.share-item
 vimeo.com#@#.share-label
 recite.com#@#.share-left
-askubuntu.com,baidu.com,broadcast.app.net,imgur.com,kuechenstud.io,logbuch-netzpolitik.de,mammothhq.com,mathoverflow.net,minkorrekt.de,openstreetmap.org,pinksluts.com,pomponik.pl,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com,yadi.sk,yandex.com,yandex.com.tr,yandex.ru,yandex.ua#@#.share-link
+askubuntu.com,baidu.com,broadcast.app.net,imgur.com,kuechenstud.io,logbuch-netzpolitik.de,mammothhq.com,mathoverflow.net,minkorrekt.de,openstreetmap.org,pinksluts.com,pomponik.pl,sale.aliexpress.com,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com,yadi.sk,yandex.com,yandex.com.tr,yandex.ru,yandex.ua#@#.share-link
 pornhub.com#@#.share-link-container
 autokult.pl,channelnewsasia.com,fotoblogia.pl,imgur.com,komorkomania.pl#@#.share-links
 channelnewsasia.com,recite.com#@#.share-list
@@ -43397,7 +43408,7 @@ zwijsen.nl#@#.cookie-consent-container
 zwijsen.nl#@#.cookie-consent-content
 zwijsen.nl#@#.cookie-consent-wrapper
 codra.net#@#.cookie-consent:not(body)
-bokadirekt.se,danbolig.dk,rusta.com,xmradio.nl#@#.cookie-content
+bokadirekt.se,danbolig.dk,hongkong.fi,rusta.com,xmradio.nl#@#.cookie-content
 danbolig.dk#@#.cookie-dialog
 ikks.com#@#.cookie-footer
 puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.destentor.nl,puzzels.ed.nl,puzzels.gelderlander.nl,puzzels.parool.nl,puzzels.pzc.nl,puzzels.trouw.nl,puzzels.tubantia.nl,puzzels.volkskrant.nl#@#.cookie-header
@@ -43696,7 +43707,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@/angular-facebook.js
 @@/followbutton.js$domain=instagram.com
 @@/share-sprite-$domain=askubuntu.com|mathoverflow.net|serverfault.com|stackapps.com|stackexchange.com|stackoverflow.com|superuser.com
-@@/social-likes.min.js$script,~third-party,domain=sputnik.az|sputnik.by|sputnik.kg|sputnik.md|sputniknews.com
+@@/social-likes.min.js$script,~third-party,domain=armeniasputnik.am|sputnik-abkhazia.info|sputnik-abkhazia.ru|sputnik-georgia.com|sputnik-georgia.ru|sputnik-news.ee|sputnik-ossetia.com|sputnik-ossetia.ru|sputnik-tj.com|sputnik.az|sputnik.by|sputnik.kg|sputnik.md|sputniknews-uz.com|sputniknews.cn|sputniknews.com|sputniknews.gr|sputniknews.kz|sputniknews.lt|sputniknewslv.com
 @@/socialmedia_$domain=defacto.expert
 @@/static/themes/*/img/icons/*$image,~third-party
 @@/url?*&source=$subdocument,domain=google.ad|google.ae|google.al|google.am|google.as|google.at|google.az|google.ba|google.be|google.bf|google.bg|google.bi|google.bj|google.bs|google.bt|google.by|google.ca|google.cat|google.cd|google.cf|google.cg|google.ch|google.ci|google.cl|google.cm|google.cn|google.co.ao|google.co.bw|google.co.ck|google.co.cr|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.ls|google.co.ma|google.co.mz|google.co.nz|google.co.th|google.co.tz|google.co.ug|google.co.uk|google.co.uz|google.co.ve|google.co.vi|google.co.za|google.co.zm|google.co.zw|google.com|google.com.af|google.com.ag|google.com.ai|google.com.ar|google.com.au|google.com.bd|google.com.bh|google.com.bn|google.com.bo|google.com.br|google.com.bz|google.com.co|google.com.cu|google.com.cy|google.com.do|google.com.ec|google.com.eg|google.com.et|google.com.fj|google.com.gh|google.com.gi|google.com.gt|google.com.hk|google.com.jm|google.com.kh|google.com.kw|google.com.lb|google.com.ly|google.com.mm|google.com.mt|google.com.mx|google.com.my|google.com.na|google.com.nf|google.com.ng|google.com.ni|google.com.np|google.com.om|google.com.pa|google.com.pe|google.com.pg|google.com.ph|google.com.pk|google.com.pr|google.com.py|google.com.qa|google.com.sa|google.com.sb|google.com.sg|google.com.sl|google.com.sv|google.com.tj|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vc|google.com.vn|google.cv|google.cz|google.de|google.dj|google.dk|google.dm|google.dz|google.ee|google.es|google.fi|google.fm|google.fr|google.ga|google.ge|google.gg|google.gl|google.gm|google.gp|google.gr|google.gy|google.hn|google.hr|google.ht|google.hu|google.ie|google.im|google.iq|google.is|google.it|google.je|google.jo|google.kg|google.ki|google.kz|google.la|google.li|google.lk|google.lt|google.lu|google.lv|google.md|google.me|google.mg|google.mk|google.ml|google.mn|google.ms|google.mu|google.mv|google.mw|google.ne|google.nl|google.no|google.nr|google.nu|google.pl|google.pn|google.ps|google.pt|google.ro|google.rs|google.ru|google.rw|google.sc|google.se|google.sh|google.si|google.sk|google.sm|google.sn|google.so|google.sr|google.st|google.td|google.tg|google.tk|google.tl|google.tm|google.tn|google.to|google.tt|google.vg|google.vu|google.ws
@@ -44221,7 +44232,6 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||spiceworks.com/assets/community/join/$image
 @@||spotify.edgekey.net^*/images/facebook-sm.png$domain=spotify.com
 @@||springboardplatform.com/storage/js/social_widget/$script
-@@||sputnik.by/min/js/plugins/social-likes.min.js
 @@||srf.ch/socialview-in/$~third-party
 @@||stackexchange.com/content/img/share-sprite-new.png
 @@||stackoverflow.com/content/img/share-sprite-new.png

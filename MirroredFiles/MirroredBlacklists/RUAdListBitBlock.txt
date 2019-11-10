@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /8yy0WqhgEvNNce6ztOvOg
-! Version: 201911090010
+! Checksum: U7LsXe0v14uTzq3LqGoVEw
+! Version: 201911100010
 ! Title: RU AdList: BitBlock
-! Last modified: 09 Nov 2019 00:10 UTC
+! Last modified: 10 Nov 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -715,6 +715,7 @@ podrobnosti.ua##.sidebar .active > [href="javascript:;"]
 ukrmir.info##.sidebar > .module-social > .module-inner > .module-title
 androidinsider.ru,appleinsider.ru,hi-news.ru##.sidebar-banner-telegram
 ryfma.com#?#.sidebar-card:-abp-has(> .content > .header:-abp-contains(Мы в соц.сетях))
+darada.co##.sidebar-social__header
 nevasport.ru##.sidebar-widget
 rg.ru##.single-banner
 nabat.news##.single-sharing
@@ -766,6 +767,7 @@ tele.ru##.social-cell
 nn.ru##.social-cont
 stmods.ru##.social-container
 agronews.ua##.social-element
+darada.co##.social-header-wrap
 rfpl.org##.social-index
 livemaster.ru##.social-like-banner
 newstube.ru##.social-like-it
@@ -776,7 +778,7 @@ kopilkasovetov.com##.social-media-area
 maximum.ru##.social-network
 xsport.ua##.social-sharer-holder
 kinopoisk.ru##.social-teasers
-prozoro.net.ua,radarmedia.net##.socialWidgetButton
+darada.co,prozoro.net.ua,radarmedia.net##.socialWidgetButton
 gismeteo.ru##.social__btns
 relax-fm.ru##.social__tab
 riafan.ru##.social_comment_buttons
@@ -1783,6 +1785,7 @@ _userbar_$image
 ||mozilla-russia.org/images/$object
 ||muse-masters.ru/wp-content/uploads/*/snow.
 ||muz.ru/content/banners/
+||my.mosenergosbyt.ru/manifest.json
 ||mygold.pp.ua^$third-party
 ||myradio.ua/img/button/
 ||myshows.me^*/banners/
@@ -2627,6 +2630,7 @@ relizua.com##[class^="yab"][class*="full"]
 friday.ru##[data-block-closer-storage="cookie"]
 www.rambler.ru##[data-cerber-head*=":search::yabro"]
 www.rambler.ru##[data-cerber-head="main::widgets::widget.games"]
+www.rambler.ru##[data-cerber-head^="main::search::hint::"]
 www.rambler.ru##[data-cerber-topline="promo"]
 sports.ru##[data-control="Common.WebpushSubscribe"]
 2gis.ru##[data-module="promoTooltip"]
@@ -2724,6 +2728,7 @@ driveroff.net,samlab.ws#?#center:-abp-has(iframe[src*="money.yandex.ru"])
 xuk.mobi##div > .center > noindex
 www.rambler.ru##div > .rui-ComplexSearch-root ~ div
 www.rambler.ru##div > div[data-cerber-head$=":widgets::widget.finance"] ~ div
+www.rambler.ru#?#div:-abp-has(> [data-cerber-head^="main::search::hint::"])
 obozrevatel.com##div[class$="__right"] .player-box__content
 rozetka.com.ua##div[class$="catalog-banner"]
 gamer-info.com##div[class*="ads"][class*="overlay"]
@@ -2731,7 +2736,6 @@ gamer-info.com##div[class*="ads"][class*="overlay"]
 1tv.ru##div[class*="promo"][class$="place"]
 gdekluet.ru##div[class*="ui-widget"]
 motor.ru#?#div[class]:-abp-has(> [data-widget^="plista_widget"])
-www.rambler.ru#?#div[class]:-abp-has(> form[data-cerber-search]) ~ div[class]
 google.com,google.com.ua,google.ru##div[class][jsaction^="dismiss_warmup"]
 mail.rambler.ru##div[class^="NewsBlock-root"]
 mail.rambler.ru##div[class^="Profile-banner"]
@@ -15322,6 +15326,7 @@ _youtube_social_
 ##.share_boxes_new
 ##.share_boxes_wraper
 ##.share_btn
+##.share_btn_white
 ##.share_btns
 ##.share_bubble
 ##.share_button
@@ -24246,7 +24251,7 @@ google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,
 scribol.com#@#.scribol
 advids.co,cbdoilreview.org,galerieslafayette.com,mortgageguy.com.au,paperless-insurance.com,thepage.com.ua#@#.scroll-to-top
 channelnewsasia.com,kitacon.org,polskikoszyk.pl,redislabs.com#@#.scroll-top
-channelnewsasia.com,ew.com,indiatimes.com,letyshops.com,msn.com,people.com,southernliving.com,tele2.ru,wiemy.to#@#.scroll-up
+aklinizikesfedin.com,channelnewsasia.com,ew.com,indiatimes.com,letyshops.com,msn.com,people.com,southernliving.com,tele2.ru,wiemy.to#@#.scroll-up
 hyperoptic.com,playtech.co.nz,porozmawiajmyoit.pl,scan.co.uk#@#.scroll_top
 ltn.com.tw,theuptake.org#@#.scrolltop
 ap.www.namecheap.com#@#.scrolltotop
@@ -24658,7 +24663,7 @@ iherb.com,vimeo.com#@#.share-icon
 golem.de,tumblr.com#@#.share-item
 vimeo.com#@#.share-label
 recite.com#@#.share-left
-askubuntu.com,baidu.com,broadcast.app.net,imgur.com,kuechenstud.io,logbuch-netzpolitik.de,mammothhq.com,mathoverflow.net,minkorrekt.de,openstreetmap.org,pinksluts.com,pomponik.pl,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com,yadi.sk,yandex.com,yandex.com.tr,yandex.ru,yandex.ua#@#.share-link
+askubuntu.com,baidu.com,broadcast.app.net,imgur.com,kuechenstud.io,logbuch-netzpolitik.de,mammothhq.com,mathoverflow.net,minkorrekt.de,openstreetmap.org,pinksluts.com,pomponik.pl,sale.aliexpress.com,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com,yadi.sk,yandex.com,yandex.com.tr,yandex.ru,yandex.ua#@#.share-link
 pornhub.com#@#.share-link-container
 autokult.pl,channelnewsasia.com,fotoblogia.pl,imgur.com,komorkomania.pl#@#.share-links
 channelnewsasia.com,recite.com#@#.share-list
@@ -24933,7 +24938,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@/angular-facebook.js
 @@/followbutton.js$domain=instagram.com
 @@/share-sprite-$domain=askubuntu.com|mathoverflow.net|serverfault.com|stackapps.com|stackexchange.com|stackoverflow.com|superuser.com
-@@/social-likes.min.js$script,~third-party,domain=sputnik.az|sputnik.by|sputnik.kg|sputnik.md|sputniknews.com
+@@/social-likes.min.js$script,~third-party,domain=armeniasputnik.am|sputnik-abkhazia.info|sputnik-abkhazia.ru|sputnik-georgia.com|sputnik-georgia.ru|sputnik-news.ee|sputnik-ossetia.com|sputnik-ossetia.ru|sputnik-tj.com|sputnik.az|sputnik.by|sputnik.kg|sputnik.md|sputniknews-uz.com|sputniknews.cn|sputniknews.com|sputniknews.gr|sputniknews.kz|sputniknews.lt|sputniknewslv.com
 @@/socialmedia_$domain=defacto.expert
 @@/static/themes/*/img/icons/*$image,~third-party
 @@/url?*&source=$subdocument,domain=google.ad|google.ae|google.al|google.am|google.as|google.at|google.az|google.ba|google.be|google.bf|google.bg|google.bi|google.bj|google.bs|google.bt|google.by|google.ca|google.cat|google.cd|google.cf|google.cg|google.ch|google.ci|google.cl|google.cm|google.cn|google.co.ao|google.co.bw|google.co.ck|google.co.cr|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.ls|google.co.ma|google.co.mz|google.co.nz|google.co.th|google.co.tz|google.co.ug|google.co.uk|google.co.uz|google.co.ve|google.co.vi|google.co.za|google.co.zm|google.co.zw|google.com|google.com.af|google.com.ag|google.com.ai|google.com.ar|google.com.au|google.com.bd|google.com.bh|google.com.bn|google.com.bo|google.com.br|google.com.bz|google.com.co|google.com.cu|google.com.cy|google.com.do|google.com.ec|google.com.eg|google.com.et|google.com.fj|google.com.gh|google.com.gi|google.com.gt|google.com.hk|google.com.jm|google.com.kh|google.com.kw|google.com.lb|google.com.ly|google.com.mm|google.com.mt|google.com.mx|google.com.my|google.com.na|google.com.nf|google.com.ng|google.com.ni|google.com.np|google.com.om|google.com.pa|google.com.pe|google.com.pg|google.com.ph|google.com.pk|google.com.pr|google.com.py|google.com.qa|google.com.sa|google.com.sb|google.com.sg|google.com.sl|google.com.sv|google.com.tj|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vc|google.com.vn|google.cv|google.cz|google.de|google.dj|google.dk|google.dm|google.dz|google.ee|google.es|google.fi|google.fm|google.fr|google.ga|google.ge|google.gg|google.gl|google.gm|google.gp|google.gr|google.gy|google.hn|google.hr|google.ht|google.hu|google.ie|google.im|google.iq|google.is|google.it|google.je|google.jo|google.kg|google.ki|google.kz|google.la|google.li|google.lk|google.lt|google.lu|google.lv|google.md|google.me|google.mg|google.mk|google.ml|google.mn|google.ms|google.mu|google.mv|google.mw|google.ne|google.nl|google.no|google.nr|google.nu|google.pl|google.pn|google.ps|google.pt|google.ro|google.rs|google.ru|google.rw|google.sc|google.se|google.sh|google.si|google.sk|google.sm|google.sn|google.so|google.sr|google.st|google.td|google.tg|google.tk|google.tl|google.tm|google.tn|google.to|google.tt|google.vg|google.vu|google.ws
@@ -25458,7 +25463,6 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||spiceworks.com/assets/community/join/$image
 @@||spotify.edgekey.net^*/images/facebook-sm.png$domain=spotify.com
 @@||springboardplatform.com/storage/js/social_widget/$script
-@@||sputnik.by/min/js/plugins/social-likes.min.js
 @@||srf.ch/socialview-in/$~third-party
 @@||stackexchange.com/content/img/share-sprite-new.png
 @@||stackoverflow.com/content/img/share-sprite-new.png

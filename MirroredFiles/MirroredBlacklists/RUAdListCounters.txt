@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pR3Z7J3ex2p0XCeUj9Vijw
-! Version: 201911090010
+! Checksum: F82m4QETnxc6wWE4UnGK1g
+! Version: 201911100010
 ! Title: RU AdList: Counters
-! Last modified: 09 Nov 2019 00:10 UTC
+! Last modified: 10 Nov 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -83,6 +83,7 @@ ivi.ru#?#+js(abort-on-property-read.js, Object.prototype.getAd)
 eagleplatform.com#?#+js(set-constant.js, player.options.autoplay, false)
 rp5.by,rp5.co.uk,rp5.kz,rp5.lv,rp5.md,rp5.ru,rp5.ua#?#+js(setTimeout-defuser.js, xvb)
 militaryreview.su##.bbanerr
+yandex.by,yandex.kz,yandex.ru,yandex.ua#?#.card:-abp-has(> .card__day-info > div > script)
 yakusubstudio.home-forum.com,yakusubstudio.ru##.contbaner
 segodnya.ua##.counters
 ok.ru#?#.feed-list > .feed-w:-abp-has(.feed_ava ~ div div > [class] ~ [class] ~ [class] ~ [class] ~ [class] ~ [class])
@@ -91,6 +92,7 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua##.sport-advert
 /*.php?id=$third-party,other,xmlhttprequest,domain=hdlizor.com|kodik.cc|kodik.info|kodikdb.com
 /^https?://[^\s]+\.(cc\/$|club|com|online|ru)/$other,xmlhttprequest,domain=hdgo.cc|vio.to
 /^https?://rkn\.gov\.ru\/(?!js\/)+[a-z0-9]{15,25}\.js\?+[0-9]{7,15}/$script,domain=rkn.gov.ru
+/^https?://yastatic\.net\/www\/_\/[^\s]{200,}/$image,domain=yandex.by|yandex.kz|yandex.ru|yandex.ua
 /assets/vendor*.xml?$third-party,other,xmlhttprequest,domain=kodik.cc|kodikdb.com
 @@/^https?://[a-z]+\.com/+[^\s]{4,15}/$other,xmlhttprequest,domain=alforenao.com|clastarti.cc|mastarti.com|pandastream.cc|streamguard.cc|streamtojupiter.me
 @@||www.inoreader.com/adv/$domain=www.inoreader.com
@@ -100,6 +102,7 @@ mail.ru##body > .zeropixel ~ * .pulse
 mail.ru##body > .zeropixel ~ * .search__container ~ [class] > .tabs + div[class] ~ div > div:first-child:not([name])
 mail.ru##body > .zeropixel ~ * .search__container ~ [class] > .tabs + div[class] ~ div > div:first-child:not([name]) ~ div
 mail.ru##body > .zeropixel ~ * .search__container ~ [class] ~ [class] > :first-child
+yandex.by,yandex.kz,yandex.ru,yandex.ua##body[class*="b-page_infinity"] .main.widgets div ~ div ~ div ~ div[class=""] ~ div[class=""]
 championat.com,gazeta.ru,lenta.ru,quto.ru,rambler.*,rns.online,eda.ru#?#+js(set-constant.js, Object.prototype.getPrefixes, undefined)
 yandex.by,yandex.kz,yandex.ru,yandex.ua##div[class*="turbo-advert_type_"]
 pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net##footer
