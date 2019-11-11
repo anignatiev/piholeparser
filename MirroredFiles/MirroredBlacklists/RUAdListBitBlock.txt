@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: U7LsXe0v14uTzq3LqGoVEw
-! Version: 201911100010
+! Checksum: AE8L1NHRu3vAdhkuGHiGpQ
+! Version: 201911110010
 ! Title: RU AdList: BitBlock
-! Last modified: 10 Nov 2019 00:10 UTC
+! Last modified: 11 Nov 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -753,7 +753,7 @@ hdtochka.club##.socblok
 adultmult.be,adultmult.li,adultmultclub.com,multonline.ru##.socbut
 livecars.ru,livesport.ru##.socbut_v_r > div
 mediaryazan.ru##.socbuttons
-animedia.online,wincore.ru##.socc
+amedia.online,wincore.ru##.socc
 torrentfilmi.co##.socfull
 vgtimes.ru##.soci
 overclockers.ru##.soci-link
@@ -1953,7 +1953,7 @@ gazeta.ru###fixed_popup_video
 besplatnyeprogrammy.net###fixedcontainer_fixed
 webmoney.ru###flake
 dailylviv.com###followdaily
-aligency.ru###footer_content > .js-decode
+comunicart.ru###footer_content > .js-decode
 biglion.ru###form_popup_id
 animerost.org###fraind > span
 tapochek.net###fucking_shit_block
@@ -2297,6 +2297,7 @@ dtf.ru,tjournal.ru,vc.ru#?#.feed:not([data-feed-more-url*="/promo/"]) .feed__chu
 vk.com##.feed_friends_recomm
 drive.ru##.feedsub
 kinopoisk.ru##.film-thin-teaser
+skidkaonline.ru##.fixed-tabs
 nalog.ru##.fixed_shortcut_vc
 lifehacker.ru#?#.flow-post:-abp-has(.meta-mark_advert)
 101.ru##.flying-banner-wrapper
@@ -3080,8 +3081,8 @@ joblib.ru#@#.feedback-button
 store.steampowered.com#@#.follow_btn
 adme.ru#@#.gallery-social
 app2top.ru,ekabu.ru,tjournal.ru#@#.icon-facebook
-aligency.ru#@#.icon-facebook-official
-aligency.ru,ekabu.ru,rgho.st#@#.icon-google
+comunicart.ru#@#.icon-facebook-official
+comunicart.ru,ekabu.ru,rgho.st#@#.icon-google
 tjournal.ru#@#.icon-gp
 tjournal.ru#@#.icon-gplus
 ekabu.ru#@#.icon-odnoklassniki
@@ -3090,7 +3091,7 @@ tjournal.ru#@#.icon-share
 tjournal.ru#@#.icon-tw
 ekabu.ru#@#.icon-twitter
 app2top.ru#@#.icon-vk
-aligency.ru,ekabu.ru#@#.icon-vkontakte
+comunicart.ru,ekabu.ru#@#.icon-vkontakte
 bloknot-kamyshin.ru,bloknot-krasnodar.ru,bloknot-krasnoyarsk.ru,bloknot-lipetsk.ru,bloknot-moldova.md,bloknot-morozovsk.ru,bloknot-novocherkassk.ru,bloknot-rostov.ru,bloknot-shakhty.ru,bloknot-stavropol.ru,bloknot-taganrog.ru,bloknot-urupinsk.ru,bloknot-volgodonsk.ru,bloknot-volgograd.ru,bloknot-volzhsky.ru,bloknot-voronezh.ru,bloknot-yakutsk.ru,bloknot.ru,fotki.yandex.ru,music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua#@#.icon_share
 comss.ru#@#.j-facebook
 fotki.yandex.ru#@#.js-share
@@ -3123,7 +3124,7 @@ the-zomb.com#@#.sig
 vam.in.ua#@#.sig img
 4pda.ru,jquery.com,oxymoronical.com,scala-lang.org#@#.signature
 ecigtalk.ru#@#.signature img
-aligency.ru#@#.soc-fb
+comunicart.ru#@#.soc-fb
 gdespaces.com,spac.me,spac1.com,spac1.me,spcs.me,strip2.xxx#@#.soc-link
 gdespaces.com,spac.me,spac1.com,spac1.me,spcs.me,strip2.xxx#@#.soc-links
 acomics.ru,appledevelopers.ru,citilink.ru,detector.media,dns-shop.ru,europaplus.ru,mts.ru,popsci.com,rambler.ru,signin.ebay.com,tampermonkey.net,technopoint.ru#@#.social
@@ -9091,6 +9092,7 @@ _youtube_social_
 ###video-social
 ###videoShareToEmailBtn
 ###videoShareToEmbed
+###vjs-voc-social-share
 ###vk-popup
 ###vk-side-widget-container
 ###vk_community_messages
@@ -16137,6 +16139,7 @@ _youtube_social_
 ##.social-btn-facebook
 ##.social-btn-group
 ##.social-btn-list
+##.social-btn-loader
 ##.social-btn-twitter
 ##.social-btns
 ##.social-btns-new
@@ -17197,6 +17200,7 @@ _youtube_social_
 ##.socialbox2
 ##.socialboxp
 ##.socialbtn
+##.socialbtn-wrap
 ##.socialbtns
 ##.socialbutn
 ##.socialbutton
@@ -17239,6 +17243,7 @@ _youtube_social_
 ##.socialite-instance
 ##.socialite-widget
 ##.socialite-widget-item
+##.socialitehover
 ##.socialization_content
 ##.socialize-containter
 ##.socialize-icon--facebook
@@ -18298,6 +18303,7 @@ _youtube_social_
 ##.vjs-share2
 ##.vjs-social-share
 ##.vjs-twitter
+##.vjs-voc-social-share
 ##.vk-btn
 ##.vk-share
 ##.vk-side-widget
@@ -19732,6 +19738,7 @@ _youtube_social_
 /components/taboola/*
 /modulo/taboola/*
 /taboola-iframe/*
+/taboola-module.
 /taboola.js
 /taboola/footer.
 /taboola/head.
@@ -19778,6 +19785,7 @@ _youtube_social_
 /push-notifications/*
 /push-sw.
 /push-worker-$script
+/push/notification-
 /push/offer/*
 /push/sbscr.
 /push/sbscrp.
@@ -20303,6 +20311,7 @@ _xmlrss.
 /scrolltoplugin.
 /scrolltotop/*
 /scrollToTopConcat.
+/scrollup_button.
 /simple-back-to-top/*
 /to_pagetop.
 /torna-su.
@@ -22571,6 +22580,7 @@ _backToTop.
 ##.tsq_sailthru_newsletter_widget
 ##.tve-leads-lightbox
 ##.type-InsetNewsletterSignup
+##.ue-c-newsletter-widget
 ##.ui-front.newsletter-signup-overlay
 ##.ui-home-newsletter
 ##.ui-newsletter
@@ -22712,6 +22722,9 @@ _backToTop.
 ###webpush-info-div
 ###webpushSelctorFormId
 ###webpush_modal
+##.PushNotification--base
+##.PushNotification--top
+##.PushNotification-popover-dialog
 ##.b-notification-push
 ##.bs-push-noti
 ##.bubble-push

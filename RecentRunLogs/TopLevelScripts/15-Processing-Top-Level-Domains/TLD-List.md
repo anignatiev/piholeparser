@@ -14,5 +14,6 @@ ____________________________________
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
+* TLD-List List Was An Empty File After Download. Mon Nov 11 00:20:24 UTC 2019
 ## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
