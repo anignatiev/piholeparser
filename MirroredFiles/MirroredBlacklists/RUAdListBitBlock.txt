@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AE8L1NHRu3vAdhkuGHiGpQ
-! Version: 201911110010
+! Checksum: PxuqkjsjV3MyqptegzXUkw
+! Version: 201911120010
 ! Title: RU AdList: BitBlock
-! Last modified: 11 Nov 2019 00:10 UTC
+! Last modified: 12 Nov 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -273,6 +273,8 @@ rutv.ru###btns
 ipicture.ru###buton
 tverigrad.ru###center_column ~ .hidden-sm
 imtw.ru###content > .noad1
+7days-ua.com###content > div[id^="post-"] ~ center
+7days-ua.com###content > div[id^="post-"] ~ div[align="center"]
 gta.com.ua#?##content > div[style] > b:-abp-contains(Поделиться:)
 fit4brain.com###dgd_scrollbox-7840
 penzainform.ru###divInfo .logos16x16
@@ -602,6 +604,7 @@ dialog.ua##.main-right > noindex
 vedomosti-ua.com#?#.main-sidebar > .row > div:-abp-has(#vk_groups)
 sportfm.ru##.main-title ~ .row > .col-4 > .wd
 vm.ru##.may9mes
+www.kinopoisk.ru##.media-article__side
 adultmult.be,adultmult.li,adultmultclub.com,multonline.ru##.menusection a[href][target="_blank"]
 mega-track.org##.messageList > .tabs
 apparat.cc##.metaTable-inner
@@ -9180,6 +9183,7 @@ _youtube_social_
 ##.ArticleSocialMediaTopBar
 ##.ArticleTombstone-shareHeading
 ##.ArticleTombstone-shareLink
+##.ArticleView-shares
 ##.Article__socialShare
 ##.Article__socialShareContent
 ##.BTNSocial
@@ -9222,6 +9226,7 @@ _youtube_social_
 ##.FollowButton
 ##.FollowByEmail
 ##.FollowUs
+##.Footer-groupSocials
 ##.Footer-links-social
 ##.Footer-share
 ##.Footer-socialButtons
@@ -9425,6 +9430,7 @@ _youtube_social_
 ##.Social_title
 ##.Socialbuttons
 ##.Socials
+##.Socials-root
 ##.Ssns-head
 ##.StickyShareBlock
 ##.StlyeSocial
@@ -13601,6 +13607,7 @@ _youtube_social_
 ##.m-social--pinterest-pin-it
 ##.m-social--twitter
 ##.m-social-bar
+##.m-social-container
 ##.m-social-media__share
 ##.m-social-share
 ##.m-socials
@@ -14723,6 +14730,7 @@ _youtube_social_
 ##.sd-widget-teaser-share
 ##.sd_footer--follow_us
 ##.sdc-site-share
+##.search-and-share
 ##.search-social
 ##.search-social-icons
 ##.secArtShare
@@ -21957,6 +21965,7 @@ _backToTop.
 ##.m-rock-newsletter
 ##.m-site-foot--newsletter
 ##.m-subscribe
+##.m-subscribe-widget
 ##.m4p-newsletter-form
 ##.mail-newsletter
 ##.mailchimp-lists-user-subscribe-form
@@ -25231,7 +25240,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||hopper.com/static2/w2/images/google-$domain=hopper.com
 @@||hotflick.net^*-social-$image
 @@||hotflicknet.s3.amazonaws.com^*-social-$image
-@@||hrwiki.org^*/youtube.png
+@@||hrwiki.org^*youtube.png
 @@||huffpost.com/assets/js.php?*-pinterest.js
 @@||huffpost.com/images/social-profile/lightbox/snn_lightbox_close.png
 @@||hulu.com/images/btn-facebook$image
