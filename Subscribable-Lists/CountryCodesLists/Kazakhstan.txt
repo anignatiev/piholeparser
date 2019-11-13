@@ -8,6 +8,7 @@ aiog.kz
 air99.kz
 akita.kz
 aljazeera.kz
+all-news.kz
 alpha.kz
 altyn-dala.kz
 aquaservice.kz
@@ -60,9 +61,11 @@ deltagroup.kz
 desnudas-en-publico.es.kz
 developer.cdn.com.kz
 dft6s.kz
+discounttaxi.kz
 duiskzl.websoft.kz
 duman.kz
 e-corporation.kz
+e-stroymart.kz
 ef.enu.kz
 engineercenter.kz
 env-1340702.j.dnr.kz
@@ -170,6 +173,7 @@ www.torgi.kz
 www.zero.kz
 xbl.kz
 xn--80aab5fk.kz
+xn--e1aahcgdjkg4aeje6j.kz
 youdesigner.kz
 youloveana.ar.kz
 zero.kz

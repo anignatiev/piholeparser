@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10095
+! Version: 10111
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -838,6 +838,7 @@
 ||bvlbzzeqaafkj.com^
 ||bvnekcpa.bid^
 ||bvnmmdelarn.com^
+||bvovcgdwbafgmf.com^
 ||bvqfuryhas.bid^
 ||bvrdzbzwa.com^
 ||bvreosoejjt.bid^
@@ -1145,6 +1146,7 @@
 ||cnjkrbhtbv.com^
 ||cnntsmnymvnp.com^
 ||cnnzfijy.bid^
+||cnossxqkdoupxw.com^
 ||cnoytvqomyhjz.com^
 ||cnpntmju.com^
 ||cnqanzdb.com^
@@ -2200,6 +2202,7 @@
 ||eyjuwcrnu.bid^
 ||eylefeyrwl.com^
 ||eylyitpslpqu.com^
+||eympwecfhxy.com^
 ||eyqletzkhybsef.com^
 ||eyrqubnodswlkw.com^
 ||eytoshab.com^
@@ -3229,6 +3232,7 @@
 ||hfbnztgnmheyd.bid^
 ||hfcczxpyfdhl.bid^
 ||hfedqcww.com^
+||hferzkyqt.com^
 ||hffgptqfpewjz.com^
 ||hffqgxgjiqdlx.bid^
 ||hfgevdzcoocs.com^
@@ -3720,6 +3724,7 @@
 ||ihqxhokndcfq.com^
 ||ihriduffgkel.com^
 ||ihtatthazitg.bid^
+||ihutbqqmjan.com^
 ||ihvmcqojoj.com^
 ||ihzdrktzyrzq.bid^
 ||ihzyxuhgocszv.com^
@@ -3748,6 +3753,7 @@
 ||ijriehir.com^
 ||ijterttmus.com^
 ||ijuawecwqhwyou.bid^
+||ijugatdyiuwxq.com^
 ||ijvolcqtnxohl.com^
 ||ijyzkjjabc.bid^
 ||ikcwcxhgibmumf.com^
@@ -5273,6 +5279,7 @@
 ||lreylxggpqxz.bid^
 ||lrgtkljakwfw.com^
 ||lrjltdosshhd.com^
+||lrkvionrsnlc.com^
 ||lrlkdlpksqveje.com^
 ||lrmjvytlhho.com^
 ||lrnkuzcezcdn.bid^
@@ -5588,6 +5595,7 @@
 ||midzwwrcrril.bid^
 ||miegpokitjxm.com^
 ||mierdydkqvpgno.com^
+||mignpaybmqkcy.com^
 ||mihqbmugg.com^
 ||miisdhpqsp.bid^
 ||mikdvucquacd.com^
@@ -6158,6 +6166,7 @@
 ||nqkttgrapot.bid^
 ||nqlrewsfmywgbx.com^
 ||nqmwfddfwogbhw.com^
+||nqtnwvwigvo.com^
 ||nqtqrnfzvp.com^
 ||nqtxbweqb.com^
 ||nqtyrwyklcmh.com^
@@ -8318,6 +8327,7 @@
 ||sqcolqeo.com^
 ||sqcqnwykz.bid^
 ||sqjlctmtc.com^
+||sqkrzzggis.com^
 ||sqmeqfffehg.bid^
 ||sqnezuqjdbhe.com^
 ||sqnkkpba.com^
@@ -8888,6 +8898,7 @@
 ||txgklvrqjfubzn.bid^
 ||txjzxbykbaflu.bid^
 ||txknowcznfp.bid^
+||txnpdfvqkuzrd.com^
 ||txvivugnikdq.com^
 ||txvsifff.com^
 ||txvxzkwyelnvb.bid^
@@ -8998,6 +9009,7 @@
 ||uebyotcdyshk.com^
 ||ueenfeiu.com^
 ||uehdljkrsfaa.bid^
+||uehequcuvujkyf.com^
 ||uehkcendtuxt.com^
 ||uehtuvguuf.com^
 ||uejnzoaayhr.com^
@@ -9010,6 +9022,7 @@
 ||ueptzgugtxis.com^
 ||uerhhgezdrdi.com^
 ||uescuqejoirsh.com^
+||uesdpbrej.com^
 ||uetqkude.com^
 ||ueutwxdypf.bid^
 ||uewejiuqwqx.com^
@@ -9215,6 +9228,7 @@
 ||uxkkltrrxlowzo.com^
 ||uxlkqeiez.com^
 ||uxzbsinjyld.com^
+||uxzcwowjd.com^
 ||uydeapvmmlvdp.com^
 ||uyeluxauiq.com^
 ||uymjshdxxneu.com^
@@ -9711,6 +9725,7 @@
 ||xsrzmhriydfcqx.com^
 ||xsuinfhoxpoz.com^
 ||xswezzwxh.com^
+||xswmgpypkfbqoe.com^
 ||xtccyvimdr.com^
 ||xtcfsrxmz.com^
 ||xtivbxvndnv.com^
@@ -9963,6 +9978,7 @@
 ||zfnvguzg.com^
 ||zfoeiywwiqo.com^
 ||zfrpmiqby.com^
+||zfutrfvgfdr.com^
 ||zfvrrodxfb.com^
 ||zgcplfvjpixarg.com^
 ||zggnhhadif.com^
