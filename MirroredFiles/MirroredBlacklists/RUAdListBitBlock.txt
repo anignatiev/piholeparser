@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uF3KLI2saddSEACquKY92g
-! Version: 201911130010
+! Checksum: 3ULZB5UbnuBe1VDxpTlk3w
+! Version: 201911140010
 ! Title: RU AdList: BitBlock
-! Last modified: 13 Nov 2019 00:10 UTC
+! Last modified: 14 Nov 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -239,6 +239,7 @@ _vkontakte.png
 ||rfpro.ru/images/icons/bookmark/
 ||rueconomics.ru/assets/*/likes.
 ||s-msn.com/br/*/socialbuttonutility.js
+||stalker-mods.clan.su/baner/vkpodpis
 ||tchkcdn.com/www/social-widgets/
 ||telegrafcom.api.oneall.com/socialize/
 ||thevista.ru/*/img/soc/
@@ -605,6 +606,7 @@ vedomosti-ua.com#?#.main-sidebar > .row > div:-abp-has(#vk_groups)
 sportfm.ru##.main-title ~ .row > .col-4 > .wd
 vm.ru##.may9mes
 www.kinopoisk.ru##.media-article__side
+www.kinopoisk.ru##.media-news__side
 adultmult.be,adultmult.li,adultmultclub.com,multonline.ru##.menusection a[href][target="_blank"]
 mega-track.org##.messageList > .tabs
 apparat.cc##.metaTable-inner
@@ -670,6 +672,7 @@ thequestion.ru##.question__answers-info-share
 football24.ru##.rb_banner
 film4ik.tv##.rblock3
 laradiofm.ru#?#.rc:-abp-contains(Мы ВКонтакте)
+eda.ru##.recipe__social
 knijky.ru##.region-content > #block-system-main ~ .block
 appstudio.org##.repost td:not(.atropos)
 chernomorets.odessa.ua##.right-widget
@@ -1147,6 +1150,7 @@ _userbar_$image
 ||ru/lines/$image
 ||showbiz.ua/videofeed.js$third-party
 ||ua/lines/$image
+||yakutia.io^$third-party
 ||youtube.com/subscribe_widget^$third-party
 ! *** ruadlist:bitblock/annoyance_general_hide.txt ***
 ###MCaddFrm
@@ -1203,13 +1207,17 @@ _userbar_$image
 ##.b-policy-info
 ##.banner-policy-wrap
 ##.blocking-subscribe
+##.bs-gdpr-law
+##.bs-wrap-gdpr-law
 ##.c-cookies
 ##.cc-window[aria-label="cookieconsent"]
 ##.clearfy-cookie
+##.cookie-agree
 ##.cookie-agreement
 ##.cookie-bar:not(body):not(html)
 ##.cookie-consent:not(html):not(body)
 ##.cookie-message
+##.cookie-notification-modal
 ##.cookie-notify
 ##.cookie-pane
 ##.cookie-pane--shown
@@ -1367,6 +1375,7 @@ _userbar_$image
 ||propushka.com^$third-party
 ||push-free.com^$third-party
 ||push-house.net^$third-party
+||push-news.net^$third-party
 ||push-plus.net^$third-party
 ||push-pro.net^$third-party
 ||push.esputnik.com^$third-party
@@ -1870,7 +1879,6 @@ _userbar_$image
 ||xyya.net/uploads/medals/
 ||ya.ru/design/$domain=ya.ru
 ||yandex.*/distr-popup.html$subdocument
-||yandex.*/search/recommendation?yu=
 ||yastatic.net^*/widget_ya.js
 ||yastatic.net^*/zen-lib/$domain=tv.yandex.by|tv.yandex.kz|tv.yandex.ru|tv.yandex.ua
 ||yatv.ru/storage/userdata/*/banner_
@@ -2435,7 +2443,6 @@ piluli.ru##.notiny
 obozrevatel.com##.oboz-instagram
 riafan.ru##.online-video-block > div[class*="video"]
 nag.ru##.openxtop
-kinohabr.net##.opis
 fainaidea.com##.orakul-azure-block
 fishki.net##.other-post-list
 sports.ru##.overlay[data-control="Common.Overlay"]
@@ -2994,7 +3001,7 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua##.serp-footer__promo
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.serp-item_type_market
 yandex.ru##.serp-list > .z-pseudo
 yandex.by,yandex.kz,yandex.ru,yandex.ua#?#.serp-list[class*="left"] > .serp-item:-abp-has(.app-list)
-yandex.by,yandex.kz,yandex.ru,yandex.ua##.serp-list_left_yes > .hidden-recommendations
+yandex.by,yandex.kz,yandex.ru,yandex.ua##.serp-list_left_yes > .related__hidden
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.serp-list_left_yes > .serp-item > .hidden-recommendations-social
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.serp-list_left_yes[aria-label="Результаты поиска"] .serp-item-actions
 yandex.by,yandex.kz,yandex.ru,yandex.ua##.serp-list_left_yes[aria-label="Результаты поиска"] div[class*="popup"][data-bem*="chat"]
