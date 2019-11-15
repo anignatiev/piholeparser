@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10126
+! Version: 10135
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -439,6 +439,7 @@
 ||axsczaklngkxx.com^
 ||axvabgnr.com^
 ||axzrxkkklakka.com^
+||ayazstuzc.com^
 ||aycwvgrra.com^
 ||ayfzryxitsusx.com^
 ||ayggsmmb.com^
@@ -468,6 +469,7 @@
 ||aznfyqgrbgy.com^
 ||azofucrzkkaa.com^
 ||azqmmfhmfnpsvb.bid^
+||azrjdlvlsxihbd.com^
 ||azroydhgqcfv.com^
 ||azwsolqpewo.com^
 ||badgmvhtvryg.bid^
@@ -1159,6 +1161,7 @@
 ||cnyblliqyhcs.bid^
 ||cnygzgurqpwop.bid^
 ||coaincltxhw.com^
+||coatobpljh.com^
 ||coepzyavjda.com^
 ||cofybuwuc.com^
 ||cogxsnvqesph.com^
@@ -4597,6 +4600,7 @@
 ||kfdwywhuissy.com^
 ||kfjgnunsuy.bid^
 ||kflimllvanjv.com^
+||kfozongcvn.com^
 ||kfpkzbgwuxm.bid^
 ||kfpwayrztgjj.com^
 ||kfqronzxcrdt.com^
@@ -5446,6 +5450,7 @@
 ||lzfyahjavcik.com^
 ||lzkuqbptcjqta.com^
 ||lzopoqzlihfbc.com^
+||lzowrfhqy.com^
 ||lzpgstae.com^
 ||lzpqpstowpvz.bid^
 ||lzrfxzvfbkay.com^
@@ -9251,6 +9256,7 @@
 ||uyxjnuqbti.com^
 ||uyyalzrvkvmtiq.com^
 ||uyznjuyfyjc.com^
+||uyzzzeodgommgb.com^
 ||uziiygdcwur.com^
 ||uzikrtotjbnq.com^
 ||uzlleehrsmibli.com^
@@ -9590,6 +9596,7 @@
 ||wwohikwhl.com^
 ||wwqnwask.com^
 ||wwwmurgd.com^
+||wxaeamianbg.com^
 ||wxbrdppfpr.com^
 ||wxmpekoil.com^
 ||wxtrzeizpnp.com^
@@ -9670,6 +9677,7 @@
 ||xhhfpakexs.com^
 ||xhstxnpemardz.com^
 ||xhyjlfbqnbr.com^
+||xidxivhiior.com^
 ||xijgqrrhyfa.com^
 ||xilnalycptredw.com^
 ||xiodoyvbauv.com^
@@ -9978,6 +9986,7 @@
 ||zcovfcongwmn.com^
 ||zcwjasfrog.com^
 ||zcyclbncgubccl.com^
+||zdgmhsahttsj.com^
 ||zdhnepeadrwetg.com^
 ||zdjkzqwpqvwcmc.com^
 ||zdplhparvrd.com^
