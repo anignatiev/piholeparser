@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10135
+! Version: 10143
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1513,6 +1513,7 @@
 ||dhzmxkoq.bid^
 ||dibpvaoi.bid^
 ||didibvyl.bid^
+||diekhxpwngawme.com^
 ||dieohupl.com^
 ||digwzeutydo.com^
 ||dijutbdzbv.com^
@@ -3797,6 +3798,7 @@
 ||illqbirymsr.com^
 ||ilqufadqxd.com^
 ||ilrxikdjozlk.com^
+||ilsuuqcab.com^
 ||ilugfyhlfv.com^
 ||ilupcgzhagwb.com^
 ||iluwjbuwm.com^
@@ -4047,6 +4049,7 @@
 ||izxdpodiowdgp.bid^
 ||izxiluohe.com^
 ||jaaqcdrpmyju.com^
+||jaavpuhxrsryk.com^
 ||jabcdkwmwnek.com^
 ||jacmnkcusf.com^
 ||jacroxrssmme.bid^
@@ -4236,6 +4239,7 @@
 ||jjzqygrh.com^
 ||jkamuwyswgk.com^
 ||jkawfxvh.com^
+||jkbwwwrchsqktk.com^
 ||jkciacmcnya.com^
 ||jkcvevwvgfopog.com^
 ||jkcyrdigvx.com^
@@ -5292,6 +5296,7 @@
 ||lrcrobshelr.com^
 ||lreylxggpqxz.bid^
 ||lrgtkljakwfw.com^
+||lrjglcmgbf.com^
 ||lrjltdosshhd.com^
 ||lrkvionrsnlc.com^
 ||lrlkdlpksqveje.com^
@@ -9206,6 +9211,7 @@
 ||upzpyrsvvxpoey.com^
 ||uqbxjdeeq.com^
 ||uqbxznftv.com^
+||uqelijcu.com^
 ||uqihbnpqtwwzdv.com^
 ||uqmkkfaoqnnmlx.com^
 ||uqouplgwlmeqt.com^
@@ -9454,6 +9460,7 @@
 ||vzkyivowceqcsd.com^
 ||vzlyapss.com^
 ||vzreguys.com^
+||vzsuiuamhuozw.com^
 ||vzxnrtxpdnl.com^
 ||vzyclgqffpojk.com^
 ||wakogzmgjqucs.com^
@@ -10046,6 +10053,7 @@
 ||zmnhcswlu.com^
 ||zmoawpfsz.com^
 ||zmogtyau.com^
+||zmpvyyey.com^
 ||zmutugjqvia.com^
 ||znbokxhkwx.com^
 ||znckkjdguw.com^
