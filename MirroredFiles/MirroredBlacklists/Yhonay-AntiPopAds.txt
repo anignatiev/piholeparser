@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10143
+! Version: 10151
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -3127,6 +3127,7 @@
 ||gyvyokpmmb.bid^
 ||gyycgkchjtimu.com^
 ||gyzzpyez.bid^
+||gzabsbddocwn.com^
 ||gzakmhhwrkagg.com^
 ||gzayyacwy.com^
 ||gzhazcfkr.bid^
@@ -4082,6 +4083,7 @@
 ||jboovenoenkh.com^
 ||jbpyqajzwbh.bid^
 ||jbqolazohwqesu.com^
+||jbrpciuloi.com^
 ||jbvyjtyhatpam.com^
 ||jbwlscjgbznhu.bid^
 ||jbwunmehf.com^
@@ -4254,6 +4256,7 @@
 ||jkpsxhvjduxexm.com^
 ||jkuuoecpgecwla.com^
 ||jkvkhgztow.com^
+||jkxyxiwqdl.com^
 ||jkxzawjvp.bid^
 ||jkywbooyc.com^
 ||jlarmqbypyku.com^
@@ -5001,6 +5004,7 @@
 ||lbdrnmkhwgkpdg.bid^
 ||lbfryfttoihl.com^
 ||lbgmmsubsxn.com^
+||lbhpbgfl.com^
 ||lbjgdskmgsmowy.com^
 ||lbkprcoosfgk.com^
 ||lbpndcvhuqlm.com^
@@ -5227,6 +5231,7 @@
 ||lnyypjocad.com^
 ||loakfiiggz.bid^
 ||locjzfoh.com^
+||lodoxfwite.com^
 ||lodqycbq.com^
 ||lofipgeld.bid^
 ||logkzudhrg.com^
@@ -8538,6 +8543,7 @@
 ||tbyzeunvuh.com^
 ||tcatkrccxgc.com^
 ||tcdikyjqdmsb.com^
+||tcetggiry.com^
 ||tcgqqmjyg.com^
 ||tchmemnasaxpt.com^
 ||tchmfzftuzxue.bid^
@@ -9486,6 +9492,7 @@
 ||wcyrjlszoo.com^
 ||wdkbcvnh.com^
 ||wdquizratrntwr.com^
+||wdrgqoweorjfp.com^
 ||wdwczzyhzra.com^
 ||wdzeuxkfvyv.com^
 ||wedwcmjo.com^
@@ -9799,6 +9806,7 @@
 ||yahbdmyvvmjh.com^
 ||yanskweqyuma.com^
 ||yatgrotthyzpm.com^
+||yauatoyuhdb.com^
 ||yaxbqjjemnvben.com^
 ||ybaijkluq.com^
 ||ybbqkfzmj.com^

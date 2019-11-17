@@ -1351,6 +1351,7 @@ stinger.us-east-1.stinger-ad.bidr.io
 stl.uax.io
 storage.ipbc.io
 store.intercom.io
+storetail.io
 str8-creative.io
 strat.dnb.io
 stratum.mining-pool.io
