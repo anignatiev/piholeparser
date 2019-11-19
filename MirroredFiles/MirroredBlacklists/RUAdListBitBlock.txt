@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TgFMTOrmvIuElT511kD3aA
-! Version: 201911160010
+! Checksum: adaGHDBWd9+Kt8XXSMO40A
+! Version: 201911190010
 ! Title: RU AdList: BitBlock
-! Last modified: 16 Nov 2019 00:10 UTC
+! Last modified: 19 Nov 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -630,6 +630,7 @@ novafilm.tv##.news-entry > div:last-child
 regnum.ru##.news-social-banner
 inoprosport.ru##.news__block_social_wrap
 tvtorrent.me##.news_btn
+shostka.info##.ni-share
 cn.ru##.nn-like
 ngs.ru##.nn-nav-socials
 cameralabs.org##.notlabs
@@ -835,6 +836,7 @@ slovodel.com##.tg-main
 broshunters.com##.title-top > a[href="https://twitter.com/broshunters"]
 kinopov.com##.title_share
 mmatoday.info##.tlgrm
+shostka.info,sumypost.com##.to-telegram
 vesti.uz##.top > .container > .row > .col-md-4:first-child
 ru-an.info##.top-ss,.top-sss
 eurointegration.com.ua##.top__social__item
@@ -1828,6 +1830,7 @@ _userbar_$image
 ||rbk.ru^*/fn/_poll-popup.js
 ||recommender.um.rambler.ru^$domain=championat.com
 ||recostream.go.mail.ru^$domain=~pulse.mail.ru|~recostream.go.mail.ru
+||relizua.com/img/yarek
 ||rempc.by/images/rempc-bg-
 ||rt.com/widget/$domain=rt.com
 ||rublacklist.net/media/$third-party,image
@@ -2293,7 +2296,8 @@ toster.ru##.dfp_label
 dressupmix.ru,teensgames.ru##.dialog-wrapper
 vse.fm#?#.dialogClass:-abp-has(*:-abp-contains(/donate/i))
 soccer.ru##.disabled-block
-burdastyle.ru,cosmo.ru,esquire.ru,ichip.ru,popmech.ru##.disclame_block
+burdastyle.ru,cosmo.ru,esquire.ru,popmech.ru##.disclame_block
+ichip.ru##.disclamer
 anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,online-star.org##.dle-popup-confirm
 anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,online-star.org##.donat
 anitokyo.tv##.donate
@@ -2578,6 +2582,7 @@ kp.ru##.subscribeWrapper
 expert.ru##.subscribe_banner_fixed
 teleprogramma.pro##.subscribe_button
 dfiles.ru##.subscribe_offer_banner
+ichip.ru##.subscriber
 championat.com##.subscription
 riafan.ru##.subscription-wrap
 kommersant.ru##.subscription_popup_left
@@ -2623,7 +2628,7 @@ hindcine.tv##.warning-adblock
 onlineguru.ru##.warning-cookie-block
 porodakoshki.ru##.webnavoz_notificationbox
 chudo-manga.ru##.widget.HTML
-ichip.ru,rqnr.ru##.widget_custom_html
+rqnr.ru##.widget_custom_html
 provladimir.ru##.widget_youtube-widget
 sovetromantica.com##.working_button
 blackdesert-info.ru,kinobublik.net##.wp-super-snow-flake
@@ -2643,7 +2648,6 @@ ixbt.com##[aria-label="cookieconsent"]
 gamer-info.com##[class*="game"][class*="import"]
 auto.ru##[class*="special"][class$="-sales"]
 onlinemschool.com##[class^="oms_gp"]
-relizua.com##[class^="yab"][class*="full"]
 friday.ru##[data-block-closer-storage="cookie"]
 www.rambler.ru##[data-cerber-head*=":search::yabro"]
 www.rambler.ru##[data-cerber-head="main::widgets::widget.games"]
@@ -2671,6 +2675,7 @@ echo.msk.ru##a[href*="echoban.ru/delivery/ck.php"]
 sibnet.ru##a[href*="tankmaster.sibnet.ru"]
 topwar.ru##a[href*="vk.cc"]
 rambler.ru##a[href*="yabrowser"]
+ichip.ru##a[href="/rek/"]
 lostfilm.tv##a[href="http://adverti.me"]
 mk.ru##a[href][style*="/banners/subscribe-banner"]
 torrentfx.ru##a[href^="/go"][target="_blank"]
@@ -6562,6 +6567,7 @@ _youtube_social_
 ###af_resSociaux
 ###after-share
 ###ajmint-socialbuttons
+###alchetronShareCard
 ###amp-social-share
 ###aol-follow
 ###apriBoxCondividi
@@ -9654,6 +9660,7 @@ _youtube_social_
 ##.ajmint-social-counts
 ##.akamai-share
 ##.akp-sharebar-fixed
+##.alchetronShareCard
 ##.all-share-links
 ##.allshare_buttons
 ##.altshare
@@ -13725,6 +13732,7 @@ _youtube_social_
 ##.menu--footer-social
 ##.menu--social-media-links
 ##.menu-article-share
+##.menu-ext-social
 ##.menu-facebook
 ##.menu-fb
 ##.menu-footer-social
@@ -15499,6 +15507,7 @@ _youtube_social_
 ##.sharebuttoncontainer
 ##.sharebuttons
 ##.sharebuttonu
+##.sharecont
 ##.sharecontainer
 ##.sharecount-item
 ##.sharecount-social-btns
@@ -17909,6 +17918,9 @@ _youtube_social_
 ##.trigger-share-list
 ##.triggerShare
 ##.triggerSocialBottom
+###tronReddiShare
+##.tronSocialShareIcon
+##.tronWhatsappIcon
 ##.trtFbShare
 ##.tru_facebook
 ##.tru_pinterest
@@ -20347,6 +20359,7 @@ _backToTop.
 /jquery.particleground.
 /particles.js
 /particles.min.js
+/particles-sel.js
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_general_hide.txt ***
 ###FooterboardMobile
 ###LiShare
@@ -21005,6 +21018,7 @@ _backToTop.
 ###container-subscription-newsletter
 ###content-email-su
 ###contentBarNewsletter
+###cro-common-newsletter-ecomail-entityform-edit-form
 ###csm-mailsignup-body-form
 ###ctl00_body1_SignUpNewsletter_divSignUp
 ###daily-newsletter-signup
@@ -21719,6 +21733,7 @@ _backToTop.
 ##.content-toaster--newsletter
 ##.content-well-newsletter
 ##.cookie-notice-wrapper-newsletter
+##.cro-common-newsletter-ecomail-entityform-edit-form
 ##.css-live-widget_subscribeEmails
 ##.cst_newsletter_signup
 ##.cta-news
@@ -25347,7 +25362,6 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||msecnd.net/resources/gfx/openid/$image
 @@||msfn.org^*/facebook_like_box.css
 @@||myfav.es/images/icons/$~third-party
-@@||mywot.net/sites/all/themes/wot/images/social-button-sprites.png
 @@||naekranie.pl/wp-content/uploads/2015/08/youtube-logo-640x418.jpg$image,~third-party
 @@||namechk.com^$generichide
 @@||nardgammon.com^*/social_network_loader.js$script,~third-party
