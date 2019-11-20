@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: adaGHDBWd9+Kt8XXSMO40A
-! Version: 201911190010
+! Checksum: TzYCT+LrzzmHvSyEFayr+A
+! Version: 201911200010
 ! Title: RU AdList: BitBlock
-! Last modified: 19 Nov 2019 00:10 UTC
+! Last modified: 20 Nov 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -2055,6 +2055,7 @@ youtube.com###player .ytp-pause-overlay
 club-nobles.ru###pleerr
 anti-malware.ru###popup
 riafan.ru###popupNews
+sovetromantica.com###popup_elem
 rutube.ru###pre-header-pad
 fishki.net###privacypolicy
 mind.ua###progressBar
@@ -2608,6 +2609,7 @@ pochta.ru##.tracking-card--banner
 psy-music.ru##.turq.psyLeftMenu.psySideBarPanel
 oriflame.ru##.ui-cookie-notification
 fightnews.info,vse.fm##.ui-widget-overlay
+backingtrackx.com##.up-top1
 playground.ru##.user-advert-message
 fssprus.ru##.user-data-fixed-wrapper
 itc.ua##.verticalPageNav
@@ -9008,6 +9010,7 @@ _youtube_social_
 ###trackSocialBuzzSection
 ###transparencySocialMediaContainer
 ###trdflame-panel
+###tronReddiShare
 ###tsocial
 ###tumblr-button
 ###tumblr-follow
@@ -17918,7 +17921,6 @@ _youtube_social_
 ##.trigger-share-list
 ##.triggerShare
 ##.triggerSocialBottom
-###tronReddiShare
 ##.tronSocialShareIcon
 ##.tronWhatsappIcon
 ##.trtFbShare
@@ -20357,9 +20359,9 @@ _backToTop.
 /plugin/banner/videos/*$subdocument
 ! Particles dynamic background
 /jquery.particleground.
+/particles-sel.js
 /particles.js
 /particles.min.js
-/particles-sel.js
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_general_hide.txt ***
 ###FooterboardMobile
 ###LiShare
