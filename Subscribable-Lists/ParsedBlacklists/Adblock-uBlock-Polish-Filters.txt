@@ -10,11 +10,13 @@ adocean.pl
 ads.gry-online.pl
 adv.wp.pl
 advertising.com
+auth.alleqro-pl.clownstage.ml
 b54m4qbmt0b9.com
 bodelen.com
 brand.ad
 burdaffi.burdadigital.pl
 cdn1.pebx.pl
+ce.winfreetoday.com
 click.aliexpress.com
 coin-have.com
 coin-hive.com
@@ -32,10 +34,14 @@ erosyndc.com
 faidoud.com
 glaimtug.com
 googlesyndication.com
+groorgex.net
+guscho.ru
 hoqqzlvwukpo.com
 hyphenion.com
+keechavy.com
 lcx.pl
 lijjt.com
+mg.steepto.com
 ovh.webshark.pl
 popcash.net
 quantcast.mgr.consensu.org
@@ -51,6 +57,7 @@ sitebravefull.info
 smartadserver.com
 sooloaph.com
 static.quantcast.mgr.consensu.org
+syndication.exdynsrv.com
 thiksikr.com
 track.cux.io
 uod2quk646.com

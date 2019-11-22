@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q7IqPJ3oiD2HfdrKM52KNQ
-! Version: 201911190011
+! Checksum: ktQfzkr1QemPy1sdhFvLEw
+! Version: 201911220011
 ! Title: Fanboy's Annoyance List
-! Last modified: 19 Nov 2019 00:11 UTC
+! Last modified: 22 Nov 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -724,9 +724,9 @@ _backToTop.
 /plugin/banner/videos/*$subdocument
 ! Particles dynamic background
 /jquery.particleground.
+/particles-sel.js
 /particles.js
 /particles.min.js
-/particles-sel.js
 ! *** easylist:fanboy-addon/fanboy_social_general_block.txt ***
 -box-facebook_
 -box-twitter_
@@ -5432,6 +5432,7 @@ _site_cookie_
 ###newsletter-body
 ###newsletter-box
 ###newsletter-button
+###newsletter-callout
 ###newsletter-component
 ###newsletter-container
 ###newsletter-content-wrapper
@@ -5474,6 +5475,7 @@ _site_cookie_
 ###newsletter-prompt
 ###newsletter-rail
 ###newsletter-reg
+###newsletter-roadblock
 ###newsletter-side-widget
 ###newsletter-sidebar
 ###newsletter-sign-up
@@ -7721,6 +7723,7 @@ _site_cookie_
 ##.js-scroll_to_bottom
 ##.js-scroll_to_top
 ##.js-toTop
+##.js-top-btn
 ##.jsButtonToTop
 ##.js__back-to-top
 ##.js_btn_gotop
@@ -8946,6 +8949,7 @@ _site_cookie_
 ###gplus-sb
 ###gplus_button
 ###gplus_share
+###gs-social-sharebuttons
 ###gs-social-top
 ###gs-social-top_gig_containerParent
 ###gsocial-container
@@ -10562,6 +10566,7 @@ _site_cookie_
 ###trackSocialBuzzSection
 ###transparencySocialMediaContainer
 ###trdflame-panel
+###tronReddiShare
 ###tsocial
 ###tumblr-button
 ###tumblr-follow
@@ -19472,7 +19477,6 @@ _site_cookie_
 ##.trigger-share-list
 ##.triggerShare
 ##.triggerSocialBottom
-###tronReddiShare
 ##.tronSocialShareIcon
 ##.tronWhatsappIcon
 ##.trtFbShare
@@ -27957,6 +27961,7 @@ _site_cookie_
 ##.cookie-jar
 ##.cookie-l
 ##.cookie-label
+##.cookie-landing
 ##.cookie-lasche
 ##.cookie-lasche-hp
 ##.cookie-law
@@ -27964,6 +27969,7 @@ _site_cookie_
 ##.cookie-law-approval-wrapper
 ##.cookie-law-banner
 ##.cookie-law-bar
+##.cookie-law-block-wrapper
 ##.cookie-law-box
 ##.cookie-law-container
 ##.cookie-law-dialog
@@ -28403,6 +28409,7 @@ _site_cookie_
 ##.cookieNoticeBar
 ##.cookieNoticePopUp
 ##.cookieNoticeType1
+##.cookieNotice__container
 ##.cookieNotif
 ##.cookieNotification
 ##.cookieNotificationBanner
@@ -29946,6 +29953,7 @@ _site_cookie_
 ##.js-cc-announcement
 ##.js-consent-bar
 ##.js-consent-form
+##.js-consent-notice
 ##.js-consent-panel
 ##.js-consent-popup
 ##.js-consent-react-root
@@ -31653,6 +31661,7 @@ _site_cookie_
 ##.as-oil-content-overlay
 ##.bst-panel
 ##.c_i_container
+##.cmplz-soft-cookiewall
 ##.elisa-navi-cookie-and-consent-disclaimer
 ##.rcc-panel
 ##.recocliv2
@@ -37423,7 +37432,6 @@ qoshe.com###hit
 ibm.com###ibm-social-tools
 beautifuldecay.com,celebdirtylaundry.com,etonline.com###icons
 iijiij.com###iij-share-story-large
-play4movie.com###ilike_overlayer
 shared.com###intro
 uniladmag.com###itro_opaco
 uniladmag.com###itro_popup
@@ -38790,7 +38798,7 @@ ndtv.com##a[href^="https://www.facebook.com/sharer.php?u="]
 ! *** easylist:easylist_cookie/easylist_cookie_specific_hide.txt ***
 jman.tv###ActionBar
 sausageandciderfestival.co.uk###CC_Bar
-ambulance-photos.com,bus-and-coach-photos.com,campervan-photos.com,classic-and-vintage-cars.com,construction-and-excavation.com,dream-car-photos.com,fire-engine-photos.com,forklift-photos.com,hotrods-customcars.com,military-vehicle-photos.com,motorcycles-motorbikes.com,oilrig-photos.com,planesandchoppers.com,police-car-photos.com,racing-car-photos.com,shipsandharbours.com,taxi-photos.com,traction-engines.net,tractor-photos.com,train-photos.com,transport-models.com,truck-photos.net,vehicle-livery.net,yourboatphotos.com###CQ
+ambulance-photos.com,bus-and-coach-photos.com,campervan-photos.com,classic-and-vintage-cars.com,construction-and-excavation.com,dream-car-photos.com,fire-engine-photos.com,forklift-photos.com,hotrods-customcars.com,military-vehicle-photos.com,motorcycles-motorbikes.com,oilrig-photos.com,planesandchoppers.com,racing-car-photos.com,shipsandharbours.com,taxi-photos.com,traction-engines.net,tractor-photos.com,train-photos.com,transport-models.com,truck-photos.net,vehicle-livery.net,yourboatphotos.com###CQ
 nymity.com###CookieAcceptSubLayout1_cookiesmessageshown
 aberdeenplumberservices.co.uk,firstcallmotorbreakdown.co.uk,pattheduck.com###FISLCC
 megabus.com###GB_overlay
@@ -41257,7 +41265,7 @@ nationalgeographic.it##.segui-ng
 lescienze.it##.seguici
 askanews.it##.seguici_footer
 chiesi.com##.seguicisu
-amica.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,landrover.it,lifegate.it,listadimaio.com,mediagol.it,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,tuttobolognaweb.it,violanews.com##.share
+amica.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,tuttobolognaweb.it,violanews.com##.share
 mediaset.it,meteo.it##.shr
 finanzaonline.com,teleborsa.it,tempostretto.it##.soc
 quickparking.it##.soc-icon-container

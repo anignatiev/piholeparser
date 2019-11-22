@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DxJqmkFqaH8GYcWMl8WszQ
-! Version: 201911180020
+! Checksum: Bo0qjtoJ4qnCCqsZPtFHBQ
+! Version: 201911220010
 ! Title: RU AdList: Counters
-! Last modified: 18 Nov 2019 00:20 UTC
+! Last modified: 22 Nov 2019 00:10 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -67,7 +67,7 @@
 @@||youtube.com/api/stats/watchtime?$image,domain=youtube.com
 @@||zona.mobi/js/build/app/modules/counters/liru.js$script,domain=zona.mobi
 !
-! = Частные фильтры ===========================================================
+! = Частные и экспериментальные фильтры =======================================
 e.mail.ru###LEGO #leftcol-banners
 e.mail.ru###LEGO .b-rb
 e.mail.ru###LEGO div[id^="preload_banner"]
@@ -83,6 +83,7 @@ ivi.ru#?#+js(abort-on-property-read.js, Object.prototype.getAd)
 eagleplatform.com#?#+js(set-constant.js, player.options.autoplay, false)
 rp5.by,rp5.co.uk,rp5.kz,rp5.lv,rp5.md,rp5.ru,rp5.ua#?#+js(setTimeout-defuser.js, xvb)
 militaryreview.su##.bbanerr
+uniongang.net,uniongang.org#?#.block:-abp-has(> .block-title:-abp-contains(Счётчики))
 yakusubstudio.home-forum.com,yakusubstudio.ru##.contbaner
 segodnya.ua##.counters
 ok.ru#?#.feed-list > .feed-w:-abp-has(.feed_ava ~ div div > [class] ~ [class] ~ [class] ~ [class] ~ [class] ~ [class])
@@ -121,7 +122,7 @@ yandex.*#?#+js(set-constant.js, __AAB__, false)
 ||livejournal.com^*&callback=*=$script,domain=livejournal.com
 ||strm.yandex.ru/get/$script,domain=yastatic.net
 !
-! = Общие фильтры (блокировка по маске) ==================================================
+! = Общие фильтры (блокировка по маске) =======================================
 .com/a.gif?
 .top100.$third-party
 /1x1.gif
@@ -348,7 +349,7 @@ _pagespeed_beacon?
 ||d31xqmzex8ubh8.cloudfront.net^
 ||d3qxef4rp70elm.cloudfront.net^
 ||d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com^
-||data.giraff.io/track/$third-party
+||data.giraff.io/track/$third-party,domain=~vse42.ru
 ||dc.services.visualstudio.com^*/track
 ||demandbase.com^$third-party
 ||diginetica.net^$third-party
@@ -529,7 +530,6 @@ _pagespeed_beacon?
 ||mytrix.com^$third-party
 ||nagval.ru^$third-party
 ||narod.kz/img.php?
-||nativerent.ru/js/codes/track.js
 ||nedstatbasic.net^$third-party
 ||net.kg/img.php?id=
 ||newrelic.com^$third-party
