@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ktQfzkr1QemPy1sdhFvLEw
-! Version: 201911220011
+! Checksum: 1eJFAXCBqoEUQ9s70MVcNw
+! Version: 201911240011
 ! Title: Fanboy's Annoyance List
-! Last modified: 22 Nov 2019 00:11 UTC
+! Last modified: 24 Nov 2019 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -35343,6 +35343,7 @@ thelocal.se##.options
 technologyreview.com##.optionsbox
 t3.com##.otherActions
 barclays.co.uk##.otm
+time.com##.outbrain
 springwise.com##.outer-sub-box
 dnainfo.com,hollywood.com,indiatimes.com,informahealthcare.com,minus.com,needwant.com,rsf.org,virginislandsdailynews.com,yesmagazine.org##.overlay
 tennessean.com##.overlay-arrow-next
@@ -38249,7 +38250,7 @@ stephaniemiller.com##.socai-widget
 tgdaily.com##.social-actions
 marketplace.org##.social-bottom
 voiceofsandiego.org##.social-cell
-dibujos.net##.social-container
+dibujos.net,time.com##.social-container
 fujitsu.com##.social-content
 topmarks.co.uk##.social-game
 jns.org##.social-help
