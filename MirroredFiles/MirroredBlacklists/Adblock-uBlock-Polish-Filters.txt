@@ -9,9 +9,9 @@
 ! Wsparcie:
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 23 November 2019
+! Last modified: 26 November 2019
 ! Expires: 1 day
-! Version: 2019112305
+! Version: 2019112601
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -19,7 +19,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2019 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2019112305 aktualizacja: sob, 23 listopada 2019, 11:45:00
+! v.2019112601 aktualizacja: wt, 26 listopada 2019, 13:15:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -32,7 +32,7 @@
 .pl/img/ad/
 .pl/wp-content/banners/
 /*300x300$image,domain=portalgwiazd.pl
-/\/(images|img|data|uploads)\/banners\//$image,object,domain=tsk24.pl|wschodnik.pl|nowawrzesnia.pl|glucholazyonline.com.pl|informacjelokalne.pl|muzyczneradio.com.pl|tvrep.pl|chwaszczyno.pl|msfera.pl|tygodnik-krapkowicki.info|darkplanet.pl|wroclawskiejedzenie.pl|magazyngitarzysta.pl|przegladkoninski.pl|radiopoznan.fm|fishing-test.pl|gostynin24.pl|wkonin.pl|orawa24.info|krakowski24.pl|muzyczneradio.pl
+/\/(images|img|data|uploads)\/banners\//$image,object,domain=tsk24.pl|wschodnik.pl|nowawrzesnia.pl|glucholazyonline.com.pl|informacjelokalne.pl|muzyczneradio.com.pl|tvrep.pl|chwaszczyno.pl|msfera.pl|tygodnik-krapkowicki.info|darkplanet.pl|wroclawskiejedzenie.pl|magazyngitarzysta.pl|przegladkoninski.pl|radiopoznan.fm|fishing-test.pl|gostynin24.pl|wkonin.pl|orawa24.info|krakowski24.pl|muzyczneradio.pl|skijumping.pl
 /_adv/*
 /_baner/*$domain=www.ipon.pl|tygodnikzamojski.pl
 /adv/*$image,domain=~arriva.pl|~budus.pl|~filmweb.pl
@@ -1305,7 +1305,6 @@ informacja.wroclaw.pl###top_ma_Box
 informacja.wroclaw.pl##.slideshow
 informacja.wroclaw.pl,twojatv.info##[class*="popup"]
 informatorbrzeski.pl##.e3lan-top
-infosecurity24.pl#?#section.section:nth-of-type(1):-abp-has(.adv)
 infoship.pl,infoair.pl,infobike.pl,infotram.pl,inforail.pl,transinfo.pl,infobus.pl##.reklamaR2Napis
 infoship.pl,infoair.pl,infobike.pl,infotram.pl,inforail.pl,transinfo.pl,infobus.pl##[id^="reklama"][idrekl]
 infoship.pl,infoair.pl,infobike.pl,infotram.pl,inforail.pl,transinfo.pl,infobus.pl,polskiedrogi-tv.pl,mckenzie.pl,devilpage.pl###banner
@@ -2957,6 +2956,7 @@ wbijam.pl##.odcinek_oczekiwanie_info > center
 wbj.pl##.akpbanner
 wcograc.pl##.click
 webcamera.pl##[style="width:728px;height:90px;"], .camera-list.container-fluid > div.a-wrap, #screening-replacement
+webcamera.pl##.adsbygoogle:style(position: absolute!important; left: -3000px!important;)
 webhelp.pl###infobar > .foot:nth-of-type(3)
 webhelp.pl###sponsor
 webhostingtalk.pl###wht_new
@@ -3132,7 +3132,7 @@ www.logo24.pl##.mod_uzr_ecommerce
 www.lokalnatelewizja.pl##div.articles_list_margin.text-center.col-xs-12 > .visible-lg > .center-wrapper
 www.lowking.pl###wallpaper
 www.lowking.pl##.wallpaper-link
-www.lubin.pl,sportslaski.pl,wirtualnepniewy.pl###banner
+www.lubin.pl,sportslaski.pl,wirtualnepniewy.pl,hodowle.eu###banner
 www.lubliniec.info##.rightSideBaner, .banerAfterPromo
 www.miechowski.pl###rev_slider_8_1
 www.miechowski.pl,kurierzamojski.pl##.attachment-full.vc_single_image-img
@@ -4512,7 +4512,6 @@ sport.pl##.cg4-ad, .mod_uzr_sport6.mod
 ||cdn.comperia.pl^$domain=~digitalmoney.pl
 ||www.comperialead.pl^$domain=~digitalmoney.pl
 ||rec-ir.quartic.pl^
-||shop.buybox.click^
 ||extcdn.burdamedia.pl$script
 ||static.quantcast.mgr.consensu.org^
 !
