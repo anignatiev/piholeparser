@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /ChbW/s0rhdwvvUe1r6ydw
-! Version: 201911240010
+! Checksum: 1sFwSZTQROb7qnVhc4xhGw
+! Version: 201912040030
 ! Title: RU AdList: Counters
-! Last modified: 24 Nov 2019 00:10 UTC
+! Last modified: 04 Dec 2019 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -97,6 +97,7 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua##.sport-advert
 @@/^https?://[a-z]+\.com/+[^\s]{4,15}/$other,xmlhttprequest,domain=alforenao.com|clastarti.cc|mastarti.com|pandastream.cc|streamguard.cc|streamtojupiter.me
 @@||www.inoreader.com/adv/$domain=www.inoreader.com
 yandex.by,yandex.kz,yandex.ru,yandex.ua#?#[class$="segment__container"] > div > .card:-abp-has(> div[class] div[id] + script)
+rutracker.appspot.com,rutracker.net,rutracker.nl,rutracker.org,zerkalo-torrent.tk##[class^="internal-promo-"]
 pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net##[id*="adbloc"]
 mail.ru##body > .zeropixel ~ * .i-clearfix.feed-generic__container
 mail.ru##body > .zeropixel ~ * .pulse
@@ -108,6 +109,7 @@ championat.com,gazeta.ru,lenta.ru,quto.ru,rambler.*,rns.online,eda.ru#?#+js(set-
 yandex.by,yandex.kz,yandex.ru,yandex.ua##div[class*="turbo-advert_type_"]
 pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net##footer
 pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net##footer > a
+rambler.*#?#+js(remove-attr.js, class, .j-mini-player__video)
 yandex.*#?#+js(abort-on-property-read.js, Object.prototype.loaderVer)
 yandex.*#?#+js(abort-on-property-read.js, Ya.loaderVer)
 yandex.*#?#+js(abort-on-property-read.js, yaads.adRenderedCount)
@@ -261,6 +263,7 @@ _pagespeed_beacon?
 ||amazonaws.com/ki.js/
 ||amazy.ru^$third-party
 ||amung.us^$third-party
+||analytics.getaim.info^$third-party
 ||anti-ban.ucoz.ru^$third-party
 ||api.mindbox.ru/scripts/*/tracker.js
 ||app.link^$third-party
@@ -697,6 +700,7 @@ _pagespeed_beacon?
 ||trafit.com^$third-party
 ||trendstat.ru^$third-party
 ||triggertag.gorillanation.com^$third-party
+||triks.info^$third-party
 ||try.abtasty.com^$third-party
 ||ttrating.com^$third-party
 ||tut.by/res_co_track.gif
