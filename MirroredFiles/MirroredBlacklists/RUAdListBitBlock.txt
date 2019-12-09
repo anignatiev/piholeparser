@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pt5OKbasWSAtFXw+whxb0Q
-! Version: 201912080110
+! Checksum: VJOEqo+vdqN1v4Edx7sdxQ
+! Version: 201912090020
 ! Title: RU AdList: BitBlock
-! Last modified: 08 Dec 2019 01:10 UTC
+! Last modified: 09 Dec 2019 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -397,6 +397,7 @@ meduza.io##.Toolbar-list > .Toolbar-item:not(:last-child)
 lenta.ru##._social-network
 nur.kz##.a__share--image
 kp.ru##.a_diffusion > .center > .left
+reshator.com##.acc_desc > .soc_wrap
 xoxo.ru##.actions__social
 kinopoisk.ru##.add_to
 topnews.ru##.addto
@@ -2979,6 +2980,7 @@ news.mail.ru##.margin_bottom_20 ~ .rb-slot ~ div[class]:not(.js-module)
 octavius.mail.ru##.notify-stack_fixed
 auto.mail.ru##.p-horo-banner
 mail.ru,sportmail.ru##.ph-balloon
+e.mail.ru##.pm-octavius-widget
 auto.mail.ru##.promo_full
 news.mail.ru##.rb-floating
 health.mail.ru,news.mail.ru##.s-partners
@@ -22234,6 +22236,7 @@ _backToTop.
 ##.newsletter-inline-widget
 ##.newsletter-inner
 ##.newsletter-input
+##.newsletter-insert
 ##.newsletter-interstitial
 ##.newsletter-intro
 ##.newsletter-l
@@ -22366,6 +22369,7 @@ _backToTop.
 ##.newsletterWrapper
 ##.newsletter__callout
 ##.newsletter__card
+##.newsletter__container
 ##.newsletter__form
 ##.newsletter__headline
 ##.newsletter__signup
@@ -24644,7 +24648,7 @@ appspot.com,younow.com#@#.btn-instagram
 appspot.com,foodit.com#@#.btn-linkedin
 appspot.com#@#.btn-reddit
 azlyrics.com,theoldreader.com,userzoom.com#@#.btn-share
-bacardi.com,bellazon.com,bintray.com,epaka.pl,filterlists.com,freecodecamp.org,player.fm,swappa.com,thegamebusters.it,webgate.ec.europa.eu#@#.btn-social
+bacardi.com,bellazon.com,bintray.com,epaka.pl,filterlists.com,freecodecamp.org,player.fm,stimulusjs.org,swappa.com,thegamebusters.it,webgate.ec.europa.eu#@#.btn-social
 appspot.com#@#.btn-social-icon
 accounts.pixiv.net,appspot.com,crowdin.net,curiouscat.me,help.getadblock.com,magine.com,qz.com,setlist.fm,thegamebusters.it,webgate.ec.europa.eu,younow.com#@#.btn-twitter
 rockstargames.com#@#.btnFacebook
@@ -24994,7 +24998,7 @@ amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr,gitlab.com,reddit.com,
 fewo-direkt.de,nvidia.pl#@#.subscribe-container
 nvidia.pl#@#.subscribe-text
 first-class-and-more.de,geekgamer.tv#@#.subscribe-widget
-mozvr.com#@#.tag-social
+greenlemon.me,mozvr.com#@#.tag-social
 twitch.tv#@#.tw-icon
 twitch.tv#@#.tw-share
 chinadaily.com.cn,twitch.tv#@#.twBox

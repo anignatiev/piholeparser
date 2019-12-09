@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Stjz1jTfdKOsJwRmve+Krg
-! Version: 201912080051
+! Checksum: RPn/sG2uOewqtOE3Wiac1w
+! Version: 201912090022
 ! Title: Fanboy's Annoyance List
-! Last modified: 08 Dec 2019 00:51 UTC
+! Last modified: 09 Dec 2019 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4478,6 +4478,7 @@ _youtube_social_
 /privacypolicy.js
 /privacyPopup/*
 /protv_cookies.
+/pum-site-scripts-
 /pum-site-scripts.
 /rb/cookie/*
 /rbicookiepolicy.
@@ -4598,7 +4599,7 @@ _cookielaw_mip.
 _CookieLegalNotice.
 _cookieMsgBox/
 _cookieNotice.
-_CookiePolicy.
+_CookiePolicy.$~stylesheet
 _cookies_disclosure/
 _cookies_policy/
 _cookiesbar.
@@ -6394,6 +6395,7 @@ _site_cookie_
 ##.newsletter-inline-widget
 ##.newsletter-inner
 ##.newsletter-input
+##.newsletter-insert
 ##.newsletter-interstitial
 ##.newsletter-intro
 ##.newsletter-l
@@ -6526,6 +6528,7 @@ _site_cookie_
 ##.newsletterWrapper
 ##.newsletter__callout
 ##.newsletter__card
+##.newsletter__container
 ##.newsletter__form
 ##.newsletter__headline
 ##.newsletter__signup
@@ -35340,6 +35343,7 @@ brobible.com,myrecipes.com##.newsSignup
 chosun.com##.news_arrows
 nme.com##.news_interaction_stats
 thenextweb.com##.newsbox
+zerohedge.com##.newsletter
 thepigskindoctors.com##.newsmail
 thedailybeast.com##.newsweekElsewhere
 bmwblog.com,entrepreneur.com,glamour.com,globes.co.il,grubstreet.com,gwinnettdailypost.com,porn5.com,radaronline.com##.next
@@ -40371,7 +40375,7 @@ clarin.com##a[href^="/newsletters/"]
 ||monovolume.cc^*/up_btn.
 ||nexilia.it^*/feed.bundle.js
 ||notifiche.secoloditalia.it^
-||player.pulsemediatv.com^$third-party,domain=~bwin.sport
+||player.pulsemediatv.com^$third-party,domain=~bwin.tv
 ||player.streamshow.it^$third-party
 ||publy.com^$third-party
 ||reviews.shoppydoo.it^$third-party
@@ -43005,7 +43009,7 @@ appspot.com,younow.com#@#.btn-instagram
 appspot.com,foodit.com#@#.btn-linkedin
 appspot.com#@#.btn-reddit
 azlyrics.com,theoldreader.com,userzoom.com#@#.btn-share
-bacardi.com,bellazon.com,bintray.com,epaka.pl,filterlists.com,freecodecamp.org,player.fm,swappa.com,thegamebusters.it,webgate.ec.europa.eu#@#.btn-social
+bacardi.com,bellazon.com,bintray.com,epaka.pl,filterlists.com,freecodecamp.org,player.fm,stimulusjs.org,swappa.com,thegamebusters.it,webgate.ec.europa.eu#@#.btn-social
 appspot.com#@#.btn-social-icon
 accounts.pixiv.net,appspot.com,crowdin.net,curiouscat.me,help.getadblock.com,magine.com,qz.com,setlist.fm,thegamebusters.it,webgate.ec.europa.eu,younow.com#@#.btn-twitter
 rockstargames.com#@#.btnFacebook
@@ -43355,7 +43359,7 @@ amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr,gitlab.com,reddit.com,
 fewo-direkt.de,nvidia.pl#@#.subscribe-container
 nvidia.pl#@#.subscribe-text
 first-class-and-more.de,geekgamer.tv#@#.subscribe-widget
-mozvr.com#@#.tag-social
+greenlemon.me,mozvr.com#@#.tag-social
 twitch.tv#@#.tw-icon
 twitch.tv#@#.tw-share
 chinadaily.com.cn,twitch.tv#@#.twBox

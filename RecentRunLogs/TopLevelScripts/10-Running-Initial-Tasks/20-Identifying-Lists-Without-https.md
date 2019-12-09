@@ -8,6 +8,7 @@ ____________________________________
 
 ___________________________________________________________________
 ### Lists That Do NOT use https.
+* JABCreations
 * Adblock-Filters-by-Gurudee
 * BLOGRAM-Analysis-Block-Filter-List-for-Japan
 * BLOGRAM-Basic-Filter-List-for-Japan
