@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: dm36AfVfWwSb3+jKh/KhGQ
+! Checksum: OnP9zreToxiDyT8XQ9Rf6Q
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Sun, 08 Dec 2019, 23:00 UTC+01
-! Version: 2019.12.8.2
+! Last modified: Mon, 09 Dec 2019, 23:00 UTC+01
+! Version: 2019.12.9.2
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2019 Polish Filters Team
-! Aktualizacja: nie, 08 gru 2019, 23:00 UTC+01
+! Aktualizacja: pon, 09 gru 2019, 23:00 UTC+01
 !
 !
 ! Newslettery (nie popupy)
@@ -53,6 +53,7 @@ agrosklad.com.pl##.zostaw_numer
 ahe.lodz.pl###company-newsletter-column
 airstop.pl###snippet-newsletterSubscription-newsletterSubscription
 akademiaversum.pl,gitd.gov.pl,hamptons.pl,homebook.pl,magazif.com,mirat.eu,oknonet.pl,stoicway.net,telepolis.pl,tlp.is##.newsletter-form
+aldi.pl##.mod-newsletter-teaser
 aldrux.pl,qdecor.pl##.box:nth-of-type(4)
 alebilet.pl,beautikon.com,imready.eu,magazynwiatr.pl,multitouch.pl,rtvpixelagd.pl##.newsletter-wrapper
 aledobre.pl##.footerColumns > .row > div.col-sm-4.col-md-15:nth-of-type(6)
@@ -158,7 +159,7 @@ bochniaisol.pl,digi-tv.pl,podrozezantena.pl,satkurier.pl,solarkurier.pl###newsle
 bodyland.pl###stopka_newsletter > .newsletter_box > form
 bodypak.pl###pts-newsletter
 bold.net.pl##.fm-newsletter
-boleslawiec.tv,bydgoszcz.com,halogorlice.info,jaw.com.pl,koscierzyna24.info,lokalna24.pl,lokalnatelewizja.pl,narew.info,naszrynek.pl,olesnica24.com,radiobonton.pl,regatv.pl,sandomierztv.pl,starachowice.pl,swiebodzin.tv,telewizjazary.pl,tv-kwidzyn.pl,tvmorag.pl##footer#footer > div > .row > div:nth-of-type(3) > p:nth-of-type(1)
+boleslawiec.tv,bydgoszcz.com,echotygodnik.info,halogorlice.info,jaw.com.pl,koscierzyna24.info,lokalna24.pl,lokalnatelewizja.pl,narew.info,naszrynek.pl,olesnica24.com,radiobonton.pl,regatv.pl,sandomierztv.pl,starachowice.pl,swiebodzin.tv,telewizjazary.pl,tv-kwidzyn.pl,tvmorag.pl#?#footer#footer p:nth-of-type(1):-abp-has(a:-abp-contains(Czym jest newsletter))
 bolix.pl##.homepage-newsletter-box
 bonprix.pl##a[href="/serwis/newsletter"], .contrast.container-fluid > .container > .row > .col-xs-12.col-sm-6
 bonvoyage.pl##.box_newsletter
@@ -254,7 +255,6 @@ dachyb2b.pl,instalacjeb2b.pl,oknaidrzwib2b.pl,polokomputery.pl,przegrodyb2b.pl,w
 dadelo.pl##.col-xs-1.col-s-1.col-md-2.col-xl-4:nth-of-type(4) > .item
 daemon-tools.cc###send-mail
 danko.pl##.nl-holder
-darodnatury.pl##.footer_action
 dayupstore.pl,no10.pl##.fnls
 deccoria.pl##.dc-action-regiser-newsletter
 decoliving.pl##div.zwin.col-sm-3.footer-links.footer-widget:nth-of-type(3)
@@ -636,7 +636,7 @@ midar.net.pl##.pomaranczowy.boks:nth-of-type(4)
 mieszkajwmiescie.pl##div.col-sm-4:nth-of-type(1) > p.txtNewsletterDesc:nth-of-type(2), .conNewsletterInput, div.col-sm-4:nth-of-type(1) > .txtNewsletterTitle
 miloohome.pl##.footer-container-newsletter
 mito-pharma.pl##.newsletterForm
-mixmedia.pl##.b-footerNewsletter
+mixmedia.pl,mycenter.pl##.b-footerNewsletter
 mi.com##.span12.customer-relationship
 mlodeasyparkietow.pl##.foot_tit, .foot_news_info
 mlodytechnik.pl##[href="/newsletter"]
@@ -1187,6 +1187,7 @@ www.aboutyou.pl#?#footer[class*="footerContainer"] > div:-abp-contains(newslette
 www.al.to,www.x-kom.pl#?#section > .row:-abp-has( > div.col-sm-6 > .typ-newsletter-button)
 www.galeriehandlowe.pl##.newsletter-box-blue-big
 www.gemius.pl##.smaller.item:-abp-has(.newsletter-title)
+www.mazury.pl##.footer .stopka-prawa
 www.milmag.pl##.formNewsletter
 www.milmag.pl##div.foldMid.span_4_of_12.col:nth-of-type(2) > h3.footerLabel:nth-of-type(2)
 www.onet.pl##.popupNotif > .bellIcon
@@ -1332,6 +1333,7 @@ pl##.widget_newsletterwidget
 51015kids.eu,willsoor.pl###newsletter_popup
 aasapolska.pl###leave-page-modal
 abcfirany.pl###InfoNewsletterOkno, #InfoNewsletter
+abcjanikowo24.pl,brodnica365.pl,bydgoszcz24.pl,chelmza365.pl,chocianow.com.pl,ciechocinek.biz,czeladz365.pl,ddtorun.pl,ddwloclawek.pl,e-chelmno.pl,e-krajna.pl,ejarocin.pl,ekstrasierpc.pl,ekutno.pl,esopot.pl,expresskaszubski.pl,extrawalcz.pl,faktyct.pl,faktypilskie.pl,gle24.pl,gniewkowo.eu,gorlice24.pl,gostyn24.pl,grudziadz365.pl,gst24.pl,gwe24.pl,gwio.pl,hej.mielec.pl,ibytow.pl,infomogilno24.pl,ipoddebice.pl,isanok.pl,iszczecinek.pl,itvszubin.pl,jastrowie24.pl,ki24.info,klobuck365.pl,kolniak24.pl,koronowo.net.pl,kozieglowy365.pl,kurierwysmaz.pl,lelow365.pl,leszno24.pl,lubliniec365.pl,miastko24.pl,mojakruszwica.pl,myszkow365.pl,naszradziejow.pl,niegowa365.pl,nizanskie.info,pakosc24.pl,plonskwsieci.pl,poraj365.pl,portalplock.pl,portalsremski.pl,pulsciechanowa.pl,roztocze.net,rzeczkrotoszynska.pl,sompolno24.pl,spotradomsko.pl,superchodziez.pl,swiecie24.pl,tarnowska.pl,terazgostynin.pl,terazlipno.pl,tusochaczew.pl,tygodnik.pl,uniejow.net.pl,walbrzych365.pl,wiescimiedzychodzkie.pl,wkikole.pl,zarki365.pl,zawiercie365.pl,zyciesiedleckie.pl,zyciesokolowa.pl##.topLayer
 abra-meble.pl,eltrox.pl,kreatorium.com,lou.pl,meditrendy.pl,olini.pl,recea.pl,recman.pl,tendina.pl###edrone--main--pu--container
 accent-bikes.com###lang_popup
 adamkuncicki.pl###listfusion_popup_lightbox_main
@@ -1434,7 +1436,7 @@ chinytolubie.pl##.ui-dialog-titlebar-close, .ui-widget-overlay
 chocholowskietermy.pl,instalacjebudowlane.pl,outhorn.com###simplemodal-container, #simplemodal-overlay
 cholewinski.com###egnewsletter_popup_container.egnewsletter-popup-container
 chrzypsko.pl,vas.com.pl###dhtml_popup
-ciechocinek.biz,gniewkowo.eu,ki24.info,kolniak24.eu,nizanskie.info##.hejhej.hey-outer
+ciechocinek.biz,gniewkowo.eu,ki24.info,kolniak24.eu,nizanskie.info,roztocze.net##.hejhej.hey-outer
 cieszanowrockfestiwal.pl,wantmore.pl##.et_bloom_trigger_bottom.et_bloom_popup
 colian.pl##.home-popup
 cottonina.pl##.go-away
@@ -2927,7 +2929,7 @@ axadirect.pl###wirtualnyDoradcaPluginHome, #zadzwonPlugin
 badaniaprenatalne.pl##.contact-button-link
 balladine.com###widgetOpineo
 bankobranie.blogspot.com##.social > li:nth-child(n+6)
-baronphotography.eu,darodnatury.pl,topsolutions.pl###popup_contact
+baronphotography.eu,topsolutions.pl###popup_contact
 batteryguru.eu###xcmb
 bdi.com.pl###contact_popup
 bechtle.com##.communication-box
@@ -3156,6 +3158,7 @@ picodi.com###oneSignalBell, #onesignal-bell-container
 pityver.pl###widget.tada.widget
 pl.000webhost.com##div[style="cursor: pointer;"]
 pl.aliexpress.com##.ui-fixed-panel-survey
+pl.canalplus.com##.AsideButtons
 pl.canalplus.com###button-call, #button-lead
 pl.gearbest.com##a[href="https://support.gearbest.com/ticket/ticket/cat"] > .siteAside_linkIcon, .js_feedback
 pl.pons.com###hj-feedback
@@ -3741,6 +3744,7 @@ mettosport.eu###wpbs_slider
 mfryz.com.pl,sklepmaniek.pl###druga_ikona
 mgotuje.pl###ajaxsearchpro2_1
 miastons.pl##.stckbottom.cms_see_more
+miedzyrzec.info##.newsticker
 migrelo.de##.wallWidget.modMnProfile
 migrelo.de###showMoreArticlesBox
 mikroporady.pl##.fundrising-info, .rstbox, .footer_przekaz, #info, .juris_img > .krsinfo, .boxAkademia, .acs
