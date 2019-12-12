@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NDldnlIIrqnZ38bUhk25nw
-! Version: 201912100020
+! Checksum: 7Wl1STZM3IU9kFYoHDwVTQ
+! Version: 201912120020
 ! Title: RU AdList: BitBlock
-! Last modified: 10 Dec 2019 00:20 UTC
+! Last modified: 12 Dec 2019 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1222,6 +1222,7 @@ _userbar_$image
 ###cookies.cookies
 ###cookies.row
 ###cookiesBar
+###easy-cookies-policy-main-wrapper
 ###gdpr-cookie-accept
 ###gdpr-cookie-message
 ###glavportInformer
@@ -1704,7 +1705,6 @@ _userbar_$image
 /_parallax.js$script,domain=news.mail.ru
 /_relap.js$script,domain=mail.ru
 /alert.js$script,domain=news.mail.ru
-/assets/vendor*.xml?v=$third-party,xmlhttprequest
 /chrome.php$script,domain=4torrentgames.net|torrent2games.net
 /forum/new_year/$script,stylesheet,domain=nnm-club.lib|nnm-club.me|nnmclub.ro|nnmclub.to
 /geo/interesting/news/$domain=rbc.ru|sportrbc.ru
@@ -1722,7 +1722,6 @@ _userbar_$image
 ||2ch.*/banners/$domain=2ch.hk|2ch.pm
 ||2ip.ru/sbar/
 ||3dnews.ru/*/images/slider/
-||5edeb195868e2195.com^$third-party
 ||a-comics.ru/fw/
 ||a.europaplus.ru^*/getCode?*=mainep$xmlhttprequest
 ||advbroker.ru^$third-party,domain=~tophotels.ru
@@ -2988,6 +2987,7 @@ e.mail.ru##.pm-octavius-widget
 auto.mail.ru##.promo_full
 news.mail.ru##.rb-floating
 health.mail.ru,news.mail.ru##.s-partners
+mail.ru##.search__distribution
 pogoda.mail.ru##.side-informer
 go.mail.ru##.smack-market-model
 auto.mail.ru##.sticky-springs > .block_min-height-450
@@ -19871,6 +19871,7 @@ _youtube_social_
 /wp-content/plugins/tab-slide/*
 /wp-content/plugins/thrive-leads/*$script
 /wp-content/plugins/vto_plus/*
+/wp-snow-effect-pro/*
 /wp-snow-effect/*
 /yammer_16.
 ! Taboola

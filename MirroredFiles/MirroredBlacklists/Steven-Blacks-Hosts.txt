@@ -37,7 +37,6 @@
 0.0.0.0 www.dobre-programy.xyz
 0.0.0.0 dobreprogramy.pro
 0.0.0.0 www.dobreprogramy.pro
-0.0.0.0 www.www.canuck-method.com
 0.0.0.0 login.dotomi.com
 0.0.0.0 login.dotomi.net
 0.0.0.0 external.stealthedeal.com
@@ -91,18 +90,13 @@
 0.0.0.0 www.ttwitter.com
 0.0.0.0 vdtrack.com
 0.0.0.0 www.vdtrack.com
-0.0.0.0 www.www.vdtrack.com
-0.0.0.0 www.www.quickcash-system.com
 0.0.0.0 www.diptanuinfo.co.cc
-0.0.0.0 www.www.diptanuinfo.co.cc
 0.0.0.0 urldelivery.com
 0.0.0.0 www.urldelivery.com
-0.0.0.0 www.www.urldelivery.com
 0.0.0.0 apps3.cointraffic.io
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 www.tvpassport.com
-0.0.0.0 www.www.tvpassport.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 postmediamontrealgazette2.files.wordpress.com
@@ -116,8 +110,6 @@
 0.0.0.0 gamblerush.com
 0.0.0.0 www.gamblerush.com
 0.0.0.0 www.cpm20.com
-0.0.0.0 www.www.cpm20.com
-0.0.0.0 www.www.www.cpm20.com
 0.0.0.0 videoplayer.vice.technology
 0.0.0.0 bacr.com.pk
 0.0.0.0 www.bacr.com.pk
@@ -196,6 +188,7 @@
 0.0.0.0 logitechlogitechglobal.112.2o7.net
 0.0.0.0 www.logitechlogitechglobal.112.2o7.net
 0.0.0.0 ma1310-r.analytics.edgekey.net
+0.0.0.0 ipv6-wildcard.applovin.com.edgekey.net
 0.0.0.0 ovc2-ustokyyneikyfasnm.stackpathdns.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 smetrics.bestbuy.com
@@ -218,7 +211,6 @@
 0.0.0.0 profile.localytics.com
 0.0.0.0 req.startappservice.com
 0.0.0.0 www.hitcpm.com
-0.0.0.0 www.www.hitcpm.com
 0.0.0.0 users.quantumgraph.com
 0.0.0.0 tracking.i2w.io
 0.0.0.0 tracking-thirdparty.i2w.io
@@ -337,13 +329,15 @@
 0.0.0.0 www.data.sec.intl.miui.com
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 www.zeus.ad.xiaomi.com
-0.0.0.0 www.www.api.ad.intl.xiaomi.com
 0.0.0.0 sgp.o2o.api.xiaomi.com
 0.0.0.0 www.sgp.o2o.api.xiaomi.com
 0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 www.flash.sec.intl.miui.com
 
 # Ads
+0.0.0.0 services.bilsyndication.com
+0.0.0.0 biltag.bilsyndication.com
+0.0.0.0 assets.bilsyndication.com
 0.0.0.0 ampmetrics.engadget.com
 0.0.0.0 c.adskeeper.co.uk
 0.0.0.0 datacollect.vmall.com
@@ -471,17 +465,9 @@
 0.0.0.0 www.tradersbrokers.com
 0.0.0.0 www.ads2live.com
 0.0.0.0 www.axiatraders.com
-0.0.0.0 www.www.axiatraders.com
 0.0.0.0 www.beginads.com
-0.0.0.0 www.www.beginads.com
-0.0.0.0 www.www.buzzclicks.com
 0.0.0.0 www.chacomedia.com
-0.0.0.0 www.www.chacomedia.com
 0.0.0.0 www.face2trade.com
-0.0.0.0 www.www.grandonmedia.com
-0.0.0.0 www.www.indiaonclick.com
-0.0.0.0 www.www.powertradeprofit.com
-0.0.0.0 www.www.rotator.buzzclicks.com
 0.0.0.0 xml.plaimedia.com
 0.0.0.0 zamora.axiatraders.com
 0.0.0.0 www.zamora.axiatraders.com
@@ -564,6 +550,14 @@
 0.0.0.0 www.stage.tvpage.com
 0.0.0.0 appcdn.tvpage.com
 0.0.0.0 ad.wynk.in
+0.0.0.0 kt5850pjz0.com
+0.0.0.0 arcartall.club
+0.0.0.0 armantark.com
+0.0.0.0 myornamenti.com
+0.0.0.0 www.myornamenti.com
+0.0.0.0 queensiteforapp.com
+0.0.0.0 g0l32.queensiteforapp.com
+0.0.0.0 0byv9mgbn0.com
 
 # Block ads on Hotstar streaming app by @anudeepND
 0.0.0.0 app-measurement.com
@@ -620,10 +614,12 @@
 0.0.0.0 fp-analytics.hotstar.com
 0.0.0.0 hb-analytics.hotstar.com
 
-
 # Block ads on Voot streaming app @anudeepND
 0.0.0.0 in-viacom18.videoplaza.tv
 0.0.0.0 www.in-viacom18.videoplaza.tv
+
+# Block ads on Stremio app @aldo-f
+0.0.0.0 market.moonicorn.network
 
 # UC apps telemetry
 0.0.0.0 adn.insight.ucweb.com
@@ -645,7 +641,6 @@
 # Emotet malware domains @anudeepND
 0.0.0.0 beauty-tea.com
 0.0.0.0 www.beauty-tea.com
-0.0.0.0 www.www.beauty-tea.com
 0.0.0.0 zekiatagur.com
 0.0.0.0 www.zekiatagur.com
 0.0.0.0 arkonziv.com
@@ -674,6 +669,9 @@
 # Telemetry Reporting
 0.0.0.0 browser.pipe.aria.microsoft.com
 
+# Mozilla Firefox telemetry
+0.0.0.0 incoming.telemetry.mozilla.org
+
 # Spam domains
 # If your software is able, the below domains and all subdomains should be blocked
 #*.angiemktg.com
@@ -695,7 +693,6 @@
 # Error tracking and crash reporting
 0.0.0.0 rollbar.com
 0.0.0.0 www.rollbar.com
-0.0.0.0 www.www.rollbar.com
 0.0.0.0 api.rollbar.com
 
 0.0.0.0 ads.exoclick.com
@@ -1111,27 +1108,15 @@
 0.0.0.0 wws.ero-advertising.com
 0.0.0.0 www.wws.ero-advertising.com
 0.0.0.0 www.a.ero-advertising.com
-0.0.0.0 www.www.a.ero-advertising.com
 0.0.0.0 www.ads.ero-advertising.com
-0.0.0.0 www.www.ads.ero-advertising.com
 0.0.0.0 www.adspaces.ero-advertising.com
-0.0.0.0 www.www.adspaces.ero-advertising.com
 0.0.0.0 www.banners.ero-advertising.com
-0.0.0.0 www.www.banners.ero-advertising.com
 0.0.0.0 www.banners2.ero-advertising.com
-0.0.0.0 www.www.banners2.ero-advertising.com
 0.0.0.0 www.ero-adverising.com.ero-advertising.com
-0.0.0.0 www.www.ero-adverising.com.ero-advertising.com
 0.0.0.0 www.ero-advertising.com
-0.0.0.0 www.www.ero-advertising.com
 0.0.0.0 www.imads.ero-advertising.com
-0.0.0.0 www.www.imads.ero-advertising.com
-0.0.0.0 www.www.movieads.ero-advertising.com
 0.0.0.0 www.popads.ero-advertising.com
-0.0.0.0 www.www.popads.ero-advertising.com
 0.0.0.0 www.speedclicks.ero-advertising.com
-0.0.0.0 www.www.speedclicks.ero-advertising.com
-0.0.0.0 www.www.thumb.ero-advertising.com
 0.0.0.0 xn--adspace-kvg.ero-advertising.com
 0.0.0.0 www.xn--adspace-kvg.ero-advertising.com
 0.0.0.0 zww.ero-advertising.com
@@ -1168,8 +1153,6 @@
 0.0.0.0 www.hrtya.com
 0.0.0.0 greatmacsoft.tech
 0.0.0.0 adscan.yelabapp.com
-0.0.0.0 myfreecams.com
-0.0.0.0 www.myfreecams.com
 0.0.0.0 icloud.com-locations.in
 0.0.0.0 www.icloud.com-locations.in
 0.0.0.0 cradver.livejasmin.com
@@ -1186,6 +1169,7 @@
 0.0.0.0 www.myishop.co.uk
 0.0.0.0 www2.myishop.co.uk
 0.0.0.0 ads30.adcolony.com
+0.0.0.0 chauksoa.net
 
 # See Issue #844 – Windows telemetry servers – https://github.com/StevenBlack/hosts/issues/844
 
@@ -1212,7 +1196,6 @@
 0.0.0.0 joinmy.site
 0.0.0.0 watches-my.stream
 0.0.0.0 www.apple.com-fasting.live
-0.0.0.0 www.www.apple.com-fasting.live
 0.0.0.0 apple.com-fasting.live
 0.0.0.0 com-fasting.live
 0.0.0.0 www.com-fasting.live
@@ -1233,4 +1216,50 @@
 0.0.0.0 parentelement.tk
 0.0.0.0 www.parentelement.tk
 
-#=====================================
+0.0.0.0 sex-and-flirt.com
+0.0.0.0 www.sex-and-flirt.com
+
+0.0.0.0 www.applicationunificationcontroller.com
+0.0.0.0 www.dianomi.com
+
+0.0.0.0 ladsup.com
+0.0.0.0 powerad.ai
+0.0.0.0 hb.brainlyads.com
+0.0.0.0 report.hb.brainlyads.com
+
+# Viber App Ads
+0.0.0.0 s-bid.rmp.rakuten.com
+0.0.0.0 s-imp.rmp.rakuten.com
+
+# Issue #1050
+0.0.0.0 discoveryad.castoola.tv
+0.0.0.0 cdn.discoveryad.castoola.tv
+0.0.0.0 cdn.castoola.com
+0.0.0.0 castoola.com
+0.0.0.0 castoola.tv.lan
+
+# Jodel APP
+0.0.0.0 analytics.ext.go-tellm.com
+
+# Ubiquity
+0.0.0.0 trace.svc.ui.com
+
+0.0.0.0 smartlock.google.com
+
+# See Issue #1097 — https://github.com/StevenBlack/hosts/issues/1097
+0.0.0.0 media.rtk.io
+0.0.0.0 jita.rtk.io
+0.0.0.0 sync.rtk.io
+0.0.0.0 console.rtk.io
+0.0.0.0 hexagram.rtk.io
+0.0.0.0 login.rtk.io
+0.0.0.0 bidder.rtk.io
+0.0.0.0 thor.rtk.io
+0.0.0.0 uk2.thor.rtk.io
+0.0.0.0 nyc.thor.rtk.io
+0.0.0.0 nj.thor.rtk.io
+0.0.0.0 uk.thor.rtk.io
+0.0.0.0 sfo.thor.rtk.io
+0.0.0.0 bucket.rtk.io
+0.0.0.0 grow.rtk.io
+0.0.0.0 www.rtk.io
