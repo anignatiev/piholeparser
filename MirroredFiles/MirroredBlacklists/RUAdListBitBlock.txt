@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7Wl1STZM3IU9kFYoHDwVTQ
-! Version: 201912120020
+! Checksum: IoLXtGN/4EqrMlac7sK1RQ
+! Version: 201912130030
 ! Title: RU AdList: BitBlock
-! Last modified: 12 Dec 2019 00:20 UTC
+! Last modified: 13 Dec 2019 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -153,7 +153,6 @@ _vkontakte.png
 ||facebook.com/plugins/comments.php?
 ||gmodules.com/ig/images/plus_google.gif
 ||google.*/cse/brand?form=
-||google.com/translate_a/element.js?cb=googleTranslateElementInit|
 ||graph.facebook.com/*&callback=
 ||icq.com/scripts/online.
 ||imgsmail.ru/*_share_buttons_sprite.$third-party
@@ -467,6 +466,7 @@ tochka.net#?#.b_header > h3:-abp-contains(в социальных сетях)
 unian.info,unian.net,unian.ua##.banner-fb
 allboxing.ru##.banner.blue
 ren.tv##.bigsocial
+sergeistrelec.ru#?#.bl0:-abp-has(div:-abp-contains(/друзья|telegram/i))
 forbes.ru##.block-social-dockable
 5-tv.ru##.blockVk
 mind.ua##.block_archive > .section_title_small > span
@@ -570,7 +570,6 @@ mobiledevice.ru##.icons_bar_placeholder
 nabazare.blogspot.ru,spam-club.blogspot.com,spam-club.blogspot.ru##.ikonz-social
 kinoafisha.info,kinoafisha.msk.ru,kinoafisha.spb.ru##.indent15
 drive.ru##.index-news-ext > h3
-maximum.ru##.inst-maximum
 energyfm.ru##.instagram-index
 avito.ru##.item-socials-share
 varlamov.ru##.j-followme
@@ -804,7 +803,6 @@ fishki.net,rusplt.ru##.social-line
 mybrazz.club##.social-lines
 mybrazz.club##.social-links-left
 kopilkasovetov.com##.social-media-area
-maximum.ru##.social-network
 xsport.ua##.social-sharer-holder
 kinopoisk.ru##.social-teasers
 24molnia.com,darada.co,prozoro.net.ua,radarmedia.net##.socialWidgetButton
@@ -840,6 +838,7 @@ kamchatinfo.com,torrentfilmi.co##.soctop
 dni.ru##.sotial
 hqroom.ru##.sots-plugin
 kinomafia.tv##.soz
+maximum.ru##.ss_block
 ru.msn.com##.stbp-tbl
 fakty.com.ua##.subscribe-telegram
 seasonvar.cc##.sv-social
@@ -1879,6 +1878,7 @@ _userbar_$image
 ||rublacklist.net/media/$third-party,image
 ||rubryka.com/wp-content/*branding_eco_
 ||rusradio.ru^*/jquery.the-modal.js
+||russia.tv/miniplayer/miniplayer.
 ||rustorka*/forum/*/scroll$domain=rustorka.club|rustorka.com|rustorka.innal.top|rustorka.net|rustorkacom.lib
 ||rutube.ru/api/promo/
 ||rutv.ru/index/iframe/*/mini/isPlay/true/
@@ -2176,7 +2176,7 @@ rutor.org###toolbar
 proufu.ru###top
 www.kinopoisk.ru###top > div[id][style^="height: 210px"]
 russian-fiancee.com###top_logo
-pb.wtf,piratbit.org,piratbit.pw,piratbit.top#?##topocs_maine > [id^="post"]:-abp-has(.post_pw > a[href^="/out/"])
+pb.wtf,piratbit.org,piratbit.pw,piratbit.top#?##topocs_maine > [id^="post"]:-abp-has(.post_pw > a[title="Отключить всю рекламу на сайте"])
 pb.wtf,piratbit.org,piratbit.pw,piratbit.top###topocs_maine > thead + tbody[id^="post"][class^="row"] + tbody[id^="post"]:not([class^="row"])
 pb.wtf,piratbit.org,piratbit.pw,piratbit.top###topocs_maine > thead > tr ~ tr
 kriminal.tv###tvfooter
@@ -2583,7 +2583,7 @@ c-s.net.ua##.reg_mess_bg
 ren.tv##.region-sidebar > :not(#block-views-blog-block-autor)
 spr.ru##.reklamalink
 eurosport.ru##.related-content-story
-pb.wtf,piratbit.org,piratbit.pw,piratbit.top#?#.release-block-img1 > div:-abp-has([href^="/xct"])
+pb.wtf,piratbit.org,piratbit.pw,piratbit.top#?#.release-block-img1 > div:-abp-has([href^="/"][target="_blank"])
 filmix.cc,filmix.co,filmix.ink,filmix.site,filmix.today##.remove-sda-wrap
 forum.ixbt.com##.reply_premium
 tsargrad.tv##.review-proposition

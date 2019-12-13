@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10339
+! Version: 10347
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -4549,6 +4549,7 @@
 ||jydbctzvbqrh.com^
 ||jyezgitcx.com^
 ||jyfthtacsxkbp.com^
+||jygdjiocmt.com^
 ||jyijwgsqj.com^
 ||jykqpeumdrjopy.com^
 ||jynbcpfwvazazd.com^
@@ -4648,6 +4649,7 @@
 ||kdkzvfzmgvm.com^
 ||kdluruaor.com^
 ||kdmilqoiaucqto.com^
+||kdmuqtxadtl.com^
 ||kdpqydaxbxztnh.com^
 ||kdtictjmofbl.com^
 ||kdtrdexby.com^
@@ -4847,6 +4849,7 @@
 ||kpucctqryjdvx.bid^
 ||kpwhkeehpsp.bid^
 ||kpwjtpgvowifq.com^
+||kpzsyqhje.com^
 ||kpzvcvclybfa.com^
 ||kqaqantjwn.bid^
 ||kqctdqqcjjsqrc.bid^
@@ -7409,6 +7412,7 @@
 ||qfrhhvbfofbt.com^
 ||qfsutura.com^
 ||qfubwupddefjw.com^
+||qfwjclpckrdehi.com^
 ||qfymuoqugz.com^
 ||qfypbqbumu.com^
 ||qfzhppwfkenbmv.bid^
@@ -9367,6 +9371,7 @@
 ||uqyirvghv.com^
 ||urcakbypjfvsq.com^
 ||urkmuzzygjp.com^
+||uroidgcc.com^
 ||uryvzhvgpulaog.com^
 ||usclxdvvvnkdrv.com^
 ||usdlgonjnzpu.com^
@@ -9680,6 +9685,7 @@
 ||whzavlaamjcnt.com^
 ||wicanwfobqiz.com^
 ||wichnqeikfdp.com^
+||wiewsulznyncf.com^
 ||wiezvhxoqhnn.com^
 ||wiffqhum.com^
 ||wikbpyexkw.com^
@@ -10123,6 +10129,7 @@
 ||yvxerfdxk.com^
 ||yvyfyuacwz.com^
 ||yvystpvmpnz.com^
+||yvytbqgmersgw.com^
 ||ywcxuagtmrawx.com^
 ||ywegbjiv.com^
 ||ywlaafzvnn.com^
@@ -10187,6 +10194,7 @@
 ||zdhnepeadrwetg.com^
 ||zdjkzqwpqvwcmc.com^
 ||zdplhparvrd.com^
+||zdsyifistjlag.com^
 ||zdutcdhvwlpkge.com^
 ||zdydvjzexmp.com^
 ||zdyfbhfmdtpm.com^
