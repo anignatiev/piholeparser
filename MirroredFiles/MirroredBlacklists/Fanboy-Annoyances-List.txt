@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qMJNngsiViClc1kjwq5xZg
-! Version: 201912120021
+! Checksum: 7UEk5Eju7pnMzJ7Z/Hg/ng
+! Version: 201912140021
 ! Title: Fanboy's Annoyance List
-! Last modified: 12 Dec 2019 00:21 UTC
+! Last modified: 14 Dec 2019 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -103,6 +103,7 @@
 /recommendations-widget/*
 /sailthru-
 /sailthru/*
+/script/snow.js
 /show-join-email.jsonp?
 /signup_widget.js
 /signup_widget.min.js
@@ -7419,6 +7420,7 @@ _site_cookie_
 ###buttonScrollTop
 ###category-page-back-to-top
 ###cb-to-top
+###cw_to_top
 ###divGoTop
 ###div_gotop_outer
 ###dynamic-to-top
@@ -27508,6 +27510,7 @@ _site_cookie_
 ##.c-floating.c-window
 ##.c-fnd-cookie-acceptance
 ##.c-footer__cookies
+##.c-gdprbar
 ##.c-headband-cookies
 ##.c-info--cookie
 ##.c-info-bar.-cookies
@@ -44416,6 +44419,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||stipple.cachefly.net^$domain=stipple.com
 @@||stuff.co.nz/video/*.mp4$media
 @@||style.aliunicorn.com/js/$script,domain=alibaba.com
+@@||superstars.news/wp-content/uploads/*-social-media-$image,~third-party
 @@||swappa.com/static/icons/social/login_$image
 @@||symantec.com/content/*/about/images/social/b-$image
 @@||syndication.twitter.com/tweets.json?*&callback=$script

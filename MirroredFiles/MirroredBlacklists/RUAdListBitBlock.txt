@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IoLXtGN/4EqrMlac7sK1RQ
-! Version: 201912130030
+! Checksum: jw4xer1STTheK7YEXkycEw
+! Version: 201912140020
 ! Title: RU AdList: BitBlock
-! Last modified: 13 Dec 2019 00:30 UTC
+! Last modified: 14 Dec 2019 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -644,6 +644,7 @@ tvtorrent.me##.news_btn
 shostka.info##.ni-share
 cn.ru##.nn-like
 ngs.ru##.nn-nav-socials
+cross.expert##.notify
 cameralabs.org##.notlabs
 wi-fi.ru##.novelty__content > [src="//yastatic.net/share/share.js"] + p
 ntv.ru##.nvideo a[href^="http://connect.mail.ru/share"]
@@ -710,6 +711,7 @@ zi.dn.ua##.shar-title
 1743.ru,amurmedia.ru,bibliofond.ru,brovary.net.ua,businessman.ru,eaomedia.ru,glavcom.ua,govoritmoskva.ru,gts.tv,hdkinoteatr.com,irkutskmedia.ru,krasnodarmedia.su,krasnoyarskmedia.ru,magadanmedia.ru,native-english.ru,ntsk.ru,orki.ru,orsk.ru,overclockers.ua,pkzsk.info,primamedia.ru,ria.ru,rusonline.org,sakhalinmedia.ru,sevastopolmedia.ru,sverhestestvennoe.club,syl.ru,tele.ru,ua-football.com,ulanmedia.ru,ussurmedia.ru,vgtimes.ru,voxpopuli.kz,yakutiamedia.ru##.share
 my.kaspersky.com##.share > :not(.share-link)
 liwihelp.com##.share > a[onclick*="sharer"]
+cross.expert##.share-auth
 tv-torrent.me##.share-big
 replyua.net##.share-blc
 fasst-torrent.ru##.share-box-top
@@ -19840,6 +19842,7 @@ _youtube_social_
 /recommendations-widget/*
 /sailthru-
 /sailthru/*
+/script/snow.js
 /show-join-email.jsonp?
 /signup_widget.js
 /signup_widget.min.js
@@ -23267,6 +23270,7 @@ _backToTop.
 ###buttonScrollTop
 ###category-page-back-to-top
 ###cb-to-top
+###cw_to_top
 ###divGoTop
 ###div_gotop_outer
 ###dynamic-to-top
@@ -25673,6 +25677,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||stipple.cachefly.net^$domain=stipple.com
 @@||stuff.co.nz/video/*.mp4$media
 @@||style.aliunicorn.com/js/$script,domain=alibaba.com
+@@||superstars.news/wp-content/uploads/*-social-media-$image,~third-party
 @@||swappa.com/static/icons/social/login_$image
 @@||symantec.com/content/*/about/images/social/b-$image
 @@||syndication.twitter.com/tweets.json?*&callback=$script
