@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7UEk5Eju7pnMzJ7Z/Hg/ng
-! Version: 201912140021
+! Checksum: XxeKGYHsat4ob92cxrCFYg
+! Version: 201912150021
 ! Title: Fanboy's Annoyance List
-! Last modified: 14 Dec 2019 00:21 UTC
+! Last modified: 15 Dec 2019 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1374,6 +1374,7 @@ _backToTop.
 /facebookred.
 /facebookShare-
 /facebookshare.
+/facebooksharebutton.
 /FacebookShares?
 /facebooksmall2.
 /facebooksocialplugins.
@@ -6985,6 +6986,7 @@ _site_cookie_
 ! wix sites
 ###WIX_ADS
 ! ---------- Push Notifications ----------
+###NotificationsAskMsg
 ###SubscribePush
 ###SubscribePushNotificationPanel
 ###Znotify_Prompt
@@ -32636,6 +32638,7 @@ _site_cookie_
 ||mediafire.com/images/backgrounds/download/*promo
 ||mg.co.za^*/iabsa_
 ||moneytalksnews.com/wp-content/themes/mtn/assets/js/mtn-modal.$script
+||moviespur.pw/tabtest.php
 ||netdna-cdn.com/wp-content/plugins/omg-magnific/magnific.min.js?$domain=omgchrome.com
 ||newegg.com/newegg/survey/
 ||newyorker.com^*/failsafe/
@@ -34898,7 +34901,7 @@ core77.com##.fade_in
 realitypod.com##.fan_box
 definitelydiy.com,foodbabe.com,indexwp.com,panampost.com,pet.co.nz,rangerup.com,usnews.com,vocativ.com,whenonearth.net##.fancybox-overlay
 clientsfromhell.net,definitelydiy.com,foodbabe.com,indexwp.com,panampost.com,psdisasters.com,rangerup.com,trailspace.com,usnews.com,vocativ.com,whenonearth.net##.fancybox-wrap
-webmd.com##.fb
+moviespur.pw,webmd.com##.fb
 slideshare.net##.fb-global-msg-container
 hotair.com##.fb-header
 pcworld.com##.fb-login
@@ -37183,7 +37186,7 @@ irusa.org###slide_top
 oneplus.com###sticky-tools-btn
 bbgsite.com###tipGoTop
 popmythology.com###toTop
-bd.com,howtogermany.com,liveleak.com###top
+bd.com,howtogermany.com,livelaw.in,liveleak.com###top
 staradvertiser.com###top-anchor
 angelshack.co.za,motorscribes.com###top-link
 countdown.co.nz,crime-stoppers.org###top-link-block

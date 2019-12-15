@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jw4xer1STTheK7YEXkycEw
-! Version: 201912140020
+! Checksum: MMFY5C8d2LauTuwJtPAskw
+! Version: 201912150020
 ! Title: RU AdList: BitBlock
-! Last modified: 14 Dec 2019 00:20 UTC
+! Last modified: 15 Dec 2019 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -331,6 +331,7 @@ pogoda.com###shared
 kontrakty.ua###sideRight > .shadow
 miped.ru###side_right > noindex
 naruto-base.su#?##sidebar > .block:-abp-has(.title:-abp-contains(Мы в Вконтакте))
+hdseason.ru#?##sidebar > .block:-abp-has([alt="Подключайся"])
 tvcok.ru###sidebar > .left_ad_block
 f1comp.ru###sidebar > .socikonki
 f1comp.ru###sidebar > .widget_text
@@ -986,6 +987,7 @@ office-guru.ru##aside .widget_text
 umnica-krasavica.ru##aside > .widget_search ~ .widget_text
 it-tehnik.ru##aside > div[id^="custom_html"]
 opennet.ru##aside > form > .ttxt > tbody > tr:last-child
+gta.com.ua#?#b:-abp-contains(Поделиться:)
 aimp.ru#?#b:-abp-contains(Присоединяйтесь к нам)
 exzerry.com##body > #links > div[align="center"]
 syzran-small.ru,xn----7sbabwosghnf8al4lkj7b.xn--p1ai,маленькая-сызрань.рф#?#center:-abp-has(> .ya-share2)
@@ -3026,6 +3028,7 @@ mail.ru#?#body > .zeropixel ~ * div[class]:-abp-has(> div > div > p:-abp-contain
 mail.ru##body > .zeropixel ~ * div[class][style^="min-width"][style*="980"][style*="margin-right"]
 mail.ru##body > .zeropixel ~ div .well.notify
 mail.ru##body > div[id^="tb-"][class^="tb-"]
+go.mail.ru##body > div[style^="z-index:"]
 hi-tech.mail.ru#?#div:-abp-has(> .m-subscription_sidebar)
 hi-tech.mail.ru##div[class*="rb_"][class*="margin_bottom"]
 news.mail.ru##div[class="block block_collapse_bottom"] > [class="wrapper"] #comments ~ div > div:not([class*="box"])
@@ -4053,6 +4056,7 @@ prom.ua#@#img[alt="facebook"]
 /facebookred.
 /facebookShare-
 /facebookshare.
+/facebooksharebutton.
 /FacebookShares?
 /facebooksmall2.
 /facebooksocialplugins.
@@ -22835,6 +22839,7 @@ _backToTop.
 ! wix sites
 ###WIX_ADS
 ! ---------- Push Notifications ----------
+###NotificationsAskMsg
 ###SubscribePush
 ###SubscribePushNotificationPanel
 ###Znotify_Prompt
