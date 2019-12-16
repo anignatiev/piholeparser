@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MMFY5C8d2LauTuwJtPAskw
-! Version: 201912150020
+! Checksum: JFOQSwgxh2xkZKq24Trm5g
+! Version: 201912160020
 ! Title: RU AdList: BitBlock
-! Last modified: 15 Dec 2019 00:20 UTC
+! Last modified: 16 Dec 2019 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -316,8 +316,8 @@ helpsetup.ru###popup__toggle
 vk.com###pv_hh
 sfw.org.ua###qipbtn
 online.ua###referendum_soc468
-rg.ru###rgb_ads_telegram
 rg.ru###rgb_ads_vk
+rg.ru###rgb_telegram
 yap.ru,yaplakal.com###right-column > div > noindex
 memesmix.net#?##right-menu .module-body:-abp-has(> div > #vk_groups)
 animespirit.ru###rssButton
@@ -368,6 +368,7 @@ study.ru###tabs_soc_wrap
 pl.com.ua,vesti.uz###telegram
 evtifeev.com###text-14
 economics-prorok.com###text-7
+newinform.com###tg-vk
 navkolokino.com###the_share
 glavnoe.ua###tools-section
 nahnews.org###top-social-profiles
@@ -626,6 +627,7 @@ pingvin.pro##.menusocicons
 mega-track.org##.messageList > .tabs
 apparat.cc##.metaTable-inner
 minfin.com.ua##.mfz-social-footer-btns
+politexpert.net##.more_in_telegramm
 mastergrad.com##.msw-social
 megapesni.me##.music-like-social
 stranamam.ru##.n-main-socnet
@@ -854,6 +856,7 @@ depo.ua##.telegram_button
 tverigrad.ru##.telegram_info
 ilenta.com,vo-dela.su##.telegramim_button
 sobesednik.ru#?#.text-right:-abp-contains(поделиться:)
+newinform.com##.tg-button
 slovodel.com##.tg-main
 broshunters.com##.title-top > a[href="https://twitter.com/broshunters"]
 kinopov.com##.title_share
@@ -1653,7 +1656,7 @@ _userbar_$image
 ||puzyaka.ru/ub/
 ||qip.ru/images/sign/
 ||raptr.com/badge/
-||relap.io^$third-party,domain=~2mm.ru|~adme.ru|~allboxing.ru|~briefly.ru|~comedyportal.org|~drive2.com|~drive2.ru|~euro-football.ru|~fitseven.ru|~fototips.ru|~inmyroom.ru|~izvestia.ru|~kulturologia.ru|~life.ru|~nevasport.ru|~newstube.ru|~peers.tv|~politexpert.net|~ria.ru|~tvrain.ru|~znak.com
+||relap.io^$third-party,domain=~2mm.ru|~adme.ru|~allboxing.ru|~briefly.ru|~comedyportal.org|~drive2.com|~drive2.ru|~euro-football.ru|~fitseven.ru|~fototips.ru|~inforeactor.ru|~inmyroom.ru|~izvestia.ru|~kulturologia.ru|~life.ru|~nevasport.ru|~newstube.ru|~peers.tv|~politexpert.net|~ria.ru|~tvrain.ru|~znak.com
 ||rolki.ru/project/ubars/
 ||rostovmama.ru/components/com_line/
 ||ruler.autoserv.ru^
@@ -2708,7 +2711,6 @@ animaunt.org##.wrap > .slide_block
 telegraf.com.ua##.wrapper > #home_link
 telegraf.com.ua##.wrapper > .footerTitleTop
 xboxland.net##.ya-partner__list
-inforeactor.ru##.yandex-widget
 kaifolog.ru##.yandexh,.yandexh + .atextbox
 livesport.ru##.zz_cars_twin
 erofishki.cc##:not(.author):not(.avatar-a) > .subscribe_link
@@ -6977,6 +6979,7 @@ _youtube_social_
 ###desktop-share-wrapper
 ###desktop-social-buttons
 ###detailHeadlineStickySocial
+###details-share-icon-link
 ###dhSocial
 ###diaspora-button-container
 ###digg-widget
@@ -22222,6 +22225,7 @@ _backToTop.
 ##.newsletter-call-to-action
 ##.newsletter-callout
 ##.newsletter-capture
+##.newsletter-card
 ##.newsletter-center-form
 ##.newsletter-col
 ##.newsletter-compact
@@ -24402,6 +24406,7 @@ mercopress.com#@##goToTop
 encompass.tv#@##goTop
 nannicskin.ru,redlink.com.ar#@##gotop
 libcom.org#@##main-share
+upim.com#@##newsletter-modal
 exposurelights.com,tactxflashlights.com,thefirefly.com#@##newsletter-popup
 dnevnik.bg#@##newsletterBar
 cnn.com#@##outbrain_widget_0
@@ -24431,7 +24436,7 @@ battle.net,squareup.com,yandex.by,yandex.com,yandex.com.tr,yandex.kz,yandex.ru,y
 toutelanutrition.com#@#.footer-newsletter
 designdevostransports.fr#@#.gform_widget
 ixbt.com#@#.glyphicon-arrow-up
-novojornal.co.ao#@#.newsletter-modal
+novojornal.co.ao,upim.com#@#.newsletter-modal
 billabong.com,strikerconcepts.com,tactxflashlights.com,urbanedcsupply.com#@#.newsletter-popup
 bidorbuy.co.za#@#.newsletterContainer
 thefork.it#@#.newsletterSignup
@@ -24474,6 +24479,7 @@ dj-extensions.com,thadenschool.org#@#.top-of-page
 99bitcoins.com#@#.tve-leads-lightbox
 getuikit.com#@#.uk-alert
 tactxflashlights.com#@#.widget_subscribe
+upim.com#@#[data-target="#newsletter-modal"]
 twellow.com#@#a[href="http://www.twellow.com/"]
 nasa.gov#@#backtotop
 reddit.com#@#img[alt="submit to reddit"]
@@ -24715,13 +24721,14 @@ jappy.de#@#.facebookbutton
 100pour100foot.fr,6ter.fr,achetezfacile.com,clubic.com,deco.fr,fan2.fr,girondins.com,groupem6.fr,jeuxvideo.fr,jolidressing.com,m6.fr,m6blog.fr,m6bonus.fr,m6info.fr,m6jeux.fr,m6kid.fr,m6mobile.fr,m6pubdigital.fr,minuitsexy.fr,minutefacile.com,mobinaute.com,neteco.com,nouvellestar.fr,ozap.com,paris-premiere.fr,teva.fr,turbo.fr,w9.fr,wideo.fr#@#.fb-box
 academia.edu,twitter.com#@#.fb-btn
 airbnb.cat,airbnb.com,airbnb.de,dobreprogramy.pl#@#.fb-button
+mediaexpert.leszczynscy.pl#@#.fb-container
 kizlarsoruyor.com#@#.fb-content
 firebase.google.com#@#.fb-dialog
 allegro.pl,itweb.co.za#@#.fb-icon
 e-biznes.pl,facebook.com,fb.com#@#.fb-like
 facebook.com#@#.fb-likebox
 facebook.com,fb.com#@#.fb-link
-cieplikpodrozuje.pl,fashionvoyager.pl,majkrafci.pl#@#.fb-page
+cieplikpodrozuje.pl,fashionvoyager.pl,majkrafci.pl,mediaexpert.leszczynscy.pl#@#.fb-page
 facebook.com#@#.fb-quote
 facebook.com#@#.fb-recommendations
 facebook.com#@#.fb-recommendations-bar
@@ -25038,6 +25045,7 @@ electnext.com#@#.twitter-share
 boingboing.net#@#.twitter-share-button
 nothiefsallowed.com,twitter.com#@#.twitter-timeline
 about.me,busqueda.com.uy,modhoster.com,mozillamessaging.com,pinterest.com#@#.twitter.icon
+feedly.com#@#.twitterFeeds
 simonscat.com#@#.twitterShare
 pinterest.com#@#.twitterWrapper
 twitter.com#@#.twtr-widget
@@ -25459,6 +25467,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||jrjimg.cn/js.do?f=/share/js/
 @@||jsfiddle.net^$generichide
 @@||junglevibe2.net/min/?$script
+@@||justwatch.com^$generichide
 @@||kcrw.com^*/images/social-icons-$image,domain=kcrw.com
 @@||keepa.com/img/social/Google.svg
 @@||koszykowkanawozkach.pl^*/Header-facebook.jpg
@@ -25474,6 +25483,7 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||letyshops.com/build/core/images/fb-white.
 @@||lifetricks.com/wp-content/plugins/nextend-facebook-connect/
 @@||liggoo.com/min/?$script
+@@||limanowianin.in/wp-content/plugins/soslider-social-slider/js/jquery.soslider.min.js$script
 @@||lipis.github.io^$generichide
 @@||livescience.com/images/site/social/footer_*.gif
 @@||login.kataweb.it^*/sprite-social.png

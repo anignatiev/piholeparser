@@ -10,6 +10,7 @@ cmp.nextday.media
 cmp.pcwelt.de
 cnil.links-lab.fr
 consent.23g.io
+consent.berliner-kurier.de
 consent.cmp.oath.com
 consent.prismamedia.com
 consent.subscriptions.archant.co.uk
