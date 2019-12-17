@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JFOQSwgxh2xkZKq24Trm5g
-! Version: 201912160020
+! Checksum: X/5xODdgcL1//tmnAvcjNA
+! Version: 201912170020
 ! Title: RU AdList: BitBlock
-! Last modified: 16 Dec 2019 00:20 UTC
+! Last modified: 17 Dec 2019 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -90,6 +90,7 @@ _vkontakte.png
 ##.b-service-tabs__share
 ##.b-share__container
 ##.episode_likes
+##.f-soc
 ##.facebook
 ##.fb_iframe_widget:not(.fb-post):not(.fb-video)
 ##.follows-channel_ok
@@ -524,7 +525,6 @@ google.com##.entry-author > .entry-likers
 takprosto.cc##.essbis > :not(img)
 kp.by,kp.ru##.externalBlock > .left > span.title
 navitel.su##.extra_append:last-child
-kinobro.org,kinofilmu.net,kinoxa.me,newkinofilm.online##.f-soc
 sports.kz##.f-social-div
 animaunt.org,it-here.ru##.fa-telegram
 obozrevatel.com##.facebook-follow-pop-from-side
@@ -1062,6 +1062,7 @@ mail.ru##.sharelist__items
 auto.mail.ru##.sharelist_justify
 mail.ru##:not([class*="teaser__preview"]):not([class*="article-embed"]):not([class*="article__embed"]):not([class*="slider__item"]):not([class*="article__container"]) > .twitter-tweet
 mail.ru##aside[class*="twitter"]:not([class*="teaser_incontent"])
+deti.mail.ru#?#button:-abp-has(> .button__inner:-abp-contains(Поделиться))
 my.mail.ru##div[class^="sp-video__item-page-new__share"]
 lady.mail.ru##div[data-module="Shares.Compact"]
 !
@@ -2756,7 +2757,7 @@ torrentfx.ru##a[href^="/go"][target="_blank"]
 chastnik-m.ru##a[href^="/public/links/"][href*="block=adver"]
 turbobit.net##a[href^="/turbo?"]
 ~changecopyright.ru##a[href^="http://changecopyright.ru"]
-big-bang-online.ru,breaking-bad-online.ru,dh-online.ru,griffiny.ru,online-futurama.ru,online-simpsons.ru,online-south-park.ru##a[href^="http://shop."]
+big-bang-online.ru,breaking-bad-online.ru,dh-online.ru,griffiny.ru,online-futurama.ru,online-simpsons.ru,online-south-park.ru,thrones-online.ru##a[href^="http://shop."]
 taobao-forum.com##a[href^="http://taobao-forum.com/"] > img[src^="/banner/"]
 bigtorrents.ru##a[href^="http://toptracker.ru/details.php?id="]
 sports.ru##a[href^="http://www.sports.ru/fantasy/promo/"]
@@ -2987,6 +2988,7 @@ auto.mail.ru,news.mail.ru##.mailru-visibility-check
 news.mail.ru##.margin_bottom_20 ~ .rb-slot ~ div[class]:not(.js-module)
 ~e.mail.ru,mail.ru##.news__styling
 octavius.mail.ru##.notify-stack_fixed
+e.mail.ru##.notify-stack_fixed > div[style]:not([class])
 auto.mail.ru##.p-horo-banner
 mail.ru,sportmail.ru##.ph-balloon
 e.mail.ru##.pm-octavius-widget
@@ -24459,7 +24461,7 @@ krasnodar.ru#@#.scrollTop
 hyperoptic.com,playtech.co.nz,porozmawiajmyoit.pl,scan.co.uk#@#.scroll_top
 ltn.com.tw,theuptake.org#@#.scrolltop
 ap.www.namecheap.com#@#.scrolltotop
-chorus.co.nz#@#.scrollup
+chorus.co.nz,jdpower.com#@#.scrollup
 github.com,kifi.com,okcupid.com,retailmenot.com,zoom.us#@#.signup-email
 dualshockers.com#@#.socialfooter
 blackboat.com#@#.sqs-announcement-bar
