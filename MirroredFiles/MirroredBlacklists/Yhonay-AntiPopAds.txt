@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10374
+! Version: 10384
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1706,6 +1706,7 @@
 ||drwfixovzqdcs.com^
 ||drwttspxjdoosq.com^
 ||drzndwmqrgra.com^
+||dsaiwxrneawj.com^
 ||dsdiztki.bid^
 ||dsemgngou.com^
 ||dsevjzklcjjb.com^
@@ -2473,6 +2474,7 @@
 ||flntdbwafec.com^
 ||flooaiaubf.bid^
 ||flrqdjglshsbi.com^
+||flsfxpostdtvgc.com^
 ||fluunrkjjhv.com^
 ||flvuylhsyg.com^
 ||flzelfqolfnf.com^
@@ -3972,6 +3974,7 @@
 ||irzdishtggyo.com^
 ||isbzjaedbdjr.com^
 ||iscaebizkzyd.com^
+||isffnlbsuyinnv.com^
 ||isfmvohloskgw.com^
 ||isfouztifttwha.bid^
 ||isfxsiooyjad.com^
@@ -4996,6 +4999,7 @@
 ||kweayxzfazrws.com^
 ||kwflzktzaxczm.com^
 ||kwhgsdnkrusyw.com^
+||kwhsnwdpwsv.com^
 ||kwiaofifmdqpif.com^
 ||kwjglwybtlhm.com^
 ||kwkxvbjz.com^
@@ -6956,6 +6960,7 @@
 ||pennzxycrdmw.com^
 ||peqdwnztlzjp.com^
 ||perfcjlensdl.com^
+||perymiynf.com^
 ||petsarlaaafru.com^
 ||pewdewgeehc.com^
 ||pewgnvqixnhvij.com^
@@ -7333,6 +7338,7 @@
 ||qbdgnjwaknl.bid^
 ||qbeoyasaiz.com^
 ||qbfibmzxaqtfi.com^
+||qbfzmwamsid.com^
 ||qbhcfxxivcdfm.com^
 ||qbjnwjtbfrxceq.com^
 ||qbldzsktv.com^
@@ -8275,6 +8281,7 @@
 ||scahqyriepu.com^
 ||scbffqszd.bid^
 ||scbywuiojqvh.com^
+||sceieibhpdday.com^
 ||scfkfridulshkd.com^
 ||scgnsficmwipuj.bid^
 ||scgyndrujhzf.com^
@@ -8555,6 +8562,7 @@
 ||ssypntfmi.com^
 ||ssyyeufsqbra.bid^
 ||stekcwrdwohbch.com^
+||stfowevsn.com^
 ||sthtrtvkkt.com^
 ||stkqkfhlscmcuh.com^
 ||stkrwlodjvl.bid^
@@ -9413,6 +9421,7 @@
 ||utzhcsrzrlhhxn.com^
 ||uuaajohul.com^
 ||uudehlgu.com^
+||uufbvpidyn.com^
 ||uujzywpxxrroh.com^
 ||uukqisdwolzsjd.com^
 ||uunriutbi.com^
@@ -9471,6 +9480,7 @@
 ||vcjbxucwrprtu.com^
 ||vctgwjsgivo.com^
 ||vcvapkiua.com^
+||vcvefwzdxhysh.com^
 ||vcwrigdrnh.com^
 ||vcxoizuwy.com^
 ||vcyxvhxysl.com^
