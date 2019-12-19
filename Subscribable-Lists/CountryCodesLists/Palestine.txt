@@ -1,5 +1,6 @@
 aacreditunion.wesco.ps
 ajmal.ps
+alqistas.ps
 awtar.ps
 charm.ps
 cst-kh.edu.ps
@@ -8,5 +9,7 @@ falcon.ps
 freedom.ps
 gazacham.ps
 laptop.com.ps
+pioneer.ps
 www.ps
+zane.ps
 zediah.ps

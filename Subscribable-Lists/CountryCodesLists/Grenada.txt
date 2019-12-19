@@ -6,6 +6,7 @@ counter.gd
 cyntia-escort-girl.fr.gd
 dhl-france-service.fr.gd
 dogepool.rf.gd
+eventsgrenada.gd
 infinityservices.rf.gd
 is.gd
 lnk.gd

@@ -64,6 +64,7 @@ fivechat.cd
 flashcube.cd
 flipcast.cd
 forklock.cd
+forumnationaldelajeunesse.cd
 francophonierdc.cd
 froolp.cd
 games.katz.cd
@@ -122,6 +123,7 @@ mikosal.cd
 millys.cd
 miqar.cd
 miyu.cd
+mobimetal.cd
 mojoinkop.cd
 moneystock.cd
 monicafillips.cd

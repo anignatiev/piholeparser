@@ -1,3 +1,4 @@
+34maktab.uz
 azlex.uz
 bank.uz
 cybernet.uz
@@ -6,9 +7,11 @@ drugs.uz
 ej.uz
 glenbay.uz
 integris.uz
+mybazaar.uz
 sir.uz
 ssvak.med.uz
 starprint.uz
+texuskuna.dst.uz
 top.sec.uz
 uzstroystandart.uz
 vatanparvar.uz

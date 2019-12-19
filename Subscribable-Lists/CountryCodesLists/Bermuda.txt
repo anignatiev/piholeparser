@@ -1,3 +1,4 @@
 airstest.gov.bm
 flashpoint.bm
+media-mine.bm
 qualityair.bm

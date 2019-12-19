@@ -145,6 +145,7 @@ fwcc.pool.mn
 gac.mn
 gam.mn
 gambling.mn
+ganabell.mn
 gas.mn
 gbc.pool.mn
 gcc.pool.mn
@@ -157,9 +158,11 @@ giar.pool.mn
 gln.pool.mn
 glorugh.mn
 gns.pool.mn
+gobicaravan.mn
 god.mn
 god.pool.mn
 godd.pool.mn
+goo-s.mn
 good.pool.mn
 gpu.pool.mn
 gra.pool.mn
@@ -235,6 +238,7 @@ mag.pool.mn
 maia.pool.mn
 maki.pool.mn
 mamm.pool.mn
+mandala.mn
 max.pool.mn
 mc.pool.mn
 mca.pool.mn
@@ -270,6 +274,7 @@ nlg.pool.mn
 nm.pool.mn
 noah.pool.mn
 nob.pool.mn
+nomadsworld.mn
 novatech.mn
 ntm.pool.mn
 nuc.pool.mn
@@ -283,6 +288,7 @@ opendoor.mn
 ornoo.mn
 otc.pool.mn
 otx.pool.mn
+oyuniituv.mn
 pahoii.mn
 pal.pool.mn
 paravailmd.mn
@@ -336,6 +342,7 @@ sbc.pool.mn
 sc.pool.mn
 sdc.pool.mn
 sdp.pool.mn
+selengepress.mn
 semoon.mn
 shibe.pool.mn
 shld.pool.mn
@@ -395,6 +402,7 @@ theo.z.pool.mn
 tin.pool.mn
 toftola.mn
 tor.pool.mn
+transmongol-trek.mn
 tri.pool.mn
 trn.pool.mn
 tropfr.mn
@@ -471,6 +479,7 @@ www.bcx.pool.mn
 www.bdc.pool.mn
 www.bdg.pool.mn
 www.bdog.pool.mn
+www.beta.salon.mn
 www.bill.pool.mn
 www.bit.pool.mn
 www.bitx.pool.mn
@@ -549,6 +558,7 @@ www.dvk.pool.mn
 www.eir.pool.mn
 www.ekita.pool.mn
 www.elt.pool.mn
+www.en.chubakhangal.mn
 www.epc.pool.mn
 www.eruuludam.mn
 www.esc.pool.mn

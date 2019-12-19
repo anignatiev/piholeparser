@@ -7,6 +7,7 @@ div.as
 escort.as
 euroad1.advantage.as
 free-games.as
+furuseth.as
 getupdate.pass.as
 gukin.as
 im.impact.as
@@ -15,6 +16,7 @@ just.as
 mf.advantage.as
 mfad1.advantage.as
 oda.as
+optika.as
 play.as
 sf.impact.as
 smrt.as

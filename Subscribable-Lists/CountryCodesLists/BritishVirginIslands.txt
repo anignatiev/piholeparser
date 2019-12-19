@@ -19,6 +19,7 @@ dgafar1.vg
 doralin.vg
 dulincorp.vg
 egns.vg
+eventdollar.cc.vg
 fibo.vg
 freeones.vg
 gamers.vg

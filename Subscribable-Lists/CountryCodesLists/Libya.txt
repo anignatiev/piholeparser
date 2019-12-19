@@ -1,6 +1,7 @@
 24sevenoffice.count.ly
 3.ly
 7.ly
+a.sinister.ly
 abfintec.count.ly
 ad.adip.ly
 adf.ly
@@ -28,6 +29,7 @@ bytemark.count.ly
 cameltoe.biz.ly
 canadavisa.count.ly
 ccinext.count.ly
+cdn.adf.ly
 cemex.count.ly
 center5.count.ly
 cgi.biz.ly
@@ -70,6 +72,7 @@ item-number.biz.ly
 item198364529385.biz.ly
 jyhr.biz.ly
 kp.count.ly
+l.ly
 leaffm.count.ly
 lhind.count.ly
 linkdumpx.biz.ly
@@ -116,7 +119,9 @@ smal.ly
 snip.ly
 ssl.biz.ly
 staging.api.kite.ly
+static.adf.ly
 stats.count.ly
+sur.ly
 synchronoss-dev.count.ly
 synchronoss-us1.count.ly
 synchronoss.count.ly

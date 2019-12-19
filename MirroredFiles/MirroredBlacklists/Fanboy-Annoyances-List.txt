@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mIgV4QSEwujclMQ9MNoGgg
-! Version: 201912180021
+! Checksum: WQH/ACP98tNzN2gOGf6IZA
+! Version: 201912190021
 ! Title: Fanboy's Annoyance List
-! Last modified: 18 Dec 2019 00:21 UTC
+! Last modified: 19 Dec 2019 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4104,6 +4104,7 @@ _youtube_social_
 /cookieaccept.
 /CookieAccept/*
 /cookieacceptance.
+/cookieAgree.
 /cookiealert.
 /CookieAlertBootStrapper.
 /cookiebadge.
@@ -4393,6 +4394,7 @@ _youtube_social_
 /hi-cookie-
 /homepage-cookie-
 /i_CookieConsent.
+/iab-vendorlist.
 /ibeugdpr.
 /icit-cookie-law/*
 /ico.cookie.
@@ -4551,6 +4553,7 @@ _youtube_social_
 /type-cookies.
 /ubmcookieconsent-
 /uecomscore_cmp.
+/uk-cookie-
 /ukcookie.
 /um-gdpr.
 /uploads/GDPR-
@@ -7534,10 +7537,10 @@ _site_cookie_
 ###tab-to-top
 ###theme-go-to-top
 ###to-the-top
-###to-top
 ###to-top-button
 ###to-top-container
 ###to-top-link
+###to-top:not(body)
 ###toPagetop
 ###toTo_button
 ###toTop
@@ -7559,6 +7562,7 @@ _site_cookie_
 ###uix_jumpToTopFixed
 ###ultra-go-top
 ###up_scroll_arrow
+###volver-arriba
 ###w2b-StoTop
 ###wp-smooth-scroll
 ###wpfront-scroll-top-container
@@ -25754,6 +25758,7 @@ _site_cookie_
 ###nld_cookies
 ###no-cookie
 ###no-cookie-doorkeeper
+###noConsentAlertModal
 ###nocookie
 ###nocookieaktiv
 ###non-blocking-consent-notification
@@ -33930,6 +33935,7 @@ aig.co.uk###policyMessage
 ign.com###policyNotice
 slate.com###policy_announcement
 macys.com###pollingWidget
+gamecodeur.fr###pop-last-user-glob
 thenextweb.com###pop-up
 techpresident.com###pop1
 break.com###popInModule-sigma
@@ -42622,6 +42628,7 @@ bwin.es##.info-message
 ulabox.com##.js-alert
 plataformaarquitectura.cl##.kth-toast
 enaire.es,fiveguys.es##.modal-backdrop
+hofmann.es##.muuSm
 nomada.gt##.noma-privacy
 jaguar.es,landrover.es##.notificationBars
 arsys.es##.notifications
