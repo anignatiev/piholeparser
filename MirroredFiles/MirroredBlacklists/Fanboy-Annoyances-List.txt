@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WQH/ACP98tNzN2gOGf6IZA
-! Version: 201912190021
+! Checksum: e8s1EQIxQ7pOhC86WsfzMA
+! Version: 201912200021
 ! Title: Fanboy's Annoyance List
-! Last modified: 19 Dec 2019 00:21 UTC
+! Last modified: 20 Dec 2019 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5205,6 +5205,7 @@ _site_cookie_
 ##.ecom-placement
 ##.ecom-promo2
 ##.hdr-sub-ad-01
+##.newsblock-support-cta
 ##.subscription-tout
 ! ---------- Newsletter/Signup Messages ----------
 ###EmailOptin
@@ -43748,6 +43749,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||georiot.com/snippet.js$domain=bound2hiphop.com
 @@||gismeteo.ru/images/rss/$image
 @@||google.com/friendconnect/$script,domain=blogspot.com
+@@||gravityrd-services.com^$domain=hotstar.com
 @@||huffpost.com/images/social/benefits/signup/
 @@||images.taboola.com/taboola/$image,domain=indiatimes.com
 @@||jamendo.com/images/libs/social/
