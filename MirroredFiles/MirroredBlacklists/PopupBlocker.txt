@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: PoMGKVSUPWa/NTibRhej9A
+! Checksum: dixzyMIkAh7ck2NxOjsOPg
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Wed, 18 Dec 2019, 23:00 UTC+01
-! Version: 2019.12.18.1
+! Last modified: Fri, 20 Dec 2019, 23:00 UTC+01
+! Version: 2019.12.20.2
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2019 Polish Filters Team
-! Aktualizacja: śro, 18 gru 2019, 23:00 UTC+01
+! Aktualizacja: pią, 20 gru 2019, 23:00 UTC+01
 !
 !
 ! Newslettery (nie popupy)
@@ -52,7 +52,7 @@ agriaffaires.pl###js-newsletterBlock
 agrosklad.com.pl##.zostaw_numer
 ahe.lodz.pl###company-newsletter-column
 airstop.pl###snippet-newsletterSubscription-newsletterSubscription
-akademiaversum.pl,gitd.gov.pl,hamptons.pl,homebook.pl,magazif.com,mirat.eu,oknonet.pl,stoicway.net,telepolis.pl,tlp.is##.newsletter-form
+akademiaversum.pl,gitd.gov.pl,hamptons.pl,homebook.pl,m.leroymerlin.pl,magazif.com,mirat.eu,oknonet.pl,stoicway.net,telepolis.pl,tlp.is##.newsletter-form
 aldi.pl##.mod-newsletter-teaser
 aldrux.pl,qdecor.pl##.box:nth-of-type(4)
 alebilet.pl,beautikon.com,imready.eu,magazynwiatr.pl,multitouch.pl,polskikoszyk.pl,rtvpixelagd.pl##.newsletter-wrapper
@@ -151,6 +151,7 @@ blip.pl###salesmanagoIframe
 blogmtb.pl##.kalais-newsletter
 blog.gdaq.pl###text-13
 blog.kurasinski.com##.right-col, .newsletter
+blog.mozilla.org,olesnica24.com,zamek-krolewski.pl###newsletter_form
 blog.spotawheel.pl,oknarolety.com###subscribe-form
 bluecity.pl##.col-newsletter.col
 bluerank.pl##.shown.exit
@@ -195,6 +196,7 @@ castorama.pl###newsletterLabel
 cba.pl##.links > div > div:nth-of-type(4)
 ccpartners.pl##.nl
 cebit.pl##a[href="http://net.cebit.pl/newsletter/"]
+cegla-klinkier.pl###newsletter_block
 centrumdialogu.com##.clearfix.bd-no-margins.hidden-xs.bd-layoutbox-9
 centrumkurierskie.pl##div.leftBox:nth-of-type(3)
 centrumpapieru.pl##.cp_footer__newsletter
@@ -635,6 +637,7 @@ miastons.pl#?#.sh-s1.sh-t2.section-heading:-abp-contains(Newsletter)
 miaucafe.pl,pangrono.pl,pwsk.pl,strefapmi.pl##.et_bloom_animated.et_bloom_flyin_right.et_bloom_flyin
 midar.net.pl##.pomaranczowy.boks:nth-of-type(4)
 mieszkajwmiescie.pl##div.col-sm-4:nth-of-type(1) > p.txtNewsletterDesc:nth-of-type(2), .conNewsletterInput, div.col-sm-4:nth-of-type(1) > .txtNewsletterTitle
+milight.pl#?#div#produkty.section:-abp-has(#alo_easymail_widget_form)
 miloohome.pl##.footer-container-newsletter
 mito-pharma.pl##.newsletterForm
 mixmedia.pl,mycenter.pl##.b-footerNewsletter
@@ -742,7 +745,6 @@ okazje.info.pl###newsletterTab
 okazjum.pl##.newsletter-modal__reveal-button
 oknadrzwi.net##.widget_buildplus_core_newsletter
 oknonet.pl##div.lbox:nth-of-type(8)
-olesnica24.com,zamek-krolewski.pl###newsletter_form
 olini.pl,zaffiro.shop###newsletterWidget
 olsztyn24.com##.katalog_newsletter_content
 oltaconceptstore.eu##.newsletter-col
@@ -1250,6 +1252,7 @@ zyciepabianic.pl###widget-newsletter
 ||dobremiejsce.org/wp-content/themes/dobremiejsce_org_pds/images/s2-980.jpg
 ||forms.freshmail.io$subdocument,domain=hurtownia-spozywcza.pl
 ||forms.freshmail.io/f/$subdocument,domain=wei.org.pl
+||klinkierbud.pl/css/img/baner_newsletter.jpg
 ||obi.pl/images/footer/newsletter.jpg
 ||oknoserwis.pl/img/newsletter.gif
 ||rynekzdrowia.pl/images/socialBox/mail-a.png
@@ -1366,7 +1369,7 @@ arimr.gov.pl###kiwi_popup_layer
 arp.pl###arp-popup
 arslege.pl###smoothbox_container
 artbud.pl,asnew.pl,aze.com.pl,bovoweb.pl,catom.pl,elektro-outlet.net,laptopyplock.pl,ledfarmer.pl,meblohurt.eu,pclider.pl##.modal-visible, .mask
-artlazienkowe.pl,veoveo.pl,wellsamed.pl##.rc-popups.box
+artlazienkowe.pl,giftmania.com.pl,pcoutlet.pl,veoveo.pl,wellsamed.pl##.rc-popups.box
 arturjablonski.com,eswinoujscie.pl##.ulp-layer, .ulp-overlay
 asd.pl##.popUpHolder, #Fader
 asics.com,delphiautoparts.com##.ui-widget.ui-dialog, .ui-front.ui-widget-overlay
@@ -1509,7 +1512,7 @@ e-insportline.pl###vivpopup-collapsed
 e-konferencje.pl,ekliniki.pl,lumarte.eu,milenium.pl##.ui-widget.ui-dialog, .ui-widget-overlay
 e-megasport.com###tws_i_100000, #topLayerBackDrop
 e-podlogidrzwi.pl###infoPage
-e-sporting.pl,no10.pl,sportbazar.pl###cart_tt, #cart_tt_bg
+e-sporting.pl,klinkierbud.pl,no10.pl,sportbazar.pl###cart_tt, #cart_tt_bg
 fabrykacukiernika.pl###gsNewsbox
 fabrykawafelkow.pl###someone-purchased
 fabrykazabawek.eu###helloModal
@@ -1748,8 +1751,8 @@ patiimaks.pl##.newsletter_popup, #shadow_layer, .exit_popup
 pbsbank.pl,scanner.com.pl##.rstboxes
 pb.pl##.smPopupContainer, #smPopupBackground
 pch24.pl##.popupWesp, .popupWespImgContainer
-pcoutlet.pl##.rc-popups.box > #pp2
 pelnytalerz.com###fbox-background
+petronews.pl##.pps-full-screen.pps-popup, .b-modal
 picodi.com##.special-modal, .modal-backdrop
 pierwsze-kroki.com###spu-26, #spu-bg-26
 pirbinstytut.pl##.sj-popup-container, .sj_newletter_popup
@@ -1776,7 +1779,7 @@ policja.gov.pl,policja.pl##[id^="popup-"], #krajowa_mapa_zagrozen
 policja.orsip.pl##.jimu-widget.jimu-widget-splash
 politykazdrowotna.com##.modal-footer
 polomarket.pl###layer_box
-polskicaravaning.pl,wiadomoscihandlowe.pl,wiadomoscikosmetyczne.pl###newsletter-popup-wrapper
+polskicaravaning.pl,swiatopon.info,wiadomoscihandlowe.pl,wiadomoscikosmetyczne.pl###newsletter-popup-wrapper
 polskieradio.pl##.showBanner.tempBanner
 polskimarket.nl###rc_window_squeeze, #Overlay
 pol-nor.com###boxpopup, #overlay, #popforfirma
@@ -2236,7 +2239,7 @@ pl##div.miniature.onnetworkplayercontainer > div.alwplayer
 ! Strzałki
 2x45.info,decoratorium.eu,mojewypiekiinietylko.com,naziemna.info,pl.delfi.lt,sciezkimojegoswiata.com###scrollUp
 3i-store.com,antrans.com.pl,baranowscy.eu,bioevolution.com,domkorkowy.com,greenmousestudio.com,home-you.com,huaweimobileservices.com,konin24.info,krzywcza.eu,majbus.eu,mixremedia.eu,naszekielce.com,naszesprawy.eu,nieidealnaanna.com,nowosci-mp3.eu,outhorn.com,podstacja.com,polskaekologia.org,programtv.naziemna.info,savethefloppy.com,spodlady.com,stopwiatrakom.eu,szklodokuchni.com,typeofweb.com,weddingdream.com,wroescape.com###toTop
-4turbo.pl,dayupstore.pl,no10.pl,palis.pl,sklep-narzedzia.pl,sklep.platinet.pl,sorbenty.pl,sportbazar.pl###moveTop
+4turbo.pl,dayupstore.pl,klinkierbud.pl,no10.pl,palis.pl,sklep-narzedzia.pl,sklep.platinet.pl,sorbenty.pl,sportbazar.pl###moveTop
 5wszk.com.pl,brwmielec.pl,creagroup.com.pl,crmodus.pl,dietetyczne-przepisy.net,dietetyk-proporcja.pl,e-theart.pl,gchmanhattan.pl,krolismok.pl,rubbens.pl###slide_top
 24hurt.pl,haftpasja.pl,mirjan24.pl,pm-m.pl,uczyibawi.pl###wt_scroll_top
 80dni.pl###backtotop_wpv
@@ -2262,7 +2265,7 @@ agrosystems.pl##.footer-utilities-back
 airbuy.pl##.js-gotop
 akademiabudowy.pl,al.to,calypso.com.pl,dziecieceinspiracje.pl,ecbedzin.pl,emisja.tv,enut.pl,ewaszalkowska.com,gerardroofs.pl,koty24.pl,kuchniamagdaleny.pl,kuchniaviki.blogspot.com,kulinarnamaniusia.pl,ogloszeniowa.pl,ostra-na-slodko.pl,patabloguje.pl,psy24.pl,spozywo.pl,w10inspiracjidookolaswiata.pl,wieteska.net,yerbanot.com##.to-top
 akademia.nask.pl,gorzow.com,saferinternet.pl###dogory
-akariaryaca.com,domtuiteraz.eu,gettinenglish.com##.back-top
+akariaryaca.com,domtuiteraz.eu,egger.com,gettinenglish.com##.back-top
 aldi.pl##.mod-back-to-top
 alemeksyk.eu,armaturakrakowska.com,jakuby.eu,libertex.com,media-tech.eu,prawniktorun.eu###scrollToTop
 alezabawki.co,andrzejgrzyb.eu,beautikon.com,cholewinski.com,finnair.com,integracja.org,nasze.fm,oknarolety.com,pl2018.org,sklep.mptech.eu###scroll-to-top
@@ -2332,9 +2335,9 @@ bonavita.pl###ot-jumplist-control
 bonprix.pl###slide-up
 bookmaster.com.pl,centrumkurierskie.pl###utils-button-top
 bosch-extra.pl,extra-program.pl##.to-top-button
-brandsit.pl,mediarun.com,wikilistka.pl##.jscroll-to-top
+brandsit.pl,mediarun.com,petronews.pl,wikilistka.pl##.jscroll-to-top
 browserwall.com##.scroll-up-btn
-budownictwob2b.pl,budujemydom.pl,cozaile.pl,habys.pl,informatorbudownictwa.pl,oczymlekarze.pl,zielonyogrodek.pl##.return-top
+budownictwob2b.pl,budujemydom.pl,cozaile.pl,dekavit.pl,habys.pl,informatorbudownictwa.pl,oczymlekarze.pl,zielonyogrodek.pl##.return-top
 budujemywuk.co.uk,infotydzien.info,polska.travel,powiatowa.info,radioznin.fm###jm-back-top
 budujzdrewna.pl,cnc.info.pl,forum-bron.pl##.scroll-btn
 ccpartners.pl,diagnozainternetu.pl,mojlask.pl,rb.targi.pl##.top
@@ -2936,7 +2939,7 @@ archon.pl###archon-chat, .mobile-item-phone, #messenger_button
 arenadesign.pl,cavaliada.pl,fitexpo.com.pl###ssb-btn-0 > p > a[href="#kontakt"]
 artdelarte.pl###slideit
 artefakt.pl##[data-module="phone_popup"]
-audioexpert.pl,lombardwomi.pl###up_talk0
+audioexpert.pl,lombardwomi.pl,panele-sklepy.pl###up_talk0
 audiosklep.pl,delkom.pl,korzystneit.pl,shark.sklep.pl,sklep.milicon.eu###contactBox
 avans.pl##.b-reportFault
 axadirect.pl###wirtualnyDoradcaPluginHome, #zadzwonPlugin
@@ -2961,6 +2964,7 @@ born2be.pl,renee.pl##.helpButton
 bosch-extra.pl,extra-program.pl###contact-bar
 brakestock.pl###zcwMiniButton
 brandvital.eu,ciagutek.pl###callnowbutton
+brewa.pl,iautomatyka.pl###chatContentHolder
 brief.pl##.fab-desktop
 brw.pl##.brw_opineo.icon-menu
 bssztum.pl###widget_social2
@@ -3072,7 +3076,6 @@ helios.pl##.openSuggestionFormButton
 hes.pl##.indywidual-offer
 hostovita.pl##.ts-contact-livechat-info
 hpe.com###MoxieFlyoutHolder
-iautomatyka.pl###chatContentHolder
 ifon.pl##.content > a[href="/kontakt"], .phone
 ilewazy.pl##.utriggerbtn
 impel.pl###multitab_right > .multitab_box:nth-of-type(2)
@@ -3650,7 +3653,7 @@ infor.pl###prenumerata2018
 ing.pl###get_ingmobile_app_wrapper
 insomnia.pl##.ptw-articles.ptw-widget
 inspro.org.pl##.donate
-instagram.com##body > span > section > nav > div > div > section.xZ2Xk
+instagram.com###react-root > section > nav > div > div > section.xZ2Xk
 instagram.com#?##react-root > section > main + footer + div:has( > div > a[href^="https://play.google.com/store/apps/details?id=com.instagram.android"])
 instalaton.pl###pd_cs_box
 instalhurt.sklep.pl,moto125.pl,sklephormann.pl,tylkostylowe.pl###widget_shop3
@@ -3792,6 +3795,7 @@ myapple.pl###announcement
 myedenred.pl##.overtop-banner__image
 myfitnessplace.pl##.app-ico
 myspeed.pl###load.ring-loader
+m.leroymerlin.pl##.smart-app-banner
 m.trojmiasto.pl###floating_more_news[class*="--fixed"]
 m.youtube.com##.mealbar-promo-renderer
 nadmorski24.pl##.popup-see-more
@@ -3801,7 +3805,6 @@ nastopy.pl##.rightSlide
 nastopy.pl###ceneo-widget
 nastopy.pl###ri-widget
 naszemiasto.pl###magazyn-boks
-naszemiasto.pl###material-galeria-poprzednie, #material-galeria-nastepne
 natemat.pl###posts-progress
 naukajazdy-kowalik.pl##.side-tab-widget > a[href="kierowcy.html"]
 nbi.com.pl###pasek_bottom

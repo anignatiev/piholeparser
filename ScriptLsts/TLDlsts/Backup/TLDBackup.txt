@@ -48,6 +48,7 @@ ally
 alsace
 alstom
 am
+amazon
 americanexpress
 americanfamily
 amex
@@ -1665,6 +1666,7 @@ zw
 ລາວ
 გე
 みんな
+アマゾン
 クラウド
 グーグル
 コム
@@ -1678,6 +1680,7 @@ zw
 中国
 中國
 中文网
+亚马逊
 企业
 佛山
 信息
