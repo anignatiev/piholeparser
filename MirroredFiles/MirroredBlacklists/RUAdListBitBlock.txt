@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Va8E4VdoYwoTHw8324Fsxw
-! Version: 201912220020
+! Checksum: sH6qNfRsyfn0vPv1jti1AA
+! Version: 201912230020
 ! Title: RU AdList: BitBlock
-! Last modified: 22 Dec 2019 00:20 UTC
+! Last modified: 23 Dec 2019 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -508,6 +508,7 @@ pln-pskov.ru##.columns__column__social
 crashkino.net#?#.com_inform:-abp-has(> [class^="com_inform_title"]:-abp-contains(/вконтакте/i))
 amurmedia.ru,eaomedia.ru,irkutskmedia.ru,krasnodarmedia.su,krasnoyarskmedia.ru,magadanmedia.ru,primamedia.ru,sakhalinmedia.ru,sevastopolmedia.ru,ulanmedia.ru,ussurmedia.ru,yakutiamedia.ru##.comment-ss
 price.ua##.community
+all-episodes.org,all-episodes.tv##.content > .socbuttons ~ noindex
 hi-tech.ua##.content-single-part > div[style="padding-bottom: 6px;"]
 ua.news##.content-socials
 spot.uz##.contentBoxR
@@ -894,6 +895,7 @@ korrespondent.net##.unipopup
 game-pool.ru##.upnews
 prk.city##.uptolike-div
 newstube.ru##.user-enter-social
+uz.video##.uzbanner
 zserials.tv##.video_sharing
 vesti.ru##.video_top_inner
 coub.com##.viewer__sharing__items > .viewer__sharing__item:not(.viewer__sharing__copy)
@@ -981,7 +983,7 @@ kommersant.ru##a[href][title="Поделиться"]
 youla.ru##a[href][title^="Поделиться"]
 rusnext.ru##a[href^="http://www.odnoklassniki.ru/group/"]
 livecars.ru,livesport.ru##a[href^="https://share.yandex.ru/"]
-agronews.ua,animedub.ru,apostrophe.ua,app2top.ru,book-audio.com,censor.net.ua,depo.ua,game2day.ru,glavred.info,govoritmoskva.ru,livesport.ws,lrepacks.ru,maanimo.com,mk.ru,myslo.ru,overclockers.ua,pravda.com.ua,privatfinance.com,rbc.ua,rusnext.ru,segodnya.ua,softportal.com,soundpark.best,sports.kz,zrada.today##a[href^="https://t.me/"]
+agronews.ua,animedub.ru,apostrophe.ua,app2top.ru,book-audio.com,censor.net.ua,depo.ua,game2day.ru,glavred.info,govoritmoskva.ru,livesport.ws,lrepacks.ru,maanimo.com,mk.ru,myslo.ru,overclockers.ua,pravda.com.ua,privatfinance.com,rbc.ua,rusnext.ru,segodnya.ua,softportal.com,soundpark.best,sports.kz,uz.video,zrada.today##a[href^="https://t.me/"]
 66.ru,tproger.ru##a[href^="tg://resolve"]
 toptracker.ru##a[onclick^="content_share"]
 qiq.ws##a[onclick^="return addSoc"]
@@ -2400,6 +2402,7 @@ russian.rt.com##.follows-channel
 fedpress.ru##.follows-channel_yandexnews
 hellomagazine.com##.footer
 benzclub.ru##.footer .imageText
+uz.video##.footer-container #blink7
 domato.ru##.footer-content > div[style^="position: fixed;"]
 kufar.by##.footer__scroll
 yodnews.ru##.footer_panel_links
@@ -7921,6 +7924,7 @@ _youtube_social_
 ###popup-social
 ###popupFbLikeBox
 ###popup_social
+###post-footer-share
 ###post-share
 ###post-share-bottom
 ###post-share-buttons
@@ -19924,6 +19928,7 @@ _youtube_social_
 ! Push Notifications
 -push-notification.
 -push-notification/
+-push-notifications/
 /amp-user-notification-
 /av/push-
 /build/push.js
@@ -19939,6 +19944,7 @@ _youtube_social_
 /notifyme.js
 /notifyme.min.js
 /one-signal.
+/onesignal-free-
 /onesignal-modal.
 /onesignal.js
 /onesignal.min.
@@ -21279,6 +21285,7 @@ _backToTop.
 ###m-inline-newsletter
 ###macro-leadership-newsletter-signup
 ###mailchimp-top-bar
+###mailing-list-popup
 ###mailing-list-signup
 ###mailingListSignup
 ###maitre-widget-container
@@ -24897,7 +24904,7 @@ autokult.pl,channelnewsasia.com,fotoblogia.pl,imgur.com,komorkomania.pl#@#.share
 channelnewsasia.com,recite.com#@#.share-list
 disqus.com,disroot.org,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk,livelib.ru,tumblr.com#@#.share-menu
 flickr.com,fxhome.com#@#.share-options
-dropbox.com,ge.tt,recite.com#@#.share-page
+dropbox.com,ge.tt,gfycat.com,recite.com#@#.share-page
 flickr.com,imgur.com,tobii.com,youtube.com#@#.share-panel
 mediafire.com#@#.share-popup
 simpletax.ca#@#.share-section
