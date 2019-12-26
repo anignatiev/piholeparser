@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10465
+! Version: 10479
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -14,6 +14,7 @@
 ||aahfcroigwso.com^
 ||aaitudxr.com^
 ||aajychvi.bid^
+||aallycspkdf.com^
 ||aanvxbvkdxph.com^
 ||aaomstbnbiqo.com^
 ||aapxtnrhq.bid^
@@ -869,6 +870,7 @@
 ||bvwkethv.com^
 ||bvwzffbinbou.com^
 ||bvyoekxfjwpa.com^
+||bvzdfhpyz.com^
 ||bvzhalhubwkbg.bid^
 ||bvzjhnqrypiv.com^
 ||bwbbcdkkocx.bid^
@@ -1152,6 +1154,7 @@
 ||cmdjujqlfbts.com^
 ||cmdnzbuynnm.com^
 ||cmdotgwjhpqf.com^
+||cmelqqmywpmf.com^
 ||cmhomlaipa.com^
 ||cmhwwdwfiyx.com^
 ||cmjjzwddw.com^
@@ -2745,6 +2748,7 @@
 ||fxpqoyxlas.com^
 ||fxsbodcjjmofm.bid^
 ||fxteikyi.bid^
+||fxtrqanyko.com^
 ||fxvbsnwnwoib.com^
 ||fxwkhwcmsqne.com^
 ||fxwpmfdapcalu.com^
@@ -2859,6 +2863,7 @@
 ||gfrlmvxfsvl.com^
 ||gfuhjlpnuj.com^
 ||gfyrxikptop.com^
+||gfzluvsjsprkac.com^
 ||ggagqobykjh.com^
 ||ggbfbseakyqv.com^
 ||ggezvffghs.com^
@@ -3018,6 +3023,7 @@
 ||gopamdzgpdrwe.bid^
 ||gosrjadsh.com^
 ||gosvhpsc.com^
+||gotrlayh.com^
 ||gouowkjmewn.com^
 ||gouytrujxuhkzk.bid^
 ||gozfsvoqn.com^
@@ -3120,6 +3126,7 @@
 ||gtvnygwfzrhfti.com^
 ||gtxfafvoohbc.com^
 ||gtzyfaro.bid^
+||guamokqekridi.com^
 ||gubdadtxwqow.com^
 ||gubisowidb.com^
 ||gudlhvxz.com^
@@ -3167,6 +3174,7 @@
 ||gwovohvkzay.com^
 ||gwqkliacsn.bid^
 ||gwquuagkjxbq.com^
+||gwwzlwibbws.com^
 ||gwxaulcgmizcq.com^
 ||gwywsuemmf.com^
 ||gxdyluyqciac.com^
@@ -3785,6 +3793,7 @@
 ||ifhxmaazmylfx.com^
 ||iflndvke.com^
 ||ifmobkrjonnm.com^
+||ifnwfachxk.com^
 ||ifofucuvklrnfw.com^
 ||ifoldmuxqjeddk.com^
 ||ifqzzgwrra.com^
@@ -5074,6 +5083,7 @@
 ||kxujlopfsmttyc.com^
 ||kxwkbkfespyh.com^
 ||kxwuskjg.bid^
+||kxxjainwdsn.com^
 ||kxyevjvmalerq.bid^
 ||kxzmmtdx.com^
 ||kyauukea.com^
@@ -6526,6 +6536,7 @@
 ||oaqwxxjhwpyxjd.com^
 ||oarqgvtkco.com^
 ||oartozvwzv.com^
+||oatvyenmekc.com^
 ||oaxwtgfhsxod.com^
 ||oazbtactg.com^
 ||oazznjmbchmpdg.com^
@@ -6660,6 +6671,7 @@
 ||ohszjtbehoo.com^
 ||ohwlwlus.com^
 ||ohzczsyjadw.com^
+||ohznypoh.com^
 ||oiahzjhwpsokt.com^
 ||oicbwkyjsyxjgj.bid^
 ||oickwqmwerbnq.bid^
@@ -6746,6 +6758,7 @@
 ||omwclrjuqilt.bid^
 ||omwcywwzun.com^
 ||omzieezywqnyxl.com^
+||onfericaq.com^
 ||ongkidcasarv.com^
 ||onhxejzm.bid^
 ||onjqfyuxprnq.com^
@@ -9893,6 +9906,7 @@
 ||wyycgfyum.com^
 ||wyyrjymqewhulr.com^
 ||wzcipjcjm.com^
+||wzdpoitbmau.com^
 ||wzdrtzvp.com^
 ||wzfoygianhe.com^
 ||wzghuwvuyxknpv.com^
