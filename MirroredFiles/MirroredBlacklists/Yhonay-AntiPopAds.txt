@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10479
+! Version: 10489
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1524,6 +1524,7 @@
 ||dgowzelhoaqqb.com^
 ||dgqktjmxtlp.com^
 ||dgrvnlhz.com^
+||dgtmyxfuzwtr.com^
 ||dgtnoyoud.com^
 ||dgucunmuibx.com^
 ||dgufzszbsk.bid^
@@ -4914,6 +4915,7 @@
 ||kpsdnlprwclz.com^
 ||kpucctqryjdvx.bid^
 ||kpwhkeehpsp.bid^
+||kpwjczeaajnhsc.com^
 ||kpwjtpgvowifq.com^
 ||kpzsyqhje.com^
 ||kpzvcvclybfa.com^
@@ -5264,6 +5266,7 @@
 ||lhytmylpwfzuzm.com^
 ||liadlzantv.com^
 ||liakiadlbs.com^
+||libxkvpwsdvplj.com^
 ||licoxbkagivaf.bid^
 ||liesiotlpfvjm.com^
 ||ligabklr.com^
@@ -6258,6 +6261,7 @@
 ||nksfmnvmngxzr.bid^
 ||nkxdyorwbt.com^
 ||nkyafqufx.com^
+||nlbnegea.com^
 ||nlcfowfz.com^
 ||nlcriuncacyys.com^
 ||nlduyricoemfc.bid^
@@ -9277,6 +9281,7 @@
 ||udbtmvuoncdtrg.com^
 ||udbwpgvnalth.com^
 ||udcufwvt.com^
+||udmdtdjna.com^
 ||udrwyjpwjfeg.com^
 ||udvxwimgqr.com^
 ||udvysuucqgadg.com^
@@ -9640,6 +9645,7 @@
 ||vmvuptdijjwi.com^
 ||vmyvsltb.com^
 ||vmyzwzgggbcp.com^
+||vndgfycu.com^
 ||vndrcewnard.com^
 ||vngztuqon.com^
 ||vnjeqfwmotkvbg.com^
@@ -9651,6 +9657,7 @@
 ||voqdswwgrheo.com^
 ||voqkuiowjtkwgc.com^
 ||vouzgwau.com^
+||vowqesvqjwxc.com^
 ||voxnrvzwy.com^
 ||vpfadnueru.com^
 ||vpgwdlayctn.com^
@@ -9874,6 +9881,7 @@
 ||wuaefxberbqcv.com^
 ||wubdkryfkr.com^
 ||wucbuvitibyiy.com^
+||wufcygryt.com^
 ||wusxwgotv.com^
 ||wutzpotztbri.com^
 ||wuuyczqcgm.com^
@@ -9952,6 +9960,7 @@
 ||xdjefibopixf.com^
 ||xdlmsvhhsvsp.com^
 ||xdltrwavzxn.com^
+||xdnpghwspxnift.com^
 ||xdqjeggqm.com^
 ||xdqodcrayeat.com^
 ||xdsydkgkbvwq.com^
@@ -10101,6 +10110,7 @@
 ||xzwynraczfcq.com^
 ||xzywlbgldmpi.com^
 ||yaaqsdteo.com^
+||yadyiymarz.com^
 ||yagcaumz.com^
 ||yahbdmyvvmjh.com^
 ||yanskweqyuma.com^
