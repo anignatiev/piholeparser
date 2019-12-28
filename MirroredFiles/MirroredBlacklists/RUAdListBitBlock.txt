@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ClEmYTMT8UibhR7uIu2ehQ
-! Version: 201912270030
+! Checksum: Yk5u049n9czHJ38BsC9YaQ
+! Version: 201912280020
 ! Title: RU AdList: BitBlock
-! Last modified: 27 Dec 2019 00:30 UTC
+! Last modified: 28 Dec 2019 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -56,7 +56,7 @@
 /share32.
 /share42-
 /share42/*
-/social-likes.$domain=~animalreader.ru|~animego.org|~bigcinemahd.net|~catalog.onliner.by|~cutur.ru|~films-2019.club|~inosmi.ru|~kinomore.xyz|~kinomovi.xyz|~kinoo2019.ru|~kinozubr.net|~loungefilm.club|~m24.ru|~megapolisonline.ru|~miuipro.info|~mobnovelty.ru|~netsofta.net|~postila.ru|~sport28.net|~topfile.tj|~vipkinoman.net|~westernfilm.ru|~wfilm.club
+/social-likes.$domain=~animalreader.ru|~animego.org|~bigcinemahd.net|~catalog.onliner.by|~cutur.ru|~films-2019.club|~inosmi.ru|~kinomore.xyz|~kinomovi.xyz|~kinoo2019.ru|~kinozubr.net|~loungefilm.club|~m24.ru|~megapolisonline.ru|~miuipro.info|~mobnovelty.ru|~netsofta.net|~postila.ru|~sport28.net|~topfile.tj|~tv-show.live|~vipkinoman.net|~westernfilm.ru|~wfilm.club
 /social-likes/*
 /sprite4-a67f741843ffc4220554c34bd01bb0bb.png
 /vkontakte_icon_
@@ -526,6 +526,7 @@ google.com##.entry-actions > .email
 google.com##.entry-actions > .like
 google.com##.entry-author > .entry-likers
 takprosto.cc##.essbis > :not(img)
+1tv.ru##.eump-share-social-items
 kp.by,kp.ru##.externalBlock > .left > span.title
 navitel.su##.extra_append:last-child
 sports.kz##.f-social-div
@@ -612,6 +613,7 @@ championat.ru##.livejournal
 livejournal.com##.lj-like-item:not(.lj-like-item-repost)
 litlib.net##.lk-share
 bigbangtv.space##.logo > table
+americanvandal.ru##.logo td.logo
 arigus.tv##.m_soc
 obozrevatel.com##.main-grid > .main-grid__wrap:empty
 obozrevatel.com##.main-grid__subscribe
@@ -633,6 +635,7 @@ minfin.com.ua##.mfz-social-footer-btns
 politexpert.net##.more_in_telegramm
 mastergrad.com##.msw-social
 megapesni.me##.music-like-social
+ru-drivemusic.net##.music-song-soc
 stranamam.ru##.n-main-socnet
 nabat.news##.nabatsocial
 tvzvezda.ru##.nametitle td > a[href^="http"]
@@ -715,7 +718,7 @@ delfi.ua##.sbookmarks
 vo-dela.su##.scrolled > .widget_html_block
 online-mult.net##.sh_pt
 zi.dn.ua##.shar-title
-1743.ru,amurmedia.ru,bibliofond.ru,brovary.net.ua,businessman.ru,eaomedia.ru,glavcom.ua,govoritmoskva.ru,gts.tv,hdkinoteatr.com,irkutskmedia.ru,krasnodarmedia.su,krasnoyarskmedia.ru,magadanmedia.ru,native-english.ru,ntsk.ru,orki.ru,orsk.ru,overclockers.ua,pkzsk.info,primamedia.ru,ria.ru,rusonline.org,sakhalinmedia.ru,sevastopolmedia.ru,sverhestestvennoe.club,syl.ru,tele.ru,ua-football.com,ulanmedia.ru,ussurmedia.ru,vgtimes.ru,voxpopuli.kz,yakutiamedia.ru##.share
+1743.ru,amurmedia.ru,bibliofond.ru,brovary.net.ua,businessman.ru,eaomedia.ru,glavcom.ua,govoritmoskva.ru,gts.tv,hdkinoteatr.com,irkutskmedia.ru,krasnodarmedia.su,krasnoyarskmedia.ru,magadanmedia.ru,native-english.ru,ntsk.ru,orki.ru,orsk.ru,overclockers.ua,pkzsk.info,primamedia.ru,ria.ru,rusonline.org,sakhalinmedia.ru,sevastopolmedia.ru,sverhestestvennoe.club,syl.ru,tele.ru,tet.tv,ua-football.com,ulanmedia.ru,ussurmedia.ru,vgtimes.ru,voxpopuli.kz,yakutiamedia.ru##.share
 my.kaspersky.com##.share > :not(.share-link)
 liwihelp.com##.share > a[onclick*="sharer"]
 cross.expert##.share-auth
@@ -2278,6 +2281,7 @@ news.nur.kz##.aside > .animated
 sports.ru#?#.aside-news-list__item:-abp-has(a[href^="https://trbna.co/"])
 lamoda.ru##.auth-social__item_ml
 sputnik.ru##.b-cover__box > .b-panel
+bigmir.net##.b-disclaimer
 livejournal.com##.b-discoverytimes-wrapper
 livejournal.com##.b-fader
 rg.ru##.b-favourites-sources
@@ -2376,7 +2380,7 @@ doefiratv.net##.d_news_notif_block
 obrkarta.ru##.data-banner > #vk
 fb.ru##.deed.is-opened
 drive.ru##.desktop-bottom-advert + .hr
-toster.ru##.dfp_label
+qna.habr.com##.dfp_label
 dressupmix.ru,teensgames.ru##.dialog-wrapper
 vse.fm#?#.dialogClass:-abp-has(*:-abp-contains(/donate/i))
 soccer.ru##.disabled-block
@@ -19949,6 +19953,7 @@ _youtube_social_
 /myPushDc.
 /notification-ext.
 /notification-prod-sw.js
+/notification/notify.js
 /notifications_lazy.
 /notifyme.js
 /notifyme.min.js
