@@ -1,7 +1,13 @@
 [Blocklist]
+!
+! ACHTUNG
+! WARNING
+! Liste wird im Juni 2020 deaktiviert
+! List will be deactivated in June 2020
+!
 ! Title: kowabit.de - bl*cklist of death
-! Version: 28122017
-! Last Modified: 29 Dec 2017 00:00 UTC
+! Version: 14102019
+! Last Modified: 14 Okt 2019 00:00 UTC
 ! Expires: 1 days
 ! Licence: Public Domain
 ! Homepage: https://blocklist.kowabit.de/list.txt
@@ -1552,6 +1558,7 @@ adremote.timeinc.net
 adreporting.com
 adrequisitor-af.lp.uol.com.br
 adrewards.com
+adrise.tv
 adriver.ru
 adro.hit.gemius.pl
 adroar.com
@@ -8281,6 +8288,7 @@ fodder.tc.qq.com
 folkd.put.omnimon.de
 following-technology.com
 folloyu.com
+folmaxx.top
 food-drink-bonuspath.com
 food-drink-rewardpath.com
 foodmixeroffer.com
@@ -8764,7 +8772,6 @@ getcake.com
 getcarisoprodol.polybuild.ru
 getclicky.com
 getdetails02.sim-technik.de
-getdigital.de
 getiton.com
 getloan.com
 getmailcounter.com
@@ -11743,6 +11750,7 @@ mojofarm.mediaplex.com
 mola77.mobilenobo.com
 mom.freelogs.com
 mommyish.us.intellitxt.com
+monarchads.com
 mondoads.s3.amazonaws.com
 moneybot.net
 moneyh.wemfbox.ch
@@ -12363,6 +12371,7 @@ nugg.ad
 nuggad.net
 nuggad.nuggad.net
 nutten-verzeichnis.cxa.de
+nuxues.com
 nv1.ad.naver.com
 nv2.ad.naver.com
 nv3.ad.naver.com
@@ -13174,11 +13183,9 @@ oyunstar.com
 oz.valueclick.com
 oz.valueclick.ne.jp
 ozertesa.com
-! Update 20180130
 pabionak.net
 putlowna.de
 putlowna.de
-! Update 20180130
 p.ace.advertising.com
 p.addthis.com
 p.adframesrc.com
@@ -14593,11 +14600,9 @@ rx8club.us.intellitxt.com
 rya.rockyou.com
 rydium.us.intellitxt.com
 ryf3hgf.info
-! Update 20180130
 seicro.com
 servote.de
 skilyake.net
-! Update 20180130
 s.206ads.com
 s.206solutions.com
 s.adexpert.cz
@@ -17724,6 +17729,7 @@ vu.adschoom.com
 vu.veoxa.com
 vug.in
 vulcannonibird.de
+vungle.com
 vuokraovi.spring-tns.net
 vw.btrll.com
 vw.netmng.com
@@ -20750,7 +20756,6 @@ yoursmartrewards.com
 yoursoftwareplace.com
 yourstats.net
 yourtango.us.intellitxt.com
-youtube-nocookie.com
 yrkdsp.112.2o7.net
 yrtas.btrll.com
 yrwap.cn

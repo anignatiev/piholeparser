@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4QZkd0NXW6M6au/lF+9UwQ
-! Version: 201912290020
+! Checksum: 7LFDoBOHecOKQq32NZopjA
+! Version: 201912300020
 ! Title: RU AdList: BitBlock
-! Last modified: 29 Dec 2019 00:20 UTC
+! Last modified: 30 Dec 2019 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1008,6 +1008,7 @@ opennet.ru##aside > form > .ttxt > tbody > tr:last-child
 gta.com.ua#?#b:-abp-contains(Поделиться:)
 aimp.ru#?#b:-abp-contains(Присоединяйтесь к нам)
 exzerry.com##body > #links > div[align="center"]
+dachnye-sovety.ru#?#center:-abp-has(> .uptolike-buttons)
 syzran-small.ru,xn----7sbabwosghnf8al4lkj7b.xn--p1ai,маленькая-сызрань.рф#?#center:-abp-has(> .ya-share2)
 rublacklist.net##div[class$="right_social_links_item"] > a[href][target="_blank"]
 matchtv.ru##div[class*="WidgetArticle__share"]
@@ -1039,6 +1040,7 @@ newsmsk.com##div[style="height: 120px; width: 240px;"]
 ura.ru##div[style="margin:24px 10px -10px;"]
 povarenok.ru##div[style^="background:url(/i/okbg.jpg)"]
 povarenok.ru##div[style^="background:url(/i/vkbg.gif)"]
+kg-portal.ru#?#div[style^="font-size:"]:-abp-contains(Поделиться:)
 ctv7.ru##footer .btn_soc
 vse42.ru#?#h3:-abp-contains(Мы в соцсетях)
 mignews.com,mignews.ru#?#h5:-abp-contains(Мы на Facebook)
@@ -2336,6 +2338,7 @@ bobfilm.club,kinoangel.club##.btn_rec
 kinotochka.club,kinotochka.me##.btn_reg
 pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net##.bypass-alert
 allboxing.ru##.c-box-toppest
+drive2.ru##.c-cotd__newyear
 kanobu.ru##.c-informer
 kanobu.ru##.c-moneyPlace
 ria.com##.c-notifier-container
@@ -25196,7 +25199,7 @@ discourse.org,github.com,github.io,megabus.com#@#img[alt="twitter"]
 allestörungen.de,github.com,github.io,keepa.com,marketplace.firefox.com,vvhp.net#@#img[title="Facebook"]
 allestörungen.de,github.com,github.io,whatismyip.com#@#img[title="LinkedIn"]
 allestörungen.de,fark.com,github.com,github.io,keepa.com,marketplace.firefox.com,vvhp.net#@#img[title="Twitter"]
-fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouTube"]
+fark.com,github.com,github.io,justwatch.com,marketplace.firefox.com,vvhp.net#@#img[title="YouTube"]
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_whitelist.txt ***
 @@/angular-facebook.js
 @@/followbutton.js$domain=instagram.com
@@ -25522,7 +25525,6 @@ fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouT
 @@||jrjimg.cn/js.do?f=/share/js/
 @@||jsfiddle.net^$generichide
 @@||junglevibe2.net/min/?$script
-@@||justwatch.com^$generichide
 @@||kcrw.com^*/images/social-icons-$image,domain=kcrw.com
 @@||keepa.com/img/social/Google.svg
 @@||koszykowkanawozkach.pl^*/Header-facebook.jpg

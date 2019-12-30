@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10499
+! Version: 10505
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1730,6 +1730,7 @@
 ||dsdiztki.bid^
 ||dsemgngou.com^
 ||dsevjzklcjjb.com^
+||dsfohqgkydgn.com^
 ||dsgjefwejkc.com^
 ||dsibzjqbtkjqd.bid^
 ||dskiepocq.bid^
@@ -3788,6 +3789,7 @@
 ||ieuezabolxphga.com^
 ||iewsaprgerkjny.com^
 ||ifbhceoxx.com^
+||ifbubmsr.com^
 ||ifbwyogrfjo.com^
 ||ifdmdfqysaacqa.com^
 ||ifecuwzjajkiq.com^
@@ -4233,6 +4235,7 @@
 ||jdouzzxkyukv.com^
 ||jdpqtgvzsoy.com^
 ||jdrckkbpb.com^
+||jdrftaau.com^
 ||jdrlnicvn.com^
 ||jdskyjntuhea.com^
 ||jdtufqcyumvb.com^
@@ -6095,6 +6098,7 @@
 ||mzzouiciajems.com^
 ||naaifqdqsnxtsp.com^
 ||naavxddd.com^
+||nafgiaui.com^
 ||nahixtmnmpcz.com^
 ||nahpewniig.com^
 ||nahvyfyfpffm.com^
@@ -8617,6 +8621,7 @@
 ||srgszwexkpehb.com^
 ||srhovuokux.com^
 ||srizwhcdjruf.com^
+||srjbxbkwn.com^
 ||srkdunvxun.com^
 ||srksyzqzcetq.com^
 ||srlmbvfmvl.com^
@@ -9658,6 +9663,7 @@
 ||vnlqgiuul.com^
 ||vnrapyiaxxj.com^
 ||vntcxqxuqki.com^
+||vnwqrcvud.com^
 ||voaalhaobdl.com^
 ||vodbordnhhemq.com^
 ||voqdswwgrheo.com^
