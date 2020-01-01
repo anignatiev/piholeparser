@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: YSno2X+9Fk4XDisPUOhWTw
+! Checksum: wRH2jMvcCCeYbgDfbbJwww
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Wed, 25 Dec 2019, 19:01 UTC+01
-! Version: 2019.12.25.1
+! Last modified: Tue, 31 Dec 2019, 23:00 UTC+01
+! Version: 2019.12.31.1
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2019 Polish Filters Team
-! Aktualizacja: śro, 25 gru 2019, 19:01 UTC+01
+! Aktualizacja: wto, 31 gru 2019, 23:00 UTC+01
 !
 !
 ! Newslettery (nie popupy)
@@ -1145,6 +1145,7 @@ vobis.pl##.b-newsletter
 vox.pl##.footcol5.onecol.col-md-2
 vuch.pl##footer > .row > .nl-column.large-3.medium-6.xsmall-12.columns
 wakacje-hiszpania.pl###newsletterteaser
+wakacje.pl##footer > form[action="https://www.wakacje.pl/newsletter.html"]
 wakacje.pl##[data-area="newsletter"]
 waldtour.pl##.mailpoet-newsletter
 wasserman.eu#?#footer[class]:not([id]) + div[class]:not([id]):-abp-contains(Promocje, nowości)
@@ -1921,7 +1922,7 @@ vissavi.pl##.newsletter-outer-wrap, .fancybox-overlay
 vivrehome.pl##.vv_loader-wrapper.js-loader
 vpnmentor.com##.share-blog-modal
 wakacjezprocentem.pl##.playfair
-wakacje.pl##.curtainFull, #newsletterLb
+wakacje.pl##.curtainFull, #newsletterLb, .exitPopup
 wakacyjnapolisa.pl##.wakacyjna-underlay, #ouibounce-modal
 walutomat.pl##.wt-response-modal
 wearmedicine.com#?##cboxLoadedContent:-abp-has(#nlPopup)
@@ -2210,7 +2211,7 @@ pl###pushwoosh-pop
 !
 !
 ! Scrollujące filmiki
-abczdrowie.pl,autokult.pl,dobreprogramy.pl,fotoblogia.pl,gadzetomania.pl,komorkomania.pl,money.pl,o2.pl,parenting.pl,pudelek.pl,wp.pl,~www.wp.pl###Player0.floating
+abczdrowie.pl,autokult.pl,dobreprogramy.pl,fotoblogia.pl,gadzetomania.pl,komorkomania.pl,money.pl,o2.pl,parenting.pl,pudelek.pl,wp.pl,~www.wp.pl##.floating[id^="Player"]
 auto-swiat.pl,businessinsider.com.pl,fakt.pl,komputerswiat.pl,onet.pl,plejada.pl,~www.onet.pl##.player-floating, .player-move-up
 gry.pl,waznygry.pl##.wt-notification-container, #veediWTbtn
 interia.pl,interia.tv,pomponik.pl,styl.pl##.floating-player-started > .xlink-floating-wsx
@@ -2554,6 +2555,7 @@ marbo-sport.pl##.upArrow
 marenaspa.pl###desktop-bottom-bar-arrow
 marketing.org.pl###nav_down, #nav_up
 matfiz24.pl##a[href="#header"]
+maxcom.pl###miniMenuScroll
 maxelektro.pl###button-to-top
 mbank.pl##.at-top.button-top
 mediaexpert.pl###go_top
@@ -3271,7 +3273,7 @@ viralka.pl##.widget_boombox_social
 virustotal.com##.blue.action-button[role="button"]
 vitay.pl###serviceRatingBox
 vitopolska.com##a.c-fixed-buttons__button:nth-of-type(-n+2)
-wakacje.pl##div[class][style^="position: fixed;"] > div[class][title="Zgłoś uwagi do strony"]
+wakacje.pl###rightTabs > .rightSpeech
 warsawdowntown.pl##iframe[name="ca-review-widget"]
 wienerberger.pl##.social-sharing-overlay > .list-unstyled
 wiked.pl##div[id^="menuboczne"]:nth-of-type(8)
@@ -4033,7 +4035,7 @@ vod.tvp.pl###plywaczek
 vox.pl###fiszka
 vox.pl##.nearplace-frame
 vwpoznan.pl,vwuzytkowepoznan.pl##.popup_widget, .widget_right
-wakacje.pl##div[class][style^="position: fixed;"] > div[class][title="Schowek ofert"]
+wakacje.pl###rightTabs > .rightClipboard
 wakai.pl###sod-drawer-handle
 wanika.pl###cloudBox
 wasserman.eu##.jss372
@@ -4155,8 +4157,8 @@ polishannoyancefilters.netlify.com###pafdetect
 !@ Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
 !@ Collaborators: MajkiIT, F4z, xxcriticxx, blocker999, hawkeye116477, krystian3w
 !@ Homepage: https://www.certyficate.it/
-!@ Version: 2019.12.25.0
-!@ Last modified: Wed, 25 Dec 2019, 02:14 UTC+01
+!@ Version: 2019.12.28.1
+!@ Last modified: Sat, 28 Dec 2019, 04:57 UTC+01
 !@ Expires: 2 days
 !@ Support:
 !@   Email => errors@certyficate.it
@@ -4167,7 +4169,7 @@ polishannoyancefilters.netlify.com###pafdetect
 !@ License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0)
 !@ Copyright © 2019 Certyficate IT & Polish Filters Team
 !@ Najnowsza wersja zawsze na: https://www.certyficate.it/adblock/
-!@ v.2019.12.25.0 aktualizacja: śro, 25 gru 2019, 02:14 UTC+01
+!@ v.2019.12.28.1 aktualizacja: sob, 28 gru 2019, 04:57 UTC+01
 !@
 !@
 !@ Specyficzne reguły ukrywające

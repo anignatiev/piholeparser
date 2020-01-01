@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10505
+! Version: 10514
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -264,6 +264,7 @@
 ||anmvuuhgo.com^
 ||anogjkubvdfe.com^
 ||anoufpjmkled.com^
+||anovbqzmit.com^
 ||anpwsppugpu.com^
 ||anqnimezkdjm.com^
 ||anvagsqctxsaz.bid^
@@ -1644,6 +1645,7 @@
 ||dnftqfwycmfqrs.com^
 ||dngsuhxuzb.com^
 ||dnjxoflvkvec.com^
+||dnkwgzmuxv.com^
 ||dnntgcfejsg.bid^
 ||dnoucjqzsasm.com^
 ||dnpehliwdvjkp.com^
@@ -3093,6 +3095,7 @@
 ||grubpbrmek.com^
 ||grvoflsctenq.bid^
 ||grxpaizsvdzw.com^
+||grxzcfdcxu.com^
 ||gsdolqvdjr.com^
 ||gsdsccoo.com^
 ||gsezbakx.com^
@@ -6986,6 +6989,7 @@
 ||pbhletstiooizj.com^
 ||pbixcuapo.com^
 ||pbjnssfvatrhc.com^
+||pbkhlczs.com^
 ||pbnusnsr.com^
 ||pbofytmakvye.com^
 ||pbpdgojwzfdc.com^
@@ -7751,6 +7755,7 @@
 ||qsgiqllpfthg.com^
 ||qsgsfnixw.com^
 ||qshsaocjet.com^
+||qskmkllcnoku.com^
 ||qsknevegg.bid^
 ||qsksdpoi.com^
 ||qsnzncerqgack.com^
@@ -7794,6 +7799,7 @@
 ||qupycbhfvqtj.bid^
 ||quqyiobevrc.com^
 ||qurhdjkms.com^
+||quxveblgxgsi.com^
 ||quyxxofx.com^
 ||qveoxhidesgy.bid^
 ||qveuxmbhbhmg.com^
@@ -9894,6 +9900,7 @@
 ||wubdkryfkr.com^
 ||wucbuvitibyiy.com^
 ||wufcygryt.com^
+||wugwwssgjcn.com^
 ||wusxwgotv.com^
 ||wutzpotztbri.com^
 ||wuuyczqcgm.com^
@@ -9905,6 +9912,7 @@
 ||wvrmnqgmemkw.com^
 ||wvrntfonizbxn.com^
 ||wvvftburvtyz.com^
+||wvwgfecqswm.com^
 ||wwbzfppvhiebl.com^
 ||wwmcuhvqaf.com^
 ||wwmhlrpris.com^
@@ -10071,6 +10079,7 @@
 ||xrvyetdriwzp.com^
 ||xsgcobwd.com^
 ||xsgpzbipelo.com^
+||xsipbwtb.com^
 ||xskbsyssik.com^
 ||xsmafckigsdnij.com^
 ||xsmangbomdick.com^

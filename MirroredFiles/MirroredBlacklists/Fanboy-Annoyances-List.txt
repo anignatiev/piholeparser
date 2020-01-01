@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sUFRbVSCVjlD185iQPYJMg
-! Version: 201912230021
+! Checksum: MA/1kIv/ZGlVEeBJHpw/Mw
+! Version: 202001010021
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Dec 2019 00:21 UTC
+! Last modified: 01 Jan 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -173,8 +173,10 @@
 /ilabspush.
 /mp-web-notification.
 /multi-desktop-notification.
+/myPushDc.
 /notification-ext.
 /notification-prod-sw.js
+/notification/notify.js
 /notifications_lazy.
 /notifyme.js
 /notifyme.min.js
@@ -1327,6 +1329,7 @@ _backToTop.
 /facebook_64px_
 /facebook_badge-
 /facebook_badge.
+/facebook_boton.
 /facebook_button
 /facebook_button.
 /facebook_circle-
@@ -4224,6 +4227,7 @@ _youtube_social_
 /cookies-policy-
 /cookies-policy.
 /cookies-policy/*
+/cookies-popup.
 /cookies-requirement.
 /cookies-requirement/*
 /cookies-window.js
@@ -5847,6 +5851,7 @@ _site_cookie_
 ##.NewsletterSignupBlock
 ##.NewsletterSignupInset
 ##.NewsletterSubscription
+##.Newsletter_container
 ##.RailCtaNewsletterWrap
 ##.Sailthru_Subscribe
 ##.SignUpSlider
@@ -6790,6 +6795,7 @@ _site_cookie_
 ##.sp-incitation-inscription
 ##.ssb-subscribe-box
 ##.sticky-signup
+##.stickyFooterSubscribe
 ##.stickyNewsletterBar
 ##.sticky_newsletter
 ##.story-follow-module
@@ -6844,6 +6850,7 @@ _site_cookie_
 ##.subscribeModal
 ##.subscribeNewsletter
 ##.subscribePopup
+##.subscribeWidget
 ##.subscribeWidgetContainer
 ##.subscribe__header
 ##.subscribe__title
@@ -7973,6 +7980,7 @@ _site_cookie_
 ##a[href="javascript:GoToTop();"]
 ##a[onclick="go_on_top();"]
 ##a[onclick="scroll2Top()"]
+##a[onclick^="widow.scrollTo"]
 ##a[title="Back To Top"]
 ##a[title="Back to the Top"]
 ##a[title="Back to top of page"]
@@ -17839,6 +17847,7 @@ _site_cookie_
 ##.social-buttons-twitter
 ##.social-buttons-v2
 ##.social-buttons-vertical
+##.social-buttons1
 ##.social-buttons__item
 ##.social-buttons__list
 ##.social-buttons__list--icon
@@ -23789,6 +23798,7 @@ _site_cookie_
 ###cookies-auth
 ###cookies-aviso
 ###cookies-banner
+###cookies-banner-block
 ###cookies-bar
 ###cookies-bar-en
 ###cookies-bar-etro
@@ -24006,6 +24016,7 @@ _site_cookie_
 ###cookiesLaw
 ###cookiesLayer
 ###cookiesLayoutModule
+###cookiesLegacy
 ###cookiesLegal
 ###cookiesLegalMessage
 ###cookiesLequipe
@@ -24432,6 +24443,7 @@ _site_cookie_
 ###data-privacy-bar
 ###data-protection-banner
 ###data-protection-notification
+###data-protection-overlay
 ###data-protection-regulation
 ###data-store-permission-popup
 ###dataPrivacyDialog
@@ -26929,6 +26941,7 @@ _site_cookie_
 ##.Cookie__banner
 ##.Cookie_bar
 ##.Cookie_modal
+##.cookie_policy_outer
 ##.Cookiebar
 ##.Cookiebar_header_26n
 ##.Cookies-notification
@@ -26995,6 +27008,7 @@ _site_cookie_
 ##.NotificationCookies
 ##.O-CookieLaw
 ##.ObsCnilWarning
+##.PPolicyDisclaimer
 ##.Page-cookies
 ##.PartialCookieCompliance
 ##.PartialCookieCompliance-hp
@@ -27065,6 +27079,7 @@ _site_cookie_
 ##.accept-cookies-wrapper
 ##.accept-cookies:not(html)
 ##.accept-my-cookie
+##.accept-privacypolicy
 ##.acceptCookie
 ##.acceptCookieBar
 ##.acceptCookieButton
@@ -27738,6 +27753,7 @@ _site_cookie_
 ##.components-cookie-law-basic
 ##.cond_utilis_cookie
 ##.confidentialite_header
+##.confirm-cookie:not(html):not(body)
 ##.confirm_cookies_box
 ##.connect-cookie-bar
 ##.consent-banner
@@ -29017,7 +29033,6 @@ _site_cookie_
 ##.cookies-open:not(body)
 ##.cookies-overlay
 ##.cookies-panel
-##.cookies-policy
 ##.cookies-policy-alert
 ##.cookies-policy-banner
 ##.cookies-policy-container
@@ -29025,6 +29040,7 @@ _site_cookie_
 ##.cookies-policy-message
 ##.cookies-policy-popover-container
 ##.cookies-policy-popup
+##.cookies-policy:not(body):not(html)
 ##.cookies-politic
 ##.cookies-popin
 ##.cookies-popup
@@ -30908,6 +30924,7 @@ _site_cookie_
 ##.pum[data-popmake*="gdpr"]
 ##.puppet-cookie-banner
 ##.pure-cookies-notice-wrapper
+##.push-cnil
 ##.puu-cookie
 ##.pw-cookie-window
 ##.pw_consent_messagediv
@@ -31047,6 +31064,7 @@ _site_cookie_
 ##.sgs-cookies-consent
 ##.sgsCookies
 ##.sh-cookie-confirmation
+##.sh-cookie-dialog
 ##.shareaholic-cookie-consent
 ##.shared-alert__cookie
 ##.show-cookie-consent
@@ -31239,6 +31257,8 @@ _site_cookie_
 ##.tpl-cookies
 ##.tpl-g-cookies
 ##.tplis-cl-cookies
+##.tr-cookies-banner
+##.tr-privacy-policy-banner
 ##.tracking-banner
 ##.tracking-consent
 ##.tracking-contenant
@@ -31827,6 +31847,7 @@ _site_cookie_
 ||bufferapp.com/js/button.js$third-party
 ||bumpin.com^$third-party
 ||buzz-stats.com^$third-party
+||buzzzoo.net^$third-party
 ||carambo.la^$third-party
 ||care2.com/petitions/$third-party,domain=~thepetitionsite.com
 ||celebjihad.com^$third-party
@@ -34545,6 +34566,7 @@ startupsmart.com.au##.advs
 alarabiya.net##.advt + .panel
 atheistrepublic.com##.af-form
 allbusiness.com,nofilmschool.com,psdisasters.com##.af-form-wrapper
+androidforums.com##.af_notices
 extremetech.com##.affiliate-text
 afp.com##.afp_contact_block_contact
 chriskresser.com##.after-post
@@ -35872,6 +35894,7 @@ rugby365.com##.subs-block
 medianama.com##.subs-news
 reviversoft.com##.subs_wrapper
 gulfnews.com,inthesetimes.com,omny.fm##.subscribe
+oneplus.com#@#.subscribe-container
 theresurgent.com##.subscribe-news
 wired.com##.subscribe-panel-component
 theweek.com##.subscribe-unit-header
@@ -36764,6 +36787,7 @@ theguardian.com##.js-aside-slot-container
 indiatimes.com##.js-common-hook
 linuxjournal.com##.js-form-item-email
 highya.com##.js-swimingBlock-stoper
+itweb.co.za##.justify-center.full-width
 countrylife.co.uk##.keystone-newsletter-class
 cointelegraph.com##.l-footer__col_subscription
 legit.ng##.l-header__subscribe
@@ -36938,6 +36962,7 @@ bildderfrau.de##.remodal-overlay[style="display: block;"]
 usnews.com##.reveal-modal
 mindbodygreen.com,sidereel.com,sojo.net,usnews.com,wellandgood.com##.reveal-modal-bg
 legalsportsreport.com,onlinepokerreport.com##.ribbon
+stockhouse.com##.rightTrueSidebar
 tweaktown.com##.right_subscribe
 1015soul.com,927theblock.com,92q.com,955thelou.com,boomcolumbus.com,boomindy.com,boomphilly.com,cassiuslife.com,espnrichmond.com,foxync.com,hellobeautiful.com,hiphopnc.com,hot1041stl.com,hot963.com,hothiphopdetroit.com,hotspotatl.com,ipowerrichmond.com,joycolumbus.com,kissdetroit.com,kissrichmond.com,kysdc.com,magicbaltimore.com,majic945.com,majicatl.com,mybaltimorespirit.com,myboomatl.com,mycolumbusmagic.com,mycolumbuspower.com,myhoustonmajic.com,mymajicdc.com,mypraiseatl.com,myspiritdc.com,newsone.com,newstalkcleveland.com,oldschool1053.com,praise1027detroit.com,praisebaltimore.com,praisecharlotte.com,praisecleveland.com,praisedc.com,praisehouston.com,praiseindy.com,praisephilly.com,radionowhouston.com,radionowindy.com,rnbcincy.com,rnbphilly.com,thebeatdfw.com,theboxhouston.com,thelightnc.com,tlcnaptown.com,wiznation.com,wolbbaltimore.com,woldcnews.com,wzakcleveland.com,zhiphopcleveland.com##.sailthru
 blackamericaweb.com,metro.co.uk,thepoliticalinsider.com##.sailthru-signup-widget
@@ -39435,6 +39460,7 @@ amazon.com##.mo-wp
 arlingtoncemetery.mil,axminster.co.uk,daf.be,daf.co.uk,daf.com,daf.fr,daf.global,daf.nl,daf.ru,daf.se,daftrucks.de,daftrucks.dk,daftrucks.it,daftrucks.pl,daftrucks.sk,ferratum.co.uk,fiveguys.co.uk,kon-boot.com,lam.co.mz,medtronic.com,primaresearch.org##.modal-backdrop
 myanimelist.net##.modal-container
 myanimelist.net##.modal-content
+environmental-finance.com##.modal-dialog
 usnews.com##.modal-window
 motorsport.com##.ms-footer-messages
 motorsport.com##.ms-header-messages
@@ -40095,6 +40121,7 @@ avtoradio.ru##div[id^="unit_"]
 ! ---------- French Specific Annoyances ----------
 !
 ||avis-verifies.com^$third-party
+||maison-travaux.fr/wp-content/themes/*/iframe-box-article.html
 ||out.be/widgets/$third-party
 !
 ! ---------- French Site Specific Hiding Rules ----------
@@ -43028,7 +43055,9 @@ xing.com#@##xing-share
 disqus.com#@#.-facebook
 disqus.com#@#.-twitter
 instagram.com,pinterest.com,zhihu.com#@#.FollowButton
-tomshardware.com#@#.SocialButton
+epicgames.com#@#.SocialBar
+epicgames.com,tomshardware.com#@#.SocialButton
+ctvnews.ca#@#.StoryShareBottom
 twitter.com#@#.Twitter-icon
 yachtingjournal.com#@#.addthis:not(body)
 onbeing.org#@#.addthis_32x32_style
@@ -43093,7 +43122,7 @@ epaka.pl#@#.fa-facebook
 teslarati.com#@#.fa-facebook-square
 insomnia.gr#@#.fa-share
 hackmd.io,qrdesign.net#@#.fa-share-alt
-azurewebsites.net,martini.com,oneplus.net#@#.facebook-btn
+azurewebsites.net,epicgames.com,martini.com,oneplus.net#@#.facebook-btn
 bitbucket.org,ebuddy.com,foodora.at,foodora.ca,foodora.com.au,foodora.de,foodora.fi,foodora.fr,foodora.nl,foodora.no,foodora.se,geekli.st,getyounity.com,globalcitizen.org,musixmatch.com,plug.dj,swiatebookow.pl#@#.facebook-button
 twitter.com#@#.facebook-container
 getyounity.com,login.aliexpress.com,vimeo.com#@#.facebook-icon
@@ -43150,7 +43179,7 @@ gorod.mos.ru#@#.footer__social
 google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.g-plus
 appspot.com,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.g-plusone
 adme.ru#@#.gallery-social
-academia.edu,martini.com,oneplus.net#@#.google-btn
+academia.edu,epicgames.com,martini.com,oneplus.net#@#.google-btn
 9gag.com,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk,wpolityce.pl#@#.google-plus
 google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk,inoreader.com#@#.google_plus
 apertura.com,quotidiani.gelocal.it#@#.googleplus
@@ -43186,7 +43215,7 @@ flattr.com#@#.icon-youtube
 ndtv.com#@#.icon_gplus
 community.imgur.com#@#.icons
 upworthy.com#@#.image-share
-24h.com.vn,dailymail.co.uk,eva.vn,thisismoney.co.uk#@#.img-share
+24h.com.vn,dailymail.co.uk,eva.vn,mogaznews.com,thisismoney.co.uk#@#.img-share
 instagram.com#@#.instagram-follow
 fandom.com#@#.is-social
 thenewamerican.com#@#.itemSocialSharing
@@ -43530,7 +43559,7 @@ discourse.org,github.com,github.io,megabus.com#@#img[alt="twitter"]
 allestörungen.de,github.com,github.io,keepa.com,marketplace.firefox.com,vvhp.net#@#img[title="Facebook"]
 allestörungen.de,github.com,github.io,whatismyip.com#@#img[title="LinkedIn"]
 allestörungen.de,fark.com,github.com,github.io,keepa.com,marketplace.firefox.com,vvhp.net#@#img[title="Twitter"]
-fark.com,github.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouTube"]
+fark.com,github.com,github.io,justwatch.com,marketplace.firefox.com,vvhp.net#@#img[title="YouTube"]
 ! *** easylist:easylist_cookie/easylist_cookie_whitelist_general_hide.txt ***
 intersport.dk,intersport.es,intersport.nl#@##CookiePopup
 sportdiver.com#@##CybotCookiebotDialog
@@ -43696,7 +43725,7 @@ bosch-mobility-solutions.com#@#.m-cookie
 bosch-mobility-solutions.com#@#.m-cookie-intro
 makelaarsland.nl#@#.m-cookie-notice
 theverge.com#@#.m-privacy-consent
-gct.com,oattravel.com,pentestpartners.com,piaggiogroup.com#@#.mod_cookies
+gct.com,herbritts.com,oattravel.com,pentestpartners.com,piaggiogroup.com#@#.mod_cookies
 multimediago.pl#@#.modal-cookie
 betway.it#@#.module-cookie
 ramics-conference.org#@#.nf-form-content
@@ -43706,7 +43735,7 @@ bosch-home.com#@#.o-cookielaw
 pieseauto.ro#@#.page-cookies
 apple.com#@#.privacy-consent
 account.microsoft.com#@#.privacy-container
-www.google.ac,www.google.ad,www.google.ae,www.google.al,www.google.am,www.google.as,www.google.at,www.google.az,www.google.ba,www.google.be,www.google.bf,www.google.bg,www.google.bi,www.google.bj,www.google.bs,www.google.bt,www.google.by,www.google.ca,www.google.cat,www.google.cd,www.google.cf,www.google.cg,www.google.ch,www.google.ci,www.google.cl,www.google.cm,www.google.co.ao,www.google.co.bw,www.google.co.ck,www.google.co.cr,www.google.co.id,www.google.co.il,www.google.co.in,www.google.co.jp,www.google.co.ke,www.google.co.kr,www.google.co.ls,www.google.co.ma,www.google.co.mz,www.google.co.nz,www.google.co.th,www.google.co.tz,www.google.co.ug,www.google.co.uk,www.google.co.uz,www.google.co.ve,www.google.co.vi,www.google.co.za,www.google.co.zm,www.google.co.zw,www.google.com,www.google.com.af,www.google.com.ag,www.google.com.ai,www.google.com.ar,www.google.com.au,www.google.com.bd,www.google.com.bh,www.google.com.bn,www.google.com.bo,www.google.com.br,www.google.com.by,www.google.com.bz,www.google.com.cn,www.google.com.co,www.google.com.cu,www.google.com.cy,www.google.com.do,www.google.com.ec,www.google.com.eg,www.google.com.et,www.google.com.fj,www.google.com.gh,www.google.com.gi,www.google.com.gt,www.google.com.hk,www.google.com.jm,www.google.com.jo,www.google.com.kh,www.google.com.kw,www.google.com.lb,www.google.com.ly,www.google.com.mm,www.google.com.mt,www.google.com.mx,www.google.com.my,www.google.com.na,www.google.com.ng,www.google.com.ni,www.google.com.np,www.google.com.om,www.google.com.pa,www.google.com.pe,www.google.com.pg,www.google.com.ph,www.google.com.pk,www.google.com.pr,www.google.com.py,www.google.com.qa,www.google.com.ru,www.google.com.sa,www.google.com.sb,www.google.com.sg,www.google.com.sl,www.google.com.sv,www.google.com.tj,www.google.com.tn,www.google.com.tr,www.google.com.tw,www.google.com.ua,www.google.com.uy,www.google.com.vc,www.google.com.ve,www.google.com.vn,www.google.cv,www.google.cz,www.google.de,www.google.dj,www.google.dk,www.google.dm,www.google.dz,www.google.ee,www.google.es,www.google.fi,www.google.fm,www.google.fr,www.google.ga,www.google.ge,www.google.gg,www.google.gl,www.google.gm,www.google.gp,www.google.gr,www.google.gy,www.google.hk,www.google.hn,www.google.hr,www.google.ht,www.google.hu,www.google.ie,www.google.im,www.google.iq,www.google.is,www.google.it,www.google.it.ao,www.google.je,www.google.jo,www.google.jp,www.google.kg,www.google.ki,www.google.kz,www.google.la,www.google.li,www.google.lk,www.google.lt,www.google.lu,www.google.lv,www.google.md,www.google.me,www.google.mg,www.google.mk,www.google.ml,www.google.mn,www.google.ms,www.google.mu,www.google.mv,www.google.mw,www.google.ne,www.google.ne.jp,www.google.ng,www.google.nl,www.google.no,www.google.nr,www.google.nu,www.google.pl,www.google.pn,www.google.ps,www.google.pt,www.google.ro,www.google.rs,www.google.ru,www.google.rw,www.google.sc,www.google.se,www.google.sh,www.google.si,www.google.sk,www.google.sm,www.google.sn,www.google.so,www.google.sr,www.google.st,www.google.td,www.google.tg,www.google.tl,www.google.tm,www.google.tn,www.google.to,www.google.tt,www.google.us,www.google.vg,www.google.vu,www.google.ws#@#.privacyBar
+google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.cn,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws#@#.privacyBar
 metallica.com#@#.privacy_policy_message_box
 jyllands-posten.dk#@#.qc-cmp-showing
 jyllands-posten.dk#@#.qc-cmp-ui-container
@@ -43839,6 +43868,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||evbstatic.com^*/cookie_header.js
 @@||evidon.com/sitenotice/evidon-banner.js$domain=etonline.com|popsugar.co.uk
 @@||flowbox.io/wp-content/plugins/uk-cookie-consent/
+@@||gearbest.com/static/dist/minjs/jcookie.js
 @@||geolocation.onetrust.com/cookieconsentpub/$script,domain=cnn.com
 @@||hellenicbank.com/portalserver/*/cookies-consent.js$script
 @@||hp.com^*/caas-privacy-cookie-$script
@@ -44121,6 +44151,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||facebook.com^*/like.php?$domain=archivedbook.com|e-biznes.pl|farmville.com|gmx.net|gu-facebook.appspot.com|home.1und1.de|likearea.com|porn99.net|web.de
 @@||facebook.com^*/plugins/page.php?$domain=cieplikpodrozuje.pl|fashionvoyager.pl|majkrafci.pl|makulscy.com
 @@||factorio.com/images/Steam.png$image
+@@||fansshare.com/media/*social$image
 @@||fark.net/images/*/links/
 @@||fbcdn.net/connect.php/js/FB.Share$domain=jamendo.com
 @@||fdcdn.co.uk/img/icons/
@@ -44235,7 +44266,6 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||jrjimg.cn/js.do?f=/share/js/
 @@||jsfiddle.net^$generichide
 @@||junglevibe2.net/min/?$script
-@@||justwatch.com^$generichide
 @@||kcrw.com^*/images/social-icons-$image,domain=kcrw.com
 @@||keepa.com/img/social/Google.svg
 @@||koszykowkanawozkach.pl^*/Header-facebook.jpg
