@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20191217
+! Version: 20200101
 
 ! General element hiding rules
 ##amp-ad
@@ -843,6 +843,7 @@
 ||cdn.gmossp-sp.jp/ads/loader.js^
 ||cdn.interworksmedia.co.kr/google/
 ||cdn.interworksmedia.co.kr/js/media/*.js^
+||cdn.interworksmedia.co.kr/js/tm/aip/latest/aip.js^
 ||cdn.interworksmedia.co.kr/js/tm/ba/latest/ba.js^
 ||cdn.interworksmedia.co.kr/js/tm/bip/latest/bip.js^
 ||cdn.interworksmedia.co.kr/js/tm/ip/latest/interplay.js^
@@ -2793,11 +2794,8 @@ etobang.co.kr,etoland.co.kr,etorrent.co.kr,etorrent.kr##div#mw_mobile>center
 etobang.co.kr,etoland.co.kr,etorrent.co.kr,etorrent.kr##div.middleAds
 etobang.co.kr,etoland.co.kr,etorrent.co.kr,etorrent.kr##img[src^="../../img/banner/"]
 etobang.co.kr,etoland.co.kr,etorrent.co.kr,etorrent.kr##img[src^="/img/net/banner/"]
-etoday.co.kr##div#ad_site_top
-etoday.co.kr##div.cont_left_article_w>div[style="position:relative;margin: 40px 0 0 25px;width:500px;height:120px;"]
-etoday.co.kr##div.cont_right_wrap>div.e_real_time_w.e_right_wrap
-etoday.co.kr##div.e_header>div[style="position:absolute;top:20px;left:0;"]
-etoday.co.kr##div.sectionAD
+etoday.co.kr##div.l_content_module>div[style="margin-top:20px"]
+etoday.co.kr##div.l_content_module>div[style="width:680px;height:250;margin:40px auto 0"]
 eurogamer.net##div.advert
 eurogamer.net##div.advertContainer
 eurogamer.net##div.mpu
@@ -3522,6 +3520,7 @@ kotaku.com##section.contained-ad-container
 kr.celeb.yahoo.com##div#leftClickButton
 kr.celeb.yahoo.com##div#rightClickButton
 kr.celeb.yahoo.com##div.yom-ad
+kr.starsinsider.com##div.pub-container
 krebsonsecurity.com##div#sidebar-box
 krebsonsecurity.com##div#top-banner-image
 krugznaniy.ru##div.GAdvert
@@ -3795,12 +3794,11 @@ m.etnews.com##p.ad_text
 m.etnews.com##section.relBottom>section[style="margin-left:8px;margin-right:8px;"]
 m.etnews.com##section.relBottom>section[style="margin-left:8px;margin-right:8px;margin-top:7px;background-color:#fff;"]
 m.etnews.com##ul.TextAD
-m.etoday.co.kr##div#View_box>div.box[style="height:100px;margin-top:0;padding: 10px 0 10px 0"]
-m.etoday.co.kr##div#main_wrap_L>div.box[style="padding: 10px 0 10px 0;text-align:center"]
-m.etoday.co.kr##div#main_wrap_R>div.box[style="wdith: 100%;padding: 10px 0 10px 0;text-align:center;background-color: #fff"]
+m.etoday.co.kr##div#contents_body>div[style="float:right;width:200px;height:200px;margin:5px 0 5px 15px;"]
+m.etoday.co.kr##div#contents_body>div[style="text-align: center;width:100%;padding:0 0 15px 0;"]
 m.etoday.co.kr##div#view_bottom_ad
-m.etoday.co.kr##div#view_contents>div[style="float:right;width:200px;height:200px;margin:5px 0 5px 15px"]
 m.etoday.co.kr##div.ad_text_dot
+m.etoday.co.kr##section.DetailView_Wrap>div.box>div[style="width:320px;height:320px;margin:0 auto 0;"]
 m.ezday.co.kr##div#EZAD-root
 m.ezday.co.kr##div#divEzdayBannerAD
 m.ezday.co.kr##div.m_2016_view>div[align="center"][style="margin-top:10px;padding-top:10px;border:1px solid #bababa"]
@@ -3848,6 +3846,7 @@ m.gamemeca.com##iframe[src^="/public/mezzo_ad.php"]
 m.gametoc.hankyung.com##section.advertisment
 m.gokorea.kr##div[data-widget_id="V7av0xlB"]
 m.gyunggijh.co.kr##section.advertisment
+m.hackers.co.kr##div#fixed_bnr
 m.hani.co.kr##div.news-box-ad
 m.hani.co.kr##section.adBox
 m.hankooki.com##div#SHOWUP
@@ -4022,6 +4021,8 @@ m.mk.co.kr##div.new_ad2
 m.mk.co.kr##div.new_ad3
 m.mk.co.kr##div[id^="slot"]
 m.mk.co.kr##iframe[src^="./index_ad.mk"]
+m.moneys.mt.co.kr##div.ad
+m.moneys.mt.co.kr##div.iwm_aip
 m.moneyweek.co.kr##div#ad_div_bottom
 m.mt.co.kr##body>div[style="position:fixed; bottom:0; width:100%; background:transparent; z-index:2"]
 m.mt.co.kr##div#article>div[style="margin-left:-15px;margin-right:-15px;height:100px;text-align:center;"]
@@ -4111,6 +4112,7 @@ m.nocutnews.co.kr##div.ad_ft
 m.nocutnews.co.kr##div.con_b>div.ct_box
 m.nocutnews.co.kr##div.ct1>div.con_b>div:not([class]):not([id])
 m.nocutnews.co.kr##div.ct2>div.con_b>div[style="text-align: center; padding: 0; height:100px; overflow:hidden;"]
+m.nocutnews.co.kr##div.v_ad
 m.nocutnews.co.kr##iframe[src^="/ad/adnca.html"]
 m.ohmynews.com##div#adDaum
 m.ohmynews.com##div#adDaum_top
@@ -5510,6 +5512,8 @@ tf.co.kr##iframe[src^="http://www.tf.co.kr/public/ad/"]
 tfnews.co.kr##div.banner_wrap
 tfnews.co.kr##div.com_ban
 tfnews.co.kr##div.top_banner
+tgd.kr##body>div[style="background: #efefef;padding:0;"]
+tgd.kr##div#article-list>div[style="background: #efefef;padding:10px 8px;"]
 tgd.kr##div#plz-dont-block-me
 tgd.kr##div#weare-out-of-food
 tgd.kr##div.frame>a[href^="/trk/click/"][target="_blank"]

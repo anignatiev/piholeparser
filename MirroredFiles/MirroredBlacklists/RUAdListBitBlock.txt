@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RlM+mwiv+lDCVgAypGgC8Q
-! Version: 202001010020
+! Checksum: Mb3x8ktjdrLNdYsAaLPSFA
+! Version: 202001020020
 ! Title: RU AdList: BitBlock
-! Last modified: 01 Jan 2020 00:20 UTC
+! Last modified: 02 Jan 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -444,7 +444,7 @@ podrobnosti.ua##.b-news-share
 rns.online##.b-popular--social
 disk.yandex.ru##.b-popup-share__content [data-click-action="share.resource"]
 sobaka.ru##.b-post-view__share
-aghdrezka.com,ahdrezka.com,clubhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,justhdrezka.com,livehdrezka.com,metahdrezka.com,myhdrezka.com,nuhdrezka.com,rezka.ag,thehdrezka.com,tvhdrezka.com,uphdrezka.com##.b-post__social_holder > div
+aghdrezka.com,ahdrezka.com,clubhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,justhdrezka.com,livehdrezka.com,metahdrezka.com,myhdrezka.com,nuhdrezka.com,rezka.ag,thehdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com##.b-post__social_holder > div
 utro.ru##.b-repost
 m24.ru##.b-services-menu_footer
 sobaka.ru##.b-share-items
@@ -460,7 +460,7 @@ altapress.ru##.b-social_top
 gazeta.ru##.b-socials-btn
 lenta.ru##.b-socials-subscribe
 lenta.ru##.b-socials__sharing > :not(.b-socials__favorite)
-aghdrezka.com,ahdrezka.com,clubhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,justhdrezka.com,livehdrezka.com,metahdrezka.com,myhdrezka.com,nuhdrezka.com,rezka.ag,thehdrezka.com,tvhdrezka.com,uphdrezka.com##.b-tg__wrapper
+aghdrezka.com,ahdrezka.com,clubhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,justhdrezka.com,livehdrezka.com,metahdrezka.com,myhdrezka.com,nuhdrezka.com,rezka.ag,thehdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com##.b-tg__wrapper
 vc.ru##.b-widget-facebook
 vc.ru##.b-widget-vk
 hvylya.net##.b__share--buttons
@@ -857,6 +857,8 @@ kamchatinfo.com,torrentfilmi.co##.soctop
 dni.ru##.sotial
 hqroom.ru##.sots-plugin
 kinomafia.tv##.soz
+slavinfo.dn.ua#?#.sp-column > .sp-module.white:-abp-has(.sppb-addon-social-media)
+slavinfo.dn.ua##.sppb-addon-social-media
 maximum.ru##.ss_block
 ru.msn.com##.stbp-tbl
 fakty.com.ua##.subscribe-telegram
@@ -1187,6 +1189,7 @@ _userbar/$image
 _userbar_$image
 ||82.196.1.83^$third-party
 ||borgan.ru^$third-party
+||browser-update.org^$third-party
 ||civiccomputing.com^*=CookieControl$third-party
 ||cloudflare.com/ajax/libs/cookieconsent2/
 ||cloudflare.com^*/snowstorm-min.js$third-party
@@ -2021,6 +2024,7 @@ eva.ru###cookie-agreement
 1000sovetov.ru,svpressa.ru###cookie-bar
 besplatka.ua###cookie-bottom
 inforesist.org###cookie-notice
+softportal.com###cookie_wrapper
 tellows.ru###cookies
 livelib.ru###cookies-agree
 vk.com###cookies_policy_wrap
@@ -2302,7 +2306,7 @@ vc.ru##.b-push-subscribe-wrapper
 siliconrus.com##.b-sidebar-block-adv-bottom
 sports.ru##.b-subscribe-block
 vedomosti.ru##.b-subscribe-popup
-aghdrezka.com,ahdrezka.com,clubhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,justhdrezka.com,livehdrezka.com,metahdrezka.com,myhdrezka.com,nuhdrezka.com,rezka.ag,thehdrezka.com,tvhdrezka.com,uphdrezka.com##.b-tophead__subscribe-dropdown
+aghdrezka.com,ahdrezka.com,clubhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,justhdrezka.com,livehdrezka.com,metahdrezka.com,myhdrezka.com,nuhdrezka.com,rezka.ag,thehdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com##.b-tophead__subscribe-dropdown
 lenta.ru##.b-topic__favorite-tooltip
 ogolosha.com##.b_a_n_e_r-top
 lp4lp.ru,piter.com,pleer.ru,sochi.camera##.banner
@@ -16789,6 +16793,7 @@ _youtube_social_
 ##.social-share-head-article
 ##.social-share-icons
 ##.social-share-lede-image
+##.social-share-left
 ##.social-share-link
 ##.social-share-links
 ##.social-share-list
@@ -21567,6 +21572,7 @@ _backToTop.
 ###promo-subscription
 ###promo-subscription-overlay
 ###quick-signup-article-widget
+###rail-newsletter
 ###rb-newsletter
 ###rdc-newsletter
 ###react_wrapper_edition_newsletter_signup
