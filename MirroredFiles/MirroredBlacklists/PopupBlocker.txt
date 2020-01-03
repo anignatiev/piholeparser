@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: wRH2jMvcCCeYbgDfbbJwww
+! Checksum: 5hfH70omWfNQ4zhlEMv9MA
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Tue, 31 Dec 2019, 23:00 UTC+01
-! Version: 2019.12.31.1
+! Last modified: Thu, 02 Jan 2020, 22:56 UTC+01
+! Version: 2020.1.2.2
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2019 Polish Filters Team
-! Aktualizacja: wto, 31 gru 2019, 23:00 UTC+01
+! Aktualizacja: czw, 02 sty 2020, 22:56 UTC+01
 !
 !
 ! Newslettery (nie popupy)
@@ -1346,7 +1346,7 @@ pl##.widget_newsletterwidget
 51015kids.eu,willsoor.pl###newsletter_popup
 aasapolska.pl###leave-page-modal
 abcfirany.pl###InfoNewsletterOkno, #InfoNewsletter
-abra-meble.pl,biogo.pl,czasnabuty.pl,eltrox.pl,gry-online.pl,kontigo.com.pl,kreatorium.com,krukam.pl,lou.pl,meditrendy.pl,musclepower.pl,olini.pl,recea.pl,recman.pl,tendina.pl,tolpa.pl,yalu.pl###edrone--main--pu--container
+abra-meble.pl,barbersupply.pl,biogo.pl,czasnabuty.pl,eltrox.pl,gry-online.pl,kontigo.com.pl,kreatorium.com,krukam.pl,lou.pl,meditrendy.pl,musclepower.pl,olini.pl,recea.pl,recman.pl,tendina.pl,tolpa.pl,yalu.pl###edrone--main--pu--container
 accent-bikes.com###lang_popup
 adamkuncicki.pl###listfusion_popup_lightbox_main
 addons.opera.com,atcdevelopment.pl,bankobranie.blogspot.com,bobbyburger.pl###overlay
@@ -1402,6 +1402,7 @@ banki.pl,comperia.pl##.paniModal
 barokko.pl,butylukow.pl,korob.pl###tws_i_2
 bazarek-deco.com.pl###NewsPop
 bdl.lasy.gov.pl##.blockPage.blockMsg.blockUI, .blockOverlay.blockUI
+beardman.pl,polskicaravaning.pl,swiatopon.info,wiadomoscihandlowe.pl,wiadomoscikosmetyczne.pl###newsletter-popup-wrapper
 beautikon.com###mteo_popup_bg_layer
 bemuke.pl##div[id^="tws_i_"]
 beskidy.news##.c-pop-up
@@ -1429,6 +1430,7 @@ born2be.pl,renee.pl##.snrs-modal-wrapper
 brandpro.pl###mc_embed_signup
 brandpro.pl##.fancybox-skin
 brilu.pl,chefstore.pl##.popup__overlay
+brodatyzbir.pl##.adp-popup
 brylove.pl,mokosh.pl###popupWindow
 bssztum.pl###fireworks
 budujemydom.pl###byebye
@@ -1784,7 +1786,6 @@ policja.gov.pl,policja.pl##[id^="popup-"], #krajowa_mapa_zagrozen
 policja.orsip.pl##.jimu-widget.jimu-widget-splash
 politykazdrowotna.com##.modal-footer
 polomarket.pl###layer_box
-polskicaravaning.pl,swiatopon.info,wiadomoscihandlowe.pl,wiadomoscikosmetyczne.pl###newsletter-popup-wrapper
 polskieradio.pl##.showBanner.tempBanner
 polskimarket.nl###rc_window_squeeze, #Overlay
 pol-nor.com###boxpopup, #overlay, #popforfirma
@@ -2342,6 +2343,7 @@ bonprix.pl###slide-up
 bookmaster.com.pl,centrumkurierskie.pl###utils-button-top
 bosch-extra.pl,extra-program.pl##.to-top-button
 brandsit.pl,mediarun.com,petronews.pl,wikilistka.pl##.jscroll-to-top
+brodatyzbir.pl,jaktodaleko.pl##.pk-scroll-to-top
 browserwall.com##.scroll-up-btn
 budownictwob2b.pl,budujemydom.pl,cozaile.pl,dekavit.pl,habys.pl,informatorbudownictwa.pl,oczymlekarze.pl,zielonyogrodek.pl##.return-top
 budujemywuk.co.uk,infotydzien.info,polska.travel,powiatowa.info,radioznin.fm###jm-back-top
@@ -2506,7 +2508,6 @@ i-apteka.pl##.n60972_main_cop_right
 jackpot.pl##back-to-top
 jackvision.pl###to_the_top
 jagerfundacja.pl###mkdf-back-to-top
-jaktodaleko.pl##.pk-scroll-to-top
 janssen.tv##.move-btn__parent
 kalendarzonline.com,nowicka-misiewicz.com,nowy.gryfickie.info,presta.eu.org,rankingkont.org,zdrowyportal.org###topcontrol
 kamen.com.pl###footer_top
@@ -3194,6 +3195,7 @@ polisaplus.pl##.teltoggle.telbutton
 polnord.pl###contactForm
 poloniawroclaw.pl##body > iframe:nth-of-type(1)
 polskihurtworld.eu##.ggu-widget-launcher
+pomadziarz.pl###grw_sidebox
 portal.lellek.pl###contact-img
 poscielone.pl##.ceneo_right
 ppr.pl##.btn-report
@@ -3266,6 +3268,7 @@ tylkostylowe.pl###widget_shop2
 t-mobilebankowe.pl##.vd-status-box
 unia.pl###opiniac_blk
 union-investment.pl###woa-widget
+uzbira.pl###reviewsWidgetButton
 velux.pl##.LPMcontainer
 vidok.com##.box-special-contact-icon
 viessmann.pl##.callmeweb-button-container
@@ -3481,6 +3484,7 @@ bonnum.pl##.xi-rht
 booking.com##.header-signin-prompt
 brainly.pl##.js-katie-message.js-katie-message-container, .js-katie-badge, .js-react-answer-left-counter
 brief.pl##.next-prev-post, .post-related
+brodatyzbir.pl##.posts-pagination > .post-pagination
 bsigroup.com###loading-screen
 budujemydom.pl##.mod-zajawka, .box-zajawkowe, .monthly-advertisment
 businessinsider.com.pl###goback
@@ -4157,8 +4161,8 @@ polishannoyancefilters.netlify.com###pafdetect
 !@ Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
 !@ Collaborators: MajkiIT, F4z, xxcriticxx, blocker999, hawkeye116477, krystian3w
 !@ Homepage: https://www.certyficate.it/
-!@ Version: 2019.12.28.1
-!@ Last modified: Sat, 28 Dec 2019, 04:57 UTC+01
+!@ Version: 2020.1.2.2
+!@ Last modified: Thu, 02 Jan 2020, 22:56 UTC+01
 !@ Expires: 2 days
 !@ Support:
 !@   Email => errors@certyficate.it
@@ -4169,7 +4173,7 @@ polishannoyancefilters.netlify.com###pafdetect
 !@ License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0)
 !@ Copyright © 2019 Certyficate IT & Polish Filters Team
 !@ Najnowsza wersja zawsze na: https://www.certyficate.it/adblock/
-!@ v.2019.12.28.1 aktualizacja: sob, 28 gru 2019, 04:57 UTC+01
+!@ v.2020.1.2.2 aktualizacja: czw, 02 sty 2020, 22:56 UTC+01
 !@
 !@
 !@ Specyficzne reguły ukrywające
@@ -4192,7 +4196,7 @@ polishannoyancefilters.netlify.com###pafdetect
 40ton.net,aidcom.eu,axeprim.eu,babi-kacik.eu,baranowscy.eu,biblioteka-radkow.eu,blog.spacetronik.eu,capslook.eu,dorastajznami.org,dronefilmfestival.eu,dziennikarz24.eu,dzwola.eu,gorliceiokolice.eu,hazex.eu,kielczewo.eu.org,logopeda-lodz.eu,magnapolonia.org,mebloteka.eu,miedzyrzecz.biz,naklo.fm,naziemna.info,newsrm.tv,nowy-sacz.info,obserwatore.eu,oszczedzarka.co.uk,pabianice.tv,perfumyfm.biz,piaseczno.eu,polako.eu,radioftb.net,rozmowy.eu,setcomp.net,settlersonlinewiki.eu,showmag.info,skwerwolnosci.eu,skymaster.de,sochaczew24.info,sp8obe.eu,szpitalepomorskie.eu,tyflopodcast.net,urbanium.eu,ustka24.info,zasiedzenie.net###catapult-cookie-bar
 60sekund.tytan.pl,airdron-polska.pl,defra.pl,denique.pl,komputerytriton.pl,lucatel.pl,mckplonsk.pl,paralympic.org.pl,scottiego.com,serialowa.pl,szymoszkowa.pl##.popmake-overlay[data-popmake*="cookies"]
 77sushi.com,atelier801.com,aten.com,avg.com,bouboum.com,defence24.com,dormakaba.com,energetyka24.com,fabrykazabawek.eu,fortoresse.com,grupaimage.eu,kreskowki.tv,loma.com,majsterplus.com,monsieur-cuisine.com,nekodancer.com,olsztyn.eu,paysafecard.com,polskonepro.club,programtv.naziemna.info,quertes.com,rafalbil.eu,silentiumpc.com,testo.com,transformice.com,twojatv.info,tygodniksiedlecki.com,wyprzedaze.uk###cookie-bar
-90.pl,atomic.com,aukcje.pkoleasing.pl,benchmarking.silesia.org.pl,bielskakraina.pl,bluecity.pl,brodnica.net,bs.olawa.pl,budma.pl,clickmeeting.com,comarchedi.pl,csioz.gov.pl,decoratorium.eu,dolnysopot.pl,dulskidesign.pl,dw.com,e-marketbudowlany.pl,essentiale.pl,fakturaelektroniczna.com,filmotekaszkolna.pl,fitandyummy.pl,fitnessplatinium.pl,forguides.pl,fum.info.pl,gdynia.sr.gov.pl,gugik.gov.pl,hifi.pl,investmap.pl,jedyna-taka.pl,jim.org,kanal10.pl,kastu.pl,klinikaagd.pl,kredytmarket.com,kurspisania.pl,lantech.com.pl,leroymerlin.pl,mazowieckie.com.pl,mdserwis.pl,megakoszulki.pl,modecom.com,moventum.com.pl,muszynianka.pl,mutti-jakoscbezkompromisow.pl,nysa.pl,onerqe-kredyt.pl,otouczelnie.pl,pepperl-fuchs.com,pfr.pl,pgd.pl,polstor.pl,pozyczkaplus.pl,przepisy.net,radioznin.fm,seopilot.pl,sfinks.pl,shoper.pl,smartpozyczka.pl,smyk.com,stalgorzow.pl,stressfree.pl,superauto.pl,supermemo.com,szkolenia-semper.pl,taksmakujewygrana2.pl,tapis.pl,technetium.pl,telewizjaswiatlowodowa.pl,terramar.pl,tkaniny-hemmers.pl,tpvpolska.pl,tridex.pl,unityline.pl,venture.pl,virtualtrucker.pl,wanicki.pl,waw.pl,wielkopolska.eu,www.mtp.pl,wyprobujdeveley.pl,wyprobujmutti.pl,yagi.pl,zebra.com,ziph.pl,zrzutka.pl##.cookie
+90.pl,atomic.com,aukcje.pkoleasing.pl,benchmarking.silesia.org.pl,bielskakraina.pl,bluecity.pl,brodnica.net,bs.olawa.pl,budma.pl,clickmeeting.com,comarchedi.pl,csioz.gov.pl,decoratorium.eu,dolnysopot.pl,dulskidesign.pl,dw.com,e-marketbudowlany.pl,essentiale.pl,fakturaelektroniczna.com,filmotekaszkolna.pl,fitandyummy.pl,fitnessplatinium.pl,forguides.pl,fum.info.pl,gdynia.sr.gov.pl,gugik.gov.pl,hifi.pl,investmap.pl,jedyna-taka.pl,jim.org,kanal10.pl,kastu.pl,klinikaagd.pl,kredytmarket.com,kurspisania.pl,lantech.com.pl,leroymerlin.pl,mazowieckie.com.pl,mdserwis.pl,megakoszulki.pl,modecom.com,moventum.com.pl,muszynianka.pl,mutti-jakoscbezkompromisow.pl,nysa.pl,otouczelnie.pl,pepperl-fuchs.com,pfr.pl,pgd.pl,polstor.pl,pozyczkaplus.pl,przepisy.net,radioznin.fm,seopilot.pl,sfinks.pl,shoper.pl,smartpozyczka.pl,smyk.com,stalgorzow.pl,stressfree.pl,superauto.pl,supermemo.com,szkolenia-semper.pl,taksmakujewygrana2.pl,tapis.pl,technetium.pl,telewizjaswiatlowodowa.pl,terramar.pl,tkaniny-hemmers.pl,tpvpolska.pl,tridex.pl,unityline.pl,venture.pl,virtualtrucker.pl,wanicki.pl,waw.pl,wielkopolska.eu,www.mtp.pl,wyprobujdeveley.pl,wyprobujmutti.pl,yagi.pl,zebra.com,ziph.pl,zrzutka.pl##.cookie
 99rent.pl##.region-rodo-info
 321sprzedane.pl##div[class*="cookieConsent_"]
 360studio.org,wabrzezno.com##.tplis-cl-cookies
