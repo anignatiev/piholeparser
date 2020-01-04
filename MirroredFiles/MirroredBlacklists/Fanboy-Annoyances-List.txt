@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2X7HtjTIxrNkM35AAkcifw
-! Version: 202001030021
+! Checksum: rNXTJwmnF6sQudERaeiT+g
+! Version: 202001040021
 ! Title: Fanboy's Annoyance List
-! Last modified: 03 Jan 2020 00:21 UTC
+! Last modified: 04 Jan 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -3972,6 +3972,7 @@ _youtube_social_
 /cmp/privacy_manager?
 /cmp/tmcookie.
 /cmp/tracking-opt-
+/cmp3p.js
 /cmp_consentStorage.
 /cmp_shim.js
 /cmpCookie.
@@ -28451,11 +28452,6 @@ _site_cookie_
 ##.cookieDirWrap
 ##.cookieDirective
 ##.cookieDiscl
-##.cookieDisclaimer
-##.cookieDisclaimerBox
-##.cookieDisclaimerContainer
-##.cookieDisclaimerContainerWrapper
-##.cookieDisclaimerWrapper
 ##.cookieDiv
 ##.cookieDrawer
 ##.cookieEN
@@ -30031,7 +30027,6 @@ _site_cookie_
 ##.j-cookie-message
 ##.j-cookieConsentPanel
 ##.j-cookieContainer
-##.j-cookieDisclaimer
 ##.j-cookieLaw
 ##.j-cookieModal
 ##.j-gdpr-message
@@ -30978,6 +30973,7 @@ _site_cookie_
 ##.rgpd-banner
 ##.rgpd-bar
 ##.rgpd-blockage
+##.rgpd-cookies-banner
 ##.rgpd-popup
 ##.rgpd_backdrop
 ##.rgpd_box
@@ -31601,6 +31597,8 @@ _site_cookie_
 ##div[class*="_CookieBanner_"]
 ##div[class*="_cookiesPolicy_"]
 ##div[class*="cookieBarContainer"]
+##div[class*="cookieDisclaimer"]
+##div[class*="cookiesBarVisible"]
 ##div[class^="ConsentBar_"]
 ##div[class^="CookieBanner-"]
 ##div[class^="CookieBanner_"]
@@ -32609,6 +32607,7 @@ _site_cookie_
 ||consensu.org/gdpr/$third-party
 ||consent.subscriptions.archant.co.uk^
 ||consent.truste.com^$third-party
+||consentag.eu^$third-party
 ||consentmanager.mgr.consensu.org^$third-party
 ||cookie-accept.com^$third-party
 ||cookie-script.com^$third-party
@@ -39523,6 +39522,7 @@ fundedbyme.com##.pageNotification
 ticketmaster.ca##.page__legal-link
 advisto.com##.page_warning
 akasha.org##.parts__Wrapper-sc-1svfu23-0
+spainhouses.net##.persistentMessage
 nordwindairlines.ru##.personal-data
 free-power-point-templates.com##.pg-modal-blackout
 botify.com##.pin-b.pin-l.fixed
@@ -39677,12 +39677,13 @@ giphy.com##div[class^="flash-message"]
 brain.fm##div[class^="modules-core-css-CookiePopup"]
 voxi.co.uk##div[class^="notification-container"]
 listen.tidal.com##div[class^="notificationWrapper--"]
+deliveroo.ie##div[class^="orderweb__"]
 tunein.com##div[class^="violator__container"]
 youtube.com##div[class^="ytd-consent"]
 tunein.com##div[data-testid="gdpr-violatorContainer-true"]
 onlinetvrecorder.com##div[id^="d1"]
 globecast.com##div[id^="icegram_message_"]
-knowyourmeme.com##div[id^="sp_message_id"]
+dumont.de,knowyourmeme.com##div[id^="sp_message_id"]
 mashable.com##div[style*="background: rgb(255, 255, 255)"]
 plarium.com##div[style*="position: fixed;"]
 cplusplus.com##div[style="background:#eed;padding:10px;margin:0;text-align:center;border-bottom:1px solid #446"]
@@ -41795,7 +41796,7 @@ keskeces.com###cook
 paconsulting.com###cookPop
 romedic.ro###cookbox
 cartezero.fr,france.tv,grillofrance.fr,havas-voyages.fr,le1hebdo.fr,materiel.net,societe.com###cookie
-4clik.com,arlestourisme.com,brain-magazine.fr,cer-eau.fr,colissimo.fr,edcom.fr,enmark2.com,gentside.com,gretel-box.com,jackpot-des-experts.fr,jules.com,laposte.fr,logistafrance.fr,lumiglobal.fr,maxisciences.com,mybiclighter.com,ohmymag.com,secu-independants.fr,showroomprive.com,solutions-numeriques.com,tourtel-twist.fr,ville-ideale.com,ville-ideale.fr,viously.com###cookies
+4clik.com,arlestourisme.com,brain-magazine.fr,cer-eau.fr,colissimo.fr,edcom.fr,enmark2.com,feuvert.fr,gentside.com,gretel-box.com,jackpot-des-experts.fr,jules.com,laposte.fr,logistafrance.fr,lumiglobal.fr,maxisciences.com,mybiclighter.com,ohmymag.com,secu-independants.fr,showroomprive.com,solutions-numeriques.com,tourtel-twist.fr,ville-ideale.com,ville-ideale.fr,viously.com###cookies
 mediametrie.fr###cooks
 listesdemots.com###cp
 makita.fr###disclaimer
@@ -42570,6 +42571,7 @@ vodafone.pt##.ck-nudge-slim
 sinonimos.com.br##.clm
 macorlux.pt##.cookie
 abola.pt,assismatica.pt,conforama.pt,metalomarao.pt,perfumesclub.pt##.cookies
+tudogostoso.com.br##.disclaimer
 ericeirasurfskate.pt##.footer-fixed-bar
 lidl.pt##.notification
 jaguarportugal.pt,landrover.pt##.notificationBars
