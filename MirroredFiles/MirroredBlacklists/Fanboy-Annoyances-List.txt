@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rNXTJwmnF6sQudERaeiT+g
-! Version: 202001040021
+! Checksum: CWpo3al4gSBGiYDMAecgYw
+! Version: 202001050021
 ! Title: Fanboy's Annoyance List
-! Last modified: 04 Jan 2020 00:21 UTC
+! Last modified: 05 Jan 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -25878,6 +25878,7 @@ _site_cookie_
 ###okno_rcookie
 ###okookie-box
 ###onetag_cookie_law
+###onetrust-consent-sdk
 ###onlyCookie
 ###onyx_cookiesinfo_bar
 ###onyx_cookiesinfo_spacer
@@ -27045,6 +27046,7 @@ _site_cookie_
 ##.UECookie
 ##.W034_Cookie_Directive
 ##.WW-cookiemodul
+##.WeUseCookiesNotice
 ##.___eucookiePopup
 ##.__cookieNotice
 ##.__cookie_policy
@@ -29797,6 +29799,7 @@ _site_cookie_
 ##.gdpr-panel
 ##.gdpr-pn-container
 ##.gdpr-policy-bar
+##.gdpr-pop-over
 ##.gdpr-popup
 ##.gdpr-popup-border
 ##.gdpr-privacy-banner
@@ -39300,6 +39303,7 @@ worthpoint.com##.bannerContainer
 bagigia.com##.bica-content
 cvent.com##.block-notifications-block
 abplive.in##.blur-bg
+studocu.com##.bottom-bar-enter-active
 robertsspaceindustries.com##.bottom-notif-bar
 hostkey.com##.bottomMessages
 xhamster.com##.bottom_message
@@ -39670,6 +39674,7 @@ yahoo.com##div.js-applet-view-container-main > div.fixed-win[style^="background:
 pri.org##div[class^="CtaMessage_"]
 similarsites.com##div[class^="PrivacyNotification"]
 epidemicsound.com##div[class^="___Warnings"]
+studocu.com##div[class^="banner-wrapper-"]
 mvagusta.com##div[class^="bannerContainer"]
 vodafone.co.uk##div[class^="cookie-policy"]
 joom.com##div[class^="disclaimer"]
@@ -43894,6 +43899,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||natalieportman.com^*/js/cookielawinfo-$script
 @@||netdna-ssl.com/wp-content/plugins/bwp-minify/*/wp-gdpr-$script,stylesheet,domain=x-plane.com
 @@||oddschecker.com/OC-B2B/platform-uk-gdpr-banner/$script
+@@||onetrust.com/request/$xmlhttprequest
 @@||ozmotorbike.com/templates/motorbike/js/vendor/cookies-enabler.js
 @@||ozracing.com/templates/oz/js/vendor/cookies-enabler.min.js
 @@||policy.app.cookieinformation.com^$script,domain=eniro.se

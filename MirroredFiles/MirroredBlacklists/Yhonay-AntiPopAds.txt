@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10520
+! Version: 10537
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -660,6 +660,7 @@
 ||bjcpcnhssg.com^
 ||bjcunwelpd.com^
 ||bjdfckchzsa.bid^
+||bjdthyywcargba.com^
 ||bjenzpojtgvo.club^
 ||bjfxcvebjrcuce.bid^
 ||bjgavencynifm.bid^
@@ -2422,6 +2423,7 @@
 ||fgjasshw.com^
 ||fglwxjklf.com^
 ||fgnzizhe.com^
+||fgoocsqg.com^
 ||fgsjjpjhdlfthp.com^
 ||fgsmmpazsuqak.com^
 ||fgtdzvlydqcpus.com^
@@ -2478,6 +2480,7 @@
 ||fjxlbkwhtpil.com^
 ||fjxssyatdwttqm.com^
 ||fjyapvqvgjmwy.com^
+||fkcfaagktu.com^
 ||fkdslgyunikais.com^
 ||fkekipafwlqd.com^
 ||fkemshukccjvu.com^
@@ -3077,6 +3080,7 @@
 ||gqtaibrlhbwd.bid^
 ||gqtcapjnn.bid^
 ||gqulrzprheth.com^
+||gquqjrbgaghpfq.com^
 ||gqusxhuexmu.com^
 ||gqutnukt.com^
 ||gquvhveabaem.com^
@@ -3152,6 +3156,7 @@
 ||guoijslfm.bid^
 ||guowsqbyh.bid^
 ||guoyhfjrpt.com^
+||gurktexxtpofyz.com^
 ||gurrfwsscwda.com^
 ||gusxyrtlnyv.com^
 ||gutccaxnwso.com^
@@ -3222,6 +3227,7 @@
 ||gyojplgn.com^
 ||gyvyokpmmb.bid^
 ||gyycgkchjtimu.com^
+||gyyzsgri.com^
 ||gyzzpyez.bid^
 ||gzabsbddocwn.com^
 ||gzakmhhwrkagg.com^
@@ -3393,6 +3399,7 @@
 ||hirdchyngnn.bid^
 ||hisoupocdted.com^
 ||hisxgmthxjdm.com^
+||hiwtotxepiaogu.com^
 ||hixpfhoon.com^
 ||hixuxtufzqcq.com^
 ||hiypucxjvfka.com^
@@ -3560,6 +3567,7 @@
 ||hrtxufdb.com^
 ||hrvxpinmdyjx.com^
 ||hrykyhqtgcro.com^
+||hsbrhnkgkx.com^
 ||hsdjvuayagt.bid^
 ||hseyrxoi.com^
 ||hsgatgymg.com^
@@ -4260,6 +4268,7 @@
 ||jemopaqkst.com^
 ||jemyvtomzyha.com^
 ||jenaowzhtbi.com^
+||jepmdqcn.com^
 ||jeqixokniyny.com^
 ||jertwakjcaym.com^
 ||jeuqrslzoxdcz.com^
@@ -4327,6 +4336,7 @@
 ||jikottnbg.com^
 ||jimqcqsyhser.com^
 ||jimxaqrpqbxldt.com^
+||jinfrfimajr.com^
 ||jioivnytpmam.com^
 ||jipzvmzzycg.com^
 ||jirmbsgr.com^
@@ -4777,6 +4787,7 @@
 ||khgsbhdw.bid^
 ||khgwakmfavzch.bid^
 ||khhpckhkikd.bid^
+||khkjrquge.com^
 ||khlgdlarmqnp.com^
 ||khmbjndynx.com^
 ||khnwegnamm.com^
@@ -5902,6 +5913,7 @@
 ||moleagmeq.com^
 ||molqvpnnlmnb.com^
 ||monlscalmows.bid^
+||mopxhrgiyybr.com^
 ||moquxotvyuoo.com^
 ||mosdqxsgjhes.com^
 ||mousvowpfso.com^
@@ -6134,6 +6146,7 @@
 ||nbrwvrqyz.com^
 ||nbsmsblzow.com^
 ||nbvbblmksiahf.com^
+||nbwcnctzneii.com^
 ||nbxfvfeanq.com^
 ||nbxpuziszhqz.com^
 ||nbylhvbswplcj.com^
@@ -6228,6 +6241,7 @@
 ||nhndzbmnkps.com^
 ||nhqmomir.com^
 ||niaqaltky.com^
+||niazlhvok.com^
 ||nicmtzkucd.com^
 ||nicucircvp.bid^
 ||nidjppokmlcx.com^
@@ -6273,6 +6287,7 @@
 ||nkkxgqdgnpunnr.bid^
 ||nklivofyjkbt.com^
 ||nklofbjtpfpp.bid^
+||nklwltrpzhy.com^
 ||nksfmnvmngxzr.bid^
 ||nkxdyorwbt.com^
 ||nkyafqufx.com^
@@ -9929,8 +9944,10 @@
 ||wwwmurgd.com^
 ||wxaeamianbg.com^
 ||wxbrdppfpr.com^
+||wxiwegwffls.com^
 ||wxmpekoil.com^
 ||wxtrzeizpnp.com^
+||wyaeyjaqx.com^
 ||wyhcocqu.com^
 ||wyjdunwcqnetus.com^
 ||wykskkpplgfi.com^
