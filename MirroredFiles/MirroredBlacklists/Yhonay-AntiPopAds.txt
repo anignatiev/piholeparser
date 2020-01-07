@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10557
+! Version: 10572
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -687,6 +687,7 @@
 ||bkgesylgvrgf.com^
 ||bkggsumw.bid^
 ||bkhzwuddpxjmyu.com^
+||bkjrxvxa.com^
 ||bkmtspywevsk.com^
 ||bkqksceiw.bid^
 ||bksbcawzviwcw.com^
@@ -3197,6 +3198,7 @@
 ||gwovohvkzay.com^
 ||gwqkliacsn.bid^
 ||gwquuagkjxbq.com^
+||gwucenxvmkowap.com^
 ||gwwzlwibbws.com^
 ||gwxaulcgmizcq.com^
 ||gwywsuemmf.com^
@@ -3632,6 +3634,7 @@
 ||huvzwmithltjia.com^
 ||huxwvqkdkc.bid^
 ||huynrscfbulr.com^
+||huyqmtpqhemcv.com^
 ||huzcotxmghlfip.bid^
 ||hvagzrssrcze.com^
 ||hvbiwwek.com^
@@ -4216,6 +4219,7 @@
 ||jbkxmktmatzk.com^
 ||jboovenoenkh.com^
 ||jbpyqajzwbh.bid^
+||jbqhnzmvh.com^
 ||jbqolazohwqesu.com^
 ||jbrpciuloi.com^
 ||jbvyjtyhatpam.com^
@@ -4751,6 +4755,7 @@
 ||kecldktirqzk.com^
 ||keeedoleeroe.com^
 ||keellcvwpzgj.com^
+||kemdckufiw.com^
 ||keolqzbmsuykwi.bid^
 ||keqnebfovnhl.com^
 ||kesllcmdcsbd.com^
@@ -4780,6 +4785,7 @@
 ||kgbjsizq.com^
 ||kgdglkxy.com^
 ||kgdmlsbtd.com^
+||kgghxooarlnz.com^
 ||kgkkfrvujnqf.com^
 ||kgnxtdcf.bid^
 ||kgobpqziy.com^
@@ -5659,6 +5665,7 @@
 ||lzvnaaozpqyb.com^
 ||maboflgkaxqn.com^
 ||mafndqbvdgkm.com^
+||magufsvogh.com^
 ||magwfymjhils.com^
 ||maidlytsnrn.com^
 ||mailhxubk.com^
@@ -6583,6 +6590,7 @@
 ||oarqgvtkco.com^
 ||oartozvwzv.com^
 ||oatvyenmekc.com^
+||oaxpcohp.com^
 ||oaxwtgfhsxod.com^
 ||oazbtactg.com^
 ||oazznjmbchmpdg.com^
@@ -9472,6 +9480,7 @@
 ||ulufyprtd.com^
 ||ulwsjpfxwniz.com^
 ||ulyppmnm.bid^
+||ulyrpgnqeyo.com^
 ||ulzcieyihw.com^
 ||umafkdswjuwz.bid^
 ||umaglven.com^
@@ -9799,6 +9808,7 @@
 ||vzlyapss.com^
 ||vzreguys.com^
 ||vzsuiuamhuozw.com^
+||vzvpswkjpxvzs.com^
 ||vzxnrtxpdnl.com^
 ||vzyclgqffpojk.com^
 ||wakogzmgjqucs.com^
@@ -9893,6 +9903,7 @@
 ||wmrlljpj.com^
 ||wmtyrdrpjbhnj.com^
 ||wndwhzjmfshthv.com^
+||wnhzlesdqzu.com^
 ||wnmtmdlvqqscs.com^
 ||wntpgjzwg.com^
 ||wnuvhicameqiso.com^
@@ -10261,6 +10272,7 @@
 ||ymwvkruyidppb.com^
 ||ymzrrizntbhde.com^
 ||ynebbsldruvfb.com^
+||ynelypolkq.com^
 ||ynhetcoypgnl.com^
 ||ynhonjqahrh.com^
 ||ynkakgknfljv.com^
@@ -10357,6 +10369,7 @@
 ||yycocbzc.com^
 ||yydmdsdnbtcduu.com^
 ||yyupkqqokrus.com^
+||yyvvnutdokptca.com^
 ||yyxntcpxxvtpuk.com^
 ||yyyghfmjkz.com^
 ||yzesxnzfhyy.com^
@@ -10374,6 +10387,7 @@
 ||zabpkrvgswdroz.com^
 ||zadhrsvmawp.com^
 ||zadwsvgxpfgtii.com^
+||zaentjfu.com^
 ||zasccycohek.com^
 ||zatrlsov.com^
 ||zavlamhx.com^
@@ -10534,6 +10548,7 @@
 ||zvfrfoxima.com^
 ||zvhwebvc.com^
 ||zvjwzcazv.com^
+||zvkytbjimbhk.com^
 ||zvmprcnihkk.com^
 ||zvswmofga.com^
 ||zweigciinmslan.com^

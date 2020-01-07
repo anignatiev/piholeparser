@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QfL9UfbuWMQG5SvhFrXjcQ
-! Version: 202001060021
+! Checksum: btN7qHqEWTUBFDsZ4/62ng
+! Version: 202001070021
 ! Title: Fanboy's Annoyance List
-! Last modified: 06 Jan 2020 00:21 UTC
+! Last modified: 07 Jan 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -735,8 +735,6 @@ _backToTop.
 ! Particles dynamic background
 /jquery.particleground.
 /particles-sel.js
-/particles.js
-/particles.min.js
 ! *** easylist:fanboy-addon/fanboy_social_general_block.txt ***
 -box-facebook_
 -box-twitter_
@@ -7005,6 +7003,7 @@ _site_cookie_
 ##div[class^="MuiSnackbar-"]
 ##div[class^="NewsletterForm_"]
 ##div[class^="NewsletterPopup_"]
+##div[class^="mpp-container-position"]
 ##div[id^="feature-newsletter"]
 ##div[id^="newsletter-subscribe-"]
 ##div[id^="wrapper_newsletter_"]
