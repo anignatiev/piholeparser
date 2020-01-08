@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10572
+! Version: 10584
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -2796,6 +2796,7 @@
 ||fzcyyqvrbrpk.com^
 ||fzeahussyd.com^
 ||fzgitqrqrsyyiv.com^
+||fzhvebnia.com^
 ||fzhwvlpnqg.bid^
 ||fzmogmfqh.com^
 ||fzorwhus.com^
@@ -5087,6 +5088,7 @@
 ||kvwvhpthqyaxk.bid^
 ||kvzvtiswjroe.com^
 ||kwajysvvjeyvs.com^
+||kwbwzapql.com^
 ||kwcaatayhgkq.bid^
 ||kwcrryneebg.com^
 ||kweayxzfazrws.com^
@@ -5198,6 +5200,7 @@
 ||lbwtrvpgvqkqc.com^
 ||lbytagcqxefsn.com^
 ||lceihiuarfqbn.bid^
+||lcknokgqhwnfkr.com^
 ||lckzoepctj.com^
 ||lcmausjvnc.com^
 ||lcmkcvisyynkw.com^
@@ -5363,6 +5366,7 @@
 ||lkvifcxvqkwrl.com^
 ||lkyuoybczr.com^
 ||lkzvhtetshbu.com^
+||llajhfzpoxhr.com^
 ||llbevorurncfcc.bid^
 ||llbynwyuoj.bid^
 ||llddarkinywtmg.bid^
@@ -6148,6 +6152,7 @@
 ||naucmjbzmymdzr.bid^
 ||nawdwtocxqru.com^
 ||naznwrruruvf.com^
+||nbbqgaeqnxun.com^
 ||nbbvpxfxnamb.com^
 ||nbclkgok.bid^
 ||nbdvbpzgwkfgq.com^
@@ -6849,6 +6854,7 @@
 ||opawiftgis.com^
 ||opbneuozwyuvpk.com^
 ||opcyvbwkbiaqyt.com^
+||opdefmkoeuoumo.com^
 ||opdfugwvncf.bid^
 ||opdmxlsdzd.bid^
 ||opflriars.com^
@@ -7421,6 +7427,7 @@
 ||pykexoeeibq.com^
 ||pyllxjfkjhpjbq.com^
 ||pypkrvtepsha.com^
+||pyqsbuaeqiku.com^
 ||pyqwtxicjodcij.com^
 ||pyscgael.bid^
 ||pyubjvvdsrja.com^
@@ -8251,6 +8258,7 @@
 ||rstdehuopwf.com^
 ||rstjainimptgn.com^
 ||rsuroxpotcoiq.com^
+||rsuwxqaoqpuueg.com^
 ||rsviqjzhvubz.com^
 ||rsvxipjqyvfs.com^
 ||rswgoccwzs.com^
@@ -8475,6 +8483,7 @@
 ||sfmnafrufk.com^
 ||sfmzbrdtse.com^
 ||sfmziexfvvru.com^
+||sfokenghj.com^
 ||sfpkwhncpllt.com^
 ||sfrsuihcubepzd.com^
 ||sfxmdqbi.com^
@@ -8749,6 +8758,7 @@
 ||swezbddhwcz.com^
 ||swfqsfewk.bid^
 ||swgvpkwmojcv.com^
+||swjvfwtypu.com^
 ||swkhaeiymk.bid^
 ||swmwgptzlgsc.com^
 ||swpopynngk.com^
@@ -10143,6 +10153,7 @@
 ||xsqylzml.com^
 ||xsrzmhriydfcqx.com^
 ||xsuinfhoxpoz.com^
+||xswbmktpgcwcud.com^
 ||xswezzwxh.com^
 ||xswmgpypkfbqoe.com^
 ||xtccyvimdr.com^
@@ -10401,6 +10412,7 @@
 ||zcauvwmfevhox.com^
 ||zcbyoqylllxe.com^
 ||zccebnzdujjw.com^
+||zcchbviygqkke.com^
 ||zcchnqgq.com^
 ||zcczlrtbbx.com^
 ||zcedqmobebmv.com^

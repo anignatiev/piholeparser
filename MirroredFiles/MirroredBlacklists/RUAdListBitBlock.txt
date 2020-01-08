@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jBQDm8t5UvC54NUptpzdjQ
-! Version: 202001060020
+! Checksum: xKwR+dJUdW4YE4xRopn1Wg
+! Version: 202001080020
 ! Title: RU AdList: BitBlock
-! Last modified: 06 Jan 2020 00:20 UTC
+! Last modified: 08 Jan 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -527,7 +527,7 @@ google.com##.entry-actions > .email
 google.com##.entry-actions > .like
 google.com##.entry-author > .entry-likers
 takprosto.cc##.essbis > :not(img)
-1tv.ru##.eump-share-social-items
+1tv.ru,mediavitrina.ru##.eump-share-social-items
 kp.by,kp.ru##.externalBlock > .left > span.title
 navitel.su##.extra_append:last-child
 sports.kz##.f-social-div
@@ -1436,7 +1436,6 @@ _userbar_$image
 !
 ! - Сервисы автоматически запускаемых push-уведомлений ------------------------
 ||adsblockkpush.com^$third-party
-||alonged.com^$third-party
 ||aquarepush.com^$third-party
 ||bosspush.com^$third-party
 ||bttm.guru^$third-party
@@ -3443,6 +3442,7 @@ myshared.ru#@#.ya-share2_inited
 @@||vkontakte.ru/js/api/share.js$script,domain=smotri.com|vinnitsa.info
 @@||vkontakte.ru/js/api/xd_connection.js$script,domain=ugo.ru
 @@||volnorez.com/templates/default/images/footer$image,domain=volnorez.com
+@@||vsthouse.ru^*/social2.$stylesheet,domain=vsthouse.ru
 @@||w.uptolike.com/widgets/$script,domain=vinnitsa.info
 @@||webmoney.ru/img/ui/social/$domain=my.webmoney.ru
 @@||wikium.ru/build/img/sprites/social-icons$domain=wikium.ru
@@ -20545,8 +20545,6 @@ _backToTop.
 ! Particles dynamic background
 /jquery.particleground.
 /particles-sel.js
-/particles.js
-/particles.min.js
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_general_hide.txt ***
 ###FooterboardMobile
 ###LiShare
@@ -22911,6 +22909,7 @@ _backToTop.
 ##div[class^="MuiSnackbar-"]
 ##div[class^="NewsletterForm_"]
 ##div[class^="NewsletterPopup_"]
+##div[class^="mpp-container-position"]
 ##div[id^="feature-newsletter"]
 ##div[id^="newsletter-subscribe-"]
 ##div[id^="wrapper_newsletter_"]
@@ -25381,6 +25380,7 @@ fark.com,github.com,github.io,justwatch.com,marketplace.firefox.com,vvhp.net#@#i
 @@||comcastnets.net/thyme/img/button-login-twitter.png$domain=eonline.com
 @@||copdfoundation.org/Portals/_default/Skins/COPDF/images/social-1.jpg
 @@||corriereobjects.it^*/socialshare.js?$domain=video.corriere.it
+@@||cotrip.org/images/common/$image,~third-party
 @@||coursehero.com/min/?f=*/social_share_tracking.js$domain=coursehero.com
 @@||coveritlive.com/templates/coveritlive/images/twitter_$~third-party
 @@||crazypanda.ru/m/js/social-$script,domain=crazypanda.ru

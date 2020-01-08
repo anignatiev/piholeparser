@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: btN7qHqEWTUBFDsZ4/62ng
-! Version: 202001070021
+! Checksum: h0oqoJ6xqXABPSbqGp0omg
+! Version: 202001080021
 ! Title: Fanboy's Annoyance List
-! Last modified: 07 Jan 2020 00:21 UTC
+! Last modified: 08 Jan 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -44127,6 +44127,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||comcastnets.net/thyme/img/button-login-twitter.png$domain=eonline.com
 @@||copdfoundation.org/Portals/_default/Skins/COPDF/images/social-1.jpg
 @@||corriereobjects.it^*/socialshare.js?$domain=video.corriere.it
+@@||cotrip.org/images/common/$image,~third-party
 @@||coursehero.com/min/?f=*/social_share_tracking.js$domain=coursehero.com
 @@||coveritlive.com/templates/coveritlive/images/twitter_$~third-party
 @@||crazypanda.ru/m/js/social-$script,domain=crazypanda.ru
