@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xKwR+dJUdW4YE4xRopn1Wg
-! Version: 202001080020
+! Checksum: D3hrNSzGzr4yEw3N7R4zWA
+! Version: 202001090020
 ! Title: RU AdList: BitBlock
-! Last modified: 08 Jan 2020 00:20 UTC
+! Last modified: 09 Jan 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1202,8 +1202,8 @@ _userbar_$image
 ||info/lines/$image
 ||jumpoutpopup.ru^$third-party
 ||lakiff.ru^$third-party
-||likemore-fe.go.mail.ru^$third-party,domain=~footballhd.ru|~klops.ru|~life.ru|~lifehacker.ru|~nevasport.ru|~sibnet.ru|~topwar.ru|~tut.by|~zakon.kz
-||likemore-go.imgsmail.ru^$third-party,domain=~auto.mail.ru|~footballhd.ru|~klops.ru|~life.ru|~lifehacker.ru|~nevasport.ru|~sibnet.ru|~topwar.ru|~tut.by|~zakon.kz
+||likemore-fe.go.mail.ru^$third-party,domain=~footballhd.ru|~klops.ru|~life.ru|~lifehacker.ru|~myusli.ru|~nevasport.ru|~sibnet.ru|~topwar.ru|~tut.by|~zakon.kz
+||likemore-go.imgsmail.ru^$third-party,domain=~auto.mail.ru|~footballhd.ru|~klops.ru|~life.ru|~lifehacker.ru|~myusli.ru|~nevasport.ru|~sibnet.ru|~topwar.ru|~tut.by|~zakon.kz
 ||line.*.$third-party
 ||log2.ru^$third-party
 ||mytopf.com^$third-party
@@ -1260,6 +1260,7 @@ _userbar_$image
 ###gpdr:not(body):not(html)
 ###gsr > div > #pushdown
 ###gt-community-promo
+###optanon
 ###pjAcceptCookieBar
 ###privacypolicy
 ###pushdown.pdp-psy
@@ -1335,6 +1336,7 @@ _userbar_$image
 ##.module_messages_cookies
 ##.noticeCookiesContent
 ##.notification-cookies
+##.optanon-alert-box-wrapper
 ##.orakul-grey-block
 ##.penci-gprd-law
 ##.penci-wrap-gprd-law
@@ -2060,6 +2062,7 @@ comunicart.ru###footer_content > .js-decode
 biglion.ru###form_popup_id
 animerost.org###fraind > span
 tapochek.net###fucking_shit_block
+nashaplaneta.net###fullarea[onclick*="calendar"],#aviacalendar
 segodnya.ua###gdpr_cookies
 anime-rus.ru###getreg
 friday.ru###global-alert-queue
@@ -2527,6 +2530,7 @@ coolhouses.ru##.mini_others_bar
 sport-express.ru##.ml_5.clearfix.f_left
 2ch.hk,2ch.pm##.mmm
 forum.ixbt.com##.mobb
+nashaplaneta.net##.mobile_announce
 youhack.ru##.mobyaza > .columnsContainer ~ *
 slavyanskaya-kultura.ru##.mod_inshop_front
 regfile.ru##.modal-backdrop
@@ -2778,6 +2782,7 @@ fosshub.com##[data-section-content-type="donate"]
 sxnarod.com##[href$="?act=acquaintance"] > img[src^="/image/"]
 fastpic.ru##[id*="footer"] a[href="https://static.fastpic.ru/FastPicUploader.apk"]
 4pda.ru#?#[id][class][style]:-abp-has(> script:-abp-contains(querySelector))
+nashaplaneta.net##[id^="flowblock"]
 gidonline.eu##[id^="iivk"]
 1tv.ru##[id^="m_banner"]
 iguides.ru##[id^="post_message_"] ~ div
@@ -2912,6 +2917,7 @@ muz.ru##div[style*="400px;"][style$="240px;"]
 psy-music.ru##div[style*="tranceshop.ru"]
 joyreactor.cc,pornreactor.cc,reactor.cc##div[style="text-align: center; background-color: rgb(255, 255, 3);"]
 kirov-portal.ru#?#div[style]:-abp-has(> div[style] > a[href="/news/akcii/"])
+nashaplaneta.net##footer > a ~ p
 azbooki.ru,engisys.ru,zip1000.ru##html > div[style^="color: rgb"]
 www.championat.com##iframe[src*="bet.championat.com"]
 driveroff.net,samlab.ws##iframe[src*="money.yandex.ru"]
@@ -7270,6 +7276,7 @@ _youtube_social_
 ###fb_icon
 ###fb_like_fan_page_layer
 ###fb_like_header
+###fb_like_page_div
 ###fb_like_pop
 ###fb_like_widget
 ###fb_likebox
@@ -20035,6 +20042,7 @@ _youtube_social_
 /sna-pushwoosh.
 /web-push-worker.
 /web-push.
+/webnotf.js
 /webpush.
 /webpush/*
 /webPushIframe.
@@ -22243,6 +22251,7 @@ _backToTop.
 ##.mt-subscribe
 ##.mvp-post-sub-wrap
 ##.n_subscribe_wdgt
+##.naf-newsletter-footer
 ##.nav-newsletter
 ##.nav-newsletter-subsribe-form
 ##.navNewsletter
@@ -22927,6 +22936,7 @@ _backToTop.
 ###bigpicture-webpush-widget
 ###cont_webpush
 ###desktop-notification-ask-dialog
+###desktop-notifications
 ###dialog-push-notification
 ###divPnot
 ###edrone--push--alert--box
@@ -22993,6 +23003,7 @@ _backToTop.
 ##.m-notifications-banner
 ##.m-webpush-layer
 ##.modal-push
+##.naf-web-notifications-popup
 ##.notBar
 ##.notf-overlay
 ##.ntfc_overlay
@@ -23027,6 +23038,7 @@ _backToTop.
 ##.window-push
 ##.wordpress-fire-push-popup
 ##.ys-push
+##amp-web-push-widget
 ! alextimes.com
 ##.cpcta-flyin
 ! gastongazette.com
@@ -24371,6 +24383,7 @@ _backToTop.
 ||alertme.news^$third-party
 ||aswpsdkus.com^$third-party
 ||basepush.com^$third-party
+||bildirt.com^$third-party
 ||bosspush.com^$third-party
 ||braze.com^$third-party
 ||browserpusher.com^$third-party
@@ -24381,13 +24394,18 @@ _backToTop.
 ||cleverpush.com^$third-party
 ||contentsitesrv.com/js/push/$third-party
 ||copush.com^$third-party
+||cracataum.com^$third-party
 ||d2r1yp2w7bby2u.cloudfront.net^
+||easyfeeed.com^$third-party
 ||edrone.me^$third-party
+||farteniuson.com^$third-party
+||fernomius.com^$third-party
 ||fortpush.com^$third-party
 ||foxpush.com^$third-party
 ||foxpush.net^$third-party
 ||getback.ch^$third-party
 ||getpushmonkey.com^$third-party
+||heroesdom.com^$third-party
 ||hitplus.net^$third-party
 ||iopushtech.com^$third-party
 ||irpush.com^$third-party
@@ -24396,9 +24414,11 @@ _backToTop.
 ||master-push.com^$third-party
 ||master-push.net^$third-party
 ||moengage.com^$third-party
+||nativesubscribe.pro^$third-party
 ||news2day.me^$third-party
 ||notification-time.com^$third-party
 ||notification.tubecup.net^
+||olgtex.com^$third-party
 ||onesignal.com^$third-party
 ||partishion.com^$third-party
 ||pathlime.com^$third-party
@@ -24415,6 +24435,7 @@ _backToTop.
 ||push-pro.net^$third-party
 ||push.connect.digital^$third-party
 ||push.daksham.in^$third-party
+||push.esputnik.com^
 ||push.rent^$third-party
 ||push.world^$third-party
 ||push4site.com^$third-party
@@ -24427,8 +24448,10 @@ _backToTop.
 ||pushbox.info^$third-party
 ||pushbullet.com^$third-party
 ||pushcentr.com^$third-party
+||pushchev.info^$third-party
 ||pushcrew.com^$third-party
 ||pushengage.com^$third-party
+||pusherapp.com^$third-party
 ||pushex.io^$third-party
 ||pushify.com^$third-party
 ||pushiki.ru^$third-party
@@ -24456,6 +24479,7 @@ _backToTop.
 ||signaly.co^$third-party
 ||snrcdn.net^$third-party
 ||subscribers.com^$third-party
+||topswp.com^$third-party
 ||truepush.com^$third-party
 ||ucfeed.ru^$third-party
 ||viapush.com^$third-party
@@ -24464,8 +24488,8 @@ _backToTop.
 ||whitepush.biz^$third-party
 ||wonderpush.com^$third-party
 ||worldpush.co^$third-party
-||wpu.sh^$third-party
 ||wpush.biz^$third-party
+||wwclicknews.club^$third-party
 ||xtremepush.com^$third-party
 ! Embedded video Annoyances
 ||sendtonews.com/player/sidebar.php?$third-party

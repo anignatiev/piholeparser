@@ -22,6 +22,7 @@ online.mirabilis.com
 p.nag.ru
 platform.loyaltylion.com
 promotion.vesti.lv
+push.esputnik.com
 ruler.autoserv.ru
 sge-chat.skorpik.ru
 snippets.mozilla.com
