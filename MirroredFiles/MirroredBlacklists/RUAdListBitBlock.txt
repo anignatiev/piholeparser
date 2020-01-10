@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: D3hrNSzGzr4yEw3N7R4zWA
-! Version: 202001090020
+! Checksum: fnB6nV6OURYmix3kGSfSPw
+! Version: 202001100340
 ! Title: RU AdList: BitBlock
-! Last modified: 09 Jan 2020 00:20 UTC
+! Last modified: 10 Jan 2020 03:40 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -257,7 +257,7 @@ _vkontakte.png
 securitylab.ru###BottomSocial
 porno-comics.ru###RSS-L
 obninsk.name###Sosal
-anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,online-star.org###VK_com
+anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,online-star.org,online-stars.org###VK_com
 filmy-2017.online###Vk-group
 sochi.com###ab-sidebar
 hryunomod.ru###ads
@@ -303,6 +303,7 @@ google.com###lhn-friends
 google.com###lhn-recommendations
 beholder.pro###likeSocialNetworks
 morediva.ru###likebottom
+ko.com.ua###logosearch > .read_tools
 memesmix.net#?##main-area .module-body:-abp-has(> div > #vk_comments)
 pogoda.com###mapa-loc-shared
 cameralabs.org###menulogin
@@ -628,6 +629,7 @@ volodymyrets.city##.mc-page-share
 myslo.ru##.media-ads-block-telegram
 www.kinopoisk.ru##.media-article__side
 www.kinopoisk.ru##.media-news__side
+libertycity.ru#?#.menup:-abp-has(> #vk_groups)
 multmania.club,multonline.ru##.menusection a[href][target="_blank"]
 pingvin.pro##.menusocicons
 mega-track.org##.messageList > .tabs
@@ -734,7 +736,7 @@ ru-an.info##.share-index
 livemaster.ru##.share-link-list *
 kino-fs.ucoz.net##.share-player
 riafan.ru##.share-pre-block
-anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,online-star.org##.share-soc
+anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,online-star.org,online-stars.org##.share-soc
 rutube.ru##.share_buttons-meta
 fb.ru,syl.ru##.share_img
 zi.dn.ua##.share_quote
@@ -775,7 +777,7 @@ itc.ua##.sn
 rebenok.by##.sn-share-img-links
 itc.ua##.sn-widget
 piter.tv##.snet-links
-1tulatv.ru,anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,it-here.ru,online-star.org,vokrugsveta.ru##.soc
+1tulatv.ru,anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,it-here.ru,online-star.org,online-stars.org,vokrugsveta.ru##.soc
 telegraf.com.ua##.soc-app
 slovo.ws##.soc-butt
 rutracker.appspot.com,rutracker.net,rutracker.nl,rutracker.org##.soc-buttons
@@ -991,7 +993,7 @@ kuban24.tv##a[href*="://t-do.ru/"]
 computerra.ru##a[href*="://tele.click/"]
 freesoft.ru##a[href="#share"]
 gazeta.uz##a[href="https://telegram.me/gazetauz"] > img
-anistar.org,anistar1.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,online-star.org##a[href="https://tlg.name/AniStarTV"]
+anistar.org,anistar1.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,online-star.org,online-stars.org##a[href="https://tlg.name/AniStarTV"]
 kommersant.ru##a[href][title="Поделиться"]
 youla.ru##a[href][title^="Поделиться"]
 rusnext.ru##a[href^="http://www.odnoklassniki.ru/group/"]
@@ -1245,6 +1247,7 @@ _userbar_$image
 ###cookieNotice
 ###cookiePolicy
 ###cookie_bar
+###cookie_confirm
 ###cookie_policy
 ###cookiebar
 ###cookieconsent
@@ -1290,6 +1293,8 @@ _userbar_$image
 ##.cookie-agreement
 ##.cookie-bar:not(body):not(html)
 ##.cookie-box
+##.cookie-confirm
+##.cookie-confirm-wrap
 ##.cookie-consent:not(html):not(body)
 ##.cookie-label
 ##.cookie-message
@@ -2402,8 +2407,8 @@ vse.fm#?#.dialogClass:-abp-has(*:-abp-contains(/donate/i))
 soccer.ru##.disabled-block
 burdastyle.ru,cosmo.ru,esquire.ru,goodhouse.ru,popmech.ru##.disclame_block
 ichip.ru,lisa.ru##.disclamer
-anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,online-star.org##.dle-popup-confirm
-anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,online-star.org##.donat
+anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,online-star.org,online-stars.org##.dle-popup-confirm
+anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,online-star.org,online-stars.org##.donat
 anitokyo.tv##.donate
 favoritemovies.at.ua##.eText > .top
 eagleplatform.com##.eplayer-backgroung-suggest-lenta
@@ -2434,7 +2439,7 @@ domato.ru##.footer-content > div[style^="position: fixed;"]
 kufar.by##.footer__scroll
 yodnews.ru##.footer_panel_links
 trudbox.com.ua##.form-group > .popover-yellow > .popover
-anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,online-star.org##.frends-list-site
+anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,online-star.org,online-stars.org##.frends-list-site
 adme.ru##.fresh-separator
 animaunt.org##.full > .fbtn
 seasonvar.cc##.full-news > table:nth-of-type(2)
@@ -2918,6 +2923,7 @@ psy-music.ru##div[style*="tranceshop.ru"]
 joyreactor.cc,pornreactor.cc,reactor.cc##div[style="text-align: center; background-color: rgb(255, 255, 3);"]
 kirov-portal.ru#?#div[style]:-abp-has(> div[style] > a[href="/news/akcii/"])
 nashaplaneta.net##footer > a ~ p
+libertycity.ru##header > div[class^="fon"]
 azbooki.ru,engisys.ru,zip1000.ru##html > div[style^="color: rgb"]
 www.championat.com##iframe[src*="bet.championat.com"]
 driveroff.net,samlab.ws##iframe[src*="money.yandex.ru"]
@@ -3300,6 +3306,7 @@ codeguida.com#@#.social-item
 4pda.ru#@#.social-link
 stopgame.ru#@#.social-links
 ddestiny.ru,rambler.ru#@#.social-list
+gallerix.ru#@#.social-tumblr
 rambler.ru#@#.social__item
 wikium.ru#@#.social__link
 www.ixbt.com#@#.social_links
@@ -25001,6 +25008,7 @@ franceculture.fr#@#.share-zone
 arte.tv,kp.by,kp.ru#@#.shareBox
 martindoor.com#@#.shareButton
 scan.co.uk#@#.shareContainer
+tvn24bis.pl#@#.shareContainerList
 lse.co.uk#@#.shareContent
 hootsuite.com#@#.shareCount
 pscufs.com#@#.shareLeft
@@ -25083,6 +25091,7 @@ domain.com.au#@#.social-stick
 tv-kino.net#@#.social-tab
 golem.de#@#.social-tools
 gamesrepublic.com#@#.social-top
+gallerix.asia,gallerix.org#@#.social-tumblr
 4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-twitter
 bronchiectasisandntminitiative.org,copdfoundation.org,viralnova.com#@#.social-wrap
 dreuz.info,foxnews.com#@#.social-wrapper
@@ -25091,10 +25100,12 @@ runescape.com,study.163.com#@#.socialBox
 ceneo.pl,showmax.com#@#.socialBtns
 tomshardware.com#@#.socialButton
 keepa.com,mousehuntgame.com#@#.socialButtons
+oculus.com#@#.socialFacebook
 answers.microsoft.com#@#.socialIcon
 pbs.org#@#.socialList
 welt.de#@#.socialMedia
 wweek.com#@#.socialRight
+oculus.com#@#.socialTwitter
 gorod.mos.ru#@#.social__facebook
 gorod.mos.ru#@#.social__twitter
 iq-student-accommodation.com#@#.social_bar
@@ -25234,7 +25245,7 @@ aliexpress.com,github.com,github.io#@#a[title="facebook"]
 onlineradiobox.com#@#a[title="ВКонтакте"]
 google.com,smugmug.com#@#button[title="Share"]
 digg.com#@#div[id^="digg-widget-"]
-a2zapk.com,authy.com,clubbingtv.com,disqus.com,eff.org,eleconomista.es,facebook.com,forsal.pl,github.com,github.io,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.nz,google.co.th,google.co.uk,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.de,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk,heise.de,hockeyapp.net,incgamers.com,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,ludins.fr,massivelyop.com,maxthon.com,microsoft.com,opendatacity.de,playboy.com,selly.pl,sky.com,t3n.de,thoughtcatalog.com,twitter.com,udacity.com,vvhp.net,whatthetech.com#@#img[alt="Facebook"]
+a2zapk.com,authy.com,clubbingtv.com,disqus.com,eff.org,eleconomista.es,facebook.com,forsal.pl,github.com,github.io,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.nz,google.co.th,google.co.uk,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.de,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk,heise.de,hockeyapp.net,incgamers.com,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,ludins.fr,massivelyop.com,maxthon.com,microsoft.com,oculusvr.com,opendatacity.de,playboy.com,selly.pl,sky.com,t3n.de,thoughtcatalog.com,twitter.com,udacity.com,vvhp.net,whatthetech.com#@#img[alt="Facebook"]
 flickr.net#@#img[alt="Flickr"]
 github.com,github.io,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.nz,google.co.th,google.co.uk,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.de,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk,vvhp.net,xkcd.com,youtube.com#@#img[alt="Google+"]
 a2zapk.com,dobreprogramy.pl,github.com,github.io,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws,instagram.com,vvhp.net,whatculture.com#@#img[alt="Instagram"]
@@ -25479,6 +25490,7 @@ fark.com,github.com,github.io,justwatch.com,marketplace.firefox.com,vvhp.net#@#i
 @@||fontawesome.io^$generichide,~third-party
 @@||foreignpolicy.com^*_id_twitter_icon.png
 @@||fortawesome.github.io/Font-Awesome/$generichide,~third-party
+@@||forums.oculusvr.com/themes/oculus/design/$image
 @@||fptplay.net/static/img/share/$image
 @@||freeonlineseo.org/theme/default/$image
 @@||freshdesk.de/themes/freshdesk/images/icons/social-$image
