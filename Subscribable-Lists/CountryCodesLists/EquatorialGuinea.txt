@@ -269,6 +269,7 @@ itaubanklines.gq
 itaubankonline.gq
 itauunibanco.gq
 itiolo.gq
+javacript.gq
 jbshcar.gq
 jeosie.gq
 jessygunnarsseon.gq

@@ -53,6 +53,7 @@
 9001.tv
 900900.tv
 a-muse.tv
+a-origin.teads.tv
 a.fobos.tv
 a.fuel.tv
 a.teads.tv
@@ -115,6 +116,7 @@ acr8.alphonso.tv
 acr9.alphonso.tv
 acrdb.alphonso.tv
 actricesporno.tv
+ad.go.affec.tv
 ad.mox.tv
 ad.pandora.tv
 adam.assets.ispot.tv
@@ -129,8 +131,10 @@ admin-analytics.ispot.tv
 admo.tv
 adne.tv
 adrise.tv
+ads-secure.videohub.tv
 ads-trk.vidible.tv
 ads.adap.tv
+ads.adrise.tv
 ads.alphonso.tv
 ads.digitalalchemy.tv
 ads.fora.tv
@@ -140,8 +144,12 @@ ads.kure.tv
 ads.maleflixxx.tv
 ads.porncash.tv
 ads.pramer.tv
+ads.samba.tv
+ads.smartstream.tv
 ads.static.blip.tv
+ads.superawesome.tv
 ads.tnt.tv
+ads.use1.prod.vidible.tv
 ads.videohub.tv
 ads.viralize.tv
 ads.vkushti.tv
@@ -150,9 +158,11 @@ ads.woop.tv
 ads25.videe.tv
 adserver-east.extend.tv
 adserver-west.extend.tv
+adserver.iad1.videohub.tv
 adserver.securex.tv
 adserver.shoofle.tv
 adserver.uniqube.tv
+adserver.videohub.tv
 adserverc.shoofle.tv
 adservercin.shoofle.tv
 adsrv.advanced-television.tv
@@ -321,6 +331,7 @@ bdsm.tv
 bdsmpage.tv
 bdsmvideos.tv
 bdsmxxx.tv
+be-ms.teads.tv
 beacon.mtgx.tv
 bearporn.tv
 bearsathome.tv
@@ -484,12 +495,14 @@ catfighters.tv
 cctva.tv
 cdn-media.brightline.tv
 cdn.discoveryad.castoola.tv
+cdn.go.affec.tv
 cdn.ispot.tv
 cdn.shoofle.tv
 cdn.teads.tv
 cdn.videoplaza.tv
 cdn.vidible.tv
 cdn.vipbox.tv
+cdn2.teads.tv
 cdnm.shoofle.tv
 cdnm4.shoofle.tv
 celebrities.tv
@@ -562,6 +575,7 @@ countess.twitch.tv
 coupevideo.tv
 coweqilu.co.tv
 create-x.tv
+criteo-sync.teads.tv
 cronos.tv
 cruisein.tv
 cruisingforsex.tv
@@ -670,6 +684,7 @@ dreamdrama.tv
 dreamnet.tv
 drsusanblock.tv
 drunk-sluts.tv
+dsp2-adserver.videohub.tv
 dt.videohub2.tv
 dvdcraze.tv
 dvdx.tv
@@ -729,6 +744,7 @@ event-listener.air.tv
 event-log.videe.tv
 event.ispot.tv
 events.air.tv
+events.cid.samba.tv
 events.ispot.tv
 everytalk.tv
 ex21.tv
@@ -859,6 +875,7 @@ freistoss.tv
 french-girls.tv
 frenchlover.tv
 freshgirls.tv
+frqj.adrise.tv
 fubutoqo.co.tv
 fuck-my-wife.tv
 fuck-videos.tv
@@ -1188,6 +1205,7 @@ indiansex.tv
 indiborge.tv
 info.ispot.tv
 innocent.tv
+inread-experience.teads.tv
 insights.alphonso.tv
 interiordezine.tv
 interracial-sex.tv
@@ -1307,11 +1325,14 @@ kostenlosepornos.tv
 koudas.alphonso.tv
 kporno.tv
 krishna.tv
+krishnaw223.alphonso.tv
+krishnaw224.alphonso.tv
 krutilka.setevoe.tv
 kubahifu.co.tv
 kut.tv
 kutjes.tv
 l.coincident.tv
+l0-secure.videohub.tv
 l0ve4teneric.co.tv
 ladyboy.tv
 ladyboytube.tv
@@ -1442,6 +1463,7 @@ manage5.tv
 manman.tv
 mansurfer.tv
 mansworld.tv
+map.go.affec.tv
 marketingtools.facialabuse.tv
 maroon5.streams24.tv
 masculin.tv
@@ -1497,6 +1519,7 @@ minisuka.tv
 minogons.e-city.tv
 mioeverywhere.tv
 mirrortool.tv
+misc.teads.tv
 mixer.cupid.ptqy.gitv.tv
 mixmao.e-city.tv
 mmg.aty.snmsohu.aisee.tv
@@ -1526,6 +1549,7 @@ movie24.tv
 moviegroup.tv
 moviepass.tv
 movy.tv
+mp.teads.tv
 mp.twitch.tv
 mrank.tv
 mrporn.tv
@@ -1627,6 +1651,10 @@ newsensations.tv
 newstudio.tv
 nextdoornikki.tv
 neymar.alphonso.tv
+nginx12.iad1.videohub.tv
+nginx13.iad1.videohub.tv
+nginx14.iad1.videohub.tv
+nginx15.iad1.videohub.tv
 nibududi.co.tv
 niceq8i.tv
 nineteenpussy.tv
@@ -1666,6 +1694,8 @@ om.api.ispot.tv
 omaextreem.tv
 omany.tv
 omapornos.tv
+omsdk.prod.vidible.tv
+omsdk.vidible.tv
 onemanbanned.tv
 onlien4buy6lvesuces.co.tv
 online-game.tv
@@ -1686,7 +1716,9 @@ optout.alphonso.tv
 orgazmik.tv
 oscar.alphonso.tv
 ostudios.tv
+ot.teads.tv
 outpersonals.tv
+ovp.iris.tv
 owerfulllowest-boyw.co.tv
 own3d.tv
 ox-d.cordillera.tv
@@ -1695,11 +1727,13 @@ ox2.pron.tv
 ox3.pron.tv
 ozil.alphonso.tv
 p-pp.tv
+p.teads.tv
 p2.dnvod.tv
 p3.dnvod.tv
 p4.dnvod.tv
 p5.dnvod.tv
 p6.dnvod.tv
+paella.adrise.tv
 pahirune.co.tv
 palimas.tv
 pamietnikiwampirow.tv
@@ -1871,6 +1905,8 @@ privecam.tv
 promis.tv
 pron.tv
 prov.alphonso.tv
+prov4.alphonso.tv
+prov5.alphonso.tv
 proxy-ssl.shoofle.tv
 proxy.alphonso.tv
 proxy.shoofle.tv
@@ -1901,6 +1937,7 @@ qucexohe.co.tv
 queenmother.tv
 queerporn.tv
 r-shodo.tv
+r.teads.tv
 rachelstarr.tv
 ragazze.tv
 ragazzesexy.tv
@@ -1921,6 +1958,7 @@ realestatetycoon.tv
 realityporn.tv
 realshow.tv
 realtreffen.tv
+recommender4.alphonso.tv
 red-light.tv
 redhottube.tv
 redir.adap.tv
@@ -1967,6 +2005,7 @@ rurowoco.co.tv
 rusporn.tv
 rxmeds.tv
 rxr.ravm.tv
+s.adrise.tv
 s1-a1.dnvod.tv
 s1-a2.dnvod.tv
 s1-a3.dnvod.tv
@@ -1986,8 +2025,10 @@ s5.shoofle.tv
 s6.shoofle.tv
 s7.shoofle.tv
 s8.shoofle.tv
+s8t.teads.tv
 s9.shoofle.tv
 sacc.tv
+sad.go.affec.tv
 sado-maso.tv
 sado-masochistic.tv
 salacious.tv
@@ -2140,6 +2181,7 @@ shp4byu2sodl.co.tv
 shping6to2producs6riscount.co.tv
 shy-girl.e-city.tv
 sicoob-smiles.atspace.tv
+signalad.go.affec.tv
 silva.alphonso.tv
 silverdaddies.tv
 simplygay.tv
@@ -2236,10 +2278,12 @@ strip-show.tv
 strip.tv
 strippen.tv
 strumpfhosen.tv
+studio-t.teads.tv
 subohejo.co.tv
 subs.vgu.tv
 suga.tv
 sully.tv
+sundaysky-sync-us.teads.tv
 sunnyleone.tv
 super-erotic.tv
 superbowl2014.streams24.tv
@@ -2254,7 +2298,9 @@ swingers.tv
 sybian.tv
 sync-west.extend.tv
 sync.adap.tv
+sync.alphonso.tv
 sync.extend.tv
+sync.teads.tv
 syndicaster.tv
 szexvideo.tv
 t-ads.adap.tv

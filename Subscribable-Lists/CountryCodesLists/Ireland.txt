@@ -526,6 +526,7 @@ ads.local.ie
 ads.online.ie
 ads.rte.ie
 ads.tinet.ie
+adservice.google.ie
 adssuck.blogspot.ie
 adstreaming.ie
 adult-911.blogspot.ie

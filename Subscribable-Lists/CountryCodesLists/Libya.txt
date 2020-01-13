@@ -43,8 +43,11 @@ count.ly
 cuddle.count.ly
 dai.ly
 data.minute.ly
+dev-api.persona.ly
+dev.dsp.persona.ly
 djastaprasta.biz.ly
 do.count.ly
+dsp.persona.ly
 dz.ly
 e-bay.com.biz.ly
 eflglobal.count.ly
@@ -94,6 +97,7 @@ ozkansteel.count.ly
 p.ly
 parse.ly
 percin.biz.ly
+persona.ly
 pix.bit.ly
 post.ly
 quby.count.ly
@@ -101,12 +105,14 @@ rebrand.ly
 resources.count.ly
 restcomm.count.ly
 rev.adip.ly
+rtb.persona.ly
 ru.ly
 s3cur3d.biz.ly
 salope-poitrine.biz.ly
 salopes-blondes.biz.ly
 salopeta-poitrine.biz.ly
 scp.adip.ly
+sdk.persona.ly
 security.biz.ly
 sentio.count.ly
 sgn-sebey.biz.ly

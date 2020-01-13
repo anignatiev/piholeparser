@@ -36,6 +36,7 @@ apjkrxbt.la
 app.carambo.la
 apps-safety.me.la
 assets-cdn.games.la
+assets.soom.la
 auplaisirdelafemme.c.la
 aurelie75.c.la
 b.coka.la
@@ -502,6 +503,7 @@ surfer.secure.la
 tccrgbjgniumttbdfpti.la
 tdbkpdbdxnbob.la
 tdgjrjvqvanhvbfunc.la
+teleport.soom.la
 tjkfhluaeyjkfpje.la
 tlmgsygtn.la
 tokcowe.la

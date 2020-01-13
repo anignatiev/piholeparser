@@ -24,6 +24,7 @@ labaleine.gg
 log.pinion.gg
 loungeangelina.tr.gg
 mail.pinion.gg
+mebed.dm.gg
 mine.ubiq.labaleine.gg
 motd.pinion.gg
 music.labaleine.gg

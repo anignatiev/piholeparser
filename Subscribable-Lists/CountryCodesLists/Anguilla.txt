@@ -1,4 +1,5 @@
 api.ascend.ai
+api.native.ai
 app.ascend.ai
 ascend.ai
 chatchat.ai
@@ -18,6 +19,7 @@ porno.ai
 powerad.ai
 proxy.ascend.ai
 rt.ascend.ai
+sdk.markable.ai
 sheratonjakartagandaria.id.ai
 tonicchambers.id.ai
 track.captivate.ai

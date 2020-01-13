@@ -66,6 +66,7 @@
 99bb.cc
 9hostid.cc
 a.clipconverter.cc
+a.popin.cc
 a2g.cc
 a4w.cc
 abc.suprnova.cc
@@ -90,6 +91,12 @@ ad-ware.cc
 ad.hefei.cc
 ad.weplayer.cc
 ad.wretch.cc
+ad1.on.cc
+ad2.on.cc
+ad4.on.cc
+ad5.on.cc
+ad6.on.cc
+ad7.on.cc
 adaware.cc
 adc.suprnova.cc
 adci.cc
@@ -182,6 +189,7 @@ anything-and-everything.co.cc
 aodai.cc
 apeolatry.cc
 api.minero.cc
+api.popin.cc
 api.ujian.cc
 api43.cc
 apotheke.cc
@@ -379,7 +387,11 @@ bsd.suprnova.cc
 bsh.suprnova.cc
 bsty.suprnova.cc
 bsu.mce.cc
+bt.rutracker.cc
 bt.suprnova.cc
+bt2.rutracker.cc
+bt3.rutracker.cc
+bt4.rutracker.cc
 bta.suprnova.cc
 btc.suprnova.cc
 btc21.suprnova.cc
@@ -458,7 +470,11 @@ cctrade.cc
 ccz286khmwmju.bpl.cc
 cda-hd.cc
 cdc.suprnova.cc
+cdn-assets.prfct.cc
+cdn-otf-cas.prfct.cc
+cdn-resources.prfct.cc
 cdn.baizhu.cc
+cdn.mobiletop.cc
 cdn.securepayment.cc
 cdt.suprnova.cc
 ce.suprnova.cc
@@ -594,6 +610,7 @@ creativeartworks.cc
 creolizenk.cc
 crep.ingest.cryptoknight.cc
 criticalfactor.cc
+crosspromotion.weplayer.cc
 crs.suprnova.cc
 crw.suprnova.cc
 crwetnow18.atspace.cc
@@ -706,6 +723,7 @@ dildos.cc
 dinasty.ingest.cryptoknight.cc
 dinazz.cc
 dio.suprnova.cc
+discoveryplus.popin.cc
 djebhcpv.cc
 dkc.suprnova.cc
 dkimoptin.cu.cc
@@ -1444,6 +1462,7 @@ loco.suprnova.cc
 loer.cc
 log2.adop.cc
 loglogincloths.usa.cc
+logs.mobiletop.cc
 lojasamericanassuves3.oni.cc
 loki.ingest-asia.cryptoknight.cc
 loki.ingest-us.cryptoknight.cc
@@ -1912,6 +1931,7 @@ quilts.cc
 quit.suprnova.cc
 qw.suprnova.cc
 qwerty.ingest.cryptoknight.cc
+r.popin.cc
 race.suprnova.cc
 rack.cc
 rain.suprnova.cc
@@ -1962,6 +1982,7 @@ riotpoints.cu.cc
 ripo.suprnova.cc
 riviera.cc
 rl.webtracer.cc
+rlog.popin.cc
 roi.suprnova.cc
 root.suprnova.cc
 ros.suprnova.cc
@@ -2265,6 +2286,7 @@ synx.suprnova.cc
 sys.suprnova.cc
 syscare.uni.cc
 system-error-found.flu.cc
+t.ads.cc
 t.rack.cc
 t.swapx.cc
 t.ujian.cc

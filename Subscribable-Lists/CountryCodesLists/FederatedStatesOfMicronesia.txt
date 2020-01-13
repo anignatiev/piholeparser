@@ -1,5 +1,6 @@
 114.fm
 163.fm
+ad.apps.fm
 ad.audible.fm
 ad.qingting.fm
 adserver.1.fm

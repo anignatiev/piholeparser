@@ -1209,6 +1209,7 @@ admin-x.de
 admin.ads.t-online.de
 admin.download-sponsor.de
 admiraragglx.blogspot.de
+admob.de
 adn.meinsol.de
 adnet.de
 adnews.maddog2000.de
@@ -1317,6 +1318,7 @@ ads.immobilienscout24.de
 ads.infonet-thueringen.de
 ads.intergenia.de
 ads.internova.de
+ads.ioam.de
 ads.ipod-forum.de
 ads.iqweb.de
 ads.isum.de
@@ -1366,6 +1368,7 @@ ads.web1tv.de
 ads.web21.de
 ads.webkicks.de
 ads.whx.de
+ads.yahoo.de
 ads.zdnet.de
 ads05.freecity.de
 ads1.advance.de
@@ -1381,6 +1384,7 @@ ads4.advance.de
 ads4.net2day.de
 adscale.de
 adsend.de
+adsense.de
 adserv.evo-x.de
 adserv.gamezone.de
 adserv.mir-media.de
@@ -1470,6 +1474,7 @@ adserver2.mediainsight.de
 adserver2.mindshare.de
 adserver2.popdata.de
 adserverams.adtech.de
+adservice.google.de
 adshot.de
 adsklick.de
 adsm.gameforge.de
@@ -3715,7 +3720,10 @@ api-selene.prod.adtech.de
 api.bitcoin.de
 api.chip-secured-download.de
 api.einfach-iota.de
+api.finanzen.immobilienscout24.de
 api.intensifier.de
+api.mobile.immobilienscout24.de
+api.recommendation.immobilienscout24.de
 aplayingwithfireproduction.blogspot.de
 aplikasiandroidinfo.blogspot.de
 apolomania.blogspot.de
@@ -4288,6 +4296,7 @@ asiqueestoeselsexo.blogspot.de
 askanativespeaker.de
 askblogjesus.blogspot.de
 askbook.de
+askfm.adspirit.de
 askisobel.blogspot.de
 asklepios-versand.de
 askmewhyz.phpbbx.de
@@ -4339,6 +4348,7 @@ assertivo.blogspot.de
 assetplay.com.de
 assets.adtech.de
 assets.oomz.de
+assets.sport1.de
 assfinder.blogspot.de
 assfinger.blogspot.de
 assfuckingfrenzy.blogspot.de
@@ -9100,6 +9110,7 @@ charmeuse.de
 charming-beauties.blogspot.de
 charms23.blogspot.de
 chart-broker.de
+chartboost.de
 chasamateurleague.blogspot.de
 chascas.blogspot.de
 chase-the-hottie-nude.blogspot.de
@@ -20197,6 +20208,7 @@ hawtdogs.blogspot.de
 hayley-williams-desenho-b.blogspot.de
 hazentrumsuedperlach.de
 haznos.blogspot.de
+hb.adscale.de
 hbccc.blogspot.de
 hbx.df-srv.de
 hc-medien.de
@@ -26856,6 +26868,7 @@ mays-erotik-shop.de
 mays-it.de
 maywaterserotica.blogspot.de
 mazucamba.blogspot.de
+mb-cdn.stocard.de
 mb-dimples.de
 mb-kaelteklima.de
 mb-marketingservice.de
@@ -27190,6 +27203,7 @@ metralhasbros.blogspot.de
 metrics.n-tv.de
 metrics.oetker.de
 metrics.payback.de
+metrics.strato.de
 metrics.toysrus.de
 metrococksucker.blogspot.de
 metropol-party.de
@@ -27972,6 +27986,7 @@ mountainmanricky-mytrannyblog.blogspot.de
 mousespanked.blogspot.de
 mouthsoaping.blogspot.de
 mouthybitch.blogspot.de
+movad.de
 move-ya.de
 movie-dvd.blogspot.de
 movie-flatrate.de
@@ -32956,6 +32971,7 @@ qisas-sexy.blogspot.de
 qivwbox.de
 qplay.de
 qpscoin.minerpool.de
+qs.ioam.de
 qs.ivwbox.de
 qtbsuperbusench.blogspot.de
 qtopia.blogspot.de
@@ -38887,6 +38903,7 @@ ssl-pays-security-cgi-member-ppal.de
 ssl-static.vinsight.de
 ssl-verfication.lima-city.de
 ssl-vg03.met.vgwort.de
+ssl.gft2.de
 ssl.xplosion.de
 sslhost.de
 sslsecurity-pays-secure-cgi-bin.de
@@ -39030,6 +39047,7 @@ stats.bmw.de
 stats.computecmedia.de
 stats.comunio.de
 stats.daserste.de
+stats.datawrapper.de
 stats.digital-natives.de
 stats.fittkaumaass.de
 stats.frankfurterneuepresse.de
@@ -39038,6 +39056,7 @@ stats.ser4.de
 stats.united-domains.de
 stats.vertriebsassistent.de
 stats.warenform.de
+stats.web1tv.de
 stats.welt.de
 stats.wieistmeineip.de
 stats.yellowphoenix18.de
@@ -45198,6 +45217,7 @@ xmember.de
 xmiamcaca.blogspot.de
 xmindvideo.blogspot.de
 xml.adtech.de
+xml.ioam.de
 xmovies.blogspot.de
 xmrpool.de
 xn--bcherlust-q9a.de
