@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ULvjKLWzPkFOv6+u1nT2/g
-! Version: 201903280013
+! Checksum: 5TEvXgG2STZiDmRLu9BIBQ
+! Version: 202001140013
 ! Title: EasyList Dutch
 ! Description: Dutch supplement for the Easylist filters
-! Last modified: 28 Mar 2019 00:13 UTC
+! Last modified: 14 Jan 2020 00:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.adblockplus.org/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -143,6 +143,7 @@ _advertentieleaderboardhome.
 ||mooieplaatjes.bierdopje.com^
 !--------Specifieke blokkeerregels (derden)--------!
 ! *** easylistdutch/block_third_party_resource.txt ***
+.nl/adurl/$xmlhttprequest,domain=start-player.npo.nl
 ||109.70.1.61/bannersystem/
 ||actiecode.nl/dynamics/modules/spub$third-party
 ||adslwinkel.nl/templates/adslwinkel/images/adslnl.gif$domain=htforum.nl
