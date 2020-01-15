@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9z9AlCh2l16AxgSY7YHMuA
-! Version: 202001140030
+! Checksum: EB0TOd1gFo8mQvIm5gn2SQ
+! Version: 202001150020
 ! Title: RU AdList: BitBlock
-! Last modified: 14 Jan 2020 00:30 UTC
+! Last modified: 15 Jan 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -433,7 +433,7 @@ sharij.net#?#.aside > aside:-abp-has(> .textwidget > .fb-page)
 shazoo.ru##.asideSocial
 ntv.ru##.auth
 247auto.ru,caredge.ru##.auth_vkontakte
-tut.by##.b-article-share
+ng.ru,tut.by##.b-article-share
 gmbox.ru,vc.ru##.b-article__shares
 siliconrus.com##.b-article__social
 tut.by##.b-articleshare
@@ -978,6 +978,7 @@ acomics.ru##:not(.authors) > .social
 ok.ru##:not([title^="Войти через"]) > .social-icon
 animedub.ru##[alt="Группа вконтакте"]
 cn.ru##[class*="socnets"]
+pdd.by##[class^="b-scbutton-"]
 drive2.ru##[data-action="share.share"]:not([data-target="drive"])
 disk.yandex.ru##[data-click-action="export-social.dialog-open"]
 novayagazeta.ru##[data-code] > footer > ul
@@ -1117,6 +1118,7 @@ woman365.ru##.main__content-share-btns
 woman365.ru##.mc-share-toggle
 megogo.net##.megogo_view_share
 audioportal.su,vsthouse.ru##.pluso
+electrotests.ru,test24.wweek.ru,tests24.su##.rambler-share
 axd.semestr.ru,math.semestr.ru##.share42init
 onlinemschool.com##.share_buttons
 rafkino.com##.social
@@ -1129,7 +1131,7 @@ porjati.net##.twitter-share-button
 joyreactor.cc,reactor.cc##.uhead_share
 video.khl.ru##.vjs-share-control
 list-org.com##.vk
-24smi.org,cnews.ru,echo.msk.ru,nabazare.blogspot.ru,ph4.ru,raskraska.com,ru-skript.ru,spam-club.blogspot.com,spam-club.blogspot.ru,www.kinopoisk.ru##.ya-share2
+24smi.org,cnews.ru,echo.msk.ru,electrotests.ru,nabazare.blogspot.ru,ph4.ru,raskraska.com,ru-skript.ru,spam-club.blogspot.com,spam-club.blogspot.ru,test24.wweek.ru,tests24.su,www.kinopoisk.ru##.ya-share2
 audioportal.su,audioskazki.net,cnews.ru,html-template.ru,rustreams.ru,vnx.su##.yashare-auto-init
 gtavicecity.ru,mk.ru,raskraska.com,ria.ru,spec-komp.com##div[id^="vk_groups"]
 porjati.net##form[action="http://feedburner.google.com/fb/a/mailverify"]
