@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EB0TOd1gFo8mQvIm5gn2SQ
-! Version: 202001150020
+! Checksum: KkmifM1ayDOi9wQLDeR46w
+! Version: 202001170030
 ! Title: RU AdList: BitBlock
-! Last modified: 15 Jan 2020 00:20 UTC
+! Last modified: 17 Jan 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -888,6 +888,7 @@ slovodel.com##.tg-main
 1jazz.ru##.the_content_wrapper > center
 broshunters.com##.title-top > a[href="https://twitter.com/broshunters"]
 kinopov.com##.title_share
+maxhdrezka-download.com##.tlg-msg
 mmatoday.info##.tlgrm
 shostka.info,sumypost.com##.to-telegram
 vesti.uz##.top > .container > .row > .col-md-4:first-child
@@ -1783,6 +1784,7 @@ _userbar_$image
 ||androidphone.su/wp-content/themes/ribbon/game$object
 ||anilibria.tv/upload/test/
 ||anime-rus.ru/templates/Anime-RUS/js/scripts.js
+||apihost.ru/js/function.js|$script,domain=apihost.ru
 ||asus.com^*/banner/
 ||aum.news/themes/default/inc/t3-assets/
 ||autoexpert.com.ua^*/MrScrollUp_
@@ -2575,6 +2577,7 @@ tsargrad.tv##.news__cta-subscribe
 ozon.ru##.news_block
 seeyoupage.ru##.no_ampr
 gameru.net##.noad
+stopgame.ru##.notice-wrapper
 landrover.ru,landrover.ua##.notificationBars
 piluli.ru##.notiny
 obozrevatel.com##.oboz-instagram
@@ -3003,6 +3006,7 @@ e.mail.ru###theme #LEGO #leftcol-banners
 mail.ru,sportmail.ru###video-footer
 ~e.mail.ru,mail.ru##.adv-rb-block
 pogoda.mail.ru##.advert_right
+my.mail.ru##.app-event-bubbles
 e.mail.ru,octavius.mail.ru##.application-mail__wrap .feedback-banner
 my.mail.ru##.b-column-right__block-apps
 my.mail.ru##.b-column-right__block-sale
@@ -3245,7 +3249,7 @@ vichatter.net#@#.Twitter
 old.kurs.com.ua#@#.arrow_up
 adme.ru,kakprosto.ru#@#.article-social
 relax-fm.ru#@#.back-top
-ariom.ru#@#.back2top
+ariom.ru,cyber-tank.org,cyber-tank.ru#@#.back2top
 change.org,fotostrana.ru#@#.btn-fb
 fotostrana.ru#@#.btn-gp
 tasix.me,uz.video#@#.btn-share
@@ -3492,6 +3496,7 @@ anilibria.tv,iomedia.ru,xn--80aacbuczbw9a6a.xn--p1ai,куражбамбей.рф
 iomedia.ru,jcross-world.ru#@#div[id^="vk_group"]
 europaplus.ru,kinokopilka.pro,pikabu.ru#@#img[alt="Facebook"]
 kinokopilka.pro#@#img[alt="Twitter"]
+www.ixbt.com#@#img[alt="Youtube"]
 prom.ua#@#img[alt="facebook"]
 !
 ! = Fanboy's Annoyance List без правил для отдельных сайтов ===================
@@ -12705,9 +12710,11 @@ _youtube_social_
 ##.hh-social-links
 ##.hh-socialmedia
 ##.hh-twitter
+##.hi-hd-share
 ##.hidden-nav-share
 ##.hide-social
 ##.hideSocial
+##.hideshare-wrap
 ##.highlight-menu-twitter
 ##.hl-facebook-like
 ##.hl-google-share
@@ -13246,6 +13253,7 @@ _youtube_social_
 ##.ig-share-button
 ##.ig-socials-ball
 ##.ig_social
+##.ihg-hd-share
 ##.ihr-icon-social-instagram
 ##.ikonz-social
 ##.il-social-links
@@ -23635,6 +23643,7 @@ _backToTop.
 ##.category-page__back-to-top--button
 ##.ccm_go_top
 ##.cmc-scroll-to-top
+##.cp-footer-scroll-top
 ##.crc-backToTop
 ##.ct-js-btnScrollUp
 ##.ct-scrollUpButton
@@ -24627,6 +24636,7 @@ reddit.com#@#img[alt="submit to reddit"]
 @@/rutorrent/plugins/rss/*$image,~third-party
 @@/threejs/Particles.js$script,~third-party
 @@||adfoc.us/*/interstitial.js$~third-party
+@@||agressor.com.ua/lib/js/totop/js/jquery.ui.totop.min.js$script
 @@||amazonaws.com^*/feedback-v2.js?$domain=avgthreatlabs.com
 @@||bestof.s3.amazonaws.com/twitter.png$domain=makeuseof.com
 @@||bing.net/videos/thumbnail.aspx?$domain=bing.com
@@ -24781,7 +24791,7 @@ disqus.com#@#.-facebook
 disqus.com#@#.-twitter
 instagram.com,pinterest.com,zhihu.com#@#.FollowButton
 epicgames.com#@#.SocialBar
-epicgames.com,tomshardware.com#@#.SocialButton
+adobe.com,epicgames.com,tomshardware.com#@#.SocialButton
 ctvnews.ca#@#.StoryShareBottom
 twitter.com#@#.Twitter-icon
 yachtingjournal.com#@#.addthis:not(body)
@@ -25730,6 +25740,7 @@ fark.com,github.com,github.io,justwatch.com,marketplace.firefox.com,vvhp.net#@#i
 @@||play.ludigames.com^*/pc_share_$image
 @@||player.fm^*/social-icons/$image
 @@||playkeepout.com/img/common/sharing/
+@@||playsaurus.com^*/ui/icons/$image,~third-party
 @@||plus.im/static/img/facebook.png
 @@||plus.im/static/img/facebook_over.png
 @@||podaj.to/images/$image,~third-party
