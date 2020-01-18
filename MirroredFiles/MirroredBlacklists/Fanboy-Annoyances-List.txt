@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +xx+BlFOEP9cFGYlXrWAFw
-! Version: 202001170021
+! Checksum: lPbI/jUB9EMjshR68GKFRQ
+! Version: 202001180011
 ! Title: Fanboy's Annoyance List
-! Last modified: 17 Jan 2020 00:21 UTC
+! Last modified: 18 Jan 2020 00:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -28180,6 +28180,7 @@ _site_cookie_
 ##.cookie-module-wrapper
 ##.cookie-monster
 ##.cookie-monster-dialog
+##.cookie-monster-overlay
 ##.cookie-msg
 ##.cookie-msg-bar
 ##.cookie-msg-box
@@ -30141,6 +30142,7 @@ _site_cookie_
 ##.js-cookie-information-popup
 ##.js-cookie-law
 ##.js-cookie-message
+##.js-cookie-monster-overlay
 ##.js-cookie-msg
 ##.js-cookie-notice
 ##.js-cookie-notification
@@ -37253,6 +37255,7 @@ kizi.com###kizi-popover-dialog
 livejapan.com###ptcd_modal_dialog
 google.com###pushdown
 fiercecable.com###pusher-ad
+chicagotribune.com##.met-flyout
 annahar.com##.notifications-overlay
 9to5google.com,9to5mac.com,electrek.co##.push-notify
 food.com##.pushdown-message
