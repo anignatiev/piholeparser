@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KkmifM1ayDOi9wQLDeR46w
-! Version: 202001170030
+! Checksum: OoRpHPOv216UlNNVT1DfHQ
+! Version: 202001190050
 ! Title: RU AdList: BitBlock
-! Last modified: 17 Jan 2020 00:30 UTC
+! Last modified: 19 Jan 2020 00:50 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -686,6 +686,7 @@ live-rutor.org,liverutor.org,main-rutor.org,new-rutor.org,newrutor.co,the-rutor.
 films-online.club##.pluso-text
 bigcinema-online.ru##.podel
 ntv.ru##.podprint > ul[style*="370"]
+sports.ru,tribuna.com##.poll-share
 kurufin.ru##.polotno + .add1
 720hd.club##.pon
 radojuva.com.ua##.post-bodycopy > .bottomcontainerBox
@@ -2564,7 +2565,6 @@ filmix.cc,filmix.co,filmix.ink,filmix.online,filmix.site,filmix.today,filmix.zon
 tree.tv##.new_back_link
 cont.ws##.new_big_notifocation
 cont.ws#?#.new_post_prev:-abp-has(> .promo_link)
-5-tv.ru#?#.news > h3:-abp-contains(Читайте также)
 allboxing.ru##.news-by-theme
 rbc.ru,sportrbc.ru##.news-feed a[href*="utm_campaign"]
 sports.ru##.news-item__footer > h3
@@ -2801,7 +2801,6 @@ ctc.ru##[data-react-class="GDPR"]
 fosshub.com##[data-section-content-type="donate"]
 sxnarod.com##[href$="?act=acquaintance"] > img[src^="/image/"]
 fastpic.ru##[id*="footer"] a[href="https://static.fastpic.ru/FastPicUploader.apk"]
-4pda.ru#?#[id][class][style]:-abp-has(> script:-abp-contains(querySelector))
 nashaplaneta.net##[id^="flowblock"]
 gidonline.eu##[id^="iivk"]
 1tv.ru##[id^="m_banner"]
@@ -3249,7 +3248,7 @@ vichatter.net#@#.Twitter
 old.kurs.com.ua#@#.arrow_up
 adme.ru,kakprosto.ru#@#.article-social
 relax-fm.ru#@#.back-top
-ariom.ru,cyber-tank.org,cyber-tank.ru#@#.back2top
+ariom.ru#@#.back2top
 change.org,fotostrana.ru#@#.btn-fb
 fotostrana.ru#@#.btn-gp
 tasix.me,uz.video#@#.btn-share
@@ -3819,7 +3818,6 @@ prom.ua#@#img[alt="facebook"]
 /ArticleSocialShare.
 /ashare.js
 /aspexi-facebook-
-/assets/*discord.png
 /assets/*Facebook.jpg
 /assets/*facebook.png
 /assets/*twitter.png
@@ -4094,6 +4092,7 @@ prom.ua#@#img[alt="facebook"]
 /facebook_badge-
 /facebook_badge.
 /facebook_boton.
+/facebook_btn.
 /facebook_button
 /facebook_button.
 /facebook_circle-
@@ -5095,6 +5094,7 @@ prom.ua#@#img[alt="facebook"]
 /partnerNavSocialButtons.
 /pics/*facebook.png
 /pics/*twitter.png
+/pict-fb.
 /pin-icon-
 /pin-interest-icon.
 /pin-it.gif
@@ -6177,6 +6177,7 @@ prom.ua#@#img[alt="facebook"]
 /twitter_badge.
 /twitter_bird.
 /twitter_bird_
+/twitter_btn.
 /twitter_bubble_
 /Twitter_button
 /twitter_button.
@@ -11771,6 +11772,7 @@ _youtube_social_
 ##.findusGooglePlus
 ##.findusPinterest
 ##.findusYouTube
+##.firms-single-share
 ##.first-social-block
 ##.firstblockfb
 ##.fix-share
@@ -22014,6 +22016,7 @@ _backToTop.
 ##.email-ask-full-width
 ##.email-banner
 ##.email-bar
+##.email-capture-banner-pinterest
 ##.email-content-container
 ##.email-cta
 ##.email-news-promo-panel
@@ -24017,6 +24020,7 @@ _backToTop.
 ||37signals.com^$third-party
 ||a.mailmunch.co/app/$script,third-party
 ||a1000k.com/button.php
+||abchukuk.com/abc.html
 ||accengage.net^$third-party
 ||actionbutton.co^$third-party
 ||addinto.com^$third-party
@@ -24573,7 +24577,7 @@ uservoice.com#@##uservoice-feedback
 uservoice.com#@##uservoice-feedback-tab
 cnn.com#@#.OUTBRAIN
 hackmd.io,japantimes.co.jp#@#.back-to-top
-forum.qscservice.com,forums.mozillazine.org,kvraudio.com,minetest.net#@#.back2top
+cyber-tank.org,cyber-tank.ru,forum.qscservice.com,forums.mozillazine.org,kvraudio.com,minetest.net#@#.back2top
 thefirefly.com#@#.block-subscribe
 novojornal.co.ao#@#.box-newsletter
 azcentral.com#@#.close-wrap > .close-overlay
@@ -24962,6 +24966,7 @@ twitter.com#@#.js-tweet-button
 alternativeto.net#@#.like-box
 facebook.com,forum.albiononline.com#@#.likeButton
 darudar.org,fimfiction.net,modworkshop.net#@#.like_button
+deezer.com#@#.link-social
 busqueda.com.uy,linkedin.com,peerlyst.com#@#.linkedin.icon
 pan.baidu.com#@#.list-share
 theverge.com#@#.m-article__share-buttons

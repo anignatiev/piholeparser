@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10784
+! Version: 10799
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -928,6 +928,7 @@
 ||bxxhbrpxqtwfq.com^
 ||bxxlvfhaxwscz.com^
 ||bxzkknilgmdt.bid^
+||byaqcsehcj.com^
 ||byclitror.com^
 ||bydbjtaoy.bid^
 ||byecttekgbksr.bid^
@@ -2219,6 +2220,7 @@
 ||eszpmsipks.com^
 ||etbmvqjnfxtk.com^
 ||etbrjgpsadke.com^
+||etcjliejxlcfw.com^
 ||etekxogwxx.com^
 ||etggealva.com^
 ||etggiddfdaqd.com^
@@ -2705,6 +2707,7 @@
 ||fsuhjykihmqpt.bid^
 ||fsvcrapnmmvj.com^
 ||fsvxxllfpfhk.com^
+||fswinrje.com^
 ||fsxkporoe.com^
 ||fsxmtpvumpty.bid^
 ||ftbiufcomsa.bid^
@@ -2889,6 +2892,7 @@
 ||gcirwjlmyfgxm.bid^
 ||gclcehwfvl.com^
 ||gcpbftsiwdrajj.com^
+||gcpjstirhbqjx.com^
 ||gcrqbzvwhz.bid^
 ||gctwvryd.com^
 ||gcujnsgvdq.com^
@@ -3807,6 +3811,7 @@
 ||ibeyqnjfjgsuob.bid^
 ||ibfsream.com^
 ||ibfueyttemsefi.com^
+||ibgwwujip.com^
 ||ibjtuhcgwnamyf.com^
 ||ibkfummkqzlg.com^
 ||ibleigzj.com^
@@ -3892,6 +3897,7 @@
 ||ifnwfachxk.com^
 ||ifofucuvklrnfw.com^
 ||ifoldmuxqjeddk.com^
+||ifovxnjbsqcnc.com^
 ||ifqzzgwrra.com^
 ||iftvlrkyvubnn.com^
 ||ifuvjvbyjir.com^
@@ -4031,6 +4037,7 @@
 ||invgsoqwtkvxs.bid^
 ||inxhtjrwictg.com^
 ||ioatyggwaypq.com^
+||iochuhah.com^
 ||iogutpkrkkycq.com^
 ||iohyjoomzoufn.bid^
 ||ioighavxylne.com^
@@ -4462,6 +4469,7 @@
 ||jkcvevwvgfopog.com^
 ||jkcyrdigvx.com^
 ||jkfgdkesrpx.bid^
+||jkifsaeaqkupu.com^
 ||jkiicqewzn.com^
 ||jkiwvfgrsythrw.com^
 ||jkjcoyeeglunz.com^
@@ -5670,6 +5678,7 @@
 ||lvdtftxgbsiu.com^
 ||lvehrzkgzanurn.com^
 ||lvesmhsex.com^
+||lvgldleilov.com^
 ||lvgliqkumatjv.com^
 ||lvhxebdxz.com^
 ||lvldcxnq.com^
@@ -6082,6 +6091,7 @@
 ||mrepqeyednht.club^
 ||mrfveznetjtp.com^
 ||mrhtltayffbrgv.com^
+||mrjppjqmc.com^
 ||mrjzfzwey.com^
 ||mrkzgpbaapif.com^
 ||mrnbzzwjkusv.com^
@@ -6371,6 +6381,7 @@
 ||nhkhxvnhfdkn.com^
 ||nhndzbmnkps.com^
 ||nhqmomir.com^
+||nhtkbvafhre.com^
 ||niaqaltky.com^
 ||niazlhvok.com^
 ||nicmtzkucd.com^
@@ -7013,6 +7024,7 @@
 ||oszelwsbb.bid^
 ||otarrxci.bid^
 ||otcqlckpafizv.bid^
+||otcxzgcu.com^
 ||otdgnmvw.com^
 ||otewxlcmkih.com^
 ||otfquqgqvsjof.com^
@@ -8191,6 +8203,7 @@
 ||rfyphhvcczyq.com^
 ||rgahmllbgubakm.com^
 ||rgbeppxd.bid^
+||rgcblgor.com^
 ||rgegqcdakbe.com^
 ||rgejlqtlr.com^
 ||rgipgfcafnvnx.com^
@@ -9014,6 +9027,7 @@
 ||tclarcrzfbceoo.com^
 ||tconifntowb.bid^
 ||tcovxxenhjke.com^
+||tcqyskiryo.com^
 ||tcrinrvfejjh.com^
 ||tcupxwxcvssauz.com^
 ||tcvdxlhxi.bid^
@@ -9234,6 +9248,7 @@
 ||toenwwsmam.com^
 ||toflvbkpwxcr.com^
 ||togfcqfvarpq.com^
+||tonvkjxfovo.com^
 ||toseesulbvbe.com^
 ||totvsaexihbe.com^
 ||touayfftdwcd.com^
