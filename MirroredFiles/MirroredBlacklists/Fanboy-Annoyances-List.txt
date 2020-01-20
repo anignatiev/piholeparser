@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OpTLocT/ai75kJgXYWIQhg
-! Version: 202001190032
+! Checksum: 89iYa6EMSZn2aEMIra04tg
+! Version: 202001200021
 ! Title: Fanboy's Annoyance List
-! Last modified: 19 Jan 2020 00:32 UTC
+! Last modified: 20 Jan 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4347,6 +4347,7 @@ _youtube_social_
 /eurocookie.
 /evidon-banner.
 /evidon-cmp.
+/evidon-sitenotice-tag.
 /eznovacookieconsent.
 /Flurrybox_EnhancedPrivacy/*
 /fp_cookie.
@@ -15804,6 +15805,7 @@ _site_cookie_
 ##.official-social2
 ##.oi-share
 ##.oi_soc_header
+##.om-share-bar
 ##.om-social-links
 ##.omc-social-media-icon
 ##.omc-social-small
@@ -26274,6 +26276,7 @@ _site_cookie_
 ###pwebcookiesnotifi
 ###pww-cookie
 ###pxa-cookie-bar
+###q-cookie-box
 ###q8-cookie-compliance
 ###qPrivacyBanner
 ###qb_cookie_consent_main
@@ -30823,6 +30826,7 @@ _site_cookie_
 ##.policyMessage
 ##.policy_footer
 ##.policy_notification
+##.politic__cookie
 ##.politica-cookies-bar
 ##.politica-cookies-container
 ##.politica-de-cookies
@@ -32701,6 +32705,7 @@ _site_cookie_
 ||cookies.innershed.co.uk^
 ||cookiescript.info^$third-party
 ||dmgmediaprivacy.co.uk^$third-party
+||gdpr-service.herokuapp.com^$third-party
 ||gdpr.studybreakmedia.com^
 ||global.mgr.consensu.org^$third-party
 ||intermarkets.net^$third-party
@@ -39418,7 +39423,7 @@ antoineonline.com##.container-overlay
 deezer.com##.cookie-banner
 theatlantic.com##.cookie-disclaimer
 bitfeed.co##.cookiebanner
-amnesty.org,asda.com,ashridge.org.uk,auto1.fi,auto10.com,belivehotels.com,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,crytek.com,custplace.com,dorotheum.com,dur.ac.uk,egyptair.com,eirsport.ie,enable-javascript.com,feelunique.com,forsettlement.com,grandvision.com,graspop.be,guggenheim-bilbao.eus,hmv.com,hotel-spider.com,inagrm.com,indepth.dev,luxottica.com,mabanque.bnpparibas,macpaw.com,mailjet.com,mannheimerswartling.se,medela.co.uk,mindshareworld.com,mindswarms.com,ostrog.com,perfumesclub.co.uk,perfumesclub.com,pjon.org,playgwent.com,proton.com,renaultbryanston.co.za,renaultfourways.co.za,royalparks.org.uk,scamner.com,stuttafordvanlines.co.za,tescomobile.ie,testeri.fi,thenottingham.com,threadreaderapp.com,topographic-map.com,twinings.co.uk,ukcisa.org.uk,ukmail.com,umicore.com,unian.info,unknownphone.com,uptodown.com,urtekram.com,vizologi.com,volvocars.com,warhammerchampions.com,wilko.com,wizards.com##.cookies
+amnesty.org,asda.com,ashridge.org.uk,auto1.fi,auto10.com,belivehotels.com,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,crytek.com,custplace.com,dorotheum.com,dur.ac.uk,egyptair.com,eirsport.ie,enable-javascript.com,feelunique.com,forsettlement.com,grandvision.com,graspop.be,guggenheim-bilbao.eus,hmv.com,hotel-spider.com,inagrm.com,indepth.dev,luxottica.com,mabanque.bnpparibas,macpaw.com,mailjet.com,mannheimerswartling.se,medela.co.uk,media-sense.com,mindshareworld.com,mindswarms.com,ostrog.com,perfumesclub.co.uk,perfumesclub.com,pjon.org,playgwent.com,proton.com,renaultbryanston.co.za,renaultfourways.co.za,royalparks.org.uk,scamner.com,stuttafordvanlines.co.za,tescomobile.ie,testeri.fi,thenottingham.com,threadreaderapp.com,topographic-map.com,twinings.co.uk,ukcisa.org.uk,ukmail.com,umicore.com,unian.info,unknownphone.com,uptodown.com,urtekram.com,vizologi.com,volvocars.com,warhammerchampions.com,wilko.com,wizards.com##.cookies
 austrian.com,austrianairlines.ag,austriantechnik.at##.cop
 semanticscholar.org##.copyright-banner
 bandcamp.com##.corp-banners
@@ -41843,6 +41848,7 @@ cebit.de,domotex.de,hannovermesse.de,ligna.de,messe.de##.user-notes-notification
 oeaw.ac.at##.warning-popup
 regupedia.de##.wr_regupedia-header-cookie
 tfa-dostmann.de,visomat.de##.xcb
+chip.de##div[class^="sp_message_container"]
 aboutyou.de##div[class^="styles__container-"]
 hessnatur.com##div[id^="actionbar_comp_"]
 unitymedia.de##div[style="background-color: rgb(0, 119, 208); color: rgb(255, 255, 255); padding: 20px; position: relative; z-index: 998;"]
@@ -42463,7 +42469,7 @@ generatorkodowkreskowych.pl###cn
 bywajtu.pl###co15ie87a
 bstorun.pl###comm_info
 przyspiesz.pl###container_vsm
-atramentowka.com,bokono.pl,domwroc24.pl,e-doggy.pl,emiter.net.pl,gov.pl,hemp.pl,kalinowo.pl,naszezoo.pl,oil-land.pl,osnews.pl,pracuj.pl,sklep-art-meb.pl,sklep-wadima.pl,swiat-sypialni.pl,virtualeye.pl,weller.com.pl,xfutbol.pl###cookie
+atramentowka.com,bokono.pl,domwroc24.pl,e-doggy.pl,emiter.net.pl,gov.pl,hemp.pl,kalinowo.pl,naszezoo.pl,oil-land.pl,osnews.pl,pcforce.pl,pracuj.pl,sklep-art-meb.pl,sklep-wadima.pl,swiat-sypialni.pl,virtualeye.pl,weller.com.pl,xfutbol.pl###cookie
 adequate.pl,alltube.tv,aquila.pl,auchan.pl,bankmillennium.pl,bioliq.pl,conan-kolekcja.pl,czytio.pl,delkom.pl,dobreprogramy.pl,ekino-tv.pl,eska.tv,filmboxextra.pl,fokus.tv,generali.pl,gov.pl,hi-tec.com.pl,intercon.systems,kasystefczyka.pl,kosmiczni.pl,muzo.fm,nasze-kino.tv,newsweek.pl,nowa.tv,paczkawruchu.pl,pb.edu.pl,piaseczno.eu,pilkanozna.pl,pkpsa.pl,play.pl,polotv.pl,polsat.pl,priv.pl,profmetkol.pl,realdevelopment.pl,realmadryt.pl,tripolo.pl,tugramy.pl,tv4.pl,tv6.com.pl,voxmusic.tv,wroc.pl,wszczecinie.pl###cookies
 drony.net,gadzetomania.pl,komorkomania.pl,otabletach.pl###cop
 polskatimes.pl,strefabiznesu.pl###cross-dialog
@@ -42525,6 +42531,7 @@ blog4u.pl###rodo_all
 memorialhenrykapuzonia.pl###sc-container
 fhpelikan.com.pl,midparts.com.pl,naturo.pl,sklep.motohid.pl,vertus.com.pl###simple-modal
 fhpelikan.com.pl,motohid.pl,naturo.pl,vertus.com.pl###simple-modal-overlay
+pepper.pl###softMessages-list
 epuap.gov.pl###specialbox-info
 alkam-security.pl###spop
 uzdrowisko-wieniec.pl###statement
@@ -42533,7 +42540,7 @@ gazetapolska.pl,gpcodziennie.pl###swsmodal
 gazetapolska.pl,gpcodziennie.pl###swsoverlay
 gerlach.org.pl###top0info
 agrolan.pl,e-rutek.pl,filtrosfera.pl,greenmate.pl,mikos.com.pl,negrasport.pl,pcoutlet.pl,perios.pl,silesiasports.eu,sporto.com.pl,srebrnystyl.pl,tashenti.pl,termokubki.com.pl###topInfoContainer0
-abc-rc.pl,acom.pl,aleokulary.com,epapierosylodz.pl,herba-farm.pl,ipartworld.pl,lunamarket.pl,megadyskont.pl,miadora.pl,negrasport.pl,ostry-sklep.pl,powerflex.pl,scyzoryki.net,sklep-muzyczny.com.pl,sklep.wodna-kraina.pl###topInfoContainer1
+abc-rc.pl,acom.pl,aleokulary.com,epapierosylodz.pl,herba-farm.pl,ipartworld.pl,jupi24.pl,lunamarket.pl,megadyskont.pl,miadora.pl,negrasport.pl,ostry-sklep.pl,powerflex.pl,scyzoryki.net,sklep-muzyczny.com.pl,sklep.wodna-kraina.pl###topInfoContainer1
 areatour.pl,dacter.pl,dlapacjenta.pl,uni-tech.pl###topbar
 skapiec.pl###uclaInfo
 libra.com.pl###under_footer

@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10799
+! Version: 10806
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1355,6 +1355,7 @@
 ||cvwrspsdr.com^
 ||cvypzafq.com^
 ||cvzixxiesyjkha.com^
+||cwandzytnzplqn.com^
 ||cwbbqhgtjbvtzi.com^
 ||cwdnbhhmdnm.com^
 ||cwfikuwyjwnev.com^
@@ -2848,6 +2849,7 @@
 ||fzmogmfqh.com^
 ||fzorwhus.com^
 ||fzpseyhkanhopd.com^
+||fzqmjlkvb.com^
 ||fzqxefkbjzwiqa.com^
 ||fzrcalpbcu.com^
 ||fzrqfakeaqikwm.com^
@@ -3910,6 +3912,7 @@
 ||iggukjfuylwyv.com^
 ||ighavizixlohvi.com^
 ||igifhnkw.com^
+||igllgmtrioka.com^
 ||igmsjgadiz.com^
 ||ignkopdlnlkk.com^
 ||igsxvpghnamnsz.com^
@@ -5381,6 +5384,7 @@
 ||lgwdtfmd.com^
 ||lgzfhqubp.com^
 ||lgzjsauvfv.com^
+||lhaieyfsvi.com^
 ||lhapwjkoltogf.bid^
 ||lhaqzqjbafcu.com^
 ||lhbkkztxg.com^
@@ -8982,6 +8986,7 @@
 ||tadozqgv.com^
 ||taeadsnmbbkvpw.bid^
 ||taelsfdgtmka.com^
+||tahkezux.com^
 ||takmuany.com^
 ||taljdzwer.com^
 ||tammfmhtfhut.com^
@@ -10540,6 +10545,7 @@
 ||ytcpfvgqp.com^
 ||ytdoajoj.com^
 ||ytjocvggodnfbn.com^
+||ytqnsqvajzv.com^
 ||yttvnnvklf.com^
 ||ytxuslppbj.com^
 ||yuanaayutyd.com^
@@ -10602,6 +10608,7 @@
 ||yzysnbqc.com^
 ||yzytjgdrz.com^
 ||yzyycjzfkpveu.com^
+||yzzvsnbten.com^
 ||zabhoggkgm.com^
 ||zabpkrvgswdroz.com^
 ||zadhrsvmawp.com^
