@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q+rfQZTfiraSEU6G+mHBlA
-! Version: 202001200030
+! Checksum: 30CAGk37rC7V/GJzxKqYTw
+! Version: 202001210020
 ! Title: RU AdList: BitBlock
-! Last modified: 20 Jan 2020 00:30 UTC
+! Last modified: 21 Jan 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -489,6 +489,7 @@ game-monitor.com##.bookmark
 intv.ru##.bookmarks-container
 247auto.ru,caredge.ru##.bookmarks_list
 fmates.ru##.bookmarkz
+gazeta.ru##.bottom_icons
 game2day.org##.bottom_share
 obozrevatel.com##.btn-fblikes-counter
 volodymyrets.city##.btn-sm
@@ -725,6 +726,7 @@ kulturologia.ru##.rss
 get-tune.cc,mp3cc.biz##.rt_share
 delfi.ua##.sbookmarks
 vo-dela.su##.scrolled > .widget_html_block
+www.gismeteo.ru#?#.section-item:-abp-has(> .section-title ~ .social-buttons)
 online-mult.net##.sh_pt
 zi.dn.ua##.shar-title
 1743.ru,amurmedia.ru,bibliofond.ru,brovary.net.ua,businessman.ru,eaomedia.ru,glavcom.ua,govoritmoskva.ru,gts.tv,hdkinoteatr.com,irkutskmedia.ru,krasnodarmedia.su,krasnoyarskmedia.ru,magadanmedia.ru,native-english.ru,ntsk.ru,orki.ru,orsk.ru,overclockers.ua,pkzsk.info,primamedia.ru,ria.ru,rusonline.org,sakhalinmedia.ru,sevastopolmedia.ru,sharij.net,sverhestestvennoe.club,syl.ru,tele.ru,tet.tv,ua-football.com,ulanmedia.ru,ussurmedia.ru,vgtimes.ru,voxpopuli.kz,yakutiamedia.ru##.share
@@ -953,6 +955,7 @@ rbcdaily.ru##.widget-fb-slave__inner
 obozrevatel.com##.widget-instagram
 it-tehnik.ru##.widget-soc
 ecology.md#?#.widget:-abp-has(#socialcarousel)
+kubikus.top#?#.widget:-abp-has(> .ya-share2)
 russkiiyazyk.ru##.widget_custom_html
 zrada.today#?#.widget_custom_html:-abp-has(> .widget-title:-abp-contains(Ми у Фейсбук))
 ain.ua##.widget_like
@@ -2225,6 +2228,7 @@ chita.ru###subscribe-sendpulse
 narmed24.ru###subscribe_aside
 sovetromantica.com###subscribe_button
 ria.ru###subscriber
+mobilluck.com.ua###subscripepopup
 championat.com###subscription_block
 vc.ru###surfingbird-block
 lostfilm.tv###takeMeToTheTopOfPagePlease
@@ -20027,6 +20031,7 @@ _youtube_social_
 /av/push-
 /build/push.js
 /checkPush.js
+/FeedifySW.js
 /flying_push.
 /get_onesignal_
 /ilabspush.
@@ -23056,6 +23061,7 @@ _backToTop.
 ##.ntfc_overlay
 ##.ntfc_popup
 ##.oi-notify
+##.page__notifications
 ##.push-area-btn
 ##.push-bx
 ##.push-container
@@ -24449,6 +24455,7 @@ _backToTop.
 ||easyfeeed.com^$third-party
 ||edrone.me^$third-party
 ||farteniuson.com^$third-party
+||feedify.net^$third-party
 ||fernomius.com^$third-party
 ||fortpush.com^$third-party
 ||foxpush.com^$third-party
