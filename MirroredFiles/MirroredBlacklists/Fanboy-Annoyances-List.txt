@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lCsknSGSH5Aa8Bc1pswhIg
-! Version: 202001220021
+! Checksum: VTMqqrW+ABfTdRCT8Jzcpw
+! Version: 202001230021
 ! Title: Fanboy's Annoyance List
-! Last modified: 22 Jan 2020 00:21 UTC
+! Last modified: 23 Jan 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5592,6 +5592,7 @@ _site_cookie_
 ###newsletterSignupPromo
 ###newsletterSubContainer
 ###newsletterSubscribe
+###newsletterSubscriptionPopup
 ###newsletterWidget
 ###newsletterWidgetFormHolder
 ###newsletterWrapper
@@ -5684,6 +5685,7 @@ _site_cookie_
 ###popup-newsletter-software
 ###popupNewsletter
 ###popup_newslettter
+###post-newsletter
 ###pp-subscribe
 ###pp.pp_container
 ###primary-nav-subscribe
@@ -5822,6 +5824,7 @@ _site_cookie_
 ###subsribe_right
 ###sw-noty-email
 ###tc_newsletter
+###teq-newsletter-footer-form
 ###theEmailBlastSignup
 ###thehill-blocks-signup-form
 ###titolo-newsletter
@@ -18978,6 +18981,7 @@ _site_cookie_
 ##.sociall_container
 ##.sociallink
 ##.sociallinks
+##.sociallinksadd
 ##.sociallist
 ##.socialmain
 ##.socialmedia--ArticleFacebook
@@ -19401,6 +19405,7 @@ _site_cookie_
 ##.t-article-share-btn-1
 ##.t-content__shares
 ##.t-social-buttons
+##.t1__toolsbar__share__container
 ##.tShare
 ##.t_social
 ##.t_twitter
@@ -19451,6 +19456,7 @@ _site_cookie_
 ##.tech-social
 ##.tecnavia_img_share_icon
 ##.ted-share-buttons
+##.telegram-share
 ##.telegram-share-button
 ##.telegram_link
 ##.tempShareToolsHolder
@@ -20731,6 +20737,7 @@ _site_cookie_
 ##a[title="Google+"]
 ##a[title="Instagram"]
 ##a[title="LinkedIn"]
+##a[title="Linkedin"]
 ##a[title="Partilhar no Facebook"]
 ##a[title="Partilhar no LinkedIn"]
 ##a[title="Partilhar no Pinterest"]
@@ -27063,6 +27070,7 @@ _site_cookie_
 ##.ModThomasCookiesC
 ##.Modal--cookie-message
 ##.Navbar-cookieCompliance
+##.Navbar-toastContainer
 ##.NotificationCookies
 ##.O-CookieLaw
 ##.ObsCnilWarning
@@ -27383,6 +27391,7 @@ _site_cookie_
 ##.bandeau-cookie
 ##.bandeau-cookie-wrapper
 ##.bandeau-cookies
+##.bandeau-information-cookies
 ##.bandeau-sellsecure
 ##.bandeauCookies
 ##.bandeau_consent
@@ -32147,6 +32156,7 @@ _site_cookie_
 ||sail-horizon.com^$third-party
 ||sail-personalize.com^$third-party
 ||sailthru.com^$third-party
+||sales-pop-dot-autoketing-production-sdk.appspot.com^$third-party
 ||savvysource.com^$third-party
 ||scorespro.com^$third-party
 ||scoutle.com^$third-party
@@ -41882,6 +41892,7 @@ red-by-sfr.fr,sfr.fr###CkC
 vrin.fr###Disclaimer
 grandeavenue.fr###FixedBannerClientDiv
 cdiscount.com###\5f evh-ric
+madeindesign.ch###_EAPM
 volvic.fr###_legal
 guideastuces.com###agreeMsg
 ecrypterlenergie.org###alert-mention
