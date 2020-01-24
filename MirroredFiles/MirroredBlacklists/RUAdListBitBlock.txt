@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ClkNaE8XQvF8liNFNDr6rQ
-! Version: 202001230020
+! Checksum: cvEMcPbd4stYR/FICNZlVA
+! Version: 202001240020
 ! Title: RU AdList: BitBlock
-! Last modified: 23 Jan 2020 00:20 UTC
+! Last modified: 24 Jan 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -56,7 +56,7 @@
 /share32.
 /share42-
 /share42/*
-/social-likes.$domain=~animalreader.ru|~animego.org|~bigcinemahd.net|~catalog.onliner.by|~cutur.ru|~films-2019.club|~inosmi.ru|~kinomore.xyz|~kinomoto.xyz|~kinomovi.xyz|~kinoo2019.ru|~kinozubr.net|~loungefilm.club|~m24.ru|~megapolisonline.ru|~miuipro.info|~mobnovelty.ru|~netsofta.net|~postila.ru|~sport28.net|~topfile.tj|~tv-show.live|~vipkinoman.net|~westernfilm.ru|~wfilm.club
+/social-likes.$domain=~animalreader.ru|~animego.org|~bigcinemahd.net|~catalog.onliner.by|~cutur.ru|~films-2019.club|~inosmi.ru|~kinomore.xyz|~kinomoto.xyz|~kinomovi.xyz|~kinoo2019.ru|~kinozubr.net|~loungefilm.club|~loveread.info|~m24.ru|~megapolisonline.ru|~miuipro.info|~mobnovelty.ru|~netsofta.net|~postila.ru|~sport28.net|~topfile.tj|~tv-show.live|~vipkinoman.net|~westernfilm.ru|~wfilm.club
 /social-likes/*
 /sprite4-a67f741843ffc4220554c34bd01bb0bb.png
 /vkontakte_icon_
@@ -593,7 +593,7 @@ livemaster.ru##.js-item-toggle-share-menu
 nn.ru##.js-ngs-share-button
 drive2.ru##.js-page .offer .c-share__label
 ladyclub.org##.js-share-link
-gdespaces.com,spac.me,spac1.com,spac1.me,spcs.me,strip2.xxx##.js-share_buttons
+gdespaces.com,spac.me,spac1.com,spac1.me,spaces.im,spcs.me,strip2.xxx##.js-share_buttons
 cinema-24.tv##.kikadz
 km.ru##.km-shares
 glav.su#?#.l-c > div[style^="margin"] > table [class]:-abp-has(> [class] > .fb-page)
@@ -1080,6 +1080,7 @@ meduza.io##img[src$="Cg=="]
 meduza.io##img[src$="Pg=="]
 meduza.io##img[src$="Zz4="]
 meduza.io##img[src$="zdmc+"]
+ctc.ru##li[class="hsi-item"]
 bobfilm.club##noindex .bl2
 1plus1tv.tv,ave-brasil.ru,latino-serialo.tv,latinochka.ru,loveserial.net,mundo-latino.ru#?#span:-abp-contains(Поделитесь фильмом с друзьями в соцсетях)
 1plus1tv.tv,ave-brasil.ru,latino-serialo.tv,latinochka.ru,loveserial.net,mundo-latino.ru#?#span:-abp-contains(Понравилось видео?)
@@ -3319,8 +3320,8 @@ vam.in.ua#@#.sig img
 4pda.ru,jquery.com,oxymoronical.com,scala-lang.org#@#.signature
 ecigtalk.ru#@#.signature img
 comunicart.ru#@#.soc-fb
-gdespaces.com,spac.me,spac1.com,spac1.me,spcs.me,strip2.xxx#@#.soc-link
-gdespaces.com,spac.me,spac1.com,spac1.me,spcs.me,strip2.xxx#@#.soc-links
+gdespaces.com,spac.me,spac1.com,spac1.me,spaces.im,spcs.me,strip2.xxx#@#.soc-link
+gdespaces.com,spac.me,spac1.com,spac1.me,spaces.im,spcs.me,strip2.xxx#@#.soc-links
 acomics.ru,appledevelopers.ru,citilink.ru,detector.media,dns-shop.ru,europaplus.ru,igromania.ru,liga.net,logitech.com,mts.ru,popsci.com,rambler.ru,signin.ebay.com,tampermonkey.net,technopoint.ru#@#.social
 kai-gebel.com#@#.social-bar
 kai-gebel.com#@#.social-bar-bottom
@@ -21923,6 +21924,7 @@ _backToTop.
 ##.block_valor_newsletter_front
 ##.blog-signup-container
 ##.blog_signup_box
+##.bottom_signup_newsletter
 ##.bottom_subscribe
 ##.box--newsletter
 ##.box-newsletter
@@ -24629,7 +24631,7 @@ google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,
 scribol.com#@#.scribol
 advids.co,cbdoilreview.org,galerieslafayette.com,mortgageguy.com.au,paperless-insurance.com,thepage.com.ua#@#.scroll-to-top
 channelnewsasia.com,dreamhost.com,kitacon.org,polskikoszyk.pl,redislabs.com#@#.scroll-top
-aklinizikesfedin.com,channelnewsasia.com,ew.com,indiatimes.com,letyshops.com,msn.com,people.com,southernliving.com,tele2.ru,wiemy.to#@#.scroll-up
+aklinizikesfedin.com,channelnewsasia.com,ew.com,indiatimes.com,letyshops.com,msn.com,people.com,southernliving.com,steptohealth.com,tele2.ru,wiemy.to#@#.scroll-up
 krasnodar.ru#@#.scrollTop
 hyperoptic.com,playtech.co.nz,porozmawiajmyoit.pl,scan.co.uk#@#.scroll_top
 ltn.com.tw,theuptake.org#@#.scrolltop
@@ -25020,7 +25022,7 @@ marieclaire.ru#@#.pinterestShare
 google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.plusone
 privatecore.com#@#.post-fb
 facebook.com#@#.post-fb-like
-23-59.com.ua,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,tidssonen.no,truepundit.com,velodaily.ru#@#.post-share-container
+23-59.com.ua,dietetycy.org.pl,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,tidssonen.no,truepundit.com,velodaily.ru#@#.post-share-container
 imgur.com#@#.post-share-panel
 reddit.com#@#.post-sharing
 guildwars2.com#@#.post-social
