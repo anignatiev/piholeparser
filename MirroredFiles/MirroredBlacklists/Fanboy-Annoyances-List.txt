@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rn/iCMV5fkplWbTXUIqAWw
-! Version: 202001240021
+! Checksum: x+Ll6LEHhUMTkWvz4fTSIA
+! Version: 202001250021
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 Jan 2020 00:21 UTC
+! Last modified: 25 Jan 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4404,6 +4404,7 @@ _youtube_social_
 /gdprscript.
 /GestionCookiesCNILPlugin/*
 /gestione_cookie.js
+/GetCookieMessageDisplay?
 /getEUPrivacyPolicy.
 /header.cookies.
 /header/cnil-
@@ -7531,6 +7532,7 @@ _site_cookie_
 ###mkd-back-to-top
 ###move-to-top
 ###move_to_top
+###mt-scrollup
 ###navBackToTop
 ###neklo_scrolltotop_arrow
 ###nino-scrollToTop
@@ -32298,6 +32300,7 @@ _site_cookie_
 ||chaghets.net^$third-party
 ||checkpost.club^$third-party
 ||cleverpush.com^$third-party
+||conforama-push.com^$third-party
 ||contentsitesrv.com/js/push/$third-party
 ||copush.com^$third-party
 ||cracataum.com^$third-party
@@ -32326,6 +32329,7 @@ _site_cookie_
 ||notification-time.com^$third-party
 ||notification.tubecup.net^
 ||olgtex.com^$third-party
+||on-push.com^$third-party
 ||onesignal.com^$third-party
 ||partishion.com^$third-party
 ||pathlime.com^$third-party
@@ -37323,7 +37327,6 @@ mitsui.com###js_globalFooterButtonTop
 visitcalifornia.com###link-top
 jefftucker.org###ma-pagetop
 whtop.com###menu-back
-weeklyxpose.co.za###mt-scrollup
 afamilyfeast.com###myBtn
 casio-europe.com,konami.com###page-top
 cnet.com,macromill.com,mhi.com,oki.com,smbc.co.jp,smfg.co.jp,smth.jp###pageTop
@@ -41909,6 +41912,7 @@ listesdemots.com###cp
 makita.fr###disclaimer
 docteurclic.com###disclamer
 unex.net###disclosure
+atlasformen.fr###divBottomStickyLayer
 biomet.fr,closermag.fr,illicopharma.com###fancybox-overlay
 biomet.fr,closermag.fr,illicopharma.com###fancybox-wrap
 maidenfrance.fr###headband
