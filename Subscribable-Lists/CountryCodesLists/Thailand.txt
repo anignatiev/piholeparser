@@ -33,6 +33,7 @@ deti.co.th
 dl-vip.pcfaster.baidu.co.th
 edu.tsu.ac.th
 enagic.co.th
+framehouse.in.th
 gdap.crma.ac.th
 girls.in.th
 gloriajeanscoffees.co.th
@@ -56,6 +57,7 @@ kanlayanee.ac.th
 kela.co.th
 khamyaiubon.go.th
 khoasamsib.go.th
+koksanuan.go.th
 kongkhak.go.th
 kot.co.th
 kstm.or.th
@@ -81,6 +83,7 @@ nkedu1.go.th
 nmp.ac.th
 nuffnang.co.th
 openlink.co.th
+paknakhon.in.th
 pantukam.bsru.ac.th
 petkasem.ac.th
 phatthalung.go.th

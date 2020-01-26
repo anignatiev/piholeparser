@@ -21,6 +21,7 @@ grupomoro.com.py
 iab.una.py
 ignacio.com.py
 incofrio.com.py
+jadema.com.py
 juegos.com.py
 kidco.com.py
 laovetense.com.py

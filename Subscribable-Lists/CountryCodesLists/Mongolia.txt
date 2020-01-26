@@ -10,6 +10,7 @@ add.pool.mn
 adz.pool.mn
 aegis.pool.mn
 aero.pool.mn
+amurehotel.mn
 amz.pool.mn
 ang.pool.mn
 annatmc.mn
@@ -119,7 +120,6 @@ ebays.mn
 eir.pool.mn
 ekita.pool.mn
 elt.pool.mn
-emgegsudlal.mn
 epc.pool.mn
 eruuludam.mn
 esc.pool.mn
@@ -201,6 +201,7 @@ irq0.mn
 itc.pool.mn
 ivory.pool.mn
 jade.pool.mn
+jadeofhunnu.mn
 jamienm.mn
 jfri.mn
 judge.pool.mn
@@ -276,6 +277,7 @@ noah.pool.mn
 nob.pool.mn
 nomadsworld.mn
 novatech.mn
+nsfund.mn
 ntm.pool.mn
 nuc.pool.mn
 numc.pool.mn
@@ -365,6 +367,7 @@ snakeah.mn
 sncx.pool.mn
 snd.pool.mn
 snowmobileracing.mn
+socialmedee.mn
 soly.mn
 spa.pool.mn
 spain.pool.mn

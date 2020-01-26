@@ -105,6 +105,7 @@ rebrand.ly
 resources.count.ly
 restcomm.count.ly
 rev.adip.ly
+rooney.access.ly
 rtb.persona.ly
 ru.ly
 s3cur3d.biz.ly

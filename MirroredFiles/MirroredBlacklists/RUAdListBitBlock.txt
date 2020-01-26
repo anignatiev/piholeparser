@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EEEZC+6FIBExaei4duBhDA
-! Version: 202001250030
+! Checksum: FATU510gj0qnHG51/1uyAA
+! Version: 202001260030
 ! Title: RU AdList: BitBlock
-! Last modified: 25 Jan 2020 00:30 UTC
+! Last modified: 26 Jan 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -315,6 +315,7 @@ thailandproperty.tv###pagenav_menu + table
 myserial.org###parent_popup
 avtovod.com.ua###pblock
 youtube.com###player a.ytp-share-panel-service-button.ytp-button
+windowspro.ru#?##popular:-abp-has(#vk_groups)
 volzsky.ru###popup
 helpsetup.ru###popup__toggle
 vk.com###pv_hh
@@ -989,6 +990,7 @@ ok.ru##:not([title^="Войти через"]) > .social-icon
 animedub.ru##[alt="Группа вконтакте"]
 cn.ru##[class*="socnets"]
 pdd.by##[class^="b-scbutton-"]
+kinogo.by##[class^="fbutton_"]
 drive2.ru##[data-action="share.share"]:not([data-target="drive"])
 disk.yandex.ru##[data-click-action="export-social.dialog-open"]
 novayagazeta.ru##[data-code] > footer > ul
@@ -1144,7 +1146,7 @@ porjati.net##.twitter-share-button
 joyreactor.cc,reactor.cc##.uhead_share
 video.khl.ru##.vjs-share-control
 list-org.com##.vk
-24smi.org,cnews.ru,echo.msk.ru,electrotests.ru,nabazare.blogspot.ru,ph4.ru,raskraska.com,ru-skript.ru,spam-club.blogspot.com,spam-club.blogspot.ru,test24.wweek.ru,tests24.su,www.kinopoisk.ru##.ya-share2
+24smi.org,cnews.ru,echo.msk.ru,electrotests.ru,givekey.ru,nabazare.blogspot.ru,ph4.ru,raskraska.com,ru-skript.ru,spam-club.blogspot.com,spam-club.blogspot.ru,test24.wweek.ru,tests24.su,www.kinopoisk.ru##.ya-share2
 audioportal.su,audioskazki.net,cnews.ru,html-template.ru,rustreams.ru,vnx.su##.yashare-auto-init
 gtavicecity.ru,mk.ru,raskraska.com,ria.ru,spec-komp.com##div[id^="vk_groups"]
 porjati.net##form[action="http://feedburner.google.com/fb/a/mailverify"]
@@ -14572,6 +14574,8 @@ _youtube_social_
 ##.pionusnews-social-widget
 ##.pionusnews_social_counter
 ##.pipdig_widget_social_icons
+##.pk-share-buttons-item
+##.pk-share-buttons-link
 ##.pk-social
 ##.pk-social-links-items
 ##.pk-social-links-wrap
@@ -23693,6 +23697,7 @@ _backToTop.
 ##.fk-ui-goTop
 ##.fk_siteBackToTop
 ##.footer--scrolltop
+##.footer--totop
 ##.footer-back-to-top
 ##.footer-back-top
 ##.footer-backtotop

@@ -2,8 +2,10 @@
 alibachir.cm
 avis.cm
 cnn.cm
+dev.maverick.cm
 diplocam.cm
 download.cm
+etranscom.cm
 facebook.cm
 flysoft.cm
 free.fuckbook.cm

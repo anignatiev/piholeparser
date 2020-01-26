@@ -2,6 +2,7 @@ afastandard.lk
 aiunion.lk
 albarakha.lk
 anuradhagroup.lk
+api.kurulu.lk
 artra.lk
 arugamlanka.lk
 axisca.lk
@@ -29,10 +30,13 @@ gracepererahome.lk
 greentelmobile.lk
 greenworld.lk
 gsauto.lk
+hemig.lk
 hgodaabv.sch.lk
 hostingclub.lk
+icart.lk
 idealz.lk
 imperial.lk
+interfaith.lk
 jkdca.lk
 justkidding.lk
 kandyzone.lk

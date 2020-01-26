@@ -10,6 +10,7 @@ client-center-account-update-security-service.a1049rfjewigf.tresquarteres.cat
 cottonreus.cat
 descarregues.ppf.cat
 domini.cat
+dronebcn.cat
 elmercatsocial.cat
 elsoler.cat
 femsonarlesmusiquetes.cat
@@ -17,7 +18,9 @@ files.cat
 gay.cat
 imp.rtb.cat
 kavavak.cat
+lalletera.cat
 lgtebre.cat
+lluismansilla.cat
 marmitaco.cat
 match.cat
 old.alcarras.cat

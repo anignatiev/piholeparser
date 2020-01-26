@@ -1,4 +1,5 @@
 arhun.az
+azfilmizle1.azermedia.az
 b.turbo.az
 barteralsat.az
 bel.az
@@ -9,6 +10,7 @@ eqs.tma.az
 etopaz.az
 geleceyebirge.az
 herseybizde.az
+horizont.az
 ipoteka.az
 kazaki.az
 kijabeastara.az

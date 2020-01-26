@@ -1,6 +1,7 @@
 adsco.re
 aeroport-travaux.re
 bnompre.re
+carokane.re
 com-featu.re
 huit.re
 ico.re

@@ -51,6 +51,7 @@ prizma.ge
 prod-airflow.drawbrid.ge
 profi.ge
 relay.drawbrid.ge
+samegrelorm.ge
 sandiltd.ge
 service-paypal.com.verification.your.account.riktravel.ge
 skola-graali.ge

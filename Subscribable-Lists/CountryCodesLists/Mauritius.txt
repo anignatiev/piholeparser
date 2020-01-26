@@ -2,6 +2,7 @@ advertise.mu
 channelit.mu
 dit.mu
 dllexe.mu
+foodworks.mu
 jeux.mu
 russian-baby-dolls.69.mu
 themes.webiz.mu

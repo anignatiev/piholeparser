@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: x+Ll6LEHhUMTkWvz4fTSIA
-! Version: 202001250021
+! Checksum: WzXRnG7FH4GSPW/DJRD9Tg
+! Version: 202001260021
 ! Title: Fanboy's Annoyance List
-! Last modified: 25 Jan 2020 00:21 UTC
+! Last modified: 26 Jan 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7733,6 +7733,7 @@ _site_cookie_
 ##.fk-ui-goTop
 ##.fk_siteBackToTop
 ##.footer--scrolltop
+##.footer--totop
 ##.footer-back-to-top
 ##.footer-back-top
 ##.footer-backtotop
@@ -16032,6 +16033,8 @@ _site_cookie_
 ##.pionusnews-social-widget
 ##.pionusnews_social_counter
 ##.pipdig_widget_social_icons
+##.pk-share-buttons-item
+##.pk-share-buttons-link
 ##.pk-social
 ##.pk-social-links-items
 ##.pk-social-links-wrap
@@ -22438,6 +22441,7 @@ _site_cookie_
 ###cookie-barbody
 ###cookie-block
 ###cookie-body
+###cookie-bottom
 ###cookie-box
 ###cookie-btn
 ###cookie-button-banner
@@ -23868,6 +23872,7 @@ _site_cookie_
 ###cookies-bar-etro
 ###cookies-bar-pl
 ###cookies-blok
+###cookies-bot
 ###cookies-box
 ###cookies-box-inner
 ###cookies-box-outer-layer
@@ -25399,6 +25404,7 @@ _site_cookie_
 ###ip-user-consent
 ###ipercookie
 ###iprom_cp_wrapper
+###iqitcookielaw
 ###irs_cookie_panel
 ###is-cookie-warning
 ###is-cookiealertr
@@ -25529,6 +25535,7 @@ _site_cookie_
 ###keksivehje
 ###keksleiste
 ###kg-cookie-popup
+###kjfCookieInfoBox
 ###km-cookie-accept
 ###koekbalk
 ###koekiemelding
@@ -25820,6 +25827,7 @@ _site_cookie_
 ###netgraf_cookie_alert
 ###netirs_top_cookie_popup
 ###new-cookie
+###new-cookies
 ###newCookiesAlert
 ###newCookiesBanner
 ###newPolicyWrapper
@@ -26413,6 +26421,7 @@ _site_cookie_
 ###shopillaxcookielaw-wrapper
 ###shorthand-gdpr-container
 ###shortpixel-cookies
+###show-cookie
 ###showCookie
 ###showCookieInfo
 ###show_banner_cookies
@@ -27106,6 +27115,7 @@ _site_cookie_
 ##.Template_CookiesBox
 ##.TxHfCookieHint
 ##.UECookie
+##.UICookieBanner
 ##.W034_Cookie_Directive
 ##.WW-cookiemodul
 ##.WeUseCookiesNotice
@@ -27350,6 +27360,7 @@ _site_cookie_
 ##.avvisoCookie
 ##.avviso_cookie
 ##.aw2-nav-top-cookie
+##.awe_cookie
 ##.awesome-eu-cookies
 ##.axa-cookies
 ##.axaCookie
@@ -28585,6 +28596,7 @@ _site_cookie_
 ##.cookieNotice2
 ##.cookieNoticeA
 ##.cookieNoticeBar
+##.cookieNoticeBox
 ##.cookieNoticePopUp
 ##.cookieNoticeType1
 ##.cookieNotice__container
@@ -28644,6 +28656,7 @@ _site_cookie_
 ##.cookieReminderWrapper
 ##.cookieRestriction
 ##.cookieRichtline_container
+##.cookieRow
 ##.cookieScript
 ##.cookieSection
 ##.cookieSelectDiv
@@ -29523,6 +29536,7 @@ _site_cookie_
 ##.dnt_banner-wrapper
 ##.dnvgl-cookie-container
 ##.dom-content--eu-banner
+##.done-gdpr-alert-box-bg
 ##.dot-cc-wrapper
 ##.dot-cookie-prompt
 ##.doyoulikecookies
@@ -30285,6 +30299,7 @@ _site_cookie_
 ##.kb-ck-bar-notify-block
 ##.keksbar
 ##.kia-cookie
+##.kjfCookieInfoBox
 ##.kl-cookienote
 ##.klicked-privacy-banner
 ##.koekiemelding
@@ -31363,6 +31378,7 @@ _site_cookie_
 ##.tx-tandncookie
 ##.txc_cookie_infobox
 ##.txtcoockies
+##.tygh-top-cookies
 ##.type-cookieacceptpage
 ##.typify-cookie-popup
 ##.u12-data-protection-notice
@@ -31500,6 +31516,7 @@ _site_cookie_
 ##.wl_cookie
 ##.wmdk-cookie-notice-wrapper
 ##.wolford-allow-cookies
+##.woodmart-cookies-popup
 ##.wordpress-consent-manager__wrapper
 ##.wordpress-gdpr-popup
 ##.wp-gdpr-cookie-notice-wrap
@@ -31542,6 +31559,7 @@ _site_cookie_
 ##.wrapper_cookie
 ##.wrapper_cookies
 ##.wraps-cookie-info
+##.ws-cookie-content
 ##.ws-cookie__wrapper
 ##.wsa-cookielaw
 ##.wsc-cookies-bar
@@ -32752,6 +32770,7 @@ _site_cookie_
 ||sourcepoint.mgr.consensu.org^$third-party
 ||tarteaucitron.ml^$third-party
 ||thirdfloor.it^$third-party
+||thisisdone.com/gdpr/$third-party
 ||trustarc.com^$third-party
 ||uniconsent.mgr.consensu.org^$third-party
 ||usercentrics.eu^$third-party
@@ -32840,13 +32859,13 @@ _site_cookie_
 ||bluntforcetruth.com^*/newsletter.
 ||breitbart.com/t/assets/js/fancybox.js
 ||businessdictionary.com/min/g=boxysubscribejs
-||cbsistatic.com/fly/$script
 ||collective-evolution.com^*/signup_
 ||cultofmac.com^*/sidebar_weekender_
 ||destinyconnect.com^*/sing-up-sidebar.
 ||destinyman.com^*/sign-up-banner.
 ||emailing.rfi.fr^
 ||forms.windowsitpro.com^
+||fortune.com^*/OO-NL_
 ||goodhousekeeping.co.za^*/subscribe-
 ||goodhousekeeping.co.za^*/subscribe.
 ||ibtimes.co.in^*/newsletter.js
@@ -37036,6 +37055,7 @@ businessinsider.com##.popup-wrapper
 srnnews.com##.popup_overlay
 yesmagazine.org##.portlet-static-give-gifts-banner-ad
 venturebeat.com##.post-boilerplate
+simpleflying.com##.post-subscribe
 nerdfitness.com##.post_end
 foreigndesknews.com##.post_mail
 windsorstar.com##.postmedia_news_alerts
@@ -37429,6 +37449,7 @@ hotpepper-gourmet.com##.pageTopButton
 global.hisamitsu##.page_top
 emb-japan.go.jp,jtbcorp.jp##.pagetop
 oki.com##.pagetopInner
+simpleflying.com##.pk-icon-up
 sexuria.com##.pull-right
 communist-party.org.uk##.rt-totop
 nexusmods.com##.scroll
@@ -37824,7 +37845,7 @@ prlog.org###smx
 prlog.org###smx2
 worldreview.info###sn
 play-asia.com###soc
-amartus.com,amazinglytimedphotos.com,androidzoom.com,ask.com,barneys.com,beefjack.com,bitcoinblackfriday.com,bubblews.com,businessinsider.com,businessinsider.com.au,chnetwork.org,cmt.com,cnalicense.org,consumerist.com,distance-calculator.co.uk,dogandponyshowwebsite.com,donnahay.com.au,ekathimerini.com,electrictoolbox.com,g2a.com,gamingonlinux.com,gamrreview.com,geekosystem.com,giantfreakinrobot.com,gizmodo.com.au,globes.co.il,goutsa.com,haydenplanetarium.org,hccs.edu,highlandcapital.com,hollywire.com,hostcabi.net,hotscripts.com,humorhub.org,humourtube.org,imgur.com,ini.tv,inkscape.org,joburg.org.za,justrewards.co.za,kinguin.net,kotaku.com.au,latimes.com,lawyersweekly.com.au,legitreviews.com,lifehacker.com.au,mail.opera.com,makeuseof.com,mayoclinic.com,meteoblue.com,meteovista.co.uk,meteovista.com,mtv.com,musicfeeds.com.au,namecheap.com,nzmusicmonth.co.nz,onlineeducation.net,openculture.com,penny-arcade.com,pixiq.com,play-asia.com,presidenthotel.co.za,producersguild.org,radiovaticana.va,ratemyprofessors.com,ryot.org,sfchamber.com,skift.com,smhlmao.com,stileproject.com,stoppress.co.nz,swapit.co.uk,systemrequirementslab.com,talkingpointsmemo.com,tesco.com,the-diplomat.com,theedge.co.nz,theepochtimes.com,theparisreview.org,thepiratebay.org,theroar.com.au,ucl.ac.uk,vimeopro.com,virginactive.co.uk,virginactive.co.za,washingtonblade.com,waterfoxproject.org,wbs-law.de,webglearth.com,whatpeoplesayonline.com,whimn.com.au,whtop.com,wired.com,xda-developers.com###social
+amartus.com,amazinglytimedphotos.com,androidzoom.com,ask.com,barneys.com,beefjack.com,bitcoinblackfriday.com,bubblews.com,businessinsider.com,businessinsider.com.au,chnetwork.org,classicreload.com,cmt.com,cnalicense.org,consumerist.com,distance-calculator.co.uk,dogandponyshowwebsite.com,donnahay.com.au,ekathimerini.com,electrictoolbox.com,g2a.com,gamingonlinux.com,gamrreview.com,geekosystem.com,giantfreakinrobot.com,gizmodo.com.au,globes.co.il,goutsa.com,haydenplanetarium.org,hccs.edu,highlandcapital.com,hollywire.com,hostcabi.net,hotscripts.com,humorhub.org,humourtube.org,imgur.com,ini.tv,inkscape.org,joburg.org.za,justrewards.co.za,kinguin.net,kotaku.com.au,latimes.com,lawyersweekly.com.au,legitreviews.com,lifehacker.com.au,mail.opera.com,makeuseof.com,mayoclinic.com,meteoblue.com,meteovista.co.uk,meteovista.com,mtv.com,musicfeeds.com.au,namecheap.com,nzmusicmonth.co.nz,onlineeducation.net,openculture.com,penny-arcade.com,pixiq.com,play-asia.com,presidenthotel.co.za,producersguild.org,radiovaticana.va,ratemyprofessors.com,ryot.org,sfchamber.com,skift.com,smhlmao.com,stileproject.com,stoppress.co.nz,swapit.co.uk,systemrequirementslab.com,talkingpointsmemo.com,tesco.com,the-diplomat.com,theedge.co.nz,theepochtimes.com,theparisreview.org,thepiratebay.org,theroar.com.au,ucl.ac.uk,vimeopro.com,virginactive.co.uk,virginactive.co.za,washingtonblade.com,waterfoxproject.org,wbs-law.de,webglearth.com,whatpeoplesayonline.com,whimn.com.au,whtop.com,wired.com,xda-developers.com###social
 christianpost.com###social-apps
 animenewsnetwork.com###social-bookmarks
 cafemom.com###social-comment
@@ -38772,6 +38793,7 @@ la-croix.com##div[class^="follow_"]
 engadget.com##div[class^="o-social_nav"]
 today.com##div[class^="share_"]
 dailymail.co.uk,thisismoney.co.uk##div[class^="socialContainer-"]
+fortune.com##div[class^="socialList_"]
 nbcnews.com##div[class^="socialShareWrapper_"]
 androidheadlines.com##div[class^="socialShare_"]
 reuters.com##div[class^="social_"]
@@ -39105,6 +39127,7 @@ awwapp.com###bottom-notification
 gamelink.com###bottomAlert
 alternativeto.net###bottomNotifier
 litmind.com###bottom_notice
+freemake.com###bottombar
 mercedes-benz.com###cLayer
 netcarshow.com###cNag
 mercedes-benz.com###cPageOverlay
@@ -39142,7 +39165,7 @@ tinder.com###content > span > .App > div[class*="Start"]
 wotinfo.net###coo
 alcoholics-anonymous.org.uk,cryps.info###cook
 add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,e-doggy.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,lonewolfonline.net,nspcc.org.uk,oilplusltd.com,onenessscotland.org,pentagon-group.co.uk,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,sainsburysenergy.com,simmons-simmons.com,stiripesurse.ro,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,tvcorner.com,unsee.cc,wheatley-group.com,zbmath.org###cookie
-anpost.ie,any.run,aquariumforums.co.uk,arag.com,atleticodemadrid.com,ayraviation.com,bl.uk,canadiansolar.com,celulares.com,cifas.org.uk,coinsofhope.eu,educalingo.com,eitb.eus,emrf.eu,emunewz.net,eporner.com,feyenoord.com,film-news.co.uk,forbiddenplanet.co.uk,fulltilt.com,globalpetrolprices.com,gpstraining.co.uk,harper-adams.ac.uk,history.bnpparibas,homecinemachoice.com,humbersideairport.com,ibeesoft.com,inmobi.com,irishjobs.ie,iso-chemie.eu,izikart.co.uk,jomast.co.uk,lloydsbankinggroup.com,mareespeche.com,metbiocat.eu,noisli.com,panfurware.com,phonearena.com,picload.org,pokernews.com,police.uk,premiumcredit.co.uk,private.com,proteum.co.uk,puromarketing.com,rdnester.eu,rotterdam.info,scl.org,studentski.net,tablademareas.com,tellows-au.com,tellows-fi.com,tellows-ng.com,tellows-tr.com,tellows.asia,tellows.at,tellows.be,tellows.co,tellows.co.nz,tellows.co.uk,tellows.co.za,tellows.com,tellows.com.br,tellows.cz,tellows.de,tellows.dk,tellows.es,tellows.fr,tellows.gr,tellows.hu,tellows.in,tellows.it,tellows.jp,tellows.mx,tellows.net,tellows.nl,tellows.org,tellows.pl,tellows.pt,tellows.ru,tellows.se,tellows.tw,the-tls.co.uk,theatre-news.com,tsb.co.uk,wsws.org,xnostars.com###cookies
+anpost.ie,any.run,aquariumforums.co.uk,arag.com,atleticodemadrid.com,ayraviation.com,bl.uk,canadiansolar.com,celulares.com,cifas.org.uk,coinsofhope.eu,educalingo.com,eitb.eus,emrf.eu,emunewz.net,eporner.com,feyenoord.com,film-news.co.uk,forbiddenplanet.co.uk,fulltilt.com,globalpetrolprices.com,gpstraining.co.uk,harper-adams.ac.uk,history.bnpparibas,homecinemachoice.com,humbersideairport.com,ibeesoft.com,inmobi.com,irishjobs.ie,iso-chemie.eu,izikart.co.uk,jomast.co.uk,lloydsbankinggroup.com,mareespeche.com,metbiocat.eu,noisli.com,panfurware.com,phonearena.com,picload.org,playclassic.games,pokernews.com,police.uk,premiumcredit.co.uk,private.com,proteum.co.uk,puromarketing.com,rdnester.eu,rotterdam.info,scl.org,studentski.net,tablademareas.com,tellows-au.com,tellows-fi.com,tellows-ng.com,tellows-tr.com,tellows.asia,tellows.at,tellows.be,tellows.co,tellows.co.nz,tellows.co.uk,tellows.co.za,tellows.com,tellows.com.br,tellows.cz,tellows.de,tellows.dk,tellows.es,tellows.fr,tellows.gr,tellows.hu,tellows.in,tellows.it,tellows.jp,tellows.mx,tellows.net,tellows.nl,tellows.org,tellows.pl,tellows.pt,tellows.ru,tellows.se,tellows.tw,the-tls.co.uk,theatre-news.com,tsb.co.uk,wsws.org,xnostars.com###cookies
 patience-is-a-virtue.org###copy > p
 dsm.com,ortograf.ws,tesco.ie###cp
 streamlivesex.com###cp-wrapper
@@ -39750,6 +39773,7 @@ singtel.com##.ux-consent-banner
 ritdye.com##.v_bg\:peach-300.l_p\:25-x.p_l\:0
 dailysabah.com##.veriAltBar
 robertozeno.com##.video-mask
+remosoftware.com##.visitornotice
 trendyol.com##.vnotify-container
 ada.com##.wbl72e-0-footer
 capterra.com##.welcome-banner
@@ -39782,6 +39806,7 @@ studocu.com##div[class^="banner-wrapper-"]
 mvagusta.com##div[class^="bannerContainer"]
 vodafone.co.uk##div[class^="cookie-policy"]
 joom.com##div[class^="disclaimer"]
+udemy.com##div[class^="eu-cookie-message-"]
 giphy.com##div[class^="flash-message"]
 brain.fm##div[class^="modules-core-css-CookiePopup"]
 voxi.co.uk##div[class^="notification-container"]
@@ -42210,7 +42235,7 @@ aegon.hu###AEGONCookieLine
 alpinbike.hu,belteriajtok.hu,grandacs.hu,mester.hu###CLayer
 sokkaljobb.hu###SPS_noaccept
 csillagpor.hu###a
-origo.hu###ac
+origo.hu,travelo.hu###ac
 hbkik.hu,kemkik.hu,mkik.hu,pbkik.hu###alert-box
 pianho97.hu###alertify
 pianho97.hu###alertify-cover
@@ -42220,8 +42245,8 @@ hosch-kleber.hu###cinfo
 topviccek.hu###ck
 lacsiboltja.hu###consent
 hoxa.hu###container > div[style^="text-align: left;"]
-koloknet.hu,notebookspecialista.hu,videokedvenc.hu###cookie
-freemeteo.hu,gov.hu,kaspersky.hu,lxo.hu###cookies
+ingyennyelv.hu,koloknet.hu,notebookspecialista.hu,uni-miskolc.hu,videokedvenc.hu###cookie
+freemeteo.hu,gov.hu,kaspersky.hu,lexika.hu,lxo.hu###cookies
 nol.hu###didyou
 e-food.hu###efood_cookie
 moly.hu###eu
@@ -42231,12 +42256,13 @@ szegedvaros.hu###footer
 autogaleria.hu###info-suti
 webrazzi.com###kvkk_r
 hrportal.hu###lableca
-boraszportal.hu,termalfurdo.hu###layout_advertising_bottom
+ado1szazalek.com,boraszportal.hu,termalfurdo.hu###layout_advertising_bottom
 momsport.hu###slider
 ittrend.hu###suti
 e-cegjegyzek.hu###suti_csik
 leddiszkont.hu###sutidoboz
 polipc.hu###sutik_elf
+randevau.hu##.activebar-container
 ezermester.hu##.alert
 almaimotthona.hu##.aszfLayerContent
 pcx.hu##.body > .cell
@@ -42244,7 +42270,8 @@ infiniti.hu##.c_128
 milanoajto.hu##.cdisclaimer
 daiwa-info.hu##.ciacho-wrap-container
 mall.hu##.consent-panel
-1mobil.hu,akme.hu,bestmarkt.hu,bestsellers.hu,bevachip.hu,firstshop.hu,joautok.hu,karatekyokushin.hu,logmein.hu,onlineszerszam.hu,rbx.hu,royalora.hu,szerszamoutlet.hu,work-force.hu,workforce.hu##.cookie
+1mobil.hu,akme.hu,bestmarkt.hu,bestsellers.hu,bevachip.hu,firstshop.hu,focuscamera.hu,gyorgyteabolt.hu,joautok.hu,karatekyokushin.hu,logmein.hu,onlineszerszam.hu,rbx.hu,royalora.hu,szerszamoutlet.hu,work-force.hu,workforce.hu##.cookie
+novashop.hu##.cookies
 aig.hu##.copyright-text-header
 lexus.hu##.disclaimer
 weber-terranova.hu##.flash-info
