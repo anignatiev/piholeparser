@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WzXRnG7FH4GSPW/DJRD9Tg
-! Version: 202001260021
+! Checksum: 3bePUXSj9zhqw2bu60o54w
+! Version: 202001270021
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Jan 2020 00:21 UTC
+! Last modified: 27 Jan 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4867,6 +4867,7 @@ _site_cookie_
 ##.block-nst-cxense
 ##.block-simplenews
 ##.bookmark_services
+##.bottom-nolink__social
 ##.button-feed
 ##.cactus-post-suggestion
 ##.cb_ads
@@ -7226,6 +7227,7 @@ _site_cookie_
 ##.bg-button-rss
 ##.bg-rss
 ##.bk-socialicons-rss
+##.bloc-rss
 ##.btRSS
 ##.btRss
 ##.btn-rss
@@ -7389,6 +7391,7 @@ _site_cookie_
 ##.uk-icon-rss
 ##.uk-icon-rss-square
 ##.unian-rss
+##.widget_rss
 ##.widget_rss_links
 ##.widget_rssiconwidget
 ##.wpdev-social-rss
@@ -12065,6 +12068,7 @@ _site_cookie_
 ##.btn_furl
 ##.btn_google
 ##.btn_share
+##.btn_shareContact
 ##.btn_social
 ##.btn_technorati
 ##.btn_twit
@@ -26514,6 +26518,7 @@ _site_cookie_
 ###stdCookie
 ###stg-privacy-bar
 ###sticky-bar-gdpr
+###sticky-cookie-warning
 ###sticky-cookies
 ###sticky-popup-cookies
 ###stickycookiePolicy
@@ -28256,6 +28261,7 @@ _site_cookie_
 ##.cookie-notifications
 ##.cookie-notifier
 ##.cookie-notify
+##.cookie-notify-popup
 ##.cookie-on
 ##.cookie-on-top
 ##.cookie-opa
@@ -28759,6 +28765,7 @@ _site_cookie_
 ##.cookie_head
 ##.cookie_header
 ##.cookie_helper
+##.cookie_hidden
 ##.cookie_hint
 ##.cookie_hinweis
 ##.cookie_holder
@@ -29537,6 +29544,7 @@ _site_cookie_
 ##.dnvgl-cookie-container
 ##.dom-content--eu-banner
 ##.done-gdpr-alert-box-bg
+##.done-gdpr-alert-box-wrapper
 ##.dot-cc-wrapper
 ##.dot-cookie-prompt
 ##.doyoulikecookies
@@ -31239,6 +31247,7 @@ _site_cookie_
 ##.sticky-cookie-container
 ##.sticky-cookie-footer
 ##.sticky-cookie-information
+##.sticky-cookie-warning
 ##.sticky-cookielawbanner
 ##.sticky-cookies
 ##.sticky-footer-cookie-info
@@ -31706,6 +31715,7 @@ _site_cookie_
 ##div[class^="GDPR-module"]
 ##div[class^="GDPRBanner_"]
 ##div[class^="__alertCookie"]
+##div[class^="_cookieBanner-"]
 ##div[class^="app-components-CookieDisclaimer"]
 ##div[class^="app_cmpAppGdpr-"]
 ##div[class^="app_gdpr-"]
@@ -41687,6 +41697,7 @@ vijesti.me##.social
 herder.de###BottomNotification
 e-formel.de###CKC
 singles-in-stuttgart.de,wander-community.de###DC
+vdk.de###DSE
 gira.de###ac_frame
 spielfilm.de###alert
 weltwoche.ch###alteAusgabenCovers
@@ -41892,7 +41903,6 @@ cebit.de,domotex.de,hannovermesse.de,ligna.de,messe.de##.user-notes-notification
 oeaw.ac.at##.warning-popup
 regupedia.de##.wr_regupedia-header-cookie
 tfa-dostmann.de,visomat.de##.xcb
-chip.de##div[class^="sp_message_container"]
 aboutyou.de##div[class^="styles__container-"]
 hessnatur.com##div[id^="actionbar_comp_"]
 unitymedia.de##div[style="background-color: rgb(0, 119, 208); color: rgb(255, 255, 255); padding: 20px; position: relative; z-index: 998;"]
@@ -42965,6 +42975,7 @@ linnaleht.ee,ohtuleht.ee##.ntf-container
 ||creaweb.it/cookie/
 ||cure-naturali.it/cookies?
 ||effekt.it/analytics/
+||plug.it^*/cmp.min.js
 ||privacyportal.fatergroup.com^
 ||rcsobjects.it/rcs_cpmt/
 ||spesasicura.com/Scripts/cookie.js
@@ -43122,7 +43133,7 @@ theonion.com#@#.taboola-inbetweener
 ctpost.com#@#.taboolaloader
 hoff.ru#@#.to-top
 dj-extensions.com,thadenschool.org#@#.top-of-page
-99bitcoins.com#@#.tve-leads-lightbox
+99bitcoins.com,healthyhandyman.com#@#.tve-leads-lightbox
 getuikit.com#@#.uk-alert
 tactxflashlights.com#@#.widget_subscribe
 upim.com#@#[data-target="#newsletter-modal"]
@@ -43149,6 +43160,7 @@ facebook.com#@##fb_header
 163.com#@##layout-social
 facebook.com#@##likebtn
 recite.com#@##main-share
+mmo13.ru#@##menu-share
 iab.org.pl#@##menu-social
 satkurier.pl#@##menu_social
 digg.com#@##module_digg
@@ -43386,6 +43398,7 @@ fider.io,jellyfin.org#@#.m-social
 epicdrama.pl,iab.org.pl#@#.menu-social
 arkansasmatters.com,kark.com#@#.meta-share
 adobe.com#@#.mod-facebook
+blmagazine.it#@#.mvp-post-soc-wrap
 moneycanbuylipstick.com#@#.nav-social
 atelierdeschefs.fr#@#.navbar-social
 disroot.org#@#.new-share
@@ -44379,7 +44392,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||googleapis.com/hiveweb/img/icon_google.svg$domain=hive.im
 @@||googlecode.com/hg/icons/$image,domain=enjoyfreeware.org
 @@||googleusercontent.com^*_social_icons.css$domain=forums.whatthetech.com
-@@||googlewatchblog.de/wp-content/uploads/$image,domain=googlewatchblog.de
+@@||googlewatchblog.de/wp-content/uploads/facebook-$image,domain=googlewatchblog.de
 @@||gorod-812.ru/wp-content/plugins/easy-vkontakte-connect/js/social-likes.min.js
 @@||graphiq.com^*/Social_$image,domain=insidegov.com
 @@||greenhouse.io/assets/social_media_$script,domain=greenhouse.io

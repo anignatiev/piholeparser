@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FATU510gj0qnHG51/1uyAA
-! Version: 202001260030
+! Checksum: 5sZFlFSiZWSF7CyWmq6AHA
+! Version: 202001270020
 ! Title: RU AdList: BitBlock
-! Last modified: 26 Jan 2020 00:30 UTC
+! Last modified: 27 Jan 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -10606,6 +10606,7 @@ _youtube_social_
 ##.btn_furl
 ##.btn_google
 ##.btn_share
+##.btn_shareContact
 ##.btn_social
 ##.btn_technorati
 ##.btn_twit
@@ -20831,6 +20832,7 @@ _backToTop.
 ##.block-nst-cxense
 ##.block-simplenews
 ##.bookmark_services
+##.bottom-nolink__social
 ##.button-feed
 ##.cactus-post-suggestion
 ##.cb_ads
@@ -23190,6 +23192,7 @@ _backToTop.
 ##.bg-button-rss
 ##.bg-rss
 ##.bk-socialicons-rss
+##.bloc-rss
 ##.btRSS
 ##.btRss
 ##.btn-rss
@@ -23353,6 +23356,7 @@ _backToTop.
 ##.uk-icon-rss
 ##.uk-icon-rss-square
 ##.unian-rss
+##.widget_rss
 ##.widget_rss_links
 ##.widget_rssiconwidget
 ##.wpdev-social-rss
@@ -24664,7 +24668,7 @@ theonion.com#@#.taboola-inbetweener
 ctpost.com#@#.taboolaloader
 hoff.ru#@#.to-top
 dj-extensions.com,thadenschool.org#@#.top-of-page
-99bitcoins.com#@#.tve-leads-lightbox
+99bitcoins.com,healthyhandyman.com#@#.tve-leads-lightbox
 getuikit.com#@#.uk-alert
 tactxflashlights.com#@#.widget_subscribe
 upim.com#@#[data-target="#newsletter-modal"]
@@ -24773,6 +24777,7 @@ facebook.com#@##fb_header
 163.com#@##layout-social
 facebook.com#@##likebtn
 recite.com#@##main-share
+mmo13.ru#@##menu-share
 iab.org.pl#@##menu-social
 satkurier.pl#@##menu_social
 digg.com#@##module_digg
@@ -25010,6 +25015,7 @@ fider.io,jellyfin.org#@#.m-social
 epicdrama.pl,iab.org.pl#@#.menu-social
 arkansasmatters.com,kark.com#@#.meta-share
 adobe.com#@#.mod-facebook
+blmagazine.it#@#.mvp-post-soc-wrap
 moneycanbuylipstick.com#@#.nav-social
 atelierdeschefs.fr#@#.navbar-social
 disroot.org#@#.new-share
@@ -25608,7 +25614,7 @@ fark.com,github.com,github.io,justwatch.com,marketplace.firefox.com,vvhp.net#@#i
 @@||googleapis.com/hiveweb/img/icon_google.svg$domain=hive.im
 @@||googlecode.com/hg/icons/$image,domain=enjoyfreeware.org
 @@||googleusercontent.com^*_social_icons.css$domain=forums.whatthetech.com
-@@||googlewatchblog.de/wp-content/uploads/$image,domain=googlewatchblog.de
+@@||googlewatchblog.de/wp-content/uploads/facebook-$image,domain=googlewatchblog.de
 @@||gorod-812.ru/wp-content/plugins/easy-vkontakte-connect/js/social-likes.min.js
 @@||graphiq.com^*/Social_$image,domain=insidegov.com
 @@||greenhouse.io/assets/social_media_$script,domain=greenhouse.io
