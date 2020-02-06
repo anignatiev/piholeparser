@@ -91,7 +91,6 @@ bigsky.com.vn
 bkns.vn
 bld.vn
 blendtec.vn
-botyenmach.net.vn
 boxapp.admicro.vn
 brightstarcorp.com.vn
 c1pson-nt.khanhhoa.edu.vn
@@ -218,6 +217,7 @@ hocvientaichinh.com.vn
 holypig.vn
 hp-tech.com.vn
 hrdcvn.com.vn
+humanhair.vn
 i01001.dgn.vn
 iad.eclick.vn
 ihost.com.vn
@@ -281,6 +281,7 @@ logsbin.dantri.com.vn
 logv2.mp3.zing.vn
 longvanceramics.com.vn
 lopandam.kidsplaza.vn
+luatthienminhlong.com.vn
 luongyvovanvinh.vn
 luutruviet.vn
 mamnonkinderhouse.edu.vn
@@ -329,11 +330,11 @@ nangmuislinedep.com.vn
 nbc.com.vn
 nchdanang.com.vn
 newwayit.vn
+nguoidepxumuong.vn
 nguyenminhngoc.vn
 nhacuatoi.com.vn
 nhatnang.vn
 nhatrangtourist.vn
-nhsvietnam.com.vn
 nia.vn
 nlppower.com.vn
 noithatchauau.vn
@@ -424,6 +425,7 @@ smshanoi.edu.vn
 sohasdk.sohacorp.vn
 songhuong.com.vn
 songnam.vn
+sonvietmy.com.vn
 spell.itim.vn
 spicesvietnam.vn
 ss.yomedia.vn
@@ -459,6 +461,7 @@ thamtuquocte.com.vn
 thanhgiang.edu.vn
 thegioibupbe.vn
 thegioilamdep.vn
+thegioilap.vn
 thegioipinsac.vn
 thehexanh.vn
 thidoansadec.org.vn

@@ -18,12 +18,12 @@ files.cat
 gay.cat
 imp.rtb.cat
 kavavak.cat
-lalletera.cat
 lgtebre.cat
 lluismansilla.cat
 marmitaco.cat
 match.cat
 old.alcarras.cat
+pomf.cat
 progreslaseu.cat
 revisionsmediques.cat
 saloboda.cat

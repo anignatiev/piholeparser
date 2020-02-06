@@ -99,6 +99,7 @@ adziran.gq
 aerfal.gq
 ahaussweden.gq
 ahctionaid.gq
+aivazidis.gq
 alenaclient.gq
 alrkb.gq
 amatnage.gq
@@ -363,6 +364,7 @@ mylovesister.gq
 nakugab.gq
 naosecgomosec.gq
 napsterfree.gq
+nedoru2.gq
 newsbuzz.gq
 nextbackgroundcheck.gq
 nodrop.gq

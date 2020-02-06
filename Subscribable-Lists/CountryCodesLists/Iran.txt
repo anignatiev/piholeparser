@@ -33,7 +33,6 @@ alltoners.ir
 altonblog.ir
 amardtel.ir
 amell.ir
-aminabolhasani.ir
 amirabolhasani.ir
 amlakiranian.ir
 amniyatgostariranian.ir
@@ -215,7 +214,6 @@ kahoo.ir
 kambizkhalafi.ir
 kannews.ir
 karasiweb.ir
-kargozar1320.ir
 kavoshbasamad.co.ir
 kh-ghohestan.ir
 khadamat.shandiz.ir
@@ -255,6 +253,7 @@ markazi-sc.ir
 masjedma.ir
 mayadin-arak.ir
 mbalamoot.ir
+mecharnise.ir
 mediabox.ir
 medilink.ir
 mehalil.ir
@@ -276,7 +275,6 @@ mta-kj.ir
 mtbco.ir
 mtgroup.ir
 mtpp.ir
-multron.ir
 munp.ir
 nahalfestival.ir
 nashretlyab.ir
@@ -317,7 +315,6 @@ parsatejarat.ir
 parseh-automation.ir
 parspouyan.ir
 parsroman.ir
-pbiholding.ir
 persiansiem.ir
 persianstat.ir
 petromarket.ir

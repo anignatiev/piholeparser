@@ -1937,7 +1937,6 @@ api.voiceads.cn
 api2.analysys.cn
 api2.play.cn
 api2.sharesdk.cn
-api2.ttp1.cn
 api721.analysys.cn
 apidrilo.cn
 apierekcw.cn
@@ -5522,6 +5521,7 @@ breti.com.cn
 breufferts.cn
 breviarywatches.cn
 brhere.com.cn
+brickola.cn
 brightpose.cn
 brightread.cn
 brightwhat.cn
@@ -13941,7 +13941,6 @@ dsqcste.cn
 dsquelou.cn
 dssfdwy.cn
 dssfpfe.cn
-dssp.workday360.cn
 dsspdug.cn
 dssqdug.cn
 dssupue.cn
@@ -30787,6 +30786,7 @@ jrpugz.cn
 jrrffeai.cn
 jrricve.cn
 jrzpofu.cn
+js.26ji.cn
 js.4hw.com.cn
 js.aiya.com.cn
 js.bjwwfx001.org.cn
@@ -56668,7 +56668,6 @@ vjhxckr.cn
 vjiciswe.cn
 vjifzk.cn
 vjiierf.cn
-vjjb.cn
 vjjjqwn.cn
 vjjoiew.cn
 vjjozzb.cn

@@ -277,7 +277,6 @@ noah.pool.mn
 nob.pool.mn
 nomadsworld.mn
 novatech.mn
-nsfund.mn
 ntm.pool.mn
 nuc.pool.mn
 numc.pool.mn
