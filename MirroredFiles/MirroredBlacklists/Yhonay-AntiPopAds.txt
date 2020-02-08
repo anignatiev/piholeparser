@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11095
+! Version: 11109
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -102,6 +102,7 @@
 ||aewzmsurtab.com^
 ||aeyjbtwdf.bid^
 ||aezeluusbdajjx.com^
+||afaeqxnbylkxp.com^
 ||afbfoxmwzlqa.com^
 ||afcxojqr.com^
 ||afdyfxfrwbfy.com^
@@ -734,6 +735,7 @@
 ||blorgkjhbhoqr.bid^
 ||blqgnbxva.com^
 ||blrdumgvqkmq.com^
+||blueioabj.com^
 ||blvqxlczxeda.com^
 ||blwfqlmhi.com^
 ||blwgtqakqaxemz.com^
@@ -1315,6 +1317,7 @@
 ||crqnosmxstdfnp.bid^
 ||crrgnnqidpf.com^
 ||crtntrvjuun.bid^
+||crupntgybilt.com^
 ||cruqmpwhczna.bid^
 ||crvvrxfgsvohiy.com^
 ||crwzxtuhvzv.com^
@@ -1464,6 +1467,7 @@
 ||czuyzjyxlgirh.bid^
 ||czvfrzvnsltwco.com^
 ||czwdzqfnmzw.bid^
+||czypiqwulod.com^
 ||czzzwuvvc.com^
 ||dabxzyfcxrdgbs.com^
 ||dacknbenn.com^
@@ -2887,6 +2891,7 @@
 ||fybrwdikdsvzt.com^
 ||fygpdajgtsqp.com^
 ||fyifssdoq.bid^
+||fyijddhpohsvj.com^
 ||fykmahfa.com^
 ||fylusiucmzdjl.com^
 ||fynprrom.com^
@@ -4241,6 +4246,7 @@
 ||iucpxetj.com^
 ||iuegjuawehd.com^
 ||iuewancpgd.bid^
+||iugwmpnszxxwti.com^
 ||iuhojiqev.com^
 ||iuhpbpzwpldqbj.com^
 ||iuhzosuy.club^
@@ -5490,6 +5496,7 @@
 ||lgnjcntegeqf.com^
 ||lgnjrjdju.bid^
 ||lgogujahrnxr.bid^
+||lgsvywogylblv.com^
 ||lgtbcaqkjo.bid^
 ||lgtiaqukf.com^
 ||lgtnwgfqkyyf.com^
@@ -6577,6 +6584,7 @@
 ||nklivofyjkbt.com^
 ||nklofbjtpfpp.bid^
 ||nklwltrpzhy.com^
+||nknxugrndmf.com^
 ||nksfmnvmngxzr.bid^
 ||nkxdyorwbt.com^
 ||nkyafqufx.com^
@@ -7890,6 +7898,7 @@
 ||qghsnamd.bid^
 ||qgiumuzmxj.com^
 ||qgjllgijf.bid^
+||qgkmjpgwg.com^
 ||qgmrchjuqro.bid^
 ||qgnakeddgtdw.com^
 ||qgnneaeagxaypp.com^
@@ -8053,6 +8062,7 @@
 ||qoyagwzholjofg.com^
 ||qpbaammdcwu.com^
 ||qpcyafunjtir.com^
+||qpdjucfqezrfcq.com^
 ||qpeczlqvv.com^
 ||qpfzpcsknvt.com^
 ||qpganepbkw.com^
@@ -8077,6 +8087,7 @@
 ||qqcjvbsd.com^
 ||qqdnhrkjtmv.bid^
 ||qqfrciwnc.bid^
+||qqgdboaq.com^
 ||qqgtevtjnpwd.com^
 ||qqipjtzgo.com^
 ||qqkxrlzaaul.com^
@@ -8390,6 +8401,7 @@
 ||rgcblgor.com^
 ||rgegqcdakbe.com^
 ||rgejlqtlr.com^
+||rgiijsfm.com^
 ||rgipgfcafnvnx.com^
 ||rgmgocplioed.com^
 ||rgsogoedxqkcz.bid^
@@ -10698,6 +10710,7 @@
 ||ydzakntxe.com^
 ||yeagdfyw.com^
 ||yebojewh.com^
+||yebpettlkcqm.com^
 ||yecxfxsbkb.com^
 ||yefttzzn.com^
 ||yenlubragf.com^
@@ -10984,6 +10997,7 @@
 ||zldijcenor.com^
 ||zlegojgwg.com^
 ||zlfgedpuxrbpgm.com^
+||zlfzeuvk.com^
 ||zlhscyahjbaq.com^
 ||zlkrsqad.com^
 ||zlmbspplqvftur.com^
