@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: v4Ox1W6BhnwXkapMB7OORQ
-! Version: 202002090021
+! Checksum: +FxlVWIIEAcL/zyuyZG5EQ
+! Version: 202002100021
 ! Title: Fanboy's Annoyance List
-! Last modified: 09 Feb 2020 00:21 UTC
+! Last modified: 10 Feb 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -734,6 +734,7 @@ _backToTop.
 /pushwooshNotification/*
 /russmediapush/*
 /scripts/onesignal.
+/sendpulse/*
 /sendsay_push_
 /sna-pushwoosh.
 /web-push-worker.
@@ -8108,6 +8109,7 @@ _site_cookie_
 ##.wordpress-fire-push-popup
 ##.ys-push
 ##amp-web-push-widget
+##div[class^="container_NotificationsBanner_"]
 ! *** easylist:fanboy-addon/fanboy_social_general_hide.txt ***
 ###AKDSocialBottom
 ###BF_BUZZBOX
@@ -24652,6 +24654,7 @@ _site_cookie_
 ###datenschutz-layer
 ###datenschutz_hinweis
 ###datenschutz_info
+###datenschutzcontainer
 ###datenschutzcoockie
 ###datenschutzhinweis
 ###datenschutzinfo
@@ -25467,6 +25470,7 @@ _site_cookie_
 ###ididitallforthecookie
 ###idwcookie
 ###ietCookiePanel
+###ifab-cookie-banner
 ###ifood_cookie
 ###iframe-wrap-netinfo-consent
 ###iframe_cookie
@@ -29384,6 +29388,7 @@ _site_cookie_
 ##.cookies-obligation-clause
 ##.cookies-open:not(body)
 ##.cookies-overlay
+##.cookies-overlay-widget
 ##.cookies-panel
 ##.cookies-policy-alert
 ##.cookies-policy-banner
@@ -32544,7 +32549,6 @@ _site_cookie_
 ||scripts.mailfire.io^$third-party
 ||scrolltotop.com^$third-party
 ||secretrune.com^$third-party
-||sendpulse.com^$third-party
 ||sendsay.ru^$third-party
 ||senzari.com^$third-party
 ||services.webklipper.com/geoip/$third-party
@@ -32776,6 +32780,7 @@ _site_cookie_
 ||redpsh.pro^$third-party
 ||sckxppzdm.com^$third-party
 ||sendmepush.com^$third-party
+||sendpulse.com^$third-party
 ||shroughtened.com^$third-party
 ||signaly.co^$third-party
 ||snrcdn.net^$third-party
@@ -42266,6 +42271,7 @@ payback.de##.stripe--fixed-bottom
 bezirk-oberbayern.de,erkrath.de,haan.de##.tracking-box-wrap
 celle.de##.tracking-msg
 autohus.de##.u-fixed
+hypovereinsbank.de##.uccb
 emma-matratze.at,emma-matratze.de##.ucn-block
 euromaxx.nu##.ui-widget-content
 anisearch.de##.urgent-msg

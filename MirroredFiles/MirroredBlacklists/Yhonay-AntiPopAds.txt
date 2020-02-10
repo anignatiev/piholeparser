@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11117
+! Version: 11131
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1746,6 +1746,7 @@
 ||doljrizlsem.bid^
 ||domdtvbhgg.com^
 ||donhyxngg.com^
+||doqapnez.com^
 ||doqjemtf.com^
 ||dosanrnlq.com^
 ||douangvwl.com^
@@ -4568,6 +4569,7 @@
 ||jkciacmcnya.com^
 ||jkcvevwvgfopog.com^
 ||jkcyrdigvx.com^
+||jkeimcstp.com^
 ||jkfgdkesrpx.bid^
 ||jkifsaeaqkupu.com^
 ||jkiicqewzn.com^
@@ -5517,6 +5519,7 @@
 ||lhfcddgwg.bid^
 ||lhhrhdlankdftk.com^
 ||lhjisbsegvxf.com^
+||lhkbqytz.com^
 ||lhltebxyuzjt.com^
 ||lhmnbgieieksdv.bid^
 ||lhnlplsj.bid^
@@ -5533,6 +5536,7 @@
 ||licoxbkagivaf.bid^
 ||liesiotlpfvjm.com^
 ||ligabklr.com^
+||lihkidwhlf.com^
 ||liilsuive.bid^
 ||lijddbusldnecz.bid^
 ||lilncsqapikckt.com^
@@ -5685,6 +5689,7 @@
 ||lpohfjht.com^
 ||lppaepra.bid^
 ||lppyumumznf.bid^
+||lpqlmevjhis.com^
 ||lpqrgmxuju.com^
 ||lprkphlgaybvtn.com^
 ||lptggobhuuxcdw.com^
@@ -7102,6 +7107,7 @@
 ||olvqbwxucv.com^
 ||olwopczjfkng.com^
 ||olxeziuke.com^
+||olzwogofebrfh.com^
 ||omakfhugexq.com^
 ||omcozngvtyox.com^
 ||ompzowzfwwfc.com^
@@ -7780,6 +7786,7 @@
 ||qamwplzcvq.com^
 ||qanzlmrnxxne.com^
 ||qapriesencloq.bid^
+||qatcmlbgiaqde.com^
 ||qatuwjyyc.com^
 ||qavqnwwlxh.bid^
 ||qawaqcurthru.com^
@@ -8190,6 +8197,7 @@
 ||qvgjqhfnbdeur.com^
 ||qvilmdus.com^
 ||qvivzreleolawc.com^
+||qvmgjhspiebe.com^
 ||qvnlejvkkicf.com^
 ||qvovzakydfvi.bid^
 ||qvqqvistxqvy.bid^
@@ -8884,6 +8892,7 @@
 ||shhngaasah.com^
 ||shhrbeffgz.com^
 ||shidvvvhi.com^
+||shiiuojjccp.com^
 ||shjmjmds.com^
 ||shjuivapg.bid^
 ||shkfrsif.com^
@@ -9956,6 +9965,7 @@
 ||unyhjoehc.com^
 ||uoapkzwkoqnk.com^
 ||uoccvsdh.com^
+||uofmnbkm.com^
 ||uohpnvpynvsz.com^
 ||uoicsyuiof.com^
 ||uoifloesog.com^
@@ -10315,6 +10325,7 @@
 ||wenpsnpqher.com^
 ||weoukcpr.com^
 ||wepyyttx.com^
+||weymsohsafjs.com^
 ||wfcvhhmumb.com^
 ||wfcxcblmy.com^
 ||wffiuoyzo.com^
@@ -10607,6 +10618,7 @@
 ||xpgcrmxejlgig.com^
 ||xpgfsxoyijt.com^
 ||xprurfeoarxz.com^
+||xpwppacpda.com^
 ||xpywzbxjwbxafv.com^
 ||xpyyrkwpcpwf.com^
 ||xqilrhnce.com^
@@ -10632,6 +10644,7 @@
 ||xskbsyssik.com^
 ||xsmafckigsdnij.com^
 ||xsmangbomdick.com^
+||xsmccuism.com^
 ||xsnfmaxicj.com^
 ||xsnqhzbiqdmqw.com^
 ||xsortxrmtpykh.com^
@@ -10641,6 +10654,7 @@
 ||xswbmktpgcwcud.com^
 ||xswezzwxh.com^
 ||xswmgpypkfbqoe.com^
+||xtbeungdpkf.com^
 ||xtccyvimdr.com^
 ||xtcfsrxmz.com^
 ||xtivbxvndnv.com^

@@ -31,3 +31,4 @@ uzstroystandart.uz
 vatanparvar.uz
 versus.uz
 vipsecuritygroup.uz
+yunusobodmdo.uz

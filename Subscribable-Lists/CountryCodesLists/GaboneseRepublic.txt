@@ -142,6 +142,7 @@ attic-bre.ga
 augtecks.ga
 augustar.ga
 autologica.ga
+automata.ga
 azerbal.ga
 b3elo0.ga
 babababy.ga
@@ -814,6 +815,7 @@ vioeioas.ga
 violation-page.ga
 vip163.ga
 visiondumonde.ga
+visudam.ga
 vk-golosa.ga
 vkantakte.ga
 vvicabcp.ga
