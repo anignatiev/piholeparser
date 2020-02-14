@@ -5,6 +5,7 @@ barteralsat.az
 bel.az
 bijuteriya.az
 dinamik.az
+eldoradorent.az
 elektrik.az
 eqs.tma.az
 etopaz.az
