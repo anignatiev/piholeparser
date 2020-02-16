@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MsGTXSP27LyrBQ5zpUCpxA
-! Version: 202002150020
+! Checksum: 2uycwpCGDgHXTUdLHQipgA
+! Version: 202002160020
 ! Title: RU AdList: BitBlock + Fanboy's General Filters
-! Last modified: 15 Feb 2020 00:20 UTC
+! Last modified: 16 Feb 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1027,7 +1027,7 @@ youla.ru##a[href][title^="Поделиться"]
 rusnext.ru##a[href^="http://www.odnoklassniki.ru/group/"]
 livecars.ru,livesport.ru##a[href^="https://share.yandex.ru/"]
 agronews.ua,animedub.ru,apostrophe.ua,app2top.ru,book-audio.com,censor.net.ua,depo.ua,game2day.ru,glavred.info,govoritmoskva.ru,livesport.ws,lrepacks.ru,maanimo.com,mk.ru,myslo.ru,overclockers.ua,pravda.com.ua,privatfinance.com,rbc.ua,rusnext.ru,segodnya.ua,softportal.com,soundpark.best,sports.kz,uz.video##a[href^="https://t.me/"]
-66.ru,tproger.ru##a[href^="tg://resolve"]
+66.ru,myanianime.ru,tproger.ru##a[href^="tg://resolve"]
 toptracker.ru##a[onclick^="content_share"]
 qiq.ws##a[onclick^="return addSoc"]
 bombardir.ru##a[title="Facebook"]:not(.auth-link)
@@ -1352,6 +1352,7 @@ _userbar_$image
 ##.cookie-wrap
 ##.cookieBox
 ##.cookie__container
+##.cookie__wrapper
 ##.cookie_banner
 ##.cookie_container
 ##.cookie_notice
@@ -11355,6 +11356,7 @@ _youtube_social_
 ##.ctv-v2-share-wrapper
 ##.cu-share-inline-mobile
 ##.cunjo-social-profiles
+##.current-article-button-facebook
 ##.currentArticleShareIcons
 ##.custom-fb-button
 ##.custom-follow-button
@@ -26104,6 +26106,7 @@ reddit.com#@#img[alt="submit to reddit"]
 @@/threejs/Particles.js$script,~third-party
 @@||adfoc.us/*/interstitial.js$~third-party
 @@||agressor.com.ua/lib/js/totop/js/jquery.ui.totop.min.js$script
+@@||akamaized.net^*/scrolltop.js$script,domain=olx.ua
 @@||amazonaws.com^*/feedback-v2.js?$domain=avgthreatlabs.com
 @@||bestof.s3.amazonaws.com/twitter.png$domain=makeuseof.com
 @@||bing.net/videos/thumbnail.aspx?$domain=bing.com
