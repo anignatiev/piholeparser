@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2uycwpCGDgHXTUdLHQipgA
-! Version: 202002160020
+! Checksum: 8hq5jKB8mOzb5pzugNiruw
+! Version: 202002170020
 ! Title: RU AdList: BitBlock + Fanboy's General Filters
-! Last modified: 16 Feb 2020 00:20 UTC
+! Last modified: 17 Feb 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -418,8 +418,10 @@ kp.ru##.all_partners
 mirtesen.ru##.app.blog-post-page .blog-post__share
 russia.ru,vz.ru##.append-other-applecations
 cheklab.ru##.art-postcontent > .buttons
+evrl.to##.art-telegram-container
 24smi.org##.article-footer
 ngs.ru,ngs22.ru,ngs24.ru,ngs38.ru,ngs42.ru,ngs55.ru,ngs70.ru##.article-informer-bar__share
+evrl.to##.article-like-mobile
 sobesednik.ru##.article-section > article ~ div > .row > .text-left > .d-none
 baby.ru##.article-sharing__socials
 volodymyrets.city##.article-slider-img-gallery-social
@@ -2467,7 +2469,7 @@ seasonvar.cc##.full-news > table:nth-of-type(2)
 moya-planeta.ru##.full_object_shop_article_recommend
 kinoservis.net##.fullstory > #blocking
 2kino-2018.club##.fx-row.blocking
-rbc.ru,sportrbc.ru##.g-banner__news-footer
+sportrbc.ru##.g-banner__news-footer
 filmpro.ru##.g-custompopup-wrapper
 iz.ru##.get_news_link
 1kr.ua##.global > .inform
@@ -10688,6 +10690,7 @@ _youtube_social_
 ##.bl_socialbox
 ##.bl_tweets
 ##.blip-follow-us
+##.blk-form-social
 ##.bloc-info-facebook
 ##.bloc-info-twitter
 ##.bloc-share
@@ -12660,6 +12663,7 @@ _youtube_social_
 ##.ft-share-icon
 ##.ft-social
 ##.ft-social-links
+##.ft-social-list
 ##.ft-tumblr
 ##.ft-twitter
 ##.ft-youtube
@@ -24645,6 +24649,7 @@ _backToTop.
 ##[data-target="#newsletter-modal"]
 ##a[title="Daily Email Newsletter"]
 ##div[class*="NewsletterSubscribe_"]
+##div[class*="newsletter-signup_"]
 ##div[class^="NewsletterForm_"]
 ##div[class^="NewsletterPopup_"]
 ##div[class^="mpp-container-position"]
@@ -25564,6 +25569,7 @@ _backToTop.
 ##div[aria-label="Scroll to top"]
 ##div[class^="BackToTop_"]
 ##div[class^="backToTop_"]
+##div[ng-click^="animateToTop"]
 ##div[onclick^="scrollToTop"]
 ##div[title="Scroll Back to Top"]
 ##div[title="Scroll To Top"]

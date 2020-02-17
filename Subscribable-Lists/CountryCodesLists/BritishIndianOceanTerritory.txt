@@ -542,7 +542,6 @@ cvs.extole.io
 cyythcss-ios.mobile-sdk-api.intercom.io
 d.admp.io
 d.adx.io
-d.likeavirgin.io
 d38dc3e7.ngrok.io
 d9cozt1o.apps.lair.io
 da.tapas.io
@@ -1628,6 +1627,7 @@ teststats.epool.io
 the-childrens-place.extole.io
 the-vitamin-shoppe.extole.io
 thecinguntes.io
+therecruiter.io
 thesufferfest.sp.backtrace.io
 thor.rtk.io
 three-jj.github.io
@@ -1663,6 +1663,7 @@ tracking.i2w.io
 travelzoo-uk.extole.io
 travelzoo.extole.io
 trello.intercom.io
+trends.nextg.io
 tribl.io
 trieste.io
 trit.luckypool.io

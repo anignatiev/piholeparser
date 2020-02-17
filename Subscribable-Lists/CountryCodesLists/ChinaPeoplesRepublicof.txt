@@ -1973,6 +1973,7 @@ apple.689681562.cn
 apple.701199825.cn
 apple.702648469.cn
 apple.799866074.cn
+apple.com.yeuan.cn
 apple.p60731134x.cn
 apple.phishing.550124673.cn
 apple.phishing.60731134x.cn
@@ -52339,6 +52340,7 @@ tekacenoz.cn
 tekafexug.cn
 tekcelif.cn
 tekir.cn
+tekni-plex.cn
 tekoralok.cn
 teksuvuj.cn
 tel-8.cn

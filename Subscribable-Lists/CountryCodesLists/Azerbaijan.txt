@@ -8,6 +8,7 @@ dinamik.az
 eldoradorent.az
 elektrik.az
 eqs.tma.az
+etigroup.az
 etopaz.az
 geleceyebirge.az
 herseybizde.az
