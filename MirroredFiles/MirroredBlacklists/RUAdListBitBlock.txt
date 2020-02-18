@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8hq5jKB8mOzb5pzugNiruw
-! Version: 202002170020
+! Checksum: ldNKd3rdGKutZ4HFNg4AVQ
+! Version: 202002180020
 ! Title: RU AdList: BitBlock + Fanboy's General Filters
-! Last modified: 17 Feb 2020 00:20 UTC
+! Last modified: 18 Feb 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1109,6 +1109,7 @@ maps.mail.ru###mm_share
 games.mail.ru##.b-footer__list:last-child > .b-footer__list__buttons
 tv.mail.ru##.b-tvshow__like
 my.mail.ru##.b-video-viral-panel__right-toolbar > div[data-share-type]
+my.mail.ru##.b-video__code-block__share-panel
 hi-tech.mail.ru#?#.cols__inner > span.text:-abp-contains(Поделиться:)
 news.mail.ru##.promo-raketa
 mail.ru##.s-chart-shares
@@ -1242,8 +1243,8 @@ _userbar_$image
 ||info/lines/$image
 ||jumpoutpopup.ru^$third-party
 ||lakiff.ru^$third-party
-||likemore-fe.go.mail.ru^$third-party,domain=~footballhd.ru|~klops.ru|~life.ru|~lifehacker.ru|~myusli.ru|~nevasport.ru|~sibnet.ru|~topwar.ru|~tut.by|~zakon.kz
-||likemore-go.imgsmail.ru^$third-party,domain=~auto.mail.ru|~footballhd.ru|~klops.ru|~life.ru|~lifehacker.ru|~myusli.ru|~nevasport.ru|~sibnet.ru|~topwar.ru|~tut.by|~zakon.kz
+||likemore-fe.go.mail.ru^$third-party,domain=~footballhd.ru|~klops.ru|~life.ru|~lifehacker.ru|~myusli.ru|~nevasport.ru|~sibnet.ru|~topwar.ru|~tut.by|~www.goha.ru|~zakon.kz
+||likemore-go.imgsmail.ru^$third-party,domain=~auto.mail.ru|~footballhd.ru|~klops.ru|~life.ru|~lifehacker.ru|~myusli.ru|~nevasport.ru|~sibnet.ru|~topwar.ru|~tut.by|~www.goha.ru|~zakon.kz
 ||line.*.$third-party
 ||log2.ru^$third-party
 ||mytopf.com^$third-party
@@ -1774,6 +1775,7 @@ _userbar_$image
 /newyear.js$domain=feo.ua|xn--e1asq.xn--p1ai
 /push.js$script,domain=mail.ru
 /wp-content/plugins/cookie-notice/$script
+|https://overclockers.ru/|$csp=script-src 'self' data: https: 'unsafe-eval'
 ||1jazz.ru/wp-content/plugins/revslider/
 ||1serial.club/rekl-registr.
 ||1tv.ru/promo_places/
@@ -2388,6 +2390,7 @@ epidemz.co##.centertext > #dle-content ~ div[style^="color"]
 cafe.imgradio.ru,chilla.imgradio.ru,deti.imgradio.ru,fresh.imgradio.ru,funk.imgradio.ru,radio.megaradio.pro,radio.ruhit.pro,retrohit.pro,rurock.imgradio.ru##.cevher
 linux-info.ru##.cfapps-welcome-bar
 cont.ws##.channels-feed-promo
+google.com##.chr-cookie-banner
 obozrevatel.com##.chrome-app-promo
 citrus.ua##.citrus-message-button
 business-gazeta.ru##.city-select
@@ -3805,6 +3808,7 @@ _push_sw.
 ||pushinstruments.com^$third-party
 ||pushkahouse.com^$third-party
 ||pushkaplus.com^$third-party
+||pushkintop.ru^$third-party
 ||pushly.com^$third-party
 ||pushmejs.com^$third-party
 ||pushnami.com^$third-party

@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20200216
+! Version: 20200217
 
 ! General element hiding rules
 ##amp-ad
@@ -970,6 +970,7 @@
 ||deloton.com/apu.php^
 ||dev.ezadsystem.com/static/js/ezad-1.0.js^
 ||dezf3o8j9jdt6.cloudfront.net/js/adop_colleapse_*.min.js^
+||dezf3o8j9jdt6.cloudfront.net/videoads/js/ads_*.min.js^
 ||dgate.*/hc.aspx^
 ||dgate.*/hciw.aspx^
 ||dianomi.com/smartads.epl^
@@ -3052,9 +3053,11 @@ hackintosh.zone##ins#aswift_3_expand
 hani.co.kr##div#a-left-scroll-in>div[style="text-align:center; padding: 0 0 25px"]
 hani.co.kr##div#laAdArea
 hani.co.kr##div.ad-300x180-area
+hani.co.kr##div.ad-banner
 hani.co.kr##div.ad_box01_area
 hani.co.kr##div.ad_box04_area
 hani.co.kr##div.ad_top
+hani.co.kr##div.article-text-font-size>div.text>div[style="width:300px;height:250px;float:left;clear:both;margin:20px 20px 0px 0px;"]
 hani.co.kr##div.text-ad2
 hani.co.kr##div.visual-ad1
 hani.co.kr##div.visual-ad2
@@ -5330,6 +5333,7 @@ slant.co##div._SummaryPageOptionAdView
 slant.co##div._SummaryPageSidebarAdView
 slant.co##div._SummaryPageSidebarStickyAdView
 slds2.tistory.com##div.entry>table[border="0"][style="margin:0 0 0 100px;"][width="100%"]
+slist.kr##body>div[style="width:100%;position:fixed;bottom:5px;z-index:10000000;"]
 slrclub.com##div#ad1
 slrclub.com##div#ad_sk
 slrclub.com##div#brand-mall

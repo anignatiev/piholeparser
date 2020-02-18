@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11259
+! Version: 11271
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -763,6 +763,7 @@
 ||bmoshyiypks.com^
 ||bmsmhlpkdvajeo.bid^
 ||bmvhefgdlt.bid^
+||bmvjnewxkyi.com^
 ||bmwocmqtpi.com^
 ||bmxufcsmxcfwao.bid^
 ||bmxyvebkmyy.com^
@@ -1158,6 +1159,7 @@
 ||cipohwidxc.com^
 ||cisfjtamphuqt.com^
 ||cistcrrhqfm.bid^
+||ciusqhujddbggb.com^
 ||civyssfaqtufib.com^
 ||ciwbezny.com^
 ||cixjiydrsyq.bid^
@@ -3134,6 +3136,7 @@
 ||gkmaclyrj.bid^
 ||gkpsrxgdbco.com^
 ||gkqcduzwla.com^
+||gkrvcunjoacvc.com^
 ||gkrvjofbhdvo.bid^
 ||gkumodsmcmffdv.com^
 ||gkvegijnhienmq.bid^
@@ -3552,6 +3555,7 @@
 ||hgirriqj.bid^
 ||hgowmgat.com^
 ||hgqmkbpvmyn.bid^
+||hgtdroan.com^
 ||hgukeujwsfgwrq.com^
 ||hgzopbyhidre.com^
 ||hgztvnjbsrki.com^
@@ -4067,6 +4071,7 @@
 ||iialqejeka.com^
 ||iiblzgczrrdiqf.bid^
 ||iiccrpwaxmxkqm.com^
+||iidfyyelvijfk.com^
 ||iihwyqhxajtn.com^
 ||iijmodcvlwfk.com^
 ||iikhhkwryiqq.bid^
@@ -5512,6 +5517,7 @@
 ||lebqrivt.com^
 ||lebskmaewbhm.bid^
 ||lediyxobgmrgeb.com^
+||ledqfvbihsgs.com^
 ||ledsdwwmhapz.com^
 ||ledvqaldtf.com^
 ||lehfzuosurakj.com^
@@ -6501,6 +6507,7 @@
 ||nbfvybpkasjs.com^
 ||nbhbqvfcsds.com^
 ||nbhubocsduzn.com^
+||nbijjhqnzcwr.com^
 ||nbkcuewy.com^
 ||nbmffortfyyg.com^
 ||nbnhhwnjbkdmfi.com^
@@ -10301,6 +10308,7 @@
 ||vowqesvqjwxc.com^
 ||voxnrvzwy.com^
 ||vpfadnueru.com^
+||vpfcvagfrmy.com^
 ||vpgwdlayctn.com^
 ||vpjtrmeyq.com^
 ||vplvywqxsm.com^
@@ -10333,6 +10341,7 @@
 ||vsstaewjpqcymx.com^
 ||vsupeokq.com^
 ||vswvbbegnyxxx.com^
+||vsyqexksz.com^
 ||vtbyvtmabpclx.com^
 ||vtcxhnri.com^
 ||vtemaaftwexu.com^
@@ -10939,6 +10948,7 @@
 ||ypksjcnrsett.com^
 ||ypmwkketrdbwn.com^
 ||ypnespepnln.com^
+||ypolukuxt.com^
 ||yppxexinajadu.com^
 ||yprnopqzs.com^
 ||yptwqjdgikmcqc.com^
@@ -10965,6 +10975,7 @@
 ||yrtyflmurngv.com^
 ||ysaloykchjyxg.com^
 ||ysgeuarbxfttib.com^
+||yslvynerwkdls.com^
 ||ysmbdnavqsbcl.com^
 ||ysosfhyrbyre.com^
 ||ysqhjwanlbhmt.com^
@@ -11033,6 +11044,7 @@
 ||yywctdppuncv.com^
 ||yyxntcpxxvtpuk.com^
 ||yyyghfmjkz.com^
+||yyywwbpkf.com^
 ||yzesxnzfhyy.com^
 ||yzetmrsww.com^
 ||yzexonvknhw.com^
