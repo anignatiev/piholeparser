@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mRSkbaXo28SKqGB1WZjs0g
-! Version: 202002160020
+! Checksum: 46TeD4YnY18CfqqOdcs8mQ
+! Version: 202002190030
 ! Title: RU AdList: Counters
-! Last modified: 16 Feb 2020 00:20 UTC
+! Last modified: 19 Feb 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -252,6 +252,7 @@ _pagespeed_beacon?
 ||adblockmetrics.ru^$third-party
 ||addthis.com^*.gif?*&CXNID=
 ||adlog.com.com^
+||admetric.io^$third-party
 ||adone.ru/cntr/
 ||adsymptotic.com^$third-party
 ||adx.com.ru^$third-party
